@@ -1,0 +1,3 @@
+El archivo `playlists.json` es un archivo de datos y no contiene código Python. Este archivo se generará y llenará con datos a medida que se ejecute la aplicación. Inicialmente, este archivo puede estar vacío o no existir hasta que se ejecute la aplicación por primera vez.
+
+Por lo tanto, no hay código para proporcionar para este archivo en particular. Cuando la aplicación se ejecute y procese una playlist de YouTube, este archivo se llenará con la estructura de datos JSON correspondiente.
