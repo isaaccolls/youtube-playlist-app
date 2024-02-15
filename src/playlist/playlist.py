@@ -14,7 +14,7 @@ class Playlist:
         self.json_creator = JsonCreator(self.playlist_info)
         self.filename = "./data/" + self.playlist_id + "_playlist.json"
         self.download_path = "./downloads"
-        self.downloader = Downloader(self.download_path)
+        self.downloader = Downloader(self.api_key, self.download_path)
 
     def process(self):
         self.json_creator.create_json(self.filename)
