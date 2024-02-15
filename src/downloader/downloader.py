@@ -52,7 +52,8 @@ class Downloader:
                 img_data = img_file.read()
             audiofile.tag.images.set(3, img_data, "image/jpeg")
             audiofile.tag.save()
-            # Remove the mp4 file
+            # Remove the mp4 file and the thumbnail
             os.remove(mp4_filename)
+            os.remove(thumbnail_filename)
         except HTTPError:
             print(f"Video {video_id} is not available.")
