@@ -1,5 +1,6 @@
 import os
 import eyed3
+import requests
 from pytube import YouTube
 from urllib.error import HTTPError
 from moviepy.editor import AudioFileClip
@@ -41,6 +42,15 @@ class Downloader:
             audiofile.tag.album = yt.title
             audiofile.tag.title = title
             audiofile.tag.comments.set(description)
+            # Download thumbnail
+            response = requests.get(yt.thumbnail_url)
+            thumbnail_filename = "thumbnail.jpg"
+            with open(thumbnail_filename, "wb") as file:
+                file.write(response.content)
+            # Add thumbnail as album cover
+            with open(thumbnail_filename, "rb") as img_file:
+                img_data = img_file.read()
+            audiofile.tag.images.set(3, img_data, "image/jpeg")
             audiofile.tag.save()
             # Remove the mp4 file
             os.remove(mp4_filename)
