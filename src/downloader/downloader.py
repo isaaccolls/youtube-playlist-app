@@ -35,7 +35,8 @@ class Downloader:
                 return default_album
         except Exception as e:
             print(f"Error: {e}")
-            return default_album
+            error_album = "error_unknown_album"
+            return error_album
 
     def download_audio(self, video_id, title, description):
         url = f"https://www.youtube.com/watch?v={video_id}"
