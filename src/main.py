@@ -11,7 +11,7 @@ def process_playlist(api_key, playlist_id):
     # Crear una instancia de JsonCreator
     json_creator = JsonCreator(playlist_info)
     # Crear el archivo JSON con la información de la playlist
-    filename = "./data/playlists.json"
+    filename = "./data/" + playlist_id + "_playlist.json"
     json_creator.create_json(filename)
     # Crear una instancia de Downloader
     download_path = "./downloads"
