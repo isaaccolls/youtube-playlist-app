@@ -37,6 +37,8 @@ class Downloader:
             audioclip.write_audiofile(mp3_filename)
             # Add ID3 tags
             audiofile = eyed3.load(mp3_filename)
+            audiofile.tag.artist = yt.author
+            audiofile.tag.album = yt.title
             audiofile.tag.title = title
             audiofile.tag.comments.set(description)
             audiofile.tag.save()
