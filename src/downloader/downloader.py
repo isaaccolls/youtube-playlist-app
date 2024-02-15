@@ -25,13 +25,14 @@ class Downloader:
         url = f"https://www.youtube.com/watch?v={video_id}"
         audio_download_path = self.download_path + "/mp3"
         try:
-            print(f"Downloading audio: {title}")
             yt = YouTube(url)
+            log_text = f"Downloading title: {title} - author:{yt.author} - album: {yt.title}"
+            print(log_text)
             stream = yt.streams.get_audio_only()
             filename = stream.default_filename
             mp4_filename = os.path.join(audio_download_path, filename)
             mp3_filename = os.path.join(
-                audio_download_path, filename.rsplit(".", 1)[0] + ".mp3")
+                audio_download_path, f"{yt.author}-{yt.title}-{title}.mp3")
             stream.download(audio_download_path, filename=filename)
             # Convert mp4 to mp3
             audioclip = AudioFileClip(mp4_filename)
