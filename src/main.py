@@ -1,14 +1,12 @@
-from dotenv import load_dotenv
-import os
 from playlist.playlist import Playlist
 from constants import playlists
 
 
 def main():
-    load_dotenv()
-    api_key = os.getenv('YOUTUBE_API_KEY')
-    for playlist in playlists:
-        Playlist(api_key, playlist).process()
+    print(f'🚀 here we go!')
+    for playlist_id in playlists:
+        Playlist(playlist_id).process()
+    print(f'✅ done!')
 
 
 if __name__ == "__main__":
