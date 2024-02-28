@@ -41,4 +41,6 @@ class YoutubeAPI:
                 # OFFICIAL_SOURCE_MUSIC: Official video content, but not for a single track
                 'vide_type': content['videoType']
             })
+        items = sorted(items, key=lambda x: (
+            x['artist'], x['album'], x['title']))
         return items

@@ -1,92 +1,11 @@
 [
     {
-        "video_id": "ZAr9EGEpQTc",
-        "video_url": "https://www.youtube.com/watch?v=ZAr9EGEpQTc",
-        "title": "Corriendo Con Tijeras",
-        "thumbnail_url": "https://lh3.googleusercontent.com/9DTeFfS6SaQ6Gs3VTscJuy1Whpwh60eSoSWGU_OlqIQBioIb4xOGjO0m-Cfj2ht_U8piBouNru1IU8q1=w120-h120-l90-rj",
-        "artist": "Lasso",
-        "album": "Corriendo Con Tijeras",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "TdXACGUQZ-Q",
-        "video_url": "https://www.youtube.com/watch?v=TdXACGUQZ-Q",
-        "title": "NI VIVO NI MUERTO",
-        "thumbnail_url": "https://lh3.googleusercontent.com/v2FZc31Unnr2Le-83huUexRxgWIYIUfpJZmxb1sLqKmRhnwvptVVJehq_0qyyBotzchn_Rj0OsG0MB0k=w120-h120-l90-rj",
-        "artist": "Micro TDH & Lasso",
-        "album": "NUEVE",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "98nYBgXGRoY",
-        "video_url": "https://www.youtube.com/watch?v=98nYBgXGRoY",
-        "title": "Subt\u00edtulos",
-        "thumbnail_url": "https://lh3.googleusercontent.com/Ir3vfXiodvoftORhS0p8gdQjJPh6foqtLxl2ZyTEoPljSoGq-3HqdNEgRe7qO69at6_YLAlFWUeyXKsC=w120-h120-l90-rj",
-        "artist": "Lasso & Danna Paola",
-        "album": "Cuatro Estaciones",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "UJ1TCr3r2k8",
-        "video_url": "https://www.youtube.com/watch?v=UJ1TCr3r2k8",
-        "title": "Hasta Ese D\u00eda",
-        "thumbnail_url": "https://lh3.googleusercontent.com/Ir3vfXiodvoftORhS0p8gdQjJPh6foqtLxl2ZyTEoPljSoGq-3HqdNEgRe7qO69at6_YLAlFWUeyXKsC=w120-h120-l90-rj",
-        "artist": "Lasso",
-        "album": "Cuatro Estaciones",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "r6FMw9Nw2CI",
-        "video_url": "https://www.youtube.com/watch?v=r6FMw9Nw2CI",
-        "title": "Ojos Marrones (Remix)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/hcTuUmhCcDH31aKunPYRmTKBwjye4CluKrVo_5dx3ZrWZ3q6psxoOaNbkjpcbSEa_dqzZ-VlYXvO0GRO=w120-h120-l90-rj",
-        "artist": "Lasso & Sebasti\u00e1n Yatra",
-        "album": "Mix de Octubre",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "6Pkw_7uW2ng",
-        "video_url": "https://www.youtube.com/watch?v=6Pkw_7uW2ng",
-        "title": "Ojos Marrones",
-        "thumbnail_url": "https://lh3.googleusercontent.com/O0J3qXgZFQHDLHDbSN78NF3bxCeK_Y2NfUjhTUJTNfVKkic7Lmde9rubBI-Pbm2oQLkDAGakukVnpl0=w120-h120-l90-rj",
-        "artist": "Lasso",
-        "album": "Ojos Marrones",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "NEnTIR6t5kA",
-        "video_url": "https://www.youtube.com/watch?v=NEnTIR6t5kA",
-        "title": "Un Mill\u00f3n Como T\u00fa",
-        "thumbnail_url": "https://lh3.googleusercontent.com/Bg84zKp324YKkjyJasMCVOhjbeqvnH2fS0EYRvanVqRXTlBQk6NO_o41ziTK1RroCr0mC4jKP95B-aOm=w120-h120-l90-rj",
-        "artist": "Lasso & Cami",
-        "album": "Un Mill\u00f3n Como T\u00fa",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "Mil1aBkSvho",
-        "video_url": "https://www.youtube.com/watch?v=Mil1aBkSvho",
-        "title": "Odio Que No Te Odio",
-        "thumbnail_url": "https://lh3.googleusercontent.com/RAS7Ex9HuUv97dS2zB6Nc2Nyn0WpKTsm6oVthj5mO1IWCOhOZfbGh9rA3dmU0LAEsLNeqYyHxIbHCgcQ=w120-h120-l90-rj",
-        "artist": "Lasso & Cami",
-        "album": "Odio Que No Te Odio",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "jDVGSXE0fEA",
-        "video_url": "https://www.youtube.com/watch?v=jDVGSXE0fEA",
-        "title": "Todo de Ti",
-        "thumbnail_url": "https://lh3.googleusercontent.com/PGZvpR1LqIYvJd9g_CB0n_3EDumnPAA4kDo7vUqLhQ5vkrwwaNsEkc6jnsmx-ZwPenhnDmNq3Tvt_urCiA=w120-h120-l90-rj",
-        "artist": "Rauw Alejandro",
-        "album": "VICE VERSA",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "jeHuHB7Oazg",
-        "video_url": "https://www.youtube.com/watch?v=jeHuHB7Oazg",
-        "title": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/VGT60AOM3LMvc4b7os8_6ILCl12oQoVJ3HuKY153K4bfIbbYRloz8pXnN0P3OAFsn0ZH_plz5tBvQi5LKw=w120-h120-l90-rj",
-        "artist": "Lasso & Sebasti\u00e1n Yatra",
-        "album": "Ojos Marrones",
+        "video_id": "-v4GQQrU_qw",
+        "video_url": "https://www.youtube.com/watch?v=-v4GQQrU_qw",
+        "title": "DON'T YOU WORRY",
+        "thumbnail_url": "https://lh3.googleusercontent.com/m6kgRvgrCyaRF9YlXq21pMn8wUg8RHQAyVErzAc1r3GMZrUVIeY5SzTV0sB7XkfdvRvgde-goh0X128r=w120-h120-l90-rj",
+        "artist": "Black Eyed Peas, Shakira & David Guetta",
+        "album": "DON'T YOU WORRY",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -117,12 +36,93 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "-v4GQQrU_qw",
-        "video_url": "https://www.youtube.com/watch?v=-v4GQQrU_qw",
-        "title": "DON'T YOU WORRY",
-        "thumbnail_url": "https://lh3.googleusercontent.com/m6kgRvgrCyaRF9YlXq21pMn8wUg8RHQAyVErzAc1r3GMZrUVIeY5SzTV0sB7XkfdvRvgde-goh0X128r=w120-h120-l90-rj",
-        "artist": "Black Eyed Peas, Shakira & David Guetta",
-        "album": "DON'T YOU WORRY",
+        "video_id": "ZAr9EGEpQTc",
+        "video_url": "https://www.youtube.com/watch?v=ZAr9EGEpQTc",
+        "title": "Corriendo Con Tijeras",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9DTeFfS6SaQ6Gs3VTscJuy1Whpwh60eSoSWGU_OlqIQBioIb4xOGjO0m-Cfj2ht_U8piBouNru1IU8q1=w120-h120-l90-rj",
+        "artist": "Lasso",
+        "album": "Corriendo Con Tijeras",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UJ1TCr3r2k8",
+        "video_url": "https://www.youtube.com/watch?v=UJ1TCr3r2k8",
+        "title": "Hasta Ese D\u00eda",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ir3vfXiodvoftORhS0p8gdQjJPh6foqtLxl2ZyTEoPljSoGq-3HqdNEgRe7qO69at6_YLAlFWUeyXKsC=w120-h120-l90-rj",
+        "artist": "Lasso",
+        "album": "Cuatro Estaciones",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6Pkw_7uW2ng",
+        "video_url": "https://www.youtube.com/watch?v=6Pkw_7uW2ng",
+        "title": "Ojos Marrones",
+        "thumbnail_url": "https://lh3.googleusercontent.com/O0J3qXgZFQHDLHDbSN78NF3bxCeK_Y2NfUjhTUJTNfVKkic7Lmde9rubBI-Pbm2oQLkDAGakukVnpl0=w120-h120-l90-rj",
+        "artist": "Lasso",
+        "album": "Ojos Marrones",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Mil1aBkSvho",
+        "video_url": "https://www.youtube.com/watch?v=Mil1aBkSvho",
+        "title": "Odio Que No Te Odio",
+        "thumbnail_url": "https://lh3.googleusercontent.com/RAS7Ex9HuUv97dS2zB6Nc2Nyn0WpKTsm6oVthj5mO1IWCOhOZfbGh9rA3dmU0LAEsLNeqYyHxIbHCgcQ=w120-h120-l90-rj",
+        "artist": "Lasso & Cami",
+        "album": "Odio Que No Te Odio",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "NEnTIR6t5kA",
+        "video_url": "https://www.youtube.com/watch?v=NEnTIR6t5kA",
+        "title": "Un Mill\u00f3n Como T\u00fa",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Bg84zKp324YKkjyJasMCVOhjbeqvnH2fS0EYRvanVqRXTlBQk6NO_o41ziTK1RroCr0mC4jKP95B-aOm=w120-h120-l90-rj",
+        "artist": "Lasso & Cami",
+        "album": "Un Mill\u00f3n Como T\u00fa",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "98nYBgXGRoY",
+        "video_url": "https://www.youtube.com/watch?v=98nYBgXGRoY",
+        "title": "Subt\u00edtulos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ir3vfXiodvoftORhS0p8gdQjJPh6foqtLxl2ZyTEoPljSoGq-3HqdNEgRe7qO69at6_YLAlFWUeyXKsC=w120-h120-l90-rj",
+        "artist": "Lasso & Danna Paola",
+        "album": "Cuatro Estaciones",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "r6FMw9Nw2CI",
+        "video_url": "https://www.youtube.com/watch?v=r6FMw9Nw2CI",
+        "title": "Ojos Marrones (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hcTuUmhCcDH31aKunPYRmTKBwjye4CluKrVo_5dx3ZrWZ3q6psxoOaNbkjpcbSEa_dqzZ-VlYXvO0GRO=w120-h120-l90-rj",
+        "artist": "Lasso & Sebasti\u00e1n Yatra",
+        "album": "Mix de Octubre",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jeHuHB7Oazg",
+        "video_url": "https://www.youtube.com/watch?v=jeHuHB7Oazg",
+        "title": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VGT60AOM3LMvc4b7os8_6ILCl12oQoVJ3HuKY153K4bfIbbYRloz8pXnN0P3OAFsn0ZH_plz5tBvQi5LKw=w120-h120-l90-rj",
+        "artist": "Lasso & Sebasti\u00e1n Yatra",
+        "album": "Ojos Marrones",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TdXACGUQZ-Q",
+        "video_url": "https://www.youtube.com/watch?v=TdXACGUQZ-Q",
+        "title": "NI VIVO NI MUERTO",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v2FZc31Unnr2Le-83huUexRxgWIYIUfpJZmxb1sLqKmRhnwvptVVJehq_0qyyBotzchn_Rj0OsG0MB0k=w120-h120-l90-rj",
+        "artist": "Micro TDH & Lasso",
+        "album": "NUEVE",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jDVGSXE0fEA",
+        "video_url": "https://www.youtube.com/watch?v=jDVGSXE0fEA",
+        "title": "Todo de Ti",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PGZvpR1LqIYvJd9g_CB0n_3EDumnPAA4kDo7vUqLhQ5vkrwwaNsEkc6jnsmx-ZwPenhnDmNq3Tvt_urCiA=w120-h120-l90-rj",
+        "artist": "Rauw Alejandro",
+        "album": "VICE VERSA",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
