@@ -27,6 +27,15 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ylA9rOmVoP0",
+        "video_url": "https://www.youtube.com/watch?v=ylA9rOmVoP0",
+        "title": "Without You (feat. Usher)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/LSMdyd7T2RNpZw2iCkWju-mdr2ba9u13e1bFoFcUgE4xA1JImWjGNhC3tW7EWGNx0U428BPxiTYuCdJJVw=w120-h120-l90-rj",
+        "artist": "David Guetta",
+        "album": "Nothing but the Beat Ultimate",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sP8YOzk0dX4",
         "video_url": "https://www.youtube.com/watch?v=sP8YOzk0dX4",
         "title": "On My Mind",
@@ -105,6 +114,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/ibr3kIq-mOUKn6xdagTi3BtNTQsyF4REHL4qbba7Z8TJNXj9OwFwnSMThqx4TvDqhts4E3MXtWCXeMVs=w120-h120-l90-rj",
         "artist": "Skream & Example",
         "album": "Playing In the Shadows (Bonus Track Version)",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CpTr4USXjQw",
+        "video_url": "https://www.youtube.com/watch?v=CpTr4USXjQw",
+        "title": "Don't Let Me Down (feat. Daya)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jvgMIjgbvnqnwLwjtqNa0euo9WStdIxrJnpQURgbwuPazT2OpZUdYPZe1gss2fK39oC8ITofFmeGxKY=w120-h120-l90-rj",
+        "artist": "The Chainsmokers",
+        "album": "Collage",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
