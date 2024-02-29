@@ -1,11 +1,29 @@
 [
     {
+        "video_id": "wDuoOapZ9Z0",
+        "video_url": "https://www.youtube.com/watch?v=wDuoOapZ9Z0",
+        "title": "Levels",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bsPieoSMF402F_05hHOq7FITGDPllsNcBnjPE0WUi6T2a4A130z6qqjJLCEV10kE1pCSGBxKt0Bdgfkc=w120-h120-l90-rj",
+        "artist": "Avicii",
+        "album": "Levels",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Y4MUd4hg_54",
         "video_url": "https://www.youtube.com/watch?v=Y4MUd4hg_54",
         "title": "Candyman",
         "thumbnail_url": "https://lh3.googleusercontent.com/eSfGXsTor26lBfW4PbdzoRvZYC2b8jzMuwldw6pVXh6okes7ANhnsA5hRpgIQXrMHP-g7AGrTRnBeptS8g=w120-h120-l90-rj",
         "artist": "Boris S.",
         "album": "Best of 15 years Boris S.",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "rJ0D1GbDq1Q",
+        "video_url": "https://www.youtube.com/watch?v=rJ0D1GbDq1Q",
+        "title": "Let Me Love You (feat. Justin Bieber)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hChcdJkpKRDaaowWQhFxc4ZK7_jcDqQydpG8NUXbyPQUxMNYzpgLhVdU-csAFhcGhi-mYPiFZGR3cQmK=w120-h120-l90-rj",
+        "artist": "DJ Snake",
+        "album": "Encore",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -18,12 +36,39 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "aDPkAK5s30I",
+        "video_url": "https://www.youtube.com/watch?v=aDPkAK5s30I",
+        "title": "Firestone",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hExAktqrfYUXg8_siVKsk4u0lZnrze_n1WoV-8nOXZFMj_EzFrJX8rN6v4GAWFiWvbHGrr5P1jayvOI=w120-h120-l90-rj",
+        "artist": "Kygo",
+        "album": "Cloud Nine",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "NPDQYPL3uWw",
         "video_url": "https://www.youtube.com/watch?v=NPDQYPL3uWw",
         "title": "Everyday",
         "thumbnail_url": "https://lh3.googleusercontent.com/_vIfBv2hP5qy0iLMGBu702gN6Oxw1keml_BsAeD5hR7iLmEWfSmQEyG3CUpARdq1kUUDW8ENLG6fCHce=w120-h120-l90-rj",
         "artist": "Logic & Marshmello",
         "album": "Everyday",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "96L5sV7rqX0",
+        "video_url": "https://www.youtube.com/watch?v=96L5sV7rqX0",
+        "title": "Can't Hold Us (feat. Ray Dalton)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ond7bzyvLRgppE6e31TdY8T3R1JDC5dZOdPZjb1cPoB49HDwhoZknvgkFAFvO2YISdg8UQjcs9bK9UQ5=w120-h120-l90-rj",
+        "artist": "Macklemore & Ryan Lewis",
+        "album": "The Heist",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "llBfELHME-U",
+        "video_url": "https://www.youtube.com/watch?v=llBfELHME-U",
+        "title": "I Took A Pill In Ibiza (Seeb Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fzeAsR2A2sf-oOscOX5ScF_LCKqffkV9dheZhXikvljom7CsHXXkgfy9ifo4wf27vThSjPK3-uMzd6xY=w120-h120-l90-rj",
+        "artist": "Mike Posner",
+        "album": "Summer Anthems",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

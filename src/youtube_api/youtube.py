@@ -10,7 +10,7 @@ class YoutubeAPI:
         print(f'👉 get metadata for: {playlist_id}')
         items = []
         try:
-            playlist = self.ytmusic.get_playlist(playlist_id)
+            playlist = self.ytmusic.get_playlist(playlist_id, 5000)
             print(f'☝️ get metadata for: {playlist["title"]}')
         except KeyError as e:
             if retries > 0:

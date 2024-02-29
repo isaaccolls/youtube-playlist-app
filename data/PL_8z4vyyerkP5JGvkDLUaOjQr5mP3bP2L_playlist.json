@@ -360,6 +360,15 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "4fw47otG-3U",
+        "video_url": "https://www.youtube.com/watch?v=4fw47otG-3U",
+        "title": "Verde, Amarillo Y Rojo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/i0xMn8uY7BgkkndVZ1lg65FSNDh6kA-a0KFd9InSo-qgL_0IZZhXWaxsfiGKnMPBP7EbUuSis18HhHE=w120-h120-l90-rj",
+        "artist": "Gondwana",
+        "album": "Alabanza",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7rcptiU9YW4",
         "video_url": "https://www.youtube.com/watch?v=7rcptiU9YW4",
         "title": "La fuma (feat. Ojos chinos LC)",
@@ -369,12 +378,30 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "jOv8D46ilSQ",
+        "video_url": "https://www.youtube.com/watch?v=jOv8D46ilSQ",
+        "title": "Aire",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SUpCvp8g0GHGdWdWkowL5zAuAZoKxb4-5N7oXj1VO1QmNcotTllJWN904zsqOiWbfWpvbg7AVUrXFho=w120-h120-l90-rj",
+        "artist": "Los Cafres",
+        "album": "Espejitos",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "MFgbKv_ieZU",
         "video_url": "https://www.youtube.com/watch?v=MFgbKv_ieZU",
         "title": "Me Late",
         "thumbnail_url": "https://lh3.googleusercontent.com/AvjYaAVI2ZCbymxIV0fbJBazHlzhVYrivPYafG-MS35VdzYaxUl5xaqiQzBmHN4IY-P6ECEtNzs-Nol2Vg=w120-h120-l90-rj",
         "artist": "Los Pericos",
         "album": "Big Yuyo",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zqHzr_8dSaw",
+        "video_url": "https://www.youtube.com/watch?v=zqHzr_8dSaw",
+        "title": "Sin Cadenas",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qx3weW3Krv9KaGG2qWLkNrUqGqTkVQv4A5x-CGHw6PvqUpYlh86aPifBRl12pfluBqyRiPx-gejhbK2c_g=w120-h120-l90-rj",
+        "artist": "Los Pericos",
+        "album": "Mystic Love",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

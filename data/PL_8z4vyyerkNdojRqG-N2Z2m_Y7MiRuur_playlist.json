@@ -108,12 +108,30 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "3WzamI8QD2s",
+        "video_url": "https://www.youtube.com/watch?v=3WzamI8QD2s",
+        "title": "Rude",
+        "thumbnail_url": "https://lh3.googleusercontent.com/a-H-DATHq83Mn4N5MkCtiCYfTzL_TNPuDfVNwaTpRx0d-iqVCRZu_LBsKVFmHxRLujYw6VOg_Mgy3JHI=w120-h120-l90-rj",
+        "artist": "MAGIC!",
+        "album": "Don't Kill the Magic",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "TdXACGUQZ-Q",
         "video_url": "https://www.youtube.com/watch?v=TdXACGUQZ-Q",
         "title": "NI VIVO NI MUERTO",
         "thumbnail_url": "https://lh3.googleusercontent.com/v2FZc31Unnr2Le-83huUexRxgWIYIUfpJZmxb1sLqKmRhnwvptVVJehq_0qyyBotzchn_Rj0OsG0MB0k=w120-h120-l90-rj",
         "artist": "Micro TDH & Lasso",
         "album": "NUEVE",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0YYWgKTgAQw",
+        "video_url": "https://www.youtube.com/watch?v=0YYWgKTgAQw",
+        "title": "Feel This Moment (feat. Christina Aguilera)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/APWFDkXKjxkgvk3IP_uOrocW69Q37UfSm3Vd1s2gOI-ko6L9gJpqep5NggIEuqcuS6BxZzfIpN57SlTG=w120-h120-s-l90-rj",
+        "artist": "Pitbull",
+        "album": "Global Warming (Deluxe Version)",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
