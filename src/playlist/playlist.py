@@ -13,12 +13,11 @@ class Playlist:
         json_creator = JsonCreator(playlist_info)
         filename = "./data/" + self.playlist_id + "_playlist.json"
         json_creator.create_json(filename)
-        # download_path = "./downloads"
-        # self.downloader = Downloader(self.api_key, self.download_path)
-        #
-        # for item in self.playlist_info:
-        #     if item['type'] == 'song':
-        #         self.downloader.download_audio(
-        #             item['video_id'], item['title'], item['description'])
-        #     elif item['type'] == 'video':
-        #         self.downloader.download_video(item['video_id'])
+        download_path = "./downloads"
+        downloader = Downloader(download_path)
+        for item in playlist_info:
+            if item['vide_type'] == 'MUSIC_VIDEO_TYPE_ATV':
+                downloader.download_audio(
+                    item['video_id'], item['video_url'], item['title'], item['thumbnail_url'], item['artist'], item['album'])
+            else:
+                downloader.download_video(item['video_id'], item['video_url'])

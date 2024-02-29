@@ -21,6 +21,7 @@ class YoutubeAPI:
                 print(f'🥺 Error: {e}. No more retry.')
                 return items
         for content in playlist['tracks']:
+            # to do: fix videoId is None when videos type
             video_id = content['videoId']
             thumbnail_url = content['thumbnails'][1]['url'] if len(
                 content['thumbnails']) > 1 else content['thumbnails'][0]['url']
