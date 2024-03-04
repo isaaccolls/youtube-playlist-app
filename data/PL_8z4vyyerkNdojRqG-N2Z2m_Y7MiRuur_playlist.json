@@ -36,6 +36,42 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ZqYGW8uXL0I",
+        "video_url": "https://www.youtube.com/watch?v=ZqYGW8uXL0I",
+        "title": "New Rules",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DAMVezymoY4RlzZWQiddgnKVZ-BxHF4_GdHEn7nz4YDUD_dZA2ndqsoAFpjJ9vAccsTYsRNacdzingE=w120-h120-l90-rj",
+        "artist": "Dua Lipa",
+        "album": "Dua Lipa (Deluxe)",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9ssQKlLxBdQ",
+        "video_url": "https://www.youtube.com/watch?v=9ssQKlLxBdQ",
+        "title": "Thunder",
+        "thumbnail_url": "https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w120-h120-l90-rj",
+        "artist": "Imagine Dragons",
+        "album": "Evolve",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "MuOIhOwrGFk",
+        "video_url": "https://www.youtube.com/watch?v=MuOIhOwrGFk",
+        "title": "MIENTRAS ME CURO DEL CORA",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ao6HZJhSwmVZJ2TzgOtqLQ1j1iEKshnw5SA9G8aMwCpy-rNqE5UYFwVrSEEFt5nNOtPayoNJA4e20S9LmA=w120-h120-l90-rj",
+        "artist": "KAROL G",
+        "album": "MA\u00d1ANA SER\u00c1 BONITO",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6nJuUdc2qNg",
+        "video_url": "https://www.youtube.com/watch?v=6nJuUdc2qNg",
+        "title": "Roar",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rK_0RWon3UaVXylUo66duU3atE3QW81S-hY0QYvojnpBTtos_bLKwRRek1QnXkc75-ltfORlmd4zhxdyQQ=w120-h120-l90-rj",
+        "artist": "Katy Perry",
+        "album": "PRISM (Deluxe)",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ZAr9EGEpQTc",
         "video_url": "https://www.youtube.com/watch?v=ZAr9EGEpQTc",
         "title": "Corriendo Con Tijeras",
@@ -117,12 +153,30 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "XDbW5bXrm7I",
+        "video_url": "https://www.youtube.com/watch?v=XDbW5bXrm7I",
+        "title": "Girls Like You (Cardi B Version) (feat. Cardi B)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ukH2eUwVN4dgJR_xTGjFuPUp0NkLnUINgEBHDGglldxDEor4GAXiC_Ssln8x6-BBsnjsu-hH149u_ao=w120-h120-l90-rj",
+        "artist": "Maroon 5",
+        "album": "Red Pill Blues",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "TdXACGUQZ-Q",
         "video_url": "https://www.youtube.com/watch?v=TdXACGUQZ-Q",
         "title": "NI VIVO NI MUERTO",
         "thumbnail_url": "https://lh3.googleusercontent.com/v2FZc31Unnr2Le-83huUexRxgWIYIUfpJZmxb1sLqKmRhnwvptVVJehq_0qyyBotzchn_Rj0OsG0MB0k=w120-h120-l90-rj",
         "artist": "Micro TDH & Lasso",
         "album": "NUEVE",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BkSSOGNeWTM",
+        "video_url": "https://www.youtube.com/watch?v=BkSSOGNeWTM",
+        "title": "Flowers",
+        "thumbnail_url": "https://lh3.googleusercontent.com/umJNTu_qH_THEHP4XsOb4bMCjKn1nka4c8iz8Vs791pB5aroCWwq4aHC9ds5kCnONrgNUPgPadWnecak=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "album": "Flowers",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -141,6 +195,51 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/PGZvpR1LqIYvJd9g_CB0n_3EDumnPAA4kDo7vUqLhQ5vkrwwaNsEkc6jnsmx-ZwPenhnDmNq3Tvt_urCiA=w120-h120-l90-rj",
         "artist": "Rauw Alejandro",
         "album": "VICE VERSA",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0Egc7qG6POA",
+        "video_url": "https://www.youtube.com/watch?v=0Egc7qG6POA",
+        "title": "Todo De Ti",
+        "thumbnail_url": "https://lh3.googleusercontent.com/C7_AWRi-Uj22Abb7ERe7HowFqP_xWTOrnb0tNMqr1fAKAY2HzVnO9Dq5KFkqMNkzR5qEmUa95lcYXJ1E=w120-h120-l90-rj",
+        "artist": "Reggaeton Urbano",
+        "album": "Reggaeton Suave",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iyl0ocEW7-Q",
+        "video_url": "https://www.youtube.com/watch?v=iyl0ocEW7-Q",
+        "title": "Tacones Rojos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/wknyb5nhcSqrBHTG2vMFmvJsF5QGspf2RREyUXWEQ_xelop8BJVQT2sQjGX7TC6s3AVLHtpQbF8OLhTU=w120-h120-l90-rj",
+        "artist": "Sebasti\u00e1n Yatra",
+        "album": "Dharma",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "K_idN3P5_yk",
+        "video_url": "https://www.youtube.com/watch?v=K_idN3P5_yk",
+        "title": "Cheap Thrills",
+        "thumbnail_url": "https://lh3.googleusercontent.com/p27-yULJr9QtyiKZ_C4hoy92A9COtzxBAtx62OueZUeiUU4ZZLttlASDms2GyqlWaCX6FlKYXIiDVUgP=w120-h120-l90-rj",
+        "artist": "Sia",
+        "album": "Cheap Thrills",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Wnn6M1nNiKQ",
+        "video_url": "https://www.youtube.com/watch?v=Wnn6M1nNiKQ",
+        "title": "I Gotta Feeling",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SPVfJZ3aTXrhsM87BAV5ULDUXUF32Ia3n5qTPazx3R2Ir7ox0kaWf1vYSxR9Oiq3_7wv_vUA4ZBgnA=w120-h120-l90-rj",
+        "artist": "The Black Eyed Peas",
+        "album": "THE E.N.D. (THE ENERGY NEVER DIES) (International Version)",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Hx4nWW9z0ig",
+        "video_url": "https://www.youtube.com/watch?v=Hx4nWW9z0ig",
+        "title": "Dance Monkey",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hDSzLR6UDLcfxL6Hl9k5kJ6KmDTOavpr-GSCPyKgZTlPZuFcbNFTBI8O9HJR_i-Ts_bGg6bn9-3AGSu1=w120-h120-l90-rj",
+        "artist": "Tones And I",
+        "album": "Dance Monkey",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
