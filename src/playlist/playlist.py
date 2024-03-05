@@ -39,6 +39,6 @@ class Playlist:
         downloader = self.get_downloader()
         for item in playlist_info:
             if item['video_type'] == 'MUSIC_VIDEO_TYPE_ATV':
-                print(f'🚫 not a video')
+                print(f"🚫 not a video {item['video_id']}")
             else:
                 downloader.download_video(item['video_id'], item['video_url'])
