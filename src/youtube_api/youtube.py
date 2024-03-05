@@ -49,7 +49,7 @@ class YoutubeAPI:
             # UGC: User Generated Content - uploaded by regular YouTube user
             # ATV: High quality song uploaded by original artist with cover image
             # OFFICIAL_SOURCE_MUSIC: Official video content, but not for a single track
-            item['vide_type'] = content['videoType']
+            item['video_type'] = content['videoType']
             items.append(item)
         items = sorted(items, key=lambda x: (
             x['artist'], x.get('album', ''), x['title']))

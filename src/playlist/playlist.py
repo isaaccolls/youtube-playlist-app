@@ -26,7 +26,7 @@ class Playlist:
         self.create_json(playlist_info)
         downloader = self.get_downloader()
         for item in playlist_info:
-            if item['vide_type'] == 'MUSIC_VIDEO_TYPE_ATV':
+            if item['video_type'] == 'MUSIC_VIDEO_TYPE_ATV':
                 downloader.download_audio(
                     item['video_id'], item['video_url'], item['title'], item['thumbnail_url'], item['artist'], item['album'])
             else:
@@ -38,7 +38,7 @@ class Playlist:
         self.create_json(playlist_info)
         downloader = self.get_downloader()
         for item in playlist_info:
-            if item['vide_type'] == 'MUSIC_VIDEO_TYPE_ATV':
+            if item['video_type'] == 'MUSIC_VIDEO_TYPE_ATV':
                 print(f'🚫 not a video')
             else:
                 downloader.download_video(item['video_id'], item['video_url'])

@@ -6,7 +6,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
         "artist": "Apache",
         "album": "Original Combination",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "KTgdczmGqio",
@@ -15,7 +15,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/OgZLTYYZsOIuSNYSSxFXii4MLKfydp4qnjIZCPnE5fa7bmWJ8Nv4a4QQX1s7EZQQTv7Y9VuHl-lAMyID=w120-h120-l90-rj",
         "artist": "Baby Zoom & Akapellah",
         "album": "Como Antes",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "YcUW7oKDUJM",
@@ -24,7 +24,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
         "artist": "Canserbero",
         "album": "Muerte",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "13m_Z5KaW9w",
@@ -33,7 +33,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/0veFj2nwOi136SCeMaaX77aw9P-ez0Jcq5CEoIoKC1zLIrDeuR9cOYy7ru-COGTy02yBpOW7fM7lWT5V5Q=w120-h120-l90-rj",
         "artist": "Canserbero & Apache",
         "album": "Apa y Can",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "7dDmJzNC1sg",
@@ -42,7 +42,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/DX5Cdm8x5F1bKLmJnUdPwD9SyyMJa08nK7GMhiBoHxon-Jb7vSQbJ3_RAxBAMwUMArmy0WNgVXE45eNtQQ=w120-h120-l90-rj",
         "artist": "Don Omar",
         "album": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "1vzNiFrq37E",
@@ -51,6 +51,6 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/6GV3EVWvKRzKL-nUZRfHF19B9GLAqnkph4tLaCZxIh3ucj7K8N2hA21osDWxw9XdvGuS444w0VDaquDi=w120-h120-l90-rj",
         "artist": "Reke",
         "album": "El Astronauta",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]

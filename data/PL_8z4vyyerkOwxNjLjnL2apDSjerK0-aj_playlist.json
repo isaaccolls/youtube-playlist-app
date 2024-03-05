@@ -6,7 +6,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
         "artist": "Apache",
         "album": "Original Combination",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "oPlFLi6qmtE",
@@ -15,7 +15,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/PMU3DRK9V7fYWD9K6ewufXyppmhHHtUX6JeD-PMmV1M71RSmqU9MgeFoCxYETvRn8Bwjxus8ESXrT_e-=w120-h120-l90-rj",
         "artist": "Cultura Prof\u00e9tica",
         "album": "M. O. T. A.",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "lOQBnSiXBTU",
@@ -24,7 +24,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/DhNYtNCQZiP5kumPv61XovVLed-YnHE_bLhIsAWPcSPJ-ifyzr5h1tjXNnz_BoSGM6xYSeoy7Gbztvg=w120-h120-l90-rj",
         "artist": "Rawayana",
         "album": "Trippy Caribbean",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "1vzNiFrq37E",
@@ -33,6 +33,6 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/6GV3EVWvKRzKL-nUZRfHF19B9GLAqnkph4tLaCZxIh3ucj7K8N2hA21osDWxw9XdvGuS444w0VDaquDi=w120-h120-l90-rj",
         "artist": "Reke",
         "album": "El Astronauta",
-        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
