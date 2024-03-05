@@ -26,11 +26,11 @@ class Playlist:
         self.create_json(playlist_info)
         downloader = self.get_downloader()
         for item in playlist_info:
-            if item['video_type'] == 'MUSIC_VIDEO_TYPE_ATV':
+            if item['video_type'] != 'MUSIC_VIDEO_TYPE_ATV':
+                print(f"🚫 not music {item['title']} // {item['artist']}")
+            else:
                 downloader.download_audio(
                     item['video_id'], item['video_url'], item['title'], item['thumbnail_url'], item['artist'], item['album'])
-            else:
-                print(f"🚫 not music {item['title']} // {item['artist']}")
 
     def processVideo(self):
         print(f'go for video 📺 {self.playlist_id}')
