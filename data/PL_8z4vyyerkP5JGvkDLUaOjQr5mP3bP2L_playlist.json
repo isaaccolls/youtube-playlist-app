@@ -387,6 +387,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "mvUKWq4gG2E",
+        "video_url": "https://www.youtube.com/watch?v=mvUKWq4gG2E",
+        "title": "Ll\u00e9vame",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9Hkz-FkXUcZfmRUnfYDWf36ZkdNeYy0tRjqFnfGYLS93i5-SC-UbXUrwEQVioRlAySz3c1oudEzptJbPYQ=w120-h120-l90-rj",
+        "artist": "Cultura Prof\u00e9tica & Bebo Dumont",
+        "album": "Ll\u00e9vame (Cultura Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "VK6poQS1kEA",
         "video_url": "https://www.youtube.com/watch?v=VK6poQS1kEA",
         "title": "S\u00e1lvame - En Vivo",
@@ -432,6 +441,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "4eLvjDguHDc",
+        "video_url": "https://www.youtube.com/watch?v=4eLvjDguHDc",
+        "title": "Si no somos felices",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Z11bU4APZlvFFp8jaoa7iuzy1UcbO-cFaPGNJ7wuia9bixQE3Rs5oBpUYl4VOcBD3rQmwglM3KrZlO7B=w120-h120-l90-rj",
+        "artist": "Kameleba",
+        "album": "Tiempos de tribulaci\u00f3n",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7rcptiU9YW4",
         "video_url": "https://www.youtube.com/watch?v=7rcptiU9YW4",
         "title": "La fuma (feat. Ojos chinos LC)",
@@ -465,6 +483,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/3tPTW1gJCGIUMXW0Cx2ViUpFJPYhiMwRrxodtWMOrQg-EWjrr1_XLGv8ztxIX3lPcoljDQTi1ZRVUbeI6w=w120-h120-l90-rj",
         "artist": "Los Cafres",
         "album": "Luna Park",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "h_hT9KrTH9w",
+        "video_url": "https://www.youtube.com/watch?v=h_hT9KrTH9w",
+        "title": "Tus Ojos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/e6vdTbNqGTYZSzpzZ5tBlfvMsdGNVF1eF7zmMKeejlpuKCn4NNY8g1KvkG-14NxmSpTPe1xBcnA7SJyZ=w120-h120-l90-rj",
+        "artist": "Los Cafres",
+        "album": "Suena la Alarma",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
