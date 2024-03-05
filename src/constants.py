@@ -1,4 +1,4 @@
-playlists = [
+playlistsForMusic = [
     #  🍭-lolliPop
     'PL_8z4vyyerkNdojRqG-N2Z2m_Y7MiRuur',
     # 💚💛❤️-reggae
@@ -17,6 +17,9 @@ playlists = [
     'PL_8z4vyyerkOU9rlgZheQg22yAPu5qHHp',
     # 🤘-rock
     'PL_8z4vyyerkMh5swg0FKbTFQRujtlhmr-',
+]
+
+playlistsForVideo = [
     # 📺⚡-videoElectro
     'PL_8z4vyyerkMhM-RSZkTpq0zELxXTVyzq',
     # 📺🐶-videoMixHtv

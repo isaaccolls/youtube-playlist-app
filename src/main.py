@@ -1,11 +1,13 @@
 from playlist.playlist import Playlist
-from constants import playlists
+from constants import playlistsForMusic, playlistsForVideo
 
 
 def main():
     print('🚀 here we go!')
-    for playlist_id in playlists:
-        Playlist(playlist_id).process()
+    for playlist_id in playlistsForMusic:
+        Playlist(playlist_id).processMusic()
+    for playlist_id in playlistsForVideo:
+        Playlist(playlist_id).processVideo()
     print('✅ done!')
 
 

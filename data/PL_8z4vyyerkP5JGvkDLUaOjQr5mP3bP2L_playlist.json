@@ -1,5 +1,23 @@
 [
     {
+        "video_id": "AmbN5CSDn8U",
+        "video_url": "https://www.youtube.com/watch?v=AmbN5CSDn8U",
+        "title": "Kingston Town",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mqz_gVIBGNH04-wXk3bcINi0h7_oc4s1inGJSiHSTj1yzPP3r7pICShgG2TffnI14vn5wGbvTzOLIZ_c=w120-h120-l90-rj",
+        "artist": "Alborosie",
+        "album": "Soul Pirate",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "8m8KWylpo78",
+        "video_url": "https://www.youtube.com/watch?v=8m8KWylpo78",
+        "title": "Ella Maneja Puro Style (feat. Morodo)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
+        "artist": "Apache",
+        "album": "Original Combination",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "euBbQYzK_zk",
         "video_url": "https://www.youtube.com/watch?v=euBbQYzK_zk",
         "title": "Buffalo Soldier (Live)",
@@ -360,12 +378,57 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "SlbPqlSmBm4",
+        "video_url": "https://www.youtube.com/watch?v=SlbPqlSmBm4",
+        "title": "Saca, Prende y Sorprende",
+        "thumbnail_url": "https://lh3.googleusercontent.com/30wCzyd0-22q0b5_P4R-CZVF2m-C6hEIJTFH-UeKiAmev9yAlzRd3sUdQOpI_b1UqxN1q42j56m4nic=w120-h120-l90-rj",
+        "artist": "Cultura Prof\u00e9tica",
+        "album": "Saca, Prende Y Sorprende",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "VK6poQS1kEA",
+        "video_url": "https://www.youtube.com/watch?v=VK6poQS1kEA",
+        "title": "S\u00e1lvame - En Vivo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/wLn_pmdo7cdP_wNI6eMxk73GVBbKhNm4u-72us_xXmwVg_tuXj8dunQ03Lx7Y3TH0_rS0q0B45_RvtQ=w120-h120-l90-rj",
+        "artist": "Dread Mar I",
+        "album": "10 A\u00f1os (En Vivo)",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tUtcEOY7z_k",
+        "video_url": "https://www.youtube.com/watch?v=tUtcEOY7z_k",
+        "title": "Antonia",
+        "thumbnail_url": "https://lh3.googleusercontent.com/i0xMn8uY7BgkkndVZ1lg65FSNDh6kA-a0KFd9InSo-qgL_0IZZhXWaxsfiGKnMPBP7EbUuSis18HhHE=w120-h120-l90-rj",
+        "artist": "Gondwana",
+        "album": "Alabanza",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "4fw47otG-3U",
         "video_url": "https://www.youtube.com/watch?v=4fw47otG-3U",
         "title": "Verde, Amarillo Y Rojo",
         "thumbnail_url": "https://lh3.googleusercontent.com/i0xMn8uY7BgkkndVZ1lg65FSNDh6kA-a0KFd9InSo-qgL_0IZZhXWaxsfiGKnMPBP7EbUuSis18HhHE=w120-h120-l90-rj",
         "artist": "Gondwana",
         "album": "Alabanza",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YFQC3_fC6i4",
+        "video_url": "https://www.youtube.com/watch?v=YFQC3_fC6i4",
+        "title": "La flaca",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ob1GC8NnPzWSJ2siqaylsEuSueRh4gPScQNJCykjCJFkQsvIUIWDqA-NC4Ak5sleKM5Iq1Ax05sw4nvR=w120-h120-l90-rj",
+        "artist": "Jarabe De Palo",
+        "album": "La Flaca",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "y6xhCfu3ERI",
+        "video_url": "https://www.youtube.com/watch?v=y6xhCfu3ERI",
+        "title": "Orillas",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Z11bU4APZlvFFp8jaoa7iuzy1UcbO-cFaPGNJ7wuia9bixQE3Rs5oBpUYl4VOcBD3rQmwglM3KrZlO7B=w120-h120-l90-rj",
+        "artist": "Kameleba",
+        "album": "Tiempos de tribulaci\u00f3n",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -387,6 +450,15 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "QkMmW6obb34",
+        "video_url": "https://www.youtube.com/watch?v=QkMmW6obb34",
+        "title": "Si el amor se cae",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3tPTW1gJCGIUMXW0Cx2ViUpFJPYhiMwRrxodtWMOrQg-EWjrr1_XLGv8ztxIX3lPcoljDQTi1ZRVUbeI6w=w120-h120-l90-rj",
+        "artist": "Los Cafres",
+        "album": "Luna Park",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "MFgbKv_ieZU",
         "video_url": "https://www.youtube.com/watch?v=MFgbKv_ieZU",
         "title": "Me Late",
@@ -405,12 +477,66 @@
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "N7rX3CLSI_8",
+        "video_url": "https://www.youtube.com/watch?v=N7rX3CLSI_8",
+        "title": "Runaway",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Fr8o3vrlUWYlCTJ9PViDv0Rp8aPLtUvM5VD9qglJCAhzFMZFTROPZYdlLQJeXrrXcUxE9fY3lGk44IE=w120-h120-l90-rj",
+        "artist": "Los Pericos",
+        "album": "Pampas Reggae",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JmHXXf3p9lI",
+        "video_url": "https://www.youtube.com/watch?v=JmHXXf3p9lI",
+        "title": "Me Gustas Tu",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7Q6yaf9TgzaCA_oXzXoSVWzRxC5EqSN7ljJsXXBthpqkhhiBr4QQm2WhdMdh6KjCL25Ifsg8Ut4px95R=w120-h120-l90-rj",
+        "artist": "Manu chao",
+        "album": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "27d7CsO6vrc",
+        "video_url": "https://www.youtube.com/watch?v=27d7CsO6vrc",
+        "title": "En el Aire",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HBDKJb1XVjqebWEq2n6MhcJbleM6rDVRWu33BkSgPmMhTouJdtc9DGOWlg9Td2ial-nZb66ThH8kUtM=w120-h120-l90-rj",
+        "artist": "Nonpalidece",
+        "album": "Activistas",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SjViedHwUco",
+        "video_url": "https://www.youtube.com/watch?v=SjViedHwUco",
+        "title": "La Flor",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HBDKJb1XVjqebWEq2n6MhcJbleM6rDVRWu33BkSgPmMhTouJdtc9DGOWlg9Td2ial-nZb66ThH8kUtM=w120-h120-l90-rj",
+        "artist": "Nonpalidece",
+        "album": "Activistas",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7Eo7d5_5ktI",
         "video_url": "https://www.youtube.com/watch?v=7Eo7d5_5ktI",
         "title": "Calma (Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/PYFqXQoGzgKyeX2TGOt2XVXrX2s9VHU4xz2PSxh64xdrNXwCi65fs2QCNNt5W0t6EJr4Sl1nl1iJ4wD-=w120-h120-l90-rj",
         "artist": "Pedro Cap\u00f3 & Farruko",
         "album": "Gangalee",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "R9TliZUh0Yo",
+        "video_url": "https://www.youtube.com/watch?v=R9TliZUh0Yo",
+        "title": "Sin Dormir",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7c6uz7sYZJzcjdDsFsWPMOWSDCB1hMBOb24CgvKK34RbYmc38w_aXRe3XFZcKN45PS-7BPvaCl87WKYt=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "RawayanaLand",
+        "vide_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wKLf55Fj2xs",
+        "video_url": "https://www.youtube.com/watch?v=wKLf55Fj2xs",
+        "title": "Vocabulario B\u00e1sico",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7c6uz7sYZJzcjdDsFsWPMOWSDCB1hMBOb24CgvKK34RbYmc38w_aXRe3XFZcKN45PS-7BPvaCl87WKYt=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "RawayanaLand",
         "vide_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

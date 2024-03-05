@@ -56,4 +56,4 @@ class Downloader:
             os.remove(mp4_filename)
             os.remove(thumbnail_filename)
         except HTTPError:
-            print(f"Video {video_id} is not available.")
+            print(f"🚫 Video {video_id} is not available.")

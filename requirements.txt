@@ -3,3 +3,5 @@ requests==2.24.0
 eyed3==0.9.5
 moviepy==1.0.3
 ytmusicapi==1.5.3
+google-api-python-client==2.121.0
+python-dotenv==1.0.1
