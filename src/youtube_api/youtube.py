@@ -33,25 +33,26 @@ class YoutubeAPI:
                 video_id = self.search(playlist_id, content['title'])
             thumbnail_url = content['thumbnails'][1]['url'] if len(
                 content['thumbnails']) > 1 else content['thumbnails'][0]['url']
-            album = content['album']['name'] if content['album'] is not None else ''
             artists = [artist['name'] for artist in content['artists']]
             artist = ', '.join(artists[:-1]) + ' & ' + \
                 artists[-1] if len(artists) > 1 else artists[0]
-            items.append({
+            item = {
                 'video_id': video_id,
                 'video_url': f"https://www.youtube.com/watch?v={video_id}",
                 'title': content['title'],
                 'thumbnail_url': thumbnail_url,
                 'artist': artist,
-                'album': album,
-                # OMV: Original Music Video - uploaded by original artist with actual video content
-                # UGC: User Generated Content - uploaded by regular YouTube user
-                # ATV: High quality song uploaded by original artist with cover image
-                # OFFICIAL_SOURCE_MUSIC: Official video content, but not for a single track
-                'vide_type': content['videoType']
-            })
+            }
+            if content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' and content['album'] is not None:
+                item['album'] = content['album']['name']
+            # OMV: Original Music Video - uploaded by original artist with actual video content
+            # UGC: User Generated Content - uploaded by regular YouTube user
+            # ATV: High quality song uploaded by original artist with cover image
+            # OFFICIAL_SOURCE_MUSIC: Official video content, but not for a single track
+            item['vide_type'] = content['videoType']
+            items.append(item)
         items = sorted(items, key=lambda x: (
-            x['artist'], x['album'], x['title']))
+            x['artist'], x.get('album', ''), x['title']))
         return items
 
     def search(self, playlist_id, title):
