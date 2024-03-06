@@ -135,6 +135,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "8HYcu7sZoBY",
+        "video_url": "https://www.youtube.com/watch?v=8HYcu7sZoBY",
+        "title": "Inspiraci\u00f3n",
+        "thumbnail_url": "https://lh3.googleusercontent.com/URvBSjqM_6035Uetdvv9bADtpIK8edZ39OXyraOGvJFZplDul-4byakKhdXllyqYA6aycJ393HtqwlM=w120-h120-l90-rj",
+        "artist": "Cultura Prof\u00e9tica",
+        "album": "Diario",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "uKGFmjrOplY",
         "video_url": "https://www.youtube.com/watch?v=uKGFmjrOplY",
         "title": "Amante Luz",
@@ -387,6 +396,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "LwYFfiB6tA8",
+        "video_url": "https://www.youtube.com/watch?v=LwYFfiB6tA8",
+        "title": "Efecto Domin\u00f3",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zrvq3ICnfhINB3RusMgD3stAq6plE35td6R0Xsq0_1ou_RU1RRbULeMeRw5tQjcuzpxqeul5q_6bl5U=w120-h120-l90-rj",
+        "artist": "Cultura Prof\u00e9tica",
+        "album": "Sobrevolando",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "mvUKWq4gG2E",
         "video_url": "https://www.youtube.com/watch?v=mvUKWq4gG2E",
         "title": "Ll\u00e9vame",
@@ -420,6 +438,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/i0xMn8uY7BgkkndVZ1lg65FSNDh6kA-a0KFd9InSo-qgL_0IZZhXWaxsfiGKnMPBP7EbUuSis18HhHE=w120-h120-l90-rj",
         "artist": "Gondwana",
         "album": "Alabanza",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "z0QiR972_uk",
+        "video_url": "https://www.youtube.com/watch?v=z0QiR972_uk",
+        "title": "Armonia De Amor",
+        "thumbnail_url": "https://lh3.googleusercontent.com/i6tuIc4pQT5nX-nzlZ4Wr6ETDTZnWBm8RPTUElSCmyAyaWrQJ_Ih7nwNqNQn1PRPe3FPluaOHa3kx4E=w120-h120-l90-rj",
+        "artist": "Gondwana",
+        "album": "Gondwana",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -465,6 +492,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/bSTERtZZGc0pW9zoGKx403zSp0BLoDnh30DQiMhRhrVfaJMGfrSGJzS8EPx_mOdSr7-LlihWpscksBg=w120-h120-l90-rj",
         "artist": "Laguna Pai",
         "album": "Resiliencia",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CIK-f5addaw",
+        "video_url": "https://www.youtube.com/watch?v=CIK-f5addaw",
+        "title": "Bastar\u00e1",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GSj0b0j59KLw3-mjL_RSfRmW_6RAKWKaQKEx2iiwScX_JsBtHefba3GUgy6AZA9LRBs0lP0KwVwLpxQ0=w120-h120-l90-rj",
+        "artist": "Los Cafres",
+        "album": "Barrilete",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -531,6 +567,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "yZxExKERfpU",
+        "video_url": "https://www.youtube.com/watch?v=yZxExKERfpU",
+        "title": "Tu Eres Como el Fuego (feat. Indica Sound)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3Sb6Haz-NyE2umrmNIhe3kXt482k64X9CdXGC4dx34LP6v1naek1R3tJkdOfaOaSNuOLZhciY4jaFZ7dtA=w120-h120-l90-rj",
+        "artist": "Morodo",
+        "album": "Tu Eres Como el Fuego",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "27d7CsO6vrc",
         "video_url": "https://www.youtube.com/watch?v=27d7CsO6vrc",
         "title": "En el Aire",
@@ -549,12 +594,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "fjY0XUY8t3A",
+        "video_url": "https://www.youtube.com/watch?v=fjY0XUY8t3A",
+        "title": "Love Song",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xyhhDGOnXAu-4pHfDSsmeD_QYFYs82EzUtemVq8YNPd_K_yCzudC76db2vNayC3VA5qk5HpRWj11_6A2iA=w120-h120-l90-rj",
+        "artist": "Nonpalidece",
+        "album": "Hagan Correr la Voz",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7Eo7d5_5ktI",
         "video_url": "https://www.youtube.com/watch?v=7Eo7d5_5ktI",
         "title": "Calma (Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/PYFqXQoGzgKyeX2TGOt2XVXrX2s9VHU4xz2PSxh64xdrNXwCi65fs2QCNNt5W0t6EJr4Sl1nl1iJ4wD-=w120-h120-l90-rj",
         "artist": "Pedro Cap\u00f3 & Farruko",
         "album": "Gangalee",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZR-yrdk2PHk",
+        "video_url": "https://www.youtube.com/watch?v=ZR-yrdk2PHk",
+        "title": "Mamita (feat. Natalia Lafourcade)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7c6uz7sYZJzcjdDsFsWPMOWSDCB1hMBOb24CgvKK34RbYmc38w_aXRe3XFZcKN45PS-7BPvaCl87WKYt=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "RawayanaLand",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -600,6 +663,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/9XhelCdgSLJ9MI3jLHM8-Wf9gsMBuD8RvnwZJbG9OvfNoU_exisaUt6tzrNM8eTsw6SYD1r3foLS8G4=w120-h120-l90-rj",
         "artist": "Tego Calderon",
         "album": "The Underdog - El Subestimado",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "AmFYw_AOnbM",
+        "video_url": "https://www.youtube.com/watch?v=AmFYw_AOnbM",
+        "title": "Mi Balcon (feat. Cultura Profetica)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VdMyBtyyA416Ny9mBN6WtEvptqrtj7f3rb6tJOGEibagg3-vZMKRLQl3RB2IFpullJQpHL_2jq4_vBoErg=w120-h120-l90-rj",
+        "artist": "Vicente Garcia",
+        "album": "Melodrama",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
