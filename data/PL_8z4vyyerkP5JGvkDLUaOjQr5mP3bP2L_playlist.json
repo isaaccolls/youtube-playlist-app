@@ -1053,6 +1053,51 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "eNaw6bSbTvA",
+        "video_url": "https://www.youtube.com/watch?v=eNaw6bSbTvA",
+        "title": "Algo Distinto",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bnV7O-AgZaKx0po0Ck5tdudfNHWQfFWOZe8Aw-YrI5AxSac7AY99fNb3n97_Zhd6OpupqOP2UsAMdONOqQ=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "Licencia Para Ser Libre",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "rHGKr6hLksg",
+        "video_url": "https://www.youtube.com/watch?v=rHGKr6hLksg",
+        "title": "Falta Poco",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bnV7O-AgZaKx0po0Ck5tdudfNHWQfFWOZe8Aw-YrI5AxSac7AY99fNb3n97_Zhd6OpupqOP2UsAMdONOqQ=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "Licencia Para Ser Libre",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6rInLS-W--4",
+        "video_url": "https://www.youtube.com/watch?v=6rInLS-W--4",
+        "title": "Panochita",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bnV7O-AgZaKx0po0Ck5tdudfNHWQfFWOZe8Aw-YrI5AxSac7AY99fNb3n97_Zhd6OpupqOP2UsAMdONOqQ=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "Licencia Para Ser Libre",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "NTiyGbcYwwk",
+        "video_url": "https://www.youtube.com/watch?v=NTiyGbcYwwk",
+        "title": "A Tu Nombre",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7c6uz7sYZJzcjdDsFsWPMOWSDCB1hMBOb24CgvKK34RbYmc38w_aXRe3XFZcKN45PS-7BPvaCl87WKYt=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "RawayanaLand",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vnii6fU_j7M",
+        "video_url": "https://www.youtube.com/watch?v=vnii6fU_j7M",
+        "title": "Hoy (feat. McKlopedia & Psycho)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7c6uz7sYZJzcjdDsFsWPMOWSDCB1hMBOb24CgvKK34RbYmc38w_aXRe3XFZcKN45PS-7BPvaCl87WKYt=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "RawayanaLand",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ZR-yrdk2PHk",
         "video_url": "https://www.youtube.com/watch?v=ZR-yrdk2PHk",
         "title": "Mamita (feat. Natalia Lafourcade)",
@@ -1086,6 +1131,96 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/DhNYtNCQZiP5kumPv61XovVLed-YnHE_bLhIsAWPcSPJ-ifyzr5h1tjXNnz_BoSGM6xYSeoy7Gbztvg=w120-h120-l90-rj",
         "artist": "Rawayana",
         "album": "Trippy Caribbean",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JDXI6_6dqVo",
+        "video_url": "https://www.youtube.com/watch?v=JDXI6_6dqVo",
+        "title": "Tucacas",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DhNYtNCQZiP5kumPv61XovVLed-YnHE_bLhIsAWPcSPJ-ifyzr5h1tjXNnz_BoSGM6xYSeoy7Gbztvg=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "Trippy Caribbean",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6274lA0P1z4",
+        "video_url": "https://www.youtube.com/watch?v=6274lA0P1z4",
+        "title": "V\u00e9ngase I",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DhNYtNCQZiP5kumPv61XovVLed-YnHE_bLhIsAWPcSPJ-ifyzr5h1tjXNnz_BoSGM6xYSeoy7Gbztvg=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "Trippy Caribbean",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "yqYsfMuTw6U",
+        "video_url": "https://www.youtube.com/watch?v=yqYsfMuTw6U",
+        "title": "V\u00e9ngase II",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DhNYtNCQZiP5kumPv61XovVLed-YnHE_bLhIsAWPcSPJ-ifyzr5h1tjXNnz_BoSGM6xYSeoy7Gbztvg=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "Trippy Caribbean",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "oy3aJoUtOqE",
+        "video_url": "https://www.youtube.com/watch?v=oy3aJoUtOqE",
+        "title": "Dame Un Break",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SreZbUaPPRzlnTETubdgKJx3yR7ESAehxKHU9djPTID959GwbFTkrHwMTSo6b1zrV7IVYMPy_PeRmSg=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "\u00bfQui\u00e9n trae las cornetas?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "H5cL_B5OnIs",
+        "video_url": "https://www.youtube.com/watch?v=H5cL_B5OnIs",
+        "title": "Feriado",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SreZbUaPPRzlnTETubdgKJx3yR7ESAehxKHU9djPTID959GwbFTkrHwMTSo6b1zrV7IVYMPy_PeRmSg=w120-h120-l90-rj",
+        "artist": "Rawayana",
+        "album": "\u00bfQui\u00e9n trae las cornetas?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "WZahC5gW3oI",
+        "video_url": "https://www.youtube.com/watch?v=WZahC5gW3oI",
+        "title": "Nada Malo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SreZbUaPPRzlnTETubdgKJx3yR7ESAehxKHU9djPTID959GwbFTkrHwMTSo6b1zrV7IVYMPy_PeRmSg=w120-h120-l90-rj",
+        "artist": "Rawayana & Bebo Dumont",
+        "album": "\u00bfQui\u00e9n trae las cornetas?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pwhlveoQqFQ",
+        "video_url": "https://www.youtube.com/watch?v=pwhlveoQqFQ",
+        "title": "Binikini",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SreZbUaPPRzlnTETubdgKJx3yR7ESAehxKHU9djPTID959GwbFTkrHwMTSo6b1zrV7IVYMPy_PeRmSg=w120-h120-l90-rj",
+        "artist": "Rawayana & Danny Ocean",
+        "album": "\u00bfQui\u00e9n trae las cornetas?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TDEzCSXCH8Q",
+        "video_url": "https://www.youtube.com/watch?v=TDEzCSXCH8Q",
+        "title": "Besos Ricos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SreZbUaPPRzlnTETubdgKJx3yR7ESAehxKHU9djPTID959GwbFTkrHwMTSo6b1zrV7IVYMPy_PeRmSg=w120-h120-l90-rj",
+        "artist": "Rawayana & Goyo",
+        "album": "\u00bfQui\u00e9n trae las cornetas?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Y3Ejfi2apaA",
+        "video_url": "https://www.youtube.com/watch?v=Y3Ejfi2apaA",
+        "title": "Funky Fiesta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DhNYtNCQZiP5kumPv61XovVLed-YnHE_bLhIsAWPcSPJ-ifyzr5h1tjXNnz_BoSGM6xYSeoy7Gbztvg=w120-h120-l90-rj",
+        "artist": "Rawayana & Jos\u00e9 Luis Pardo",
+        "album": "Trippy Caribbean",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "njaLN1xgztM",
+        "video_url": "https://www.youtube.com/watch?v=njaLN1xgztM",
+        "title": "V\u00e1yanse Todos A Mam\u00e1",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rM6ShxzG3mPuzKjXdxXDmHy58bGOZlTU9V3TzM_KSStamGQihiGoKo_p0WpceWrUhkdPr-eOmwVxS7Ak=w120-h120-l90-rj",
+        "artist": "Rawayana, Los Amigos Invisibles & Cheo",
+        "album": "Cuando Los Ac\u00e9falos Predominan",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
