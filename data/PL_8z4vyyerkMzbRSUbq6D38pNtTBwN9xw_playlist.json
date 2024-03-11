@@ -117,6 +117,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "3zXmvAjREDA",
+        "video_url": "https://www.youtube.com/watch?v=3zXmvAjREDA",
+        "title": "Baby again..",
+        "thumbnail_url": "https://lh3.googleusercontent.com/RUt8a1MDyo04ZeAQO9n98m5DIznK0H3PMbSfklyztTcGzOZChOwtYNT5jj3MI7qOsV-W3oVV2CZYWmE=w120-h120-l90-rj",
+        "artist": "Fred again.., Skrillex & Four Tet",
+        "album": "USB",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sP8YOzk0dX4",
         "video_url": "https://www.youtube.com/watch?v=sP8YOzk0dX4",
         "title": "On My Mind",
@@ -126,12 +135,120 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "buz6wnviE28",
+        "video_url": "https://www.youtube.com/watch?v=buz6wnviE28",
+        "title": "In Da Getto",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_4b2xkgL7r-3Qi1CmhjRBLMWKv8DYlT7wR9blvaAmxhGSRlcQ4e3uJTvqxcPLtQOfwebeyMJZNUBG_4YIA=w120-h120-l90-rj",
+        "artist": "J Balvin & Skrillex",
+        "album": "JOSE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7qXyLCwrRuU",
+        "video_url": "https://www.youtube.com/watch?v=7qXyLCwrRuU",
+        "title": "In Da Getto (Chris Lorenzo Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/t_IOcKDXEnqINXcF4bESw0_69lWn6uBjuuMd4OdoDL0TZWeUj7mt-nQa_3AOTIhkpPe1m2oCS8nAlcA=w120-h120-l90-rj",
+        "artist": "J. Balvin & Skrillex",
+        "album": "JOSE (Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "PZ4PyTsToNw",
+        "video_url": "https://www.youtube.com/watch?v=PZ4PyTsToNw",
+        "title": "AGEN WIDA",
+        "thumbnail_url": "https://lh3.googleusercontent.com/2zMXeLRSObhXbeCEoCciysw9hGDkRj5O2wqgp0dgfsljhfIQKaDcEkrCLxmvw94g-fiPL4D3Wc3kKAE=w120-h120-l90-rj",
+        "artist": "JOYRYDE & Skrillex",
+        "album": "AGEN WIDA",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "P_DCkMbQaHs",
+        "video_url": "https://www.youtube.com/watch?v=P_DCkMbQaHs",
+        "title": "Take \u00dc There (feat. Kiesza)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n=w120-h120-l90-rj",
+        "artist": "Jack \u00dc & Skrillex",
+        "album": "Skrillex and Diplo present Jack \u00dc",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vkX6yFVFRYY",
+        "video_url": "https://www.youtube.com/watch?v=vkX6yFVFRYY",
+        "title": "Where Are \u00dc Now (with Justin Bieber) (feat. Justin Bieber)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OnYP0l6Gryz5pEU9K2JsMGOr3qiakF374Lurr88fJS0FMctp8nLSJczkB3lAj2lN90UOOl2whV6YnY2n=w120-h120-l90-rj",
+        "artist": "Jack \u00dc & Skrillex",
+        "album": "Skrillex and Diplo present Jack \u00dc",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "rcooEdcNZiM",
+        "video_url": "https://www.youtube.com/watch?v=rcooEdcNZiM",
+        "title": "Lick It (Extended)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EMSvx-9y6I4Ff_TPOHo34X5_-unNW-PjNCXEE2Oh-FGp654Q4yJfg3rDeJXQ4s0O4duelS1nKky2ip5K=w120-h120-l90-rj",
+        "artist": "Kaskade & Skrillex",
+        "album": "Lick It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TDFRkbOSI5E",
+        "video_url": "https://www.youtube.com/watch?v=TDFRkbOSI5E",
+        "title": "Move for Me (feat. Haley Gibby)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/n04o59CdHPkau1Atx6YNNpitHqDmklil4ahNtC_KDe8YH1SebtQSHxj64vIeHQX1172CqgdF4LReTuWcHA=w120-h120-l90-rj",
+        "artist": "Kaskade & deadmau5",
+        "album": "Move For Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "q-VWeaPFf9A",
+        "video_url": "https://www.youtube.com/watch?v=q-VWeaPFf9A",
+        "title": "Sacrifice (feat. Kx5)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-7b5Ug6Y_orTplSbj7ESOFx3U2TzCAd_sgPdpwIX4B_n7huhxUIKASzTLnLGJHijamZ9wiHAsrgfiuue=w120-h120-l90-rj",
+        "artist": "Kaskade, deadmau5 & Sofi Tukker",
+        "album": "Sacrifice",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "9Go1GQZcK1U",
         "video_url": "https://www.youtube.com/watch?v=9Go1GQZcK1U",
         "title": "Pursuit Of Happiness (Extended Steve Aoki Remix) (feat. MGMT & Ratatat)",
         "thumbnail_url": "https://lh3.googleusercontent.com/6uA6wsx0ARVOK5Go5DK8w-4L--aZbMrqA6qWJeDyLzcbagtiHFN0QzmOWrtoWSAS2FAXy5jJuB-zQm0=w120-h120-l90-rj",
         "artist": "Kid Cudi",
         "album": "Pursuit Of Happiness (Extended Steve Aoki Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hHyxFaaOpik",
+        "video_url": "https://www.youtube.com/watch?v=hHyxFaaOpik",
+        "title": "Alive (feat. The Moth & The Flame)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FQ7EvE1sxOHCM1FjHaPpGax1Zwgtyusle2Sl6BmZd4J70VVLOOhzP2rFi3BEKiaIHWGT4kRRqbqBDgoWNg=w120-h120-l90-rj",
+        "artist": "Kx5, deadmau5 & Kaskade",
+        "album": "Alive",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SfG3GCP9ZT8",
+        "video_url": "https://www.youtube.com/watch?v=SfG3GCP9ZT8",
+        "title": "Escape (feat. Hayla)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/spaxNink4B34SuwqhAWRprRmV3nFqs1TeJqUUwtCA64_GZDomCGpRNwB6g8QHAVPpnWWZboJBkQJhJo=w120-h120-l90-rj",
+        "artist": "Kx5, deadmau5 & Kaskade",
+        "album": "Escape",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dv_myxuNATU",
+        "video_url": "https://www.youtube.com/watch?v=dv_myxuNATU",
+        "title": "pwdr Blu (feat. Brother.)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EBD8rQjAnkUVLM8TJ975OE3M-Vev2RYJ3mqIwAuPh1a1ny3_u5xXCTmBofMtIDuoAL57FlZSaivqK3wK=w120-h120-l90-rj",
+        "artist": "Kx5, deadmau5 & Kaskade",
+        "album": "Kx5",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3K6m5WgH9YM",
+        "video_url": "https://www.youtube.com/watch?v=3K6m5WgH9YM",
+        "title": "Take Me High",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rv3ztDJCLzKvOM8EQST8KUHMfajY4e3qvJDVgkTFZdzv2KwACjW__gDybV2onOMLTSVPPHniNl15FJU=w120-h120-l90-rj",
+        "artist": "Kx5, deadmau5 & Kaskade",
+        "album": "Take Me High",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -189,6 +306,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "u3tQkSMa15o",
+        "video_url": "https://www.youtube.com/watch?v=u3tQkSMa15o",
+        "title": "Hey Baby",
+        "thumbnail_url": "https://lh3.googleusercontent.com/a3yNsvTXf4OTPq3fLnKl6DwxI6BFU8NUJfhF7QnoKmUQXWrNaEP8oi2ZRJsJHIcWl9-iaVD_6c4E5aIs=w120-h120-l90-rj",
+        "artist": "Melleefresh & deadmau5",
+        "album": "Hey Baby",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "llBfELHME-U",
         "video_url": "https://www.youtube.com/watch?v=llBfELHME-U",
         "title": "I Took A Pill In Ibiza (Seeb Remix)",
@@ -225,6 +351,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ieKIpFsUTYw",
+        "video_url": "https://www.youtube.com/watch?v=ieKIpFsUTYw",
+        "title": "Hypnocurrency",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lu7lpO9x2L_l7Ah1lCbQFlg2UXIGzUrzz9hHbm4LPpt-D9UT_TTwLRbJEZuCbeFNsi0KLXLlMrLWvcAW=w120-h120-l90-rj",
+        "artist": "Rezz & deadmau5",
+        "album": "Hypnocurrency",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "-kEnb77mcUk",
         "video_url": "https://www.youtube.com/watch?v=-kEnb77mcUk",
         "title": "We Found Love",
@@ -243,6 +378,51 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "V7hbIzqxhaE",
+        "video_url": "https://www.youtube.com/watch?v=V7hbIzqxhaE",
+        "title": "Bangarang (feat. Sirah)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Bangarang EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Fvdq-in19Jk",
+        "video_url": "https://www.youtube.com/watch?v=Fvdq-in19Jk",
+        "title": "Kyoto (feat. Sirah)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Bangarang EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qOmDvdEZ3uQ",
+        "video_url": "https://www.youtube.com/watch?v=qOmDvdEZ3uQ",
+        "title": "Right In",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Bangarang EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tH8SxBsRfqM",
+        "video_url": "https://www.youtube.com/watch?v=tH8SxBsRfqM",
+        "title": "Summit (feat. Ellie Goulding)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Bangarang EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XkbSeDukk4c",
+        "video_url": "https://www.youtube.com/watch?v=XkbSeDukk4c",
+        "title": "Ragga Bomb (Skrillex & Zomboy Remix) (feat. Ragga Twins)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/w8IYoygmD9Q53SF-K1a5eEECLly6vidrPK5dHCz6QmNxcC8uXFjJV6GfOgjZdIAXjYFgwrOIJzk3C-g=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Ease My Mind v Ragga Bomb Remixes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "YcJaYkamg5Y",
         "video_url": "https://www.youtube.com/watch?v=YcJaYkamg5Y",
         "title": "First of the Year (Equinox)",
@@ -252,12 +432,471 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "YpdmdpZTH_0",
+        "video_url": "https://www.youtube.com/watch?v=YpdmdpZTH_0",
+        "title": "Ruffneck (Flex)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "More Monsters and Sprites EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JRQA2Bo_9GA",
+        "video_url": "https://www.youtube.com/watch?v=JRQA2Bo_9GA",
+        "title": "Ruffneck (Full Flex)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "More Monsters and Sprites EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qhaqrkv9ReE",
+        "video_url": "https://www.youtube.com/watch?v=qhaqrkv9ReE",
+        "title": "Scary Monsters and Nice Sprites (Dirtyphonics Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "More Monsters and Sprites EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ADlnVxkk23k",
+        "video_url": "https://www.youtube.com/watch?v=ADlnVxkk23k",
+        "title": "Scary Monsters and Nice Sprites (Kaskade Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "More Monsters and Sprites EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XF8C0RZb7vE",
+        "video_url": "https://www.youtube.com/watch?v=XF8C0RZb7vE",
+        "title": "Scary Monsters and Nice Sprites (Phonat Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "More Monsters and Sprites EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9uVitTPLJKc",
+        "video_url": "https://www.youtube.com/watch?v=9uVitTPLJKc",
+        "title": "Scary Monsters and Nice Sprites (The Juggernaut Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ahW4VFuy-q1m_HXw23LvKU1NooL3AbT4lkSaBAImd1Wen3qrQKzqQkKVCe18wxJZQp8MliqXZlfFqlSI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "More Monsters and Sprites EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "l4ciFmOCqIE",
+        "video_url": "https://www.youtube.com/watch?v=l4ciFmOCqIE",
+        "title": "Reptile's Theme",
+        "thumbnail_url": "https://lh3.googleusercontent.com/n0FQdLBpwZbsg6OrtAhRVXKpJfPlOoWnd-xlpRVtlVk0Qa9xONJnLdgXcjcCeOqJf_hKAjcTCMpmRyiZ=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Mortal Kombat (Songs Inspired by the Warriors)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bypWvObSX3g",
+        "video_url": "https://www.youtube.com/watch?v=bypWvObSX3g",
+        "title": "All Is Fair in Love and Brostep (with Ragga Twins)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "aJtKp1Uq11A",
+        "video_url": "https://www.youtube.com/watch?v=aJtKp1Uq11A",
+        "title": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xlvbn920f6s",
+        "video_url": "https://www.youtube.com/watch?v=xlvbn920f6s",
+        "title": "Dirty Vibe (with Diplo, G-Dragon, and CL)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "P0EzrAKRH-Q",
+        "video_url": "https://www.youtube.com/watch?v=P0EzrAKRH-Q",
+        "title": "Ease My Mind (feat. Niki and the Dove)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "RVFSQyH_rl8",
+        "video_url": "https://www.youtube.com/watch?v=RVFSQyH_rl8",
+        "title": "Fire Away (with Kid Harpoon)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-jsANliIBmQ",
+        "video_url": "https://www.youtube.com/watch?v=-jsANliIBmQ",
+        "title": "Fuck That",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "q4FCOPibVEk",
+        "video_url": "https://www.youtube.com/watch?v=q4FCOPibVEk",
+        "title": "Ragga Bomb (with Ragga Twins)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pZ79wTVoBZ4",
+        "video_url": "https://www.youtube.com/watch?v=pZ79wTVoBZ4",
+        "title": "Recess (with Kill The Noise, Fatman Scoop, and Michael Angelakos)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ICutvG31WhI",
+        "video_url": "https://www.youtube.com/watch?v=ICutvG31WhI",
+        "title": "Stranger (with KillaGraham and Sam Dew)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zMMjpXGSU2k",
+        "video_url": "https://www.youtube.com/watch?v=zMMjpXGSU2k",
+        "title": "Try It Out (with Alvin Risk) [Neon Mix]",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ki9MBahskwhAiMxmRUuwO3n2-5m8wta5xRpi5xoaXovWKKs-rFAQ2wjBD7c7HmRqfEOmUdyNzb4QVnI=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Recess",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ILxJ5i2zLPQ",
+        "video_url": "https://www.youtube.com/watch?v=ILxJ5i2zLPQ",
+        "title": "All I Ask of You (feat. Pennybirdrabbit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mrKu9RIcmptb5y3x-lHW46bQC05rMNKMKeaQ5F8TpMW9hUbheMGAVV69Jt0ipPs_qzDiItHrw1EKrwg=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bfszqTzEsnw",
+        "video_url": "https://www.youtube.com/watch?v=bfszqTzEsnw",
+        "title": "Kill EVERYBODY",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mrKu9RIcmptb5y3x-lHW46bQC05rMNKMKeaQ5F8TpMW9hUbheMGAVV69Jt0ipPs_qzDiItHrw1EKrwg=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Zo1x0B503g8",
+        "video_url": "https://www.youtube.com/watch?v=Zo1x0B503g8",
+        "title": "Rock 'n' Roll (Will Take You to the Mountain)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mrKu9RIcmptb5y3x-lHW46bQC05rMNKMKeaQ5F8TpMW9hUbheMGAVV69Jt0ipPs_qzDiItHrw1EKrwg=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qrLuLROPCd0",
+        "video_url": "https://www.youtube.com/watch?v=qrLuLROPCd0",
+        "title": "Scary Monsters and Nice Sprites",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mrKu9RIcmptb5y3x-lHW46bQC05rMNKMKeaQ5F8TpMW9hUbheMGAVV69Jt0ipPs_qzDiItHrw1EKrwg=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6lJjotvT4FQ",
+        "video_url": "https://www.youtube.com/watch?v=6lJjotvT4FQ",
+        "title": "Mumbai Power (feat. Beam)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/CpDF4u272Ond_S4lCHKTik0J1XcNhP5I0PvCWOMfvQz1Z5ewlgCvIn0EiSn2ca1-k8EfOQaI3c4AOm79cg=w120-h120-l90-rj",
+        "artist": "Skrillex",
+        "album": "Show Tracks",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "rV9r3GllOPQ",
+        "video_url": "https://www.youtube.com/watch?v=rV9r3GllOPQ",
+        "title": "Selecta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex & BEAM",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7HUrnVjN7EM",
+        "video_url": "https://www.youtube.com/watch?v=7HUrnVjN7EM",
+        "title": "Painting Rainbows",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex & Bibi Bourelly",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "H47EGMG6yv8",
+        "video_url": "https://www.youtube.com/watch?v=H47EGMG6yv8",
+        "title": "Real Spring",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex & Bladee",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YuuLAfGfVQU",
+        "video_url": "https://www.youtube.com/watch?v=YuuLAfGfVQU",
+        "title": "Leave Me Like This",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex & Bobby Raps",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "vY6B8uj1plY",
         "video_url": "https://www.youtube.com/watch?v=vY6B8uj1plY",
         "title": "Make It Bun Dem",
         "thumbnail_url": "https://lh3.googleusercontent.com/j-UclHWpEC9wHk_ztC1DqFJtaY5TNAEvsP3X2E990h2Cbz-GmgknHAKuT6Elebd1UdbMfdAmK838we8=w120-h120-l90-rj",
         "artist": "Skrillex & Damian \"Jr Gong\" Marley",
         "album": "Make It Bun Dem",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "DyVZ2uGFBfs",
+        "video_url": "https://www.youtube.com/watch?v=DyVZ2uGFBfs",
+        "title": "Chicken Soup",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eP5V4tL2LV6M4B47V2TLxw1b65mGyqeoJxDPCDU9sPa03VoeayB-791fvCXsX8NFXn_zJItvnAxib1s=w120-h120-l90-rj",
+        "artist": "Skrillex & Habstrakt",
+        "album": "HOWSLA",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "R9oiV0GS09M",
+        "video_url": "https://www.youtube.com/watch?v=R9oiV0GS09M",
+        "title": "HUMBLE. (SKRILLEX REMIX)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0axY6MLND03ubwSk-gtb61jK4sFt3CkckMhWXo_xB7e0fwW3DANzjTsKenco5oOX5SllyYOSW1wtFN8=w120-h120-l90-rj",
+        "artist": "Skrillex & Kendrick Lamar",
+        "album": "HUMBLE. (SKRILLEX REMIX)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6ISnXlvyXWE",
+        "video_url": "https://www.youtube.com/watch?v=6ISnXlvyXWE",
+        "title": "Summertime",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex & Kid Cudi",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "gqnogTUiQm4",
+        "video_url": "https://www.youtube.com/watch?v=gqnogTUiQm4",
+        "title": "XENA",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex & Nai Barghouti",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tIT3XMEYi4A",
+        "video_url": "https://www.youtube.com/watch?v=tIT3XMEYi4A",
+        "title": "Would You Ever",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zB713fzykTmy4WaRJ2KNTYAGt2eZFn1XxuTLbZIfg6WjNM8nXtedZvBOaV2heszz_UaN4JOoAUxCmr6K=w120-h120-l90-rj",
+        "artist": "Skrillex & Poo Bear",
+        "album": "Would You Ever",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BdpVM4hlTGk",
+        "video_url": "https://www.youtube.com/watch?v=BdpVM4hlTGk",
+        "title": "Purple Lamborghini",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mYHO9d50qYrj4XNWLpueES-8fG63M8FkEa-RXRDb-VtnJdiQy0GLx4LhTjrTv4iwvX1_mcNPatZQVNI=w120-h120-l90-rj",
+        "artist": "Skrillex & Rick Ross",
+        "album": "Purple Lamborghini",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "N6S0Vt2OKfs",
+        "video_url": "https://www.youtube.com/watch?v=N6S0Vt2OKfs",
+        "title": "Good Space",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex & Starrah",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7ifH8ETvufY",
+        "video_url": "https://www.youtube.com/watch?v=7ifH8ETvufY",
+        "title": "Mixed Signals",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex & Swae Lee",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ny4o2yLCdio",
+        "video_url": "https://www.youtube.com/watch?v=ny4o2yLCdio",
+        "title": "Breakn' a Sweat",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5=w120-h120-l90-rj",
+        "artist": "Skrillex & The Doors",
+        "album": "Bangarang EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nBMgEpyQk8c",
+        "video_url": "https://www.youtube.com/watch?v=nBMgEpyQk8c",
+        "title": "The Devil's Den",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5=w120-h120-l90-rj",
+        "artist": "Skrillex & Wolfgang Gartner",
+        "album": "Bangarang EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lBCImCqSZBE",
+        "video_url": "https://www.youtube.com/watch?v=lBCImCqSZBE",
+        "title": "Right on Time",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PJ6VzB7MUlPHB1c__-Ki7V7-z3MhStaP9vEjL1el4i1GcOnwVva8W6Uc84qwMNMEZdYjPbDubmy5CRA5=w120-h120-l90-rj",
+        "artist": "Skrillex, 12th Planet & Kill The Noise",
+        "album": "Bangarang EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CFMcMxzSFQs",
+        "video_url": "https://www.youtube.com/watch?v=CFMcMxzSFQs",
+        "title": "Midnight Hour",
+        "thumbnail_url": "https://lh3.googleusercontent.com/C8GLN2NJngx12lvlGRnmj1MiiD57NkRskz4PvQE-m9zAz5uFbQ8uV4clzq-MCzE1HOEUySq0RhHAb9Y=w120-h120-l90-rj",
+        "artist": "Skrillex, Boys Noize & Ty Dolla $ign",
+        "album": "Midnight Hour",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XL72YvrPbUQ",
+        "video_url": "https://www.youtube.com/watch?v=XL72YvrPbUQ",
+        "title": "Bad For Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex, Corbin & Chief Keef",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3MulAQuVvbs",
+        "video_url": "https://www.youtube.com/watch?v=3MulAQuVvbs",
+        "title": "Hydrate",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Flowdan, BEAM, and PEEKABOO",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "fFU3VEimqe0",
+        "video_url": "https://www.youtube.com/watch?v=fFU3VEimqe0",
+        "title": "Rumble",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Fred again.. & Flowdan",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lFP1svJ4fSo",
+        "video_url": "https://www.youtube.com/watch?v=lFP1svJ4fSo",
+        "title": "Tears",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Joker, & Sleepnet",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7FowCr427RQ",
+        "video_url": "https://www.youtube.com/watch?v=7FowCr427RQ",
+        "title": "Don\u2019t Go",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex, Justin Bieber & Don Toliver",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "67VC7GBak2Y",
+        "video_url": "https://www.youtube.com/watch?v=67VC7GBak2Y",
+        "title": "RATATA",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Missy Elliott & Mr. Oizo",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EljUfqNIQBU",
+        "video_url": "https://www.youtube.com/watch?v=EljUfqNIQBU",
+        "title": "Supersonic (my existence)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Noisia, josh pan & Dylan Brady",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "cHxiwouZB7s",
+        "video_url": "https://www.youtube.com/watch?v=cHxiwouZB7s",
+        "title": "Way Back",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex, PinkPantheress & Trippie Redd",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "i2FYhe3Yeek",
+        "video_url": "https://www.youtube.com/watch?v=i2FYhe3Yeek",
+        "title": "Still Here (with the ones that I came with)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Porter Robinson & Bibi Bourelly",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "aeFWl5k8Mno",
+        "video_url": "https://www.youtube.com/watch?v=aeFWl5k8Mno",
+        "title": "3am",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex, Prentiss & Anthony Green",
+        "album": "Don\u2019t Get Too Close",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CRqx7dJhmHw",
+        "video_url": "https://www.youtube.com/watch?v=CRqx7dJhmHw",
+        "title": "Butterflies",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Starrah & Four Tet",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "HGhCe34wb5c",
+        "video_url": "https://www.youtube.com/watch?v=HGhCe34wb5c",
+        "title": "TOO BIZARRE (juked)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v0TXS3-mkqU43syko0WtUA5836jrlXHl2bpx2BwNGMPXhW-172lptuu6aULqoRJtaDoiveoz6gC8ZmSWkw=w120-h120-l90-rj",
+        "artist": "Skrillex, Swae Lee, Siiickbrain & Posij",
+        "album": "Quest For Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "IPPRQDOq2AI",
+        "video_url": "https://www.youtube.com/watch?v=IPPRQDOq2AI",
+        "title": "Ceremony",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MgptyFO7X3NTnJLW6Lbvi3Z5W03pafCAEP1P9kY9QnzHv0isPV0XKrYHCVKOZ4iGYJ9QNT4kEvLhudWMA=w120-h120-l90-rj",
+        "artist": "Skrillex, Yung Lean & Bladee",
+        "album": "Don\u2019t Get Too Close",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -285,6 +924,33 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
         "artist": "Ti\u00ebsto & KAROL G",
         "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "c79hFhsHtnI",
+        "video_url": "https://www.youtube.com/watch?v=c79hFhsHtnI",
+        "title": "SICKO MODE (Skrillex Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/obdQEmsLOX0TgVlKFNa2zyQQsqr53r78rE_mjGTjVJv0T4D3LA2CQtSEX9czGbtu0_wO393mN1r8VTd7bg=w120-h120-l90-rj",
+        "artist": "Travis Scott & Skrillex",
+        "album": "SICKO MODE (Skrillex Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qxmRcGT3MQg",
+        "video_url": "https://www.youtube.com/watch?v=qxmRcGT3MQg",
+        "title": "Burial (feat. Pusha T, Moody Good & Trollphace)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ctluGPJszPiLPgFjy9WBA4IhgypSmM42rxQYW7FyrW1TBOUdhxS1seN13nQzfdSLR2R_FFDlFso6-u49=w120-h120-l90-rj",
+        "artist": "Yogi & Skrillex",
+        "album": "Burial",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "fsWxAw_PTxo",
+        "video_url": "https://www.youtube.com/watch?v=fsWxAw_PTxo",
+        "title": "Working For It",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OMEYk7QASp9Cy56epvWO0B7y790-4Gm-QUW6bBjyl1M8t3WhYwIDCR7U5p2Wesxpj_FByk0xQeNtowZX=w120-h120-l90-rj",
+        "artist": "ZHU, Skrillex & THEY.",
+        "album": "Working For It",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -351,12 +1017,183 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "c5giBBWVmdI",
+        "video_url": "https://www.youtube.com/watch?v=c5giBBWVmdI",
+        "title": "Aural Psynapse",
+        "thumbnail_url": "https://lh3.googleusercontent.com/T2gdODZdCDMZj48mNhdWKI6fj5mUuHNsJp33jEarYUZCZ3Sw5oMQsRHtlUfct7qNu5gdM8px2jkBT1QO=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "5 years of mau5",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "H0zJp5zSMw8",
+        "video_url": "https://www.youtube.com/watch?v=H0zJp5zSMw8",
+        "title": "Professional Griefers (feat. Gerard Way)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nPburu1py3rE67UMjpkSojmw9DovkmIkpcnTDkjKOCMAU9ZUmILI3XnqhoSvIGk3sC1kOXnKQRm6OTI2mg=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "> Album Title Goes Here <",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Mv_Fv3znrzg",
+        "video_url": "https://www.youtube.com/watch?v=Mv_Fv3znrzg",
+        "title": "The Veldt (feat. Chris James)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nPburu1py3rE67UMjpkSojmw9DovkmIkpcnTDkjKOCMAU9ZUmILI3XnqhoSvIGk3sC1kOXnKQRm6OTI2mg=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "> Album Title Goes Here <",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Xl3P3Ry-Ay8",
+        "video_url": "https://www.youtube.com/watch?v=Xl3P3Ry-Ay8",
+        "title": "Faxing Berlin",
+        "thumbnail_url": "https://lh3.googleusercontent.com/L-hcHg8MXLorfiDdHuPVeRFe4nhz82AIztAwrrtQ__ELkx82uzr0vLRl4CfcTGYPLjR7-F6A-bie4-sl=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "Faxing Berlin",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "f_AXEZsQuZg",
+        "video_url": "https://www.youtube.com/watch?v=f_AXEZsQuZg",
+        "title": "Ghosts 'n' Stuff (feat. Rob Swire)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yuts2WVdij7w_70rbCFXWy4H4WwrhA9ii2nOU4XscbdBRjUwB5NAPURoYO6Nq7aEqivNTu01kJKhldN2=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "For Lack Of A Better Name",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9P5gQXslrR0",
+        "video_url": "https://www.youtube.com/watch?v=9P5gQXslrR0",
+        "title": "Strobe",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yuts2WVdij7w_70rbCFXWy4H4WwrhA9ii2nOU4XscbdBRjUwB5NAPURoYO6Nq7aEqivNTu01kJKhldN2=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "For Lack Of A Better Name",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "PMAyiRu8_7s",
+        "video_url": "https://www.youtube.com/watch?v=PMAyiRu8_7s",
+        "title": "Alone With You (Unmixed Extended Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3sB51tqHN_gtolnd_6J69Ot55kq5TI4NwHGE8YizLekn9J70fAIm5wTCNapT3GdeZYu5j0hsAYqXTUM=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "Random Album Title (Unmixed Extended Versions)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "kdKmzN4fkPE",
+        "video_url": "https://www.youtube.com/watch?v=kdKmzN4fkPE",
+        "title": "Not Exactly (Unmixed Extended Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3sB51tqHN_gtolnd_6J69Ot55kq5TI4NwHGE8YizLekn9J70fAIm5wTCNapT3GdeZYu5j0hsAYqXTUM=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "Random Album Title (Unmixed Extended Versions)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YPdo-Y15D_0",
+        "video_url": "https://www.youtube.com/watch?v=YPdo-Y15D_0",
+        "title": "My Heart Has Teeth (feat. Skylar Grey)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EloM6T-Ov54LHVxaMFp3D04qxQshNdZ43GsFIPR1XwSXY7WTeI2OzAXjveA0RDtyz7ZA2pwXPaC9PHU=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "Resident Evil (Soundtrack from the Netflix Series)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "O433lvc1710",
+        "video_url": "https://www.youtube.com/watch?v=O433lvc1710",
+        "title": "4ware",
+        "thumbnail_url": "https://lh3.googleusercontent.com/J1dYzLWTc0BOPpnbtyCELVXlr6o2MRg9AkKd1O-XR_PBl6xLUPzMVPEWuUiFhTIcHsJYH11kLBQ4HD-T=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "W:/2016ALBUM/",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qY15crbvCs8",
+        "video_url": "https://www.youtube.com/watch?v=qY15crbvCs8",
+        "title": "XYZ",
+        "thumbnail_url": "https://lh3.googleusercontent.com/40DeeSQHnkQCRfH2YOJOW9_35bUQK1CXlWA7QbxahkA2kj-vHgaQZblZLwNrRF_-MNGzWZDWRGP4PFWLMw=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "XYZ",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "55kYILJoOIE",
+        "video_url": "https://www.youtube.com/watch?v=55kYILJoOIE",
+        "title": "Monophobia (feat. Rob Swire)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aXPbVE2tufFfNgCM4fK-IV6BKtQAngMBKA-WNGKIJD7AxZwan1ir-RAfJh093-pXslQbdxcqxORtd-XvRw=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "mau5ville: Level 1",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "npRTdDTbIWc",
+        "video_url": "https://www.youtube.com/watch?v=npRTdDTbIWc",
+        "title": "Avaritia",
+        "thumbnail_url": "https://lh3.googleusercontent.com/--6Bmq0pxOwEfU9sD_B-bljhdDlncS41EF9-7JvAmVKtrcStwQqXX25WGw-C0ksUYBGNvaqA36s1j6A=w120-h120-l90-rj",
+        "artist": "deadmau5",
+        "album": "while(1<2)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "k1LC6zOK3Mo",
         "video_url": "https://www.youtube.com/watch?v=k1LC6zOK3Mo",
         "title": "I Said (Michael Woods Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/L6qZogVjLAbc8q8CGpRxwr1I4qQmU1-kBNspP3wP8_k-0kOulpK8u9PW4eT91H5wYXQs8NDjfjKzL3G-bQ=w120-h120-l90-rj",
         "artist": "deadmau5 & Chris Lake",
         "album": "4x4=12",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vOk80AV5h7M",
+        "video_url": "https://www.youtube.com/watch?v=vOk80AV5h7M",
+        "title": "Escape (John Summit Remix) (feat. Kx5 & Hayla)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/btVMJP6QatG6E_UJY0lpKSvhEfwEH1wfcWLFpdio_c0LFRLQuk5Y0ZPsLjN7Az6xnjE8EWGB1faTm2xU=w120-h120-l90-rj",
+        "artist": "deadmau5 & Kaskade",
+        "album": "Escape (John Summit Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dFjCxdwr_n8",
+        "video_url": "https://www.youtube.com/watch?v=dFjCxdwr_n8",
+        "title": "I Remember (John Summit Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/z2x9eVLvJ3aVVwwBdZXvjx182PaDmIZ9WrxwEYhl_YSwhwb0nElKaeIgsVgs-pWvEn9MQ19j-kANyjI=w120-h120-l90-rj",
+        "artist": "deadmau5 & Kaskade",
+        "album": "I Remember (John Summit Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9BND-QKR-7c",
+        "video_url": "https://www.youtube.com/watch?v=9BND-QKR-7c",
+        "title": "I Remember (Vocal Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3sB51tqHN_gtolnd_6J69Ot55kq5TI4NwHGE8YizLekn9J70fAIm5wTCNapT3GdeZYu5j0hsAYqXTUM=w120-h120-l90-rj",
+        "artist": "deadmau5 & Kaskade",
+        "album": "Random Album Title (Unmixed Extended Versions)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0PfaVpC9lk0",
+        "video_url": "https://www.youtube.com/watch?v=0PfaVpC9lk0",
+        "title": "I Remember (Strobelight Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zJBYL3Q19zLH7Hq3nmrfVl7n2Adwf_7qNmHox1NNDBbLGGq7TFbQPWYM67UY9YcYcajiqTUPntkEBTHS=w120-h120-l90-rj",
+        "artist": "deadmau5 & Kaskade",
+        "album": "Strobelite Seduction",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0mSzZJhL7n8",
+        "video_url": "https://www.youtube.com/watch?v=0mSzZJhL7n8",
+        "title": "Bridged By A Lightwave",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PzLvYH4rkYtjo5slkDWr0PbpXsVrOpee3xnhdHzK2xNebUbKej5GfwiQakihdVEwwaeVw4YsaYk8VUELFg=w120-h120-l90-rj",
+        "artist": "deadmau5 & Kiesza",
+        "album": "Bridged By A Lightwave",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "E5aIFDFE9ys",
+        "video_url": "https://www.youtube.com/watch?v=E5aIFDFE9ys",
+        "title": "When The Summer Dies",
+        "thumbnail_url": "https://lh3.googleusercontent.com/riTN6tfAIYC467GYd9MVjWgHsTyIwNY2Aphca80RQaYjUXylA_mU8irRba1sxP5pzAvK0-m0XDRiRPYg=w120-h120-l90-rj",
+        "artist": "deadmau5 & Lights",
+        "album": "When The Summer Dies",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -384,6 +1221,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/L6qZogVjLAbc8q8CGpRxwr1I4qQmU1-kBNspP3wP8_k-0kOulpK8u9PW4eT91H5wYXQs8NDjfjKzL3G-bQ=w120-h120-l90-rj",
         "artist": "deadmau5 & Wolfgang Gartner",
         "album": "4x4=12",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wtSCXkFrl8U",
+        "video_url": "https://www.youtube.com/watch?v=wtSCXkFrl8U",
+        "title": "The Veldt Cinema (BYNX Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/y6BP0-XqUNKDg2lBlYO0yD3OztBTxJUyoHcNz4xM_jWLZl860NiSCIcI-sjvKvSlJgzpzOEAHMuJntra=w120-h120-l90-rj",
+        "artist": "deadmau5, Benny Benassi & Gary Go",
+        "album": "The Veldt Cinema (BYNX Edit)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "FdydUgsJEPs",
+        "video_url": "https://www.youtube.com/watch?v=FdydUgsJEPs",
+        "title": "Alive (KREAM Remix) (feat. The Moth & The Flame)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0qyGqRIqAzhL1-h5I2IochHk97s8HcLhLbxsSd0yNZbfzbiofY6nfUYD2y7KW45LAVP_EVgj7HtxMghS=w120-h120-l90-rj",
+        "artist": "deadmau5, Kaskade & Kx5",
+        "album": "Alive (KREAM Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
