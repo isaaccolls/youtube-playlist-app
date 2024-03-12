@@ -1,5 +1,23 @@
 [
     {
+        "video_id": "xAJWLsWSV54",
+        "video_url": "https://www.youtube.com/watch?v=xAJWLsWSV54",
+        "title": "Your Love (9PM) (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-JHho37vMkgWxtP-toe9llSQnSsISY371b3l_erEmNTKzP2bbcsR53MpPwB14Vqkl2p-4KcDOH-hzY99fA=w120-h120-l90-rj",
+        "artist": "ATB, Topic, A7S & Ti\u00ebsto",
+        "album": "Your Love (9PM) (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Vl3A49ZApkQ",
+        "video_url": "https://www.youtube.com/watch?v=Vl3A49ZApkQ",
+        "title": "Barbie Girl (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3Jg7DX_dF_p7RLBw0Vt1qny_qCpBvF0FEMtP8RnyIfmon9IhRaNV4-A9tOByjjQRmSrrXrMpl-UMHM0N=w120-h120-l90-rj",
+        "artist": "Aqua & Ti\u00ebsto",
+        "album": "Barbie Girl (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "wDuoOapZ9Z0",
         "video_url": "https://www.youtube.com/watch?v=wDuoOapZ9Z0",
         "title": "Levels",
@@ -15,6 +33,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/bsPieoSMF402F_05hHOq7FITGDPllsNcBnjPE0WUi6T2a4A130z6qqjJLCEV10kE1pCSGBxKt0Bdgfkc=w120-h120-l90-rj",
         "artist": "Avicii",
         "album": "Levels",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "I9svIq_-EfY",
+        "video_url": "https://www.youtube.com/watch?v=I9svIq_-EfY",
+        "title": "NO MIENTEN (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bGHKUl4_pDZ0IaOoZK880lZsLVPJ6_UqWqy0ScTf9l446SadkOJHp3QLblQRpG7EnKN2kP0sTBkiXZo=w120-h120-l90-rj",
+        "artist": "Becky G & Ti\u00ebsto",
+        "album": "NO MIENTEN (Ti\u00ebsto Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -42,6 +69,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/DGK8biglnJ3JUCw-lnUmElEf-F7VFeUguJZdGhEjuOz0_I5H0-5_ugRfzRoeEiP0jkpHoAD8Y5X0x0L0=w120-h120-l90-rj",
         "artist": "Calvin Harris & Rihanna",
         "album": "This Is What You Came For",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "uuVl24tL7q8",
+        "video_url": "https://www.youtube.com/watch?v=uuVl24tL7q8",
+        "title": "Fire for You (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rICPKGU54ruerPDbhsMbEbwpptSqKcpAki4FVUJ4wYuCE_p-MpT4T-j5bmXRM9NPLIXAyd_ULq4z7igH=w120-h120-l90-rj",
+        "artist": "Cannons & Ti\u00ebsto",
+        "album": "Fire for You (Ti\u00ebsto Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -117,12 +153,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "DxWk6_l2NVg",
+        "video_url": "https://www.youtube.com/watch?v=DxWk6_l2NVg",
+        "title": "Thank You (Not So Bad)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oyAtpVb8D0s296XxuhrUqRgyt7rI67HNXv5-6eSGq_UIsHj6l5DdGtJlGu7IZpRwgSVrsmTHFWhtN-IJ=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas & Like Mike, Ti\u00ebsto, Dido & W&W",
+        "album": "Thank You (Not So Bad)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "yBSH4NocOwM",
+        "video_url": "https://www.youtube.com/watch?v=yBSH4NocOwM",
+        "title": "Pepas (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uXmjhLYf-9OSo75NzmQOGF82k1bOiePDeJDdD2iU-aHUCaRND7ZATfWSOMmTquYUZUiCKswDl3MB5SvE=w120-h120-l90-rj",
+        "artist": "Farruko & Ti\u00ebsto",
+        "album": "Pepas (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "3zXmvAjREDA",
         "video_url": "https://www.youtube.com/watch?v=3zXmvAjREDA",
         "title": "Baby again..",
         "thumbnail_url": "https://lh3.googleusercontent.com/RUt8a1MDyo04ZeAQO9n98m5DIznK0H3PMbSfklyztTcGzOZChOwtYNT5jj3MI7qOsV-W3oVV2CZYWmE=w120-h120-l90-rj",
         "artist": "Fred again.., Skrillex & Four Tet",
         "album": "USB",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YFMUiAuny-A",
+        "video_url": "https://www.youtube.com/watch?v=YFMUiAuny-A",
+        "title": "Good Love (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nXhhDwrDVRJJnc4MmllhKmMJUev6s7bVdx-BoIyVGiLVrxBM8rWYntmKolfVS67v44z2_H5_VQ1HNjmuTg=w120-h120-l90-rj",
+        "artist": "Hannah Laing, RoRo & Ti\u00ebsto",
+        "album": "Good Love (Ti\u00ebsto Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -180,6 +243,42 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "6ZKCpI49iL4",
+        "video_url": "https://www.youtube.com/watch?v=6ZKCpI49iL4",
+        "title": "Drums (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NzoM33ChbUu3e8UuzkZMfF539ZNnvB4LKTyA70pCKwJ5U-JtRKWSX7bOhCGF_PGKtGUxgGyNvrJWxAE=w120-h120-l90-rj",
+        "artist": "James Hype, Kim Petras & Ti\u00ebsto",
+        "album": "Drums (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pyaguadJHz4",
+        "video_url": "https://www.youtube.com/watch?v=pyaguadJHz4",
+        "title": "CONTIGO",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TbNdi6gBz1unZPlefxSzjTTr1UOPY6qID34BHccOvXoukFwOT7e0Cv2c_RK6_wO5MbwRjCADopUQOcI=w120-h120-l90-rj",
+        "artist": "KAROL G & Ti\u00ebsto",
+        "album": "CONTIGO",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "eWvJxFjizAU",
+        "video_url": "https://www.youtube.com/watch?v=eWvJxFjizAU",
+        "title": "PROVENZA (REMIX)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pgekGa1pMHRwSGGCtfhrGyw2KGIhHx-SS5cEjQa5hm53ifUGWEJ4Af2yqzM5OIlmie3YjOslempXBeOp=w120-h120-l90-rj",
+        "artist": "KAROL G & Ti\u00ebsto",
+        "album": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tFqTGzaoRsM",
+        "video_url": "https://www.youtube.com/watch?v=tFqTGzaoRsM",
+        "title": "Softly (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/R1YuN-pFnoRxLrruJh_oWIc1Dyrl1lPDC6n1kwi33xz4u1mHpxocWvP244C-_CxZyvl9kbHB5t1N4r8k=w120-h120-l90-rj",
+        "artist": "Karan Aujla, Ikky & Ti\u00ebsto",
+        "album": "Softly (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "rcooEdcNZiM",
         "video_url": "https://www.youtube.com/watch?v=rcooEdcNZiM",
         "title": "Lick It (Extended)",
@@ -204,6 +303,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/-7b5Ug6Y_orTplSbj7ESOFx3U2TzCAd_sgPdpwIX4B_n7huhxUIKASzTLnLGJHijamZ9wiHAsrgfiuue=w120-h120-l90-rj",
         "artist": "Kaskade, deadmau5 & Sofi Tukker",
         "album": "Sacrifice",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hGCgK1HtI8s",
+        "video_url": "https://www.youtube.com/watch?v=hGCgK1HtI8s",
+        "title": "Resilient (Ti\u00ebsto Remix) (feat. Aitana)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VrLqai-oIdwIbSQBQi2tNXo49g7uV34hpMGnsDt4tV8b0KPIJzHUxJb3efAnqDEP1YyAzWTYNrt2sqiT=w120-h120-l90-rj",
+        "artist": "Katy Perry & Ti\u00ebsto",
+        "album": "Resilient (Ti\u00ebsto Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -303,6 +411,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/0yQzqVY4caFUSaLnIhiYkVt4miGqvfTkIszUXrMHf_xn2fMhzg3RRTgA9BuQu7Bw5NIDCEXZcgIeaBU=w120-h120-l90-rj",
         "artist": "Martin Garrix",
         "album": "Animals",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wLbMjr822-s",
+        "video_url": "https://www.youtube.com/watch?v=wLbMjr822-s",
+        "title": "The Only Way Is Up",
+        "thumbnail_url": "https://lh3.googleusercontent.com/sqPHdIWNmvFPj_7beI1NlxdHZOjiMThTbdCWKPTEPcZib-6o6izLGdxRjY2ts4vGpz2_Ep1Ut_4MsnFA=w120-h120-l90-rj",
+        "artist": "Martin Garrix & Ti\u00ebsto",
+        "album": "The Only Way Is Up",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -900,6 +1017,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "4nZcnVeZNNE",
+        "video_url": "https://www.youtube.com/watch?v=4nZcnVeZNNE",
+        "title": "Asking (Ti\u00ebsto Remix) (feat. Clementine Douglas)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WhfATcm-q0Aj6bUx3uJ7P2qllleK7sjklmohDEJLdvEpg_F_pCVXogp1Mtdoo3_sNk414JpajhfiK7LAnA=w120-h120-l90-rj",
+        "artist": "Sonny Fodera, MK & Ti\u00ebsto",
+        "album": "Asking (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "3mWbRB3Y4R8",
         "video_url": "https://www.youtube.com/watch?v=3mWbRB3Y4R8",
         "title": "Don't You Worry Child (Radio Edit) (feat. John Martin)",
@@ -918,12 +1044,894 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ck7s0DosNdg",
+        "video_url": "https://www.youtube.com/watch?v=ck7s0DosNdg",
+        "title": "Feel It (Explicit Album Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/F4J8kNfMRVPnF2-4WN534ASQGqGQfMffcPcSLJvrI4Hiw-6v1_zuU4NIGSSDYsSlc40IS6Rr8kPpGZGJ=w120-h120-s-l90-rj",
+        "artist": "Three 6 Mafia & Ti\u00ebsto",
+        "album": "Feel It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "a1Xulp6oWXE",
+        "video_url": "https://www.youtube.com/watch?v=a1Xulp6oWXE",
+        "title": "10:35 [Joel Corry Remix] (feat. Tate McRae)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SxHVIVIH-GKkLzNwMqwriy_iuS3MYxNieIXsyrALM2fK39_47J9WMMzG2LdNH9oKb5lbtTyCCg-GqjY=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "10:35 (Joel Corry Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jpTXE7GLAn4",
+        "video_url": "https://www.youtube.com/watch?v=jpTXE7GLAn4",
+        "title": "Footprints (feat. Cruickshank)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zfoReKJRQEd8KUubI9cbUH8ZVG7VyG2jRybUI_3wtwqhAggA63FROxMA9_46tjClM0p9ytHYeUyoeuY0qg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "A Town Called Paradise (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UwTB5SXsHXs",
+        "video_url": "https://www.youtube.com/watch?v=UwTB5SXsHXs",
+        "title": "Light Years Away (feat. DBX)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zfoReKJRQEd8KUubI9cbUH8ZVG7VyG2jRybUI_3wtwqhAggA63FROxMA9_46tjClM0p9ytHYeUyoeuY0qg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "A Town Called Paradise (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1Gb6MIuWpW8",
+        "video_url": "https://www.youtube.com/watch?v=1Gb6MIuWpW8",
+        "title": "Red Lights",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zfoReKJRQEd8KUubI9cbUH8ZVG7VyG2jRybUI_3wtwqhAggA63FROxMA9_46tjClM0p9ytHYeUyoeuY0qg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "A Town Called Paradise (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "R3AinKn-7WI",
+        "video_url": "https://www.youtube.com/watch?v=R3AinKn-7WI",
+        "title": "Take Me (Radio Edit) (feat. Kyler England)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zfoReKJRQEd8KUubI9cbUH8ZVG7VyG2jRybUI_3wtwqhAggA63FROxMA9_46tjClM0p9ytHYeUyoeuY0qg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "A Town Called Paradise (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JMful7F2xcY",
+        "video_url": "https://www.youtube.com/watch?v=JMful7F2xcY",
+        "title": "Wasted (feat. Matthew Koma)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zfoReKJRQEd8KUubI9cbUH8ZVG7VyG2jRybUI_3wtwqhAggA63FROxMA9_46tjClM0p9ytHYeUyoeuY0qg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "A Town Called Paradise (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "43ZwME9TZiQ",
+        "video_url": "https://www.youtube.com/watch?v=43ZwME9TZiQ",
+        "title": "Adagio for Strings (Original LP Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/op2qcQkvBEU5XHWgGcgve5vsmkwP1E_gp3M1gELN5fhgT8NrhQ-M71EcucY1qAhgSO6moZqVzEW1S9k=w120-h120-s-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Adagio For Strings",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BbqA-1z2pm4",
+        "video_url": "https://www.youtube.com/watch?v=BbqA-1z2pm4",
+        "title": "BLUE (feat. Stevie Appleton)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/BRcmAyaEnfrBRKThuAcc9yzkHw4Ihe-O8NtX_2isVWwpw1sVSX9EFj6qImGU9xx4xobWnb1E2-Qi8xc=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "BLUE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "gf0N8VGB25o",
+        "video_url": "https://www.youtube.com/watch?v=gf0N8VGB25o",
+        "title": "Baila Conmigo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4bwAIMqUjxQzZfv8Ew2Xm5EHJdzvdHhXE1_Kz-n9RjRxaHyOCPeovnxpnDIEhOGazVwNXMfCzHBpdmER=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Baila Conmigo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1qaSNGxKu1M",
+        "video_url": "https://www.youtube.com/watch?v=1qaSNGxKu1M",
+        "title": "Carry You Home (feat. StarGate & Aloe Blacc)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lqQMd9_mZjMHa8D0b24_uvgBSlCg1tFm8NVxtjmZTR8OayrLQqI3ooAyNfC9Kd88xUfMhZQuKqMiDWkb=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Carry You Home",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1qr4xBhL1jg",
+        "video_url": "https://www.youtube.com/watch?v=1qr4xBhL1jg",
+        "title": "All Nighter",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "N9lGG68WoSs",
+        "video_url": "https://www.youtube.com/watch?v=N9lGG68WoSs",
+        "title": "Hot In It (feat. Charli XCX)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0ndJe3SVnQE",
+        "video_url": "https://www.youtube.com/watch?v=0ndJe3SVnQE",
+        "title": "Lay Low",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2k8VRpoGdG8",
+        "video_url": "https://www.youtube.com/watch?v=2k8VRpoGdG8",
+        "title": "Yesterday",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SMLvQY9sXc1R4q_psEbRgLcSLFI1ljDKynTjjHvR-K4XmstqTVjx_X6BKbygMoOqNBsJLu6bvYziBQa8=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vetoDhy7rJI",
+        "video_url": "https://www.youtube.com/watch?v=vetoDhy7rJI",
+        "title": "Drifting - Mixed",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VIkNE-rx-OpX_RPjE3EGGorlENYtQAjo7U9RJjp4-afdFnK8LUoNZsroKvmsh1-w5cNL4wJ4NgEaG3w5=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "DRIVE Continuous DJ Mix",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ppaBmZC5UnQ",
+        "video_url": "https://www.youtube.com/watch?v=ppaBmZC5UnQ",
+        "title": "Carpe Noctum",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hGcTCgjR8wk",
+        "video_url": "https://www.youtube.com/watch?v=hGcTCgjR8wk",
+        "title": "Driving To Heaven",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "NFGxQVv2NFY",
+        "video_url": "https://www.youtube.com/watch?v=NFGxQVv2NFY",
+        "title": "Elements Of Life",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "puJoT9AIsn8",
+        "video_url": "https://www.youtube.com/watch?v=puJoT9AIsn8",
+        "title": "Ten Seconds Before Sunrise",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_9yW1voaNqw",
+        "video_url": "https://www.youtube.com/watch?v=_9yW1voaNqw",
+        "title": "Hot In It (Ti\u00ebsto\u2019s Hotter Mix) (feat. Charli XCX)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/U8-ignJn7ShKmpPHu82nBA55t7puXxAOJsROy_82eaiSTbrhbl0RNUfPJwjZO18uepVPPzJNqr6uqVI=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Hot In It (Ti\u00ebsto\u2019s Hotter Mix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "IwNhF279RT8",
+        "video_url": "https://www.youtube.com/watch?v=IwNhF279RT8",
+        "title": "Seavolution (From Hotel Transylvania 3)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-uHr5Rz4C0sH99FnVe4a8yC_pwkinmfpAL64UNTmMlaNIR-Unei7uPNa6O9mYkXmw0UgKXNOaPuwB0JW=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Hotel Transylvania 3",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EPJ7u2iP7Gk",
+        "video_url": "https://www.youtube.com/watch?v=EPJ7u2iP7Gk",
+        "title": "Wave Rider (From Hotel Transylvania 3)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-uHr5Rz4C0sH99FnVe4a8yC_pwkinmfpAL64UNTmMlaNIR-Unei7uPNa6O9mYkXmw0UgKXNOaPuwB0JW=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Hotel Transylvania 3",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Yyz8mK8e4sg",
+        "video_url": "https://www.youtube.com/watch?v=Yyz8mK8e4sg",
+        "title": "Flight 643",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Yy__y5G4cW4ZosN8IpD9kNdLvBu12fayNR2pRCWccjhQbQ0N86o2jzExAloQgQWyVGcu03-36v4qQToo=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "In My Memory",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hbo_wSgX3Ao",
+        "video_url": "https://www.youtube.com/watch?v=hbo_wSgX3Ao",
+        "title": "In My Memory (feat. Nicola Hitchcock)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Yy__y5G4cW4ZosN8IpD9kNdLvBu12fayNR2pRCWccjhQbQ0N86o2jzExAloQgQWyVGcu03-36v4qQToo=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "In My Memory",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "GzPocvnbi4o",
+        "video_url": "https://www.youtube.com/watch?v=GzPocvnbi4o",
+        "title": "Lethal Industry",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Yy__y5G4cW4ZosN8IpD9kNdLvBu12fayNR2pRCWccjhQbQ0N86o2jzExAloQgQWyVGcu03-36v4qQToo=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "In My Memory",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lxbr0vzCln4",
+        "video_url": "https://www.youtube.com/watch?v=lxbr0vzCln4",
+        "title": "Suburban Train",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Yy__y5G4cW4ZosN8IpD9kNdLvBu12fayNR2pRCWccjhQbQ0N86o2jzExAloQgQWyVGcu03-36v4qQToo=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "In My Memory",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iXKkjLbyTWA",
+        "video_url": "https://www.youtube.com/watch?v=iXKkjLbyTWA",
+        "title": "Just Be (Radio Edit) (feat. Kirsty Hawkshaw)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/m3GaFPfxwscw3hNNKmUG6SZDpFrFMO_mtrbuuexlHxVJb4LESMcDJmNa5YVv7xgmMTwXsrlUawyxx0k=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "In Search of Sunrise 11 (Las Vegas)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "C7yLpQ4QALs",
+        "video_url": "https://www.youtube.com/watch?v=C7yLpQ4QALs",
+        "title": "I\u2019ll Take You High",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_6bpOExhYVSzWNywpO0jYnNmPZbsQSS6r3iQ6VkxmZ0rhcwu1c6-Jf0BO96PtVxNbSrUtDbfc2J-B20=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "I\u2019ll Take You High",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2zu5H--Gcdw",
+        "video_url": "https://www.youtube.com/watch?v=2zu5H--Gcdw",
+        "title": "Forever Today",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MJRWydDua_SbPbuSsIaMDsBDFqwx0EHlCbDW-ID7YxtP43CcnSG56uR8U9NqQPbryIYgtrrdyQ3uxd8R=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Just Be",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "M16_xTAfxvQ",
+        "video_url": "https://www.youtube.com/watch?v=M16_xTAfxvQ",
+        "title": "Loves Comes Again (feat. BT)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MJRWydDua_SbPbuSsIaMDsBDFqwx0EHlCbDW-ID7YxtP43CcnSG56uR8U9NqQPbryIYgtrrdyQ3uxd8R=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Just Be",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tbMuehmuAl8",
+        "video_url": "https://www.youtube.com/watch?v=tbMuehmuAl8",
+        "title": "Nyana",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MJRWydDua_SbPbuSsIaMDsBDFqwx0EHlCbDW-ID7YxtP43CcnSG56uR8U9NqQPbryIYgtrrdyQ3uxd8R=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Just Be",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "GNKVmXL5O8k",
+        "video_url": "https://www.youtube.com/watch?v=GNKVmXL5O8k",
+        "title": "Traffic",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MJRWydDua_SbPbuSsIaMDsBDFqwx0EHlCbDW-ID7YxtP43CcnSG56uR8U9NqQPbryIYgtrrdyQ3uxd8R=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Just Be",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EAoMV_QWTVU",
+        "video_url": "https://www.youtube.com/watch?v=EAoMV_QWTVU",
+        "title": "Escape Me (feat. C.C. Sheffield)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WCtkXMgskqKmR_3vIKFIJUtNjM0hBEeKVnKmGBnRFl2TeNcFbjZmophqlZevJ-jWThNpGFLnrdrgqBde=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Kaleidoscope",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1Pm2RZABmzw",
+        "video_url": "https://www.youtube.com/watch?v=1Pm2RZABmzw",
+        "title": "Feel It In My Bones (feat. Tegan & Sara & Sara)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WCtkXMgskqKmR_3vIKFIJUtNjM0hBEeKVnKmGBnRFl2TeNcFbjZmophqlZevJ-jWThNpGFLnrdrgqBde=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Kaleidoscope",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jp_OePAA0JQ",
+        "video_url": "https://www.youtube.com/watch?v=jp_OePAA0JQ",
+        "title": "I Will Be Here (feat. Sneaky Sound System)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WCtkXMgskqKmR_3vIKFIJUtNjM0hBEeKVnKmGBnRFl2TeNcFbjZmophqlZevJ-jWThNpGFLnrdrgqBde=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Kaleidoscope",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BjHKa43XMB8",
+        "video_url": "https://www.youtube.com/watch?v=BjHKa43XMB8",
+        "title": "Louder Than Boom",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WCtkXMgskqKmR_3vIKFIJUtNjM0hBEeKVnKmGBnRFl2TeNcFbjZmophqlZevJ-jWThNpGFLnrdrgqBde=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Kaleidoscope",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "q42X5oCeG2M",
+        "video_url": "https://www.youtube.com/watch?v=q42X5oCeG2M",
+        "title": "Who Wants To Be Alone (feat. Nelly Furtado)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WCtkXMgskqKmR_3vIKFIJUtNjM0hBEeKVnKmGBnRFl2TeNcFbjZmophqlZevJ-jWThNpGFLnrdrgqBde=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Kaleidoscope",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "RHAqbnDEPEY",
+        "video_url": "https://www.youtube.com/watch?v=RHAqbnDEPEY",
+        "title": "Lay Low (Argy Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-TxNhB9ull1-ViwTuKRY2eQ4HS8EIeBvBL5X7zpBbkYIhTK_ovxmk9PY-Hv1etJkWsX06uGrdI_1J5HVxw=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Lay Low (Argy Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "yK-yJ2Rh-HM",
+        "video_url": "https://www.youtube.com/watch?v=yK-yJ2Rh-HM",
+        "title": "Maximal Crazy (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Xa9BadYVUr2rTZ2oJw1yy_2VvKiG9y6AouHyn9MZxHup1q2USNwC5zp1bhrWiKJ5fK-HS1Cti4578yO1=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Maximal Crazy (Extended Mix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EU3G43RLhHg",
+        "video_url": "https://www.youtube.com/watch?v=EU3G43RLhHg",
+        "title": "On My Way (feat. Bright Sparks)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ENLroh-zswxQnjMsIKJMZMs_b03paNmbHPkxeotXvtJbZWUrYVzOKjghVt_uzPh1cl6ITq0m1KtE7mn0=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "On My Way",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3RKbVOTY4b4",
+        "video_url": "https://www.youtube.com/watch?v=3RKbVOTY4b4",
+        "title": "Athena",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9Zt0BJRAzc6n9rkywgpZQqmTXXA8cox2bNtAuC3LtDXjzssqKe-t-kqcMXUebpVwD3DAWX38RoHLi5IN=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Parade of the Athletes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "mWGVg7IeM_A",
+        "video_url": "https://www.youtube.com/watch?v=mWGVg7IeM_A",
+        "title": "Traffic (Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9Zt0BJRAzc6n9rkywgpZQqmTXXA8cox2bNtAuC3LtDXjzssqKe-t-kqcMXUebpVwD3DAWX38RoHLi5IN=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "Parade of the Athletes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bpGJqJ53oEc",
+        "video_url": "https://www.youtube.com/watch?v=bpGJqJ53oEc",
+        "title": "The Business",
+        "thumbnail_url": "https://lh3.googleusercontent.com/p5JyWF-SVCaWNv3FD1F2bcP8FnOcU3AP07mPWG_9ofdjIDJ2-_PWgrM74YoVPBpB9IMJQqAfn_el4MrI=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "The Business",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "D4KdvQNiSlk",
+        "video_url": "https://www.youtube.com/watch?v=D4KdvQNiSlk",
+        "title": "The Business (Vintage Culture & Dubdogz Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TnC42uKLgfZTQwyYNeBmKVJni8H3bPBUCH9fBo4mXvl8Si2P17uZ2Qq7XUn6n6V7sddtPKhpUn2Vo2M=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "The Business (Vintage Culture & Dubdogz Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1QQfJT2V2YI",
+        "video_url": "https://www.youtube.com/watch?v=1QQfJT2V2YI",
+        "title": "BLUE (feat. Stevie Appleton)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "The London Sessions",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6ap8LvpH8a4",
+        "video_url": "https://www.youtube.com/watch?v=6ap8LvpH8a4",
+        "title": "Insomnia (feat. Violet Skies)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "The London Sessions",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ieDfIxvuNlI",
+        "video_url": "https://www.youtube.com/watch?v=ieDfIxvuNlI",
+        "title": "Lose You (feat. ILIRA)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "The London Sessions",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pZvE2ZrX2Zw",
+        "video_url": "https://www.youtube.com/watch?v=pZvE2ZrX2Zw",
+        "title": "WOW",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yXBvPKkRSw1SeHZhXnBZMTnsaCYhO3RpymK1KrdDoJ_mmaDNTQHQnlZBbaKc1dIkaV7gxTMzal7AqLCl=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "album": "WOW",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "j16R3ShjT1c",
+        "video_url": "https://www.youtube.com/watch?v=j16R3ShjT1c",
+        "title": "My Frequency (feat. RebMoe)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MnqxSdFeMfYuO3oUpxDSm-2LbSukV05kGTTLiSrZiJvUygyAC2Gl5YS-o7S26BAGlfxOJlkI_wyoIJoTLQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & 7 Skies",
+        "album": "Together",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "sFW1M6hQz9s",
+        "video_url": "https://www.youtube.com/watch?v=sFW1M6hQz9s",
+        "title": "Chills (LA Hills)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & A Boogie Wit da Hoodie",
+        "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tWIJFhZ69_U",
+        "video_url": "https://www.youtube.com/watch?v=tWIJFhZ69_U",
+        "title": "The Motto",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FUG5Y3cVLCIoylGGa_jJrKuTP2p8LFtN4k-n5kmAosqPPRuq3wOHZEE4Zhbh9uNdDw4EzlWT2c9OlWLO=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Ava Max",
+        "album": "The Motto",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Kk6oCu62rK8",
+        "video_url": "https://www.youtube.com/watch?v=Kk6oCu62rK8",
+        "title": "The Motto (Ti\u00ebsto\u2019s VIP Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZjKLH8_8Vk-ojQ9lo06m5JIxsI3Lswazoz4mWxKZ57OSmMVffkR6TdhsBGpASRobMhqGNKC_AVh_Zz2z=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Ava Max",
+        "album": "The Motto (Ti\u00ebsto\u2019s VIP Mix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ake1Y7ryJMs",
+        "video_url": "https://www.youtube.com/watch?v=ake1Y7ryJMs",
+        "title": "BOTH (with 21 Savage) (feat. 21 Savage)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fbfUzviNH4TqqTHZ7xUPl_Fslymhbzq930hvwQFcGcpyukUsk9B2WLh-oZio2DmAdlvFgIXZnZdS_e8ABA=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & BIA",
+        "album": "BOTH (with 21 Savage)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UJ1IIO2vziI",
+        "video_url": "https://www.youtube.com/watch?v=UJ1IIO2vziI",
+        "title": "Nothing Really Matters",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Becky Hill",
+        "album": "The London Sessions",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "gK20DbUvAo0",
+        "video_url": "https://www.youtube.com/watch?v=gK20DbUvAo0",
+        "title": "Pump It Louder",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Black Eyed Peas",
+        "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hkOEaJcKNgQ",
+        "video_url": "https://www.youtube.com/watch?v=hkOEaJcKNgQ",
+        "title": "Meet Her (Ti\u00ebsto vs. Da Hool)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5SJDfU-FAbFRl0aAdXYsf3i2F_S0ph4hrtQjXrBwaehk-3B2E6qS8l-BZPeIcpYRNKSMbnKnh1fhgSvupg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Da Hool",
+        "album": "Meet Her (Ti\u00ebsto vs. Da Hool)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6m3G4-CXdgY",
+        "video_url": "https://www.youtube.com/watch?v=6m3G4-CXdgY",
+        "title": "Show Me (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rwafk0bFxQGnKM9wkSDhUW3URAtrXZb70ae3qH5pYgaRYqQMIuO1DTUjsnWTa0QGvdTCgbsai9Ru3Sr4=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & DallasK",
+        "album": "Show Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EMValqupMEM",
+        "video_url": "https://www.youtube.com/watch?v=EMValqupMEM",
+        "title": "Savage",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mOi6tVXfH4VIWaCXKOsZEq_Tn18BXuoN0yI9VcZG_Cb_B0I2ut8nwenMCYQBUeEYPD6hli7RX9zgfb4HRA=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Deorro",
+        "album": "Savage",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "PtNDQuP-Zl0",
+        "video_url": "https://www.youtube.com/watch?v=PtNDQuP-Zl0",
+        "title": "C'Mon (Catch 'Em by Surprise) (Instrumental) (feat. Busta Rhymes)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KejYhn6xvPcqDxp0s_uTLg89ozsq1h9Z8TYu_SYWygw--y-zmJQwIvhqj-eIHnHqmYLXHJKolMnCREJu=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Diplo",
+        "album": "C'Mon (Catch 'Em by Surprise)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7qipwYF0b6s",
+        "video_url": "https://www.youtube.com/watch?v=7qipwYF0b6s",
+        "title": "C'Mon (Catch 'Em by Surprise) (feat. Busta Rhymes)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KejYhn6xvPcqDxp0s_uTLg89ozsq1h9Z8TYu_SYWygw--y-zmJQwIvhqj-eIHnHqmYLXHJKolMnCREJu=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Diplo",
+        "album": "C'Mon (Catch 'Em by Surprise)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Rbq0aFHjNJI",
+        "video_url": "https://www.youtube.com/watch?v=Rbq0aFHjNJI",
+        "title": "Chemicals (feat. Thomas Troelsen) (feat. Thomas Troelsen)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Q0UuP2Dbe-a4ezDhGcS3dC7uuQKdAgtiMrKczoFY76De2Dzc1h0Qx-ayCvbZyEPTvnOAZj3djsx_x852=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Don Diablo & Don Diablo",
+        "album": "AMF 2016: Amsterdam",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EqV8AQ6EpTg",
+        "video_url": "https://www.youtube.com/watch?v=EqV8AQ6EpTg",
+        "title": "Jackie Chan (feat. Preme & Post Malone)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Dzeko",
+        "album": "The London Sessions",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tv_On4zvXBE",
+        "video_url": "https://www.youtube.com/watch?v=tv_On4zvXBE",
+        "title": "Halfway There (feat. Lena Leon)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MnqxSdFeMfYuO3oUpxDSm-2LbSukV05kGTTLiSrZiJvUygyAC2Gl5YS-o7S26BAGlfxOJlkI_wyoIJoTLQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Dzeko",
+        "album": "Together",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hkD7wRSyRnI",
+        "video_url": "https://www.youtube.com/watch?v=hkD7wRSyRnI",
+        "title": "Zero 76",
+        "thumbnail_url": "https://lh3.googleusercontent.com/CGdT6ts_PV3ffkPAQdq1qB6Q-dg7a5cIhswMpfJnmNhZQC1k94-r5ikv60RbNv2R1aj8nEZiJya5vHPM=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Hardwell",
+        "album": "Zero 76",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "C0k6USrt408",
         "video_url": "https://www.youtube.com/watch?v=C0k6USrt408",
         "title": "Don't Be Shy",
         "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
         "artist": "Ti\u00ebsto & KAROL G",
         "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "sqcfMyhgC8E",
+        "video_url": "https://www.youtube.com/watch?v=sqcfMyhgC8E",
+        "title": "Secrets (feat. Vassy)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/doBj40Av8QOo0_0h3KeQcR2DmdZKusFJQfJrbPTIrUWZAny3O4FuUGMz6YcymSYhLHP4lDT9UPMbFRpb=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & KSHMR",
+        "album": "Secrets",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "J_O44iZMGZQ",
+        "video_url": "https://www.youtube.com/watch?v=J_O44iZMGZQ",
+        "title": "Money",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8ACtnLofSwSLotFYVeJdg_cMtDrjDB7hFQU7_pLls2Sp7MdH1sFFXPIVw4Ty4e7I4U3HLCFKXoRP3oK8=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Killfake",
+        "album": "Money",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pbba6BJVp5s",
+        "video_url": "https://www.youtube.com/watch?v=pbba6BJVp5s",
+        "title": "Money",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GVsj7_ZdipUeSAiO5324r8ev-5o4W_6gDOCwKTcgUNjCe1SlKVpSBr-GTVYnomqrSmXu7tAdauJB6ha8=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Killfake",
+        "album": "Together Again",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "M2lNm0hU0BU",
+        "video_url": "https://www.youtube.com/watch?v=M2lNm0hU0BU",
+        "title": "Walking On Clouds (feat. Kirsty Hawkshaw)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MJRWydDua_SbPbuSsIaMDsBDFqwx0EHlCbDW-ID7YxtP43CcnSG56uR8U9NqQPbryIYgtrrdyQ3uxd8R=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Kirsty Hawkshaw",
+        "album": "Just Be",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_tRHEKwGoEc",
+        "video_url": "https://www.youtube.com/watch?v=_tRHEKwGoEc",
+        "title": "God Is A Dancer",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uSx-wzHUiZuIQ8ia919LmGc_3TTJ90Yfd4Jys97K0JdOYaj_arf2YfhyYz43YwuEjxv9MuMIkrhepqci=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Mabel",
+        "album": "High Expectations",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "RWxUyCy8dM0",
+        "video_url": "https://www.youtube.com/watch?v=RWxUyCy8dM0",
+        "title": "God Is A Dancer",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Mabel",
+        "album": "The London Sessions",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "OH47qvJHk2U",
+        "video_url": "https://www.youtube.com/watch?v=OH47qvJHk2U",
+        "title": "Feel Your Ghost",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Zw8yDpL0B7Scq6-wYhiI7p14EqeqEbzcIc-Vn7-FcO-V1QOutaW2WHCUNHMj5OR4wITAFquFVBO-LdHy4w=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Mathame",
+        "album": "Feel Your Ghost",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3NUQPSiobvA",
+        "video_url": "https://www.youtube.com/watch?v=3NUQPSiobvA",
+        "title": "I Want You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Hxj3YaUIetkjU4gLi1YpFA7mE2AS_26gWwTLKmesR06WKJ_wvIE2u3ttzd-Kh4GXyLJ-A0Rkpxy3wL3B=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Mike Williams",
+        "album": "I Want You",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iXzA8MfB-FE",
+        "video_url": "https://www.youtube.com/watch?v=iXzA8MfB-FE",
+        "title": "The Right Song (feat. Natalie La Rose)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_lO1HgxzDhWtc9yoekDynK2jxvfYQNqbH6FxBp7IhmJ9eQIou3ghCy8MS-2yo3rdfpuJ8FN-C7k-I-nZJQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Oliver Heldens",
+        "album": "The Right Song",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7qi0TACE0H8",
+        "video_url": "https://www.youtube.com/watch?v=7qi0TACE0H8",
+        "title": "Wombass",
+        "thumbnail_url": "https://lh3.googleusercontent.com/2XLaZNYyGcjN12yn31FZO6vh38rLmmIpD4OrBBs5hUy5ExgwCSkZndkSqRkGuzAI_sjetPjnQe9Ow3RH=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Oliver Heldens",
+        "album": "Wombass",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dsFOcJ0n7xk",
+        "video_url": "https://www.youtube.com/watch?v=dsFOcJ0n7xk",
+        "title": "Run Free (Countdown)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/B4wJTupeUw2ppEFhUWJp6dh-rmlLkQtho9L16r2bDGRVb_sIGymKSOcDT9W5bEXKicE4ki9TpgKah7n3_Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & R3hab",
+        "album": "Run Free (Countdown)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "roaO17p_zdQ",
+        "video_url": "https://www.youtube.com/watch?v=roaO17p_zdQ",
+        "title": "BOOM",
+        "thumbnail_url": "https://lh3.googleusercontent.com/d8xvL-SFvxOutF9SIFAbMn2eIuA8-UinrywB2xStDccRHpdKxelqA3yiNwTy7WC9QrWpGSnICGdBbNg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Sevenn",
+        "album": "BOOM",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ET4lmhB_AKc",
+        "video_url": "https://www.youtube.com/watch?v=ET4lmhB_AKc",
+        "title": "I Will Be Here (Wolfgang Gartner Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TI7pmpyhnQYEvlbraDwB3XsgvmOgys9EWzc-4eMOtRHCMMIJTkwtVwbpLZJGJvwmZz32S3-2dzHaXMDV3w=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Sneaky Sound System",
+        "album": "I Will Be Here (UK all DSPs excl iTunes)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TG2AtaWuikA",
+        "video_url": "https://www.youtube.com/watch?v=TG2AtaWuikA",
+        "title": "10:35",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rnm0BN7NvQNLh_F8uhS76tP5iu6wo65D7N9-qztkVx7uN2xR_0WMepb47Mlcw9EJaWArHRXStsFyfA2PtQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Tate McRae",
+        "album": "DRIVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "n9nPZe1dlmc",
+        "video_url": "https://www.youtube.com/watch?v=n9nPZe1dlmc",
+        "title": "Split (Only U)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cCVMFgp3G-y6KM2AsWnh07pC8ssWSXKFU4hBP5mqYoqslg3aK5Mu-WZEO43OQiWatSzwDGYwkW69Ggs=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & The Chainsmokers",
+        "album": "Split (Only U)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0SLn3lCS4w8",
+        "video_url": "https://www.youtube.com/watch?v=0SLn3lCS4w8",
+        "title": "Get Down (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dCI3qdirdyYwFmumBFrVPtr-MpK6k99KYkzr4sWJjArBdyTl38RhOjpQP7iHR2G2saGUcykhww4faW3y=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Tony Junior",
+        "album": "Get Down (Extended Mix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "fq_ICLrx52g",
+        "video_url": "https://www.youtube.com/watch?v=fq_ICLrx52g",
+        "title": "The Business, Pt. II (Clean Bandit Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mVGFkRBOe7lujwAtv7nwZAFSeq-nhiXEPMAdcanKez7uFwgul96NutUjmO6jvGE-O5g2S14F2nsRdCNk=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Ty Dolla $ign",
+        "album": "The Business, Pt. II (Clean Bandit Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CFOpvZck8h4",
+        "video_url": "https://www.youtube.com/watch?v=CFOpvZck8h4",
+        "title": "Coffee (Give Me Something)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xTp8wmCvMoWmy66NUVKmXPUDnJOPej1d7NUHvy-PPUGTfl_nOmV8MnT2ZKLku_9VBTv9BQoYjI4Y8_k=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Vintage Culture",
+        "album": "Coffee (Give Me Something)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bAcw7p1M3PU",
+        "video_url": "https://www.youtube.com/watch?v=bAcw7p1M3PU",
+        "title": "Break My Fall (feat. BT)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto featuring BT",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "DERhmFXM_98",
+        "video_url": "https://www.youtube.com/watch?v=DERhmFXM_98",
+        "title": "Sweet Things (feat. Charlotte Martin)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto featuring Charlotte Martin",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "g-OOP-TGzwc",
+        "video_url": "https://www.youtube.com/watch?v=g-OOP-TGzwc",
+        "title": "In The Dark (feat. Christian Burns)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto featuring Christian Burns",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CTVIxYlv2kQ",
+        "video_url": "https://www.youtube.com/watch?v=CTVIxYlv2kQ",
+        "title": "Everything (feat. JES)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto featuring JES",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EPIa21oQ8xQ",
+        "video_url": "https://www.youtube.com/watch?v=EPIa21oQ8xQ",
+        "title": "Do You Feel Me (feat. Julie Thompson)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto featuring Julie Thompson",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "86glYlV7u6A",
+        "video_url": "https://www.youtube.com/watch?v=86glYlV7u6A",
+        "title": "Dance4Life (feat. Maxi Jazz)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/arQdFg6DeqEiVgevOS2r6fR4_w8muKVYaIYFBNwvVBLP8KHfU9hwrtamFF46E-gtyIXBOZ2O9VHOyDpFHQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto featuring Maxi Jazz",
+        "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wHWI8TW9BO0",
+        "video_url": "https://www.youtube.com/watch?v=wHWI8TW9BO0",
+        "title": "Somewhere Inside (feat. Julie Thompson)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SDC0IFkpElDAL0brZ_TMxeRg90YH8kPSwecgDyaNbk8c9JHTybZPfW90VAHW0gj0mBZjJTqIzHpqZ25p=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto presents Allure featuring Julie Thompson & Allure",
+        "album": "Somewhere Inside",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "KGeieObsszo",
+        "video_url": "https://www.youtube.com/watch?v=KGeieObsszo",
+        "title": "BOTH (David Guetta & Seth Hills Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6iw16vny8xonY-upLeFLcakUkt12pDBVxaqGaoxkVJAX2ZeerDmAc6gIZIbqkS3f1SZQCqaw-Q5ar109=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, 21 Savage & BIA",
+        "album": "BOTH (David Guetta & Seth Hills Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BirIg0kYYsY",
+        "video_url": "https://www.youtube.com/watch?v=BirIg0kYYsY",
+        "title": "Ritual",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YuaGDKse2nN8thvqWQwuj5Jlh3lKdoV_QDs-YpXJAD9EcpxIJcvUEJ_1UReNHFa1bfnXJLucbradO8l0=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, Jonas Blue & Rita Ora",
+        "album": "Ritual",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-QNqt-jqeSE",
+        "video_url": "https://www.youtube.com/watch?v=-QNqt-jqeSE",
+        "title": "Ritual (Benny Benassi & BB Team Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PB13HNzU315UQJc-4DmLh78BYomgHlWClMGFEI3zoF0cH_MJqMWh3vS3eo6f5r-ZZzK4eHmRBFeQIT9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, Jonas Blue & Rita Ora",
+        "album": "Ritual (Remixes)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nmlzCmic34Y",
+        "video_url": "https://www.youtube.com/watch?v=nmlzCmic34Y",
+        "title": "Ritual",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, Jonas Blue & Rita Ora",
+        "album": "The London Sessions",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qVzmpa_Kjf0",
+        "video_url": "https://www.youtube.com/watch?v=qVzmpa_Kjf0",
+        "title": "Waterslides",
+        "thumbnail_url": "https://lh3.googleusercontent.com/d0BktmZOW0G-8yQ9ACO62f1rnBXEPlFXsPyVpjM9pCwFDjzWXuQ5-GR0lB7CtEObtWYXGXmFfXHJWiE=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, Rudimental & Absolutely",
+        "album": "Waterslides",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "mW6FAh2mWpg",
+        "video_url": "https://www.youtube.com/watch?v=mW6FAh2mWpg",
+        "title": "BOOM",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DxwJ1cwAg1PmeG2fgGECQnK-VDkZqvoWzjxr1D_BIIeC4oq6NC2AF5KBhGvaMJGs1GiXNDDiHoDx1ewV=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, Sevenn & Gucci Mane",
+        "album": "BOOM",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "da-9U3WPGZ8",
+        "video_url": "https://www.youtube.com/watch?v=da-9U3WPGZ8",
+        "title": "Rule The World (Everybody)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Vl7S6QOFkyOII8YZur7XqJOGQWT0Rc4yhHJckO79MrKz5rzvTf48s9r8oA6XQvAwb36XgiYOwQ6n2F5X=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, Tears For Fears, NIIKO X SWAE & GUDFELLA",
+        "album": "Rule The World (Everybody)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-o1KDseq0hk",
+        "video_url": "https://www.youtube.com/watch?v=-o1KDseq0hk",
+        "title": "Be Something",
+        "thumbnail_url": "https://lh3.googleusercontent.com/as210E-IW96wgUeo1CzLZNJcS7U28DTqPM31EbZ8Ie-J53wHsQbDt7d9RBcHHAh4WkkRr98-b6HDEcvC=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto, Ummet Ozcan & Tomhio",
+        "album": "Be Something",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -951,6 +1959,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/OMEYk7QASp9Cy56epvWO0B7y790-4Gm-QUW6bBjyl1M8t3WhYwIDCR7U5p2Wesxpj_FByk0xQeNtowZX=w120-h120-l90-rj",
         "artist": "ZHU, Skrillex & THEY.",
         "album": "Working For It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "o5rhyfrqUz8",
+        "video_url": "https://www.youtube.com/watch?v=o5rhyfrqUz8",
+        "title": "Mwaki (Ti\u00ebsto's VIP Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WhAnmzA-mEmgNIsVxpuLE1a_QkjNOIBdWICwv3sUipmOiYxv76r2hDxk4zMLUF2JjK_mE9Sc8874N9z1=w120-h120-l90-rj",
+        "artist": "Zerb, Sofiya Nzau & Ti\u00ebsto",
+        "album": "Mwaki (Duke Dumont & Kiko Franco Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EhacDIckUyk",
+        "video_url": "https://www.youtube.com/watch?v=EhacDIckUyk",
+        "title": "Mwaki (Ti\u00ebsto's VIP Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/V02ChYdPhJaI1OVtFaWLv9PIkCzcBA44UCORhZHF5iiqKAqC_TJZdsq6PG0qvng1ygWNk98at_gLyNdg=w120-h120-l90-rj",
+        "artist": "Zerb, Sofiya Nzau & Ti\u00ebsto",
+        "album": "Mwaki (Franky Wah Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

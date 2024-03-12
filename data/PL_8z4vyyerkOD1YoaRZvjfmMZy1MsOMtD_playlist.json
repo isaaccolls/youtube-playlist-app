@@ -108,6 +108,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "4ANS5JbqEiI",
+        "video_url": "https://www.youtube.com/watch?v=4ANS5JbqEiI",
+        "title": "Yonaguni",
+        "thumbnail_url": "https://lh3.googleusercontent.com/LuZsj83npmzKdqFl9RpeRFYSPkFRpExqzOBnzLqVnU0d5-FyjkPqjewvjiNta_4SGvmwMFAcuCIKhAbm=w120-h120-l90-rj",
+        "artist": "Bad Bunny",
+        "album": "Yonaguni",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "J-7knuczw2E",
         "video_url": "https://www.youtube.com/watch?v=J-7knuczw2E",
         "title": "MONACO",
@@ -243,6 +252,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "KJjIk27ULEk",
+        "video_url": "https://www.youtube.com/watch?v=KJjIk27ULEk",
+        "title": "Classy 101 (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YwdFpeqJRhpZoLOeSfsKiEH7sMK3gmQaGkF-oduA-yTtplOaZi_hYb-KZZ2SJoE-CF-R1tFdjhg17LC5=w120-h120-l90-rj",
+        "artist": "DJ Booster",
+        "album": "Classy 101 (Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "3tw2P65wv5E",
         "video_url": "https://www.youtube.com/watch?v=3tw2P65wv5E",
         "title": "Gasolina",
@@ -330,6 +348,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/UZICRLyPEOKGi8QMo2RzPbVt9pAq635bNVngK4ZA4CHzFap7SUWjPuriz8PKoBuwPKH41bn5QdhBYxWC3A=w120-h120-l90-rj",
         "artist": "Daddy Yankee",
         "album": "Talento de Barrio",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "FxhF2v9qpTA",
+        "video_url": "https://www.youtube.com/watch?v=FxhF2v9qpTA",
+        "title": "Si Supieras",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5-wFjHYQ0mYxW1ZWjo-IIK802c7WDqcax00vfUjhj36lyNG88B-ATS4WEhWEriGvB5lwZ_XIZ7bTFt8_=w120-h120-l90-rj",
+        "artist": "Daddy Yankee & Wisin & Yandel",
+        "album": "Si Supieras",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -518,6 +545,15 @@
         "title": "Qu\u00e9 M\u00e1s Pues?",
         "thumbnail_url": "https://lh3.googleusercontent.com/_4b2xkgL7r-3Qi1CmhjRBLMWKv8DYlT7wR9blvaAmxhGSRlcQ4e3uJTvqxcPLtQOfwebeyMJZNUBG_4YIA=w120-h120-l90-rj",
         "artist": "J Balvin & Maria Becerra",
+        "album": "JOSE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lMMr65aFIK8",
+        "video_url": "https://www.youtube.com/watch?v=lMMr65aFIK8",
+        "title": "Poblado (Remix) (feat. Crissin, Totoy El Frio & Natan & Shander)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_4b2xkgL7r-3Qi1CmhjRBLMWKv8DYlT7wR9blvaAmxhGSRlcQ4e3uJTvqxcPLtQOfwebeyMJZNUBG_4YIA=w120-h120-l90-rj",
+        "artist": "J Balvin, KAROL G & Nicky Jam",
         "album": "JOSE",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -762,6 +798,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/3y7NUhz5uoGhyIbrzyr9Ic-TrO02r6MYfVhX4_zZ-1gIZ3jdXudIcMxggm1N5nV7rPFU4dyxKSN_Nem-HQ=w120-h120-l90-rj",
         "artist": "Myke Towers, Farruko & Arcangel",
         "album": "Si Se da Remix",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Ca4QDF2jdWo",
+        "video_url": "https://www.youtube.com/watch?v=Ca4QDF2jdWo",
+        "title": "Ram Pam Pam",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5VFb5lIkng1kM_TdLsYYkpeMZA38cVq-zymR19LbUVXLd9qW4RGLz9jwQE4r8AXF1NzW6dn3lLr0-C8SHw=w120-h120-l90-rj",
+        "artist": "NATTI NATASHA & Becky G",
+        "album": "NATTIVIDAD",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1014,6 +1059,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/hLv4uPAN8r_jJL4WI-6crnFlcXa_EhMalZjBfrAKChsSgfOut4UqPv63AfpGdywTtiBXAvdZsuqGpRRQ=w120-h120-l90-rj",
         "artist": "Shakira",
         "album": "Fijaci\u00f3n Oral, Vol. 1",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wdj9ZJbeLD4",
+        "video_url": "https://www.youtube.com/watch?v=wdj9ZJbeLD4",
+        "title": "Me Gusta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gP8AnLOYEMfSTX3x4RZJBcYMk_piHbuU7iOMEn_xh6usHl5y9yXdEEBWYe3Yb7Cnutg4NMYv6ukL6N8=w120-h120-l90-rj",
+        "artist": "Shakira & Anuel AA",
+        "album": "Me Gusta",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
