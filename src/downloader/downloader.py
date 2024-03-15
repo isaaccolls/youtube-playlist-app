@@ -30,10 +30,9 @@ class Downloader:
             yt = YouTube(video_url)
             stream = yt.streams.get_audio_only()
             filename = stream.default_filename
-            mp4_filename = os.path.join(audio_download_path, filename)
-            mp3_filename = os.path.join(
-                audio_download_path, f"{artist}-{album}-{title}.mp3")
-            stream.download(audio_download_path, filename=filename)
+            mp4_filename = os.path.join(audio_download_path, f"{video_id}.mp4")
+            mp3_filename = os.path.join(audio_download_path, f"{video_id}.mp3")
+            stream.download(audio_download_path, filename=f"{video_id}.mp4")
             # Convert mp4 to mp3
             audioclip = AudioFileClip(mp4_filename)
             audioclip.write_audiofile(mp3_filename)
