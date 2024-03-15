@@ -328,22 +328,6 @@
         "video_type": null
     },
     {
-        "video_id": "LtjNtvOuAxk",
-        "video_url": "https://www.youtube.com/watch?v=LtjNtvOuAxk",
-        "title": "BEST TECHNO MIX 2023 | Armin van Buuren | Deborah De Luca |  FOVOS |",
-        "thumbnail_url": "https://i.ytimg.com/vi/LtjNtvOuAxk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mxrB6yaMNVsxOhQpDD5Ct7sQrFcg",
-        "artist": "The Rave Empire",
-        "video_type": null
-    },
-    {
-        "video_id": "AdQJaSrIID8",
-        "video_url": "https://www.youtube.com/watch?v=AdQJaSrIID8",
-        "title": "BEST TECHNO MIX 2024 -004 | Deborah De Luca |  Enrico Sangiuliano |  Underground Dark Techno Here",
-        "thumbnail_url": "https://i.ytimg.com/vi/AdQJaSrIID8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mHbKRyhlErHqinfsx4f6zHyiHAqg",
-        "artist": "The Rave Empire",
-        "video_type": null
-    },
-    {
         "video_id": "jnslLAOKdI0",
         "video_url": "https://www.youtube.com/watch?v=jnslLAOKdI0",
         "title": "TECHNO MIX 2023 CHARLOTTE DE WITTE DEBORAH DE LUCA REMIXES OF POPULAR SONGS OCTOBER 31th 2023",
@@ -357,6 +341,14 @@
         "title": "TECHNO MIX 2024 CHARLOTTE DE WITTE DEBORAH DE LUCA REMIXES OF POPULAR SONGS JANUARY 02ND 2024",
         "thumbnail_url": "https://i.ytimg.com/vi/_9y7OMqvWzw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mInfc39CRPT0O1LsVrFtEQ3hy9OQ",
         "artist": "Tilka5",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "rOwJzUfxSEc",
+        "video_url": "https://www.youtube.com/watch?v=rOwJzUfxSEc",
+        "title": "Deborah De Luca Live at Time Warp - 2D2S [DE] 2023",
+        "thumbnail_url": "https://i.ytimg.com/vi/rOwJzUfxSEc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kg_3ZVs6hjwYMI-LPD6GGeqgx7IQ",
+        "artist": "Time Warp",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
