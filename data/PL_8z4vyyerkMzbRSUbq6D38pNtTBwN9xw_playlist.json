@@ -153,6 +153,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "7P-__A32bPY",
+        "video_url": "https://www.youtube.com/watch?v=7P-__A32bPY",
+        "title": "Unity",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_S1bb2GzK0XVcSDNSAxsFIrjw8cphXSDTsGLpvmGWktl0JPgdPjiL-6RppZkMgal9e6XfhKmlACiH8vDYQ=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas & Like Mike & Hardwell",
+        "album": "Unity",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "DxWk6_l2NVg",
         "video_url": "https://www.youtube.com/watch?v=DxWk6_l2NVg",
         "title": "Thank You (Not So Bad)",
@@ -186,6 +195,366 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/nXhhDwrDVRJJnc4MmllhKmMJUev6s7bVdx-BoIyVGiLVrxBM8rWYntmKolfVS67v44z2_H5_VQ1HNjmuTg=w120-h120-l90-rj",
         "artist": "Hannah Laing, RoRo & Ti\u00ebsto",
         "album": "Good Love (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "t7zoF8C2Q9Q",
+        "video_url": "https://www.youtube.com/watch?v=t7zoF8C2Q9Q",
+        "title": "Apollo (feat. Amba Shepherd)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/iwHNyP3MlgqbEXmh0djwfisxb7eQEYYWpGChtJE00p91NyDTZ--A-Hiz1XVocL8Gp3IJ9CoRmWu6ANOn=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Apollo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Zxr_bX-IctY",
+        "video_url": "https://www.youtube.com/watch?v=Zxr_bX-IctY",
+        "title": "Dare You (feat. Matthew Koma)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vpH9xB8_RAhjZPru_975mvjUBzAq5R7ukP97UwkejIs70DBhsGc30n7TmiZchJTheJNTuVuHkNEPXywMgA=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Dare You",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "mbld_wp93zE",
+        "video_url": "https://www.youtube.com/watch?v=mbld_wp93zE",
+        "title": "Earthquake (feat. Harrison)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/QYJwA9ggcBepkMtnNaLrvTK9vQDNytiKJ2m_og_RKm0wfCMAgygy2CpngAJIsJ56A6yUoGSP3BFXlTg=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Earthquake",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "MnckcBPmrnc",
+        "video_url": "https://www.youtube.com/watch?v=MnckcBPmrnc",
+        "title": "Mad World (feat. Jake Reese)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pNhxR-bbAuFlPYlBf6_sVOEdX7OXXENJPuffitzry3QOFVDMkXAqoVSxpL61ah4WcnoiU6g-4TENeMcj=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Mad World",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "a0w2tDAqP_I",
+        "video_url": "https://www.youtube.com/watch?v=a0w2tDAqP_I",
+        "title": "Oldskool Sound",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TmyYxh_uTR44epXx08iY76f1zZZ8e0yjMsK7neXy-S6OMcyLCrVME1nK7BVD9bqaw-Vj2cBgydqgLWA=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Oldskool Sound",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zXyJ7lbmdYs",
+        "video_url": "https://www.youtube.com/watch?v=zXyJ7lbmdYs",
+        "title": "I FEEL LIKE DANCING",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7jlEwULKsts",
+        "video_url": "https://www.youtube.com/watch?v=7jlEwULKsts",
+        "title": "INTO THE UNKNOWN",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "A5jy0UX_tfM",
+        "video_url": "https://www.youtube.com/watch?v=A5jy0UX_tfM",
+        "title": "Spaceman (Carnage Festival Trap Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/A8kgkp0b-ih8kB2F8MU2x_twFE_IyYtmCUeK4hHUENaBa5FkMg9CntmKd2miZ6udG_xaDlL4zduvgIgh9A=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Spaceman",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bRzkNRbqyuk",
+        "video_url": "https://www.youtube.com/watch?v=bRzkNRbqyuk",
+        "title": "Spaceman (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/A8kgkp0b-ih8kB2F8MU2x_twFE_IyYtmCUeK4hHUENaBa5FkMg9CntmKd2miZ6udG_xaDlL4zduvgIgh9A=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Spaceman",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vnTCQRMV-ME",
+        "video_url": "https://www.youtube.com/watch?v=vnTCQRMV-ME",
+        "title": "Echo (feat. Jonathan Mendelsohn)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "United We Are",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "POq9Uaf_RyI",
+        "video_url": "https://www.youtube.com/watch?v=POq9Uaf_RyI",
+        "title": "Sally (feat. Harrison)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "United We Are",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "4oWNWn_7Cqs",
+        "video_url": "https://www.youtube.com/watch?v=4oWNWn_7Cqs",
+        "title": "Young Again (feat. Chris Jones)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_IaG8KSjyCSOsJ7Pm9vjj6CeBGgo6mKLdgwih6sl9IDs2ePpvvNdlW3fCSuCtu0jxhWAT0DofxesBqw1=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Young Again",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qWsxh0RHQT8",
+        "video_url": "https://www.youtube.com/watch?v=qWsxh0RHQT8",
+        "title": "Off The Hook",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5EAbsXT6ViIfu3hIVkyNZi5Oq0w0f33x383Mxm5qMzHsyZbsDQBxQyNuYZDoaTFzJ3kc5Jdq1IJI8tD_=w120-h120-l90-rj",
+        "artist": "Hardwell & Armin van Buuren",
+        "album": "Off The Hook",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9EaudKAbqhA",
+        "video_url": "https://www.youtube.com/watch?v=9EaudKAbqhA",
+        "title": "Bigroom Never Dies (feat. Mitch Crown)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/QnZsm-Aju8NUuGE7KtA5mGtjhFZ8pDAW7Sc_pVOL138_LPRQA6o6t4IdCjYMZWgCiRyXfp-V8PoOe990=w120-h120-l90-rj",
+        "artist": "Hardwell & Blasterjaxx",
+        "album": "Bigroom Never Dies",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "uPmEoodYJwI",
+        "video_url": "https://www.youtube.com/watch?v=uPmEoodYJwI",
+        "title": "Never Say Goodbye (Extended Mix) (feat. Bright Lights & Heather Dawn Bright)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hWeCi4UfEprRXMCy06aIetFLfcx5C0aiHXuQKG8yhYMZXvhjZ_QoO4MjaFJE2TfNIS4vWL8g4W_w8woA=w120-h120-l90-rj",
+        "artist": "Hardwell & Dyro",
+        "album": "Never Say Goodbye",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "mrPm0DKH9is",
+        "video_url": "https://www.youtube.com/watch?v=mrPm0DKH9is",
+        "title": "Follow Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell & Jason Derulo",
+        "album": "United We Are",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "yi_O4C3TdTQ",
+        "video_url": "https://www.youtube.com/watch?v=yi_O4C3TdTQ",
+        "title": "Arcadia (feat. Luciana)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell & Joey Dale",
+        "album": "United We Are",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zrR7a59tZv0",
+        "video_url": "https://www.youtube.com/watch?v=zrR7a59tZv0",
+        "title": "Power",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8VS0a05jeqC0HcFg9XcWAuA7r0IBvhzs4WXcHNXOzIMFxlfgVEzc2WBtichvVGSvGBFoDWLgaup0yA98=w120-h120-l90-rj",
+        "artist": "Hardwell & KSHMR",
+        "album": "Power",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JqzM1HLozf4",
+        "video_url": "https://www.youtube.com/watch?v=JqzM1HLozf4",
+        "title": "Mad Man",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dZkJTTtjw6gqytks2DD3ia96SoM-BSPG487R85ObZTZiWZ9ETRG6SjEv6rd44uTS_YaleSKs6CK_2xsqLA=w120-h120-l90-rj",
+        "artist": "Hardwell & KURA",
+        "album": "LEGENDS (The Album)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "f8L7dPatsHQ",
+        "video_url": "https://www.youtube.com/watch?v=f8L7dPatsHQ",
+        "title": "REMINISCE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell & Lee Grant",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hE819d6-Axs",
+        "video_url": "https://www.youtube.com/watch?v=hE819d6-Axs",
+        "title": "Countdown",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KwhEKHXxfQNmpPl01EsxWQ0hQ_zGuHBfE4PGSaC5nOwjMAzj36VmpUgi7FJEg3VXlIP-vc-CLjQLFCNR=w120-h120-l90-rj",
+        "artist": "Hardwell & MAKJ",
+        "album": "Countdown",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "FEyF3GEHXhE",
+        "video_url": "https://www.youtube.com/watch?v=FEyF3GEHXhE",
+        "title": "ACID (feat. Luciana)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/y2WTuuwiA4gv15y8rTEq2QecNHNp63wDQAOT1fLIEfq2mYk3ELlXzHDxyZTfiAY9IGXL88uLpz82F2aH1g=w120-h120-l90-rj",
+        "artist": "Hardwell & Maddix",
+        "album": "ACID",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2p9zKjVzbjs",
+        "video_url": "https://www.youtube.com/watch?v=2p9zKjVzbjs",
+        "title": "Bella Ciao (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zI7-O9IweMMtvAfnxYaNlQiu3kE2BI-Gi4uLGSogkX3dl4GethLtDmo1jVida2Rt_5IpjfAp4btcH6dEVQ=w120-h120-l90-rj",
+        "artist": "Hardwell & Maddix",
+        "album": "Bella Ciao",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qWaQMRS0ReA",
+        "video_url": "https://www.youtube.com/watch?v=qWaQMRS0ReA",
+        "title": "Flatline",
+        "thumbnail_url": "https://lh3.googleusercontent.com/10oHADqeQFBKKS-UquOJtEua6CUlHriTAfq4MfoJqKLUZ8DMC99DHE627zxy8FFimBLSqCybroQ9VeVP=w120-h120-l90-rj",
+        "artist": "Hardwell & Olly James",
+        "album": "The Seduction EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Q8mUrhbnhNM",
+        "video_url": "https://www.youtube.com/watch?v=Q8mUrhbnhNM",
+        "title": "Seduction",
+        "thumbnail_url": "https://lh3.googleusercontent.com/10oHADqeQFBKKS-UquOJtEua6CUlHriTAfq4MfoJqKLUZ8DMC99DHE627zxy8FFimBLSqCybroQ9VeVP=w120-h120-l90-rj",
+        "artist": "Hardwell & Olly James",
+        "album": "The Seduction EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1Wy5SmAOgF0",
+        "video_url": "https://www.youtube.com/watch?v=1Wy5SmAOgF0",
+        "title": "Baldadig (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hBgne9vUw5gYO6A8oRfxrhHLIUk8q06kIhfrmyNF5qp3qCsf0H7fFrbNi_ionB2Psrdg8EEpn1i77GK7=w120-h120-l90-rj",
+        "artist": "Hardwell & Quintino",
+        "album": "Baldadig",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pHR0gOXrAZY",
+        "video_url": "https://www.youtube.com/watch?v=pHR0gOXrAZY",
+        "title": "Sloopkogel",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EfDfueuCMr0zLsxs-aq-UA1CYoQ-azPBa_rpv8X4y2pTzkaehw-jR_G_3g9eZstNb_sPypYrCdbtPlUO=w120-h120-l90-rj",
+        "artist": "Hardwell & Quintino",
+        "album": "Sloopkogel",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "kuYr14NpXDI",
+        "video_url": "https://www.youtube.com/watch?v=kuYr14NpXDI",
+        "title": "Goes Like This",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Z_SwulCflYTvIz7XnQQBk8lfnWP0Ur6DnBzMl4Ia6g5Al5BeTpAHloUgmMsieI_vF7oLYGi5i2ohBW6TBw=w120-h120-l90-rj",
+        "artist": "Hardwell & ShortRound",
+        "album": "Goes Like This",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "gY1XIvLQKX0",
+        "video_url": "https://www.youtube.com/watch?v=gY1XIvLQKX0",
+        "title": "Judgement Day",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qtlZ0onoK0t-FYEVvSC8Oxj0tQCGW8k58kTc63X_J5_H71vY23AD3WJCQqt4DBjZKHnXcTlujdZdO_Em=w120-h120-l90-rj",
+        "artist": "Hardwell & Sub Zero Project",
+        "album": "Judgement Day",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "FEOP61Ubw8A",
+        "video_url": "https://www.youtube.com/watch?v=FEOP61Ubw8A",
+        "title": "The Underground (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4jXr_EHLnZZlgRn8I1mrMZnuwHIAO9gKRooWwKZxhb4MWnH4c4TLWXHe7LGJzPdVw-Yu0aMbDiGcx4ZiIA=w120-h120-l90-rj",
+        "artist": "Hardwell & Timmy Trumpet",
+        "album": "The Underground",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "RU-drtOiBlA",
+        "video_url": "https://www.youtube.com/watch?v=RU-drtOiBlA",
+        "title": "Shine A Light (feat. KiFi)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/LqVApSd4FiXyHIY1XVh-vgwIJARYOJUp1lqu6cGbkYvBEQeSSx8UsmW0p3G2OJpMZYb_KYLdpc1CiPL5=w120-h120-l90-rj",
+        "artist": "Hardwell & Wildstylez",
+        "album": "Shine A Light",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lyo9uk1wrRA",
+        "video_url": "https://www.youtube.com/watch?v=lyo9uk1wrRA",
+        "title": "Push It",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HhUlMB75mKF8086jXyK2sbm_3YXRokVoTYm3PY3qa3FFRvT8xDNB9y-DsXXya2qryQYgEsqpNtX9BvGA=w120-h120-l90-rj",
+        "artist": "Hardwell, AFROJACK & MERYLL",
+        "album": "Push It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "P_2ZyPdLAIg",
+        "video_url": "https://www.youtube.com/watch?v=P_2ZyPdLAIg",
+        "title": "Anybody Out There",
+        "thumbnail_url": "https://lh3.googleusercontent.com/llCGB7yiLK258HTXK5Ge0jKtLNGDXxV89_pe6nGaakZ6NB6E9pHNYXgNg4eELLcBqrXv_zGLy6jtUWdZ=w120-h120-l90-rj",
+        "artist": "Hardwell, Azteck & Alex Hepburn",
+        "album": "Anybody Out There",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "aQxiw_CNICQ",
+        "video_url": "https://www.youtube.com/watch?v=aQxiw_CNICQ",
+        "title": "Ze Willen Mee",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cgF6hfnPgW01jtcx-dxNNaxFmB-N4962oJt2OliTuUJYw86BuEQrNgn7Tzq7XAiQ5JUhq3ISOxAmuqKW=w120-h120-l90-rj",
+        "artist": "Hardwell, Bizzey, Lil Kleine & Chivv",
+        "album": "Ze Willen Mee",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "OdlEvm6Bc24",
+        "video_url": "https://www.youtube.com/watch?v=OdlEvm6Bc24",
+        "title": "Loneliness",
+        "thumbnail_url": "https://lh3.googleusercontent.com/F2oPYAUc0RjOHLEn1cl7Y7WBjWnqjbGYUcp4D546UrAUjZrK-PZbavMfdAXQ6JUKC7qq9ubSDPpm4NzQ8w=w120-h120-l90-rj",
+        "artist": "Hardwell, DJs From Mars & Tomcraft",
+        "album": "Loneliness",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "o4E6dPgbTyA",
+        "video_url": "https://www.youtube.com/watch?v=o4E6dPgbTyA",
+        "title": "Badam",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YKs3ewAOvou6n9FEILsc428SftgmhDy2Gz-fGNkhKb_XI10BqEIy9hBPAwKA_eE4T6MOBd9XuPgQaxUftg=w120-h120-l90-rj",
+        "artist": "Hardwell, Henry Fong & Mr. Vegas",
+        "album": "Hardwell & Friends, Vol. 02 (Extended Mixes)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Vrx_aZDz_pQ",
+        "video_url": "https://www.youtube.com/watch?v=Vrx_aZDz_pQ",
+        "title": "Live The Night (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nnnnqcXJpNL1OIOueIyjABUmzlUpJwdPNIfn_yrKsPq29w092ycijoYA-vU3O0fYJuv1fuVTHubAKyo2=w120-h120-l90-rj",
+        "artist": "Hardwell, Lil Jon & Harrison",
+        "album": "Live The Night",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "joZ_EiLP8Rk",
+        "video_url": "https://www.youtube.com/watch?v=joZ_EiLP8Rk",
+        "title": "Take Me Away Again",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qhuv2DneCz-5YmdEzS6zx6ptVKfmRYBiASwGmnTm31o0vZjAAf7_YrjAZ3JzTU0oavjk_qKA79cwlNAW=w120-h120-l90-rj",
+        "artist": "Hardwell, Maddix & 4 Strings",
+        "album": "Take Me Away Again",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XGICBGFRFHA",
+        "video_url": "https://www.youtube.com/watch?v=XGICBGFRFHA",
+        "title": "I Wanna Dance",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1sYLYdxTLzsdqC1kuPSWReKvSx7W9xJ_g3mXyx1utDkfDsUpJW_7qnKnBn_OQqRcfJaSTQvuGYbX4YxCtw=w120-h120-l90-rj",
+        "artist": "Hardwell, Nicky Romero & MERYLL",
+        "album": "I Wanna Dance",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CXFZ-5pF7m4",
+        "video_url": "https://www.youtube.com/watch?v=CXFZ-5pF7m4",
+        "title": "Revolution",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8y2tNWTLGB8RAVqAV9n7536UGHB2VmRWugo_IbZAAFLJ-6jEYLpZdA_KSFisE89O5bDyCzcxcVU_OX8F=w120-h120-l90-rj",
+        "artist": "Hardwell, Timmy Trumpet & Maddix",
+        "album": "Revolution",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -366,6 +735,14 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/hExAktqrfYUXg8_siVKsk4u0lZnrze_n1WoV-8nOXZFMj_EzFrJX8rN6v4GAWFiWvbHGrr5P1jayvOI=w120-h120-l90-rj",
         "artist": "Kygo",
         "album": "Cloud Nine",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Bs1t3zddY1M",
+        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
+        "title": "Live The Night (Extended Mix)",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
+        "artist": "Lil Jon, W&W & Hardwell",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1941,6 +2318,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/obdQEmsLOX0TgVlKFNa2zyQQsqr53r78rE_mjGTjVJv0T4D3LA2CQtSEX9czGbtu0_wO393mN1r8VTd7bg=w120-h120-l90-rj",
         "artist": "Travis Scott & Skrillex",
         "album": "SICKO MODE (Skrillex Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dDENykCQ0dU",
+        "video_url": "https://www.youtube.com/watch?v=dDENykCQ0dU",
+        "title": "Live the Night",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VjSCs601mS92DlByjoNOVV6MBdV-QeB3Y5ED3G_OQ1CYWaakOxu_aajR-Bwby2hLlAW7UwozNpbFo9c=w120-h120-l90-rj",
+        "artist": "W&W, Hardwell & Lil Jon",
+        "album": "Live the Night",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
