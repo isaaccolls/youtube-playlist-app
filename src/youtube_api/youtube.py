@@ -18,7 +18,8 @@ class YoutubeAPI:
         items = []
         try:
             playlist = self.ytmusic.get_playlist(playlist_id, 5000)
-            print(f'☝️ get metadata for: {playlist["title"]}')
+            playlist_name = playlist["title"]
+            print(f'☝️ get metadata for: {playlist_name}')
         except KeyError as e:
             if retries > 0:
                 print(f'🥹 Error: {e}. Retry...')
@@ -26,7 +27,7 @@ class YoutubeAPI:
                 return self.get_playlist_info(playlist_id, retries-1)
             else:
                 print(f'🥺 Error: {e}. No more retry.')
-                return items
+                return {"playlist_name": playlist_name, "items": items}
         for content in playlist['tracks']:
             video_id = content['videoId']
             if video_id is None:
@@ -53,7 +54,7 @@ class YoutubeAPI:
             items.append(item)
         items = sorted(items, key=lambda x: (
             x['artist'], x.get('album', ''), x['title']))
-        return items
+        return {"playlist_name": playlist_name, "items": items}
 
     def search(self, playlist_id, title):
         try:

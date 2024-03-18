@@ -261,6 +261,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "xjsGKdZUqlI",
+        "video_url": "https://www.youtube.com/watch?v=xjsGKdZUqlI",
+        "title": "PACMAN",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "A5jy0UX_tfM",
         "video_url": "https://www.youtube.com/watch?v=A5jy0UX_tfM",
         "title": "Spaceman (Carnage Festival Trap Remix)",
@@ -1994,6 +2003,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/MnqxSdFeMfYuO3oUpxDSm-2LbSukV05kGTTLiSrZiJvUygyAC2Gl5YS-o7S26BAGlfxOJlkI_wyoIJoTLQ=w120-h120-l90-rj",
         "artist": "Ti\u00ebsto & Dzeko",
         "album": "Together",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jrEfUAAN7w4",
+        "video_url": "https://www.youtube.com/watch?v=jrEfUAAN7w4",
+        "title": "Written In Reverse (feat. Matthew Koma)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zfoReKJRQEd8KUubI9cbUH8ZVG7VyG2jRybUI_3wtwqhAggA63FROxMA9_46tjClM0p9ytHYeUyoeuY0qg=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Hardwell",
+        "album": "A Town Called Paradise (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

@@ -10,28 +10,28 @@ class Downloader:
     def __init__(self,  download_path):
         self.download_path = download_path
 
-    def download_video(self, video_id, video_url):
+    def download_video(self, playlist_name, video_id, video_url):
         print(f"download_video {video_id}")
         if video_id is None:
             return
-        video_download_path = self.download_path + "/mp4"
+        video_download_path = self.download_path + "/mp4/" + playlist_name
         try:
             yt = YouTube(video_url)
             stream = yt.streams.get_highest_resolution()
             stream.download(video_download_path)
-        except PytubeError:
-            print(f"Video {video_id} is not available.")
+        except Exception as e:
+            print(f"🚫🚫 error downloading {video_id}: {str(e)}")
 
-    def download_audio(self, video_id, video_url, title, thumbnail_url, artist, album):
+    def download_audio(self, playlist_name, video_id, video_url, title, thumbnail_url, artist, album):
         print(f"download_audio: {title} - {artist} - {album}")
-        audio_download_path = self.download_path + "/mp3"
+        audio_download_path = self.download_path + "/mp3/" + playlist_name
         try:
             yt = YouTube(video_url)
             stream = yt.streams.get_audio_only()
             filename = stream.default_filename
-            mp4_filename = os.path.join(audio_download_path, f"{video_id}.mp4")
-            mp3_filename = os.path.join(audio_download_path, f"{video_id}.mp3")
-            stream.download(audio_download_path, filename=f"{video_id}.mp4")
+            mp4_filename = os.path.join(audio_download_path, f"{filename}.mp4")
+            mp3_filename = os.path.join(audio_download_path, f"{filename}.mp3")
+            stream.download(audio_download_path, filename=f"{filename}.mp4")
             # Convert mp4 to mp3
             audioclip = AudioFileClip(mp4_filename)
             audioclip.write_audiofile(mp3_filename)
@@ -54,4 +54,4 @@ class Downloader:
             os.remove(mp4_filename)
             os.remove(thumbnail_filename)
         except Exception as e:
-            print(f"🚫🚫 error downloading video {video_id}: {str(e)}")
+            print(f"🚫🚫 error downloading audio {video_id}: {str(e)}")
