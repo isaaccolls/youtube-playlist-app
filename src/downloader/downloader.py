@@ -4,7 +4,6 @@ import requests
 from pytube import YouTube
 from urllib.error import HTTPError
 from moviepy.editor import AudioFileClip
-from pytube.exceptions import PytubeError
 
 
 class Downloader:
@@ -54,5 +53,5 @@ class Downloader:
             # Remove the mp4 file and the thumbnail
             os.remove(mp4_filename)
             os.remove(thumbnail_filename)
-        except HTTPError:
-            print(f"🚫 Video {video_id} is not available.")
+        except Exception as e:
+            print(f"🚫🚫 error downloading video {video_id}: {str(e)}")
