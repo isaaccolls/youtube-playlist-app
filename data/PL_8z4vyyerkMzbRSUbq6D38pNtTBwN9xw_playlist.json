@@ -1,5 +1,50 @@
 [
     {
+        "video_id": "zLmdibNl5y4",
+        "video_url": "https://www.youtube.com/watch?v=zLmdibNl5y4",
+        "title": "Heart & Soul",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EiDLn3jXoZN6m-0D7WDAC1fUsg-IIQQ_O_P_jAwwQuQ4k_wXw8evTXN4O59RKACI-RcY-smvjupGnOE=w120-h120-l90-rj",
+        "artist": "220 KID",
+        "album": "Heart & Soul",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZY8YGHG1bII",
+        "video_url": "https://www.youtube.com/watch?v=ZY8YGHG1bII",
+        "title": "Do It To It (feat. Cherish)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Vku888t6BVMaPmb_GNsTc6GYKnwqx82uX9JCb-2kVI19DRrmKFQLyCXf0oGdqo1aUtDZI9RWpeedFYJ3=w120-h120-l90-rj",
+        "artist": "ACRAZE",
+        "album": "Do It To It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7f9VeUkSaqY",
+        "video_url": "https://www.youtube.com/watch?v=7f9VeUkSaqY",
+        "title": "Chain Gang",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aqR-qNnfVICkr1eNyfz1hawwBCc56datMwGZUxhL8wXZhCbFt9CgmtL6VsnKFND6Y0JLgnpex6qaJwstpw=w120-h120-l90-rj",
+        "artist": "AFROJACK",
+        "album": "Chain Gang",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0aox0gE2yCA",
+        "video_url": "https://www.youtube.com/watch?v=0aox0gE2yCA",
+        "title": "Polkadots (Sven Fields & Chasner Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0yKnKI3_8I71N_2QNeJPXjJQA0Fsj_FKgVKjM8l-SjulfICcJKxc5fHZwIgpSyOae-fKlmNv5dYziVMwoA=w120-h120-l90-rj",
+        "artist": "AFROJACK",
+        "album": "Polkadots (Sven Fields & Chasner Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iKd8zlwpCR8",
+        "video_url": "https://www.youtube.com/watch?v=iKd8zlwpCR8",
+        "title": "Alone",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xZ_7Pj32baFJeKecVt4CiEcLhMJu-q78cP8WP0_SavJkXkzFneYZ2n0bDLLtLIZTQQJOHbw0XuOj2feR=w120-h120-l90-rj",
+        "artist": "AFROJACK & Mike Williams",
+        "album": "Alone",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "xAJWLsWSV54",
         "video_url": "https://www.youtube.com/watch?v=xAJWLsWSV54",
         "title": "Your Love (9PM) (Ti\u00ebsto Remix)",
@@ -9,12 +54,120 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Kh33fZ7S9lw",
+        "video_url": "https://www.youtube.com/watch?v=Kh33fZ7S9lw",
+        "title": "Your Mind (Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PR4ryLQY6Y0kNIm2Cv7yOT09TjTFNFF_1xmfvPIk2XkoY0FdS_VuN5Nlr8HmJiZklpN2xVkdj0jGoB7q=w120-h120-l90-rj",
+        "artist": "Adam Beyer & Bart Skils",
+        "album": "Your Mind (Radio Edit)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2cfi2luPT9s",
+        "video_url": "https://www.youtube.com/watch?v=2cfi2luPT9s",
+        "title": "Anywhere With You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qzxDB1XmdTtQx41OPesGVkEGpDaYy3aMX3jHohdRjlGjLs6LAbBGcQoWCvvMfsDfJhUDpdTafuLg3xVKiQ=w120-h120-l90-rj",
+        "artist": "Afrojack, Lucas & Steve & DubVision",
+        "album": "Anywhere With You",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CmxfCgUQVbQ",
+        "video_url": "https://www.youtube.com/watch?v=CmxfCgUQVbQ",
+        "title": "Without You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/QUjkcpFz5ULrA8IsPNxMzRwO9prpnbhruV-0FssVuvctkunX3oaJh4MVYqZbtwK0A4FCbXxUD3Wh_TuA=w120-h120-l90-rj",
+        "artist": "Alesso",
+        "album": "Without You",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Xx7Efy2WhuA",
+        "video_url": "https://www.youtube.com/watch?v=Xx7Efy2WhuA",
+        "title": "Words (feat. Zara Larsson)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7F6Av5rYyyfXWi3Ai92rtNSPILAuD9h45QwK3_CB4KhwQM8LuxN1bxZFjEu1P6TO5yeCZcYVybDCY7oF=w120-h120-l90-rj",
+        "artist": "Alesso",
+        "album": "Words",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "4-B-0hBwhbc",
+        "video_url": "https://www.youtube.com/watch?v=4-B-0hBwhbc",
+        "title": "Call Your Name",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FOVgxNWcrMdnLgjd3VPZ6nOYf8fHBSCHkxUNflesdueWvBbmsj_ynKPAc2LjNRHlBTPMwXawWQongc4=w120-h120-l90-rj",
+        "artist": "Alesso & John Newman",
+        "album": "Call Your Name",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iX6SpfS3tV8",
+        "video_url": "https://www.youtube.com/watch?v=iX6SpfS3tV8",
+        "title": "Headlights (feat. KIDDO)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TYJhpsMvbOxFaAMMJi6a80NYRP5w-Fb-M4hODAe0qWRkOejyy95QjR7ylW0WNkf99yPEHYgRlDGssYKQQQ=w120-h120-l90-rj",
+        "artist": "Alok & Alan Walker",
+        "album": "Headlights",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "r5k6bvJ7S38",
+        "video_url": "https://www.youtube.com/watch?v=r5k6bvJ7S38",
+        "title": "Let Me In",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aK2ZJ73ka1q5IsKxFxSFVhvgFZC4DsMlK_KmUQNDv8PfSl7qYEarQCMMU-YAxi7wpKtYhN1LtWhPvQdWtQ=w120-h120-l90-rj",
+        "artist": "Andromedik",
+        "album": "Let Me In",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6RcikTgxEyg",
+        "video_url": "https://www.youtube.com/watch?v=6RcikTgxEyg",
+        "title": "Consciousness (Eric Prydz Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6QH1A-rmTTkDH6hdOUqoe25v0AoP36D9fsx6JjMBhAnqycI4IVWMIxPun20kfdfI4wAVuGwFqWQIkjQ=w120-h120-l90-rj",
+        "artist": "Anyma & Chris Avantgarde",
+        "album": "Consciousness (Eric Prydz Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TC5uDOp_r4s",
+        "video_url": "https://www.youtube.com/watch?v=TC5uDOp_r4s",
+        "title": "Majesty feat. Wasiu (feat. Wasiu)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bSFf5s7jmwYy3KNTwg4kBBEcFgnz9y2cvcSfOFe-2cP27f704iTkbjIgd98PSHRlTkpGaqvFkJysBGjw1w=w120-h120-l90-rj",
+        "artist": "Apashe",
+        "album": "Requiem",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Vl3A49ZApkQ",
         "video_url": "https://www.youtube.com/watch?v=Vl3A49ZApkQ",
         "title": "Barbie Girl (Ti\u00ebsto Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/3Jg7DX_dF_p7RLBw0Vt1qny_qCpBvF0FEMtP8RnyIfmon9IhRaNV4-A9tOByjjQRmSrrXrMpl-UMHM0N=w120-h120-l90-rj",
         "artist": "Aqua & Ti\u00ebsto",
         "album": "Barbie Girl (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "HLVVM72Z7Zo",
+        "video_url": "https://www.youtube.com/watch?v=HLVVM72Z7Zo",
+        "title": "On & On (feat. Alika)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/kaIYaUa6Q7-VBRNZBaJJMui4Zdwt6XppTG2DK3FXSfBataAfdxmUWuylRg-arK55Yv9GWMBViBYfltM=w120-h120-l90-rj",
+        "artist": "Armin van Buuren & Punctual",
+        "album": "Feel Again",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "G1NSUKSbzv4",
+        "video_url": "https://www.youtube.com/watch?v=G1NSUKSbzv4",
+        "title": "No Fun",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qrQykmZGmWcZz-tgS6NSfqBpmEIO1-6yobnQKDDY_n-cUi_aclhQ8MJRnjuV9rCrxFSC_qvSQXvcO_bzpA=w120-h120-l90-rj",
+        "artist": "Armin van Buuren & The Stickmen Project",
+        "album": "Feel Again, Pt. 1",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ciwx8yJPX54",
+        "video_url": "https://www.youtube.com/watch?v=ciwx8yJPX54",
+        "title": "Alone, Pt. II",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Y6GUwMdUtGZ9HpEbOBaR4OvHWpcLCj6Y1xbzSFG2dgQD7DlXS70fp-5zy-VczYGZ9wWT5z_kV3EtTdw=w120-h120-l90-rj",
+        "artist": "Ava Max & Alan Walker",
+        "album": "World Of Walker",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -63,6 +216,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "UGT6v4No9U8",
+        "video_url": "https://www.youtube.com/watch?v=UGT6v4No9U8",
+        "title": "Under Control (feat. Hurts)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1sjXHgwlp45I6ixx95jmcx2Q-P_MwTEMePc_WbJF9e4-TUVAO1qOMUi01SYTdOFX_M3Lr54krxCRj6xY=w120-h120-l90-rj",
+        "artist": "Calvin Harris & Alesso",
+        "album": "Under Control",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ou2fxemd-vE",
+        "video_url": "https://www.youtube.com/watch?v=ou2fxemd-vE",
+        "title": "Miracle (Hardwell Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/elzBW8rEHxIvntO7SbIHGyi-MNGNUpDbLJ2erC2FXziT4I9Pb7YUryeTYREDfkOg9eHDlbOwTKnodBcmfw=w120-h120-l90-rj",
+        "artist": "Calvin Harris & Ellie Goulding",
+        "album": "Miracle (Hardwell Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "inCm3ByI17o",
         "video_url": "https://www.youtube.com/watch?v=inCm3ByI17o",
         "title": "This Is What You Came For",
@@ -72,12 +243,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "TS6rgVPIreE",
+        "video_url": "https://www.youtube.com/watch?v=TS6rgVPIreE",
+        "title": "Breathe (Dark Matter Edit) (feat. Jem Cooke)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Pf3cnX6PUl-Hl9cDwg8Zp83sBl2S2oVWqgN-QufIxTy0MTH_GyQX7iue5JH_qbdAeOtyLJrB8HC5TAY=w120-h120-l90-rj",
+        "artist": "CamelPhat",
+        "album": "Dark Matter",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "uuVl24tL7q8",
         "video_url": "https://www.youtube.com/watch?v=uuVl24tL7q8",
         "title": "Fire for You (Ti\u00ebsto Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/rICPKGU54ruerPDbhsMbEbwpptSqKcpAki4FVUJ4wYuCE_p-MpT4T-j5bmXRM9NPLIXAyd_ULq4z7igH=w120-h120-l90-rj",
         "artist": "Cannons & Ti\u00ebsto",
         "album": "Fire for You (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-5XxjPOedc0",
+        "video_url": "https://www.youtube.com/watch?v=-5XxjPOedc0",
+        "title": "Doppler",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oNC1pxG8qdMEoWSpN0-McLFWVPoaTsYNRhGDe3jye8BDZalp6FGQEj8yfRp3fbPuz93BItOdGijzJfAr=w120-h120-l90-rj",
+        "artist": "Charlotte de Witte",
+        "album": "Formula EP",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -117,6 +306,78 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "JhulBGMA7G4",
+        "video_url": "https://www.youtube.com/watch?v=JhulBGMA7G4",
+        "title": "Harder, Better, Faster, Stronger",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6Qy_3-Unlf67FwRfF75ghzWw__5wmbJjAg7x6p8qQqMdRxvvFCEmyFlEedmbunivDbF-yUEXbb3AVI0=w120-h120-l90-rj",
+        "artist": "Daft Punk",
+        "album": "Discovery",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Jb6gcoR266U",
+        "video_url": "https://www.youtube.com/watch?v=Jb6gcoR266U",
+        "title": "Around the World",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1gXa4i8m_NecS7xNqLqzxy6rdOWBh_L6U91YYv5ULNdmvvYT1Pr6ld7_SyUs5L52pEQheVyfU9SnXUm9=w120-h120-l90-rj",
+        "artist": "Daft Punk",
+        "album": "Homework",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "l4L78W66kCI",
+        "video_url": "https://www.youtube.com/watch?v=l4L78W66kCI",
+        "title": "Robot Rock",
+        "thumbnail_url": "https://lh3.googleusercontent.com/de_LGA6dRsGlm0NI9KgQ-wiqDVqBldUYx6ALEmETACSS0Da6Ae2UOIs1aIh-7HAAa-br8QskT9G1gP-i=w120-h120-s-l90-rj",
+        "artist": "Daft Punk",
+        "album": "Human After All",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wU26xVT_vBU",
+        "video_url": "https://www.youtube.com/watch?v=wU26xVT_vBU",
+        "title": "One More Time (Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_pY9BvNbeIpT2PUw_hQszOM3PZzmBRdi5uGNL8U6ZVE8AvApw7WqgMotzoGg7kk_ip8yj9VBkAJlgwv7_A=w120-h120-l90-rj",
+        "artist": "Daft Punk",
+        "album": "One More Time",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZFZM6jDTWd4",
+        "video_url": "https://www.youtube.com/watch?v=ZFZM6jDTWd4",
+        "title": "Giorgio by Moroder",
+        "thumbnail_url": "https://lh3.googleusercontent.com/N55arCGj69gtw6thXK8JUPisxoVYiwuIEQ7I6SGlkEyNcSJ7xIWPe76Vuu1SiUqRyx5w9qvR_zV8fV3CWQ=w120-h120-l90-rj",
+        "artist": "Daft Punk",
+        "album": "Random Access Memories",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qe8Q7mjxjig",
+        "video_url": "https://www.youtube.com/watch?v=qe8Q7mjxjig",
+        "title": "Veridis Quo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KWKJfEfasVPd53ha--VXKCrjQPtCYMbjtTAg25IhmODgYDud5bqPgZXwzaLY4Mhq1MTEjjvyFRbLSuw=w120-h120-l90-rj",
+        "artist": "Daft Punk",
+        "album": "Something About Us (Love Theme from Interstella)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "khnokW3Mw24",
+        "video_url": "https://www.youtube.com/watch?v=khnokW3Mw24",
+        "title": "Instant Crush (feat. Julian Casablancas)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/N55arCGj69gtw6thXK8JUPisxoVYiwuIEQ7I6SGlkEyNcSJ7xIWPe76Vuu1SiUqRyx5w9qvR_zV8fV3CWQ=w120-h120-l90-rj",
+        "artist": "Daft Punk & Julian Casablancas",
+        "album": "Random Access Memories",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "4D7u5KF7SP8",
+        "video_url": "https://www.youtube.com/watch?v=4D7u5KF7SP8",
+        "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/N55arCGj69gtw6thXK8JUPisxoVYiwuIEQ7I6SGlkEyNcSJ7xIWPe76Vuu1SiUqRyx5w9qvR_zV8fV3CWQ=w120-h120-l90-rj",
+        "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+        "album": "Random Access Memories",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "LRPGqNeav_M",
         "video_url": "https://www.youtube.com/watch?v=LRPGqNeav_M",
         "title": "Titanium (feat. Sia)",
@@ -144,6 +405,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "pIb7QoXdP_k",
+        "video_url": "https://www.youtube.com/watch?v=pIb7QoXdP_k",
+        "title": "I'm Good (Blue)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Zhcm3n4Spt2RdYQL1SQeplqPqDVYbRxlqxqWuT2ijIAtb1N0bdX66ZRBpJDspmk4ZXVqb2W8wl2FfPkc=w120-h120-l90-rj",
+        "artist": "David Guetta & Bebe Rexha",
+        "album": "Bebe",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "yCwzA8XNBrg",
         "video_url": "https://www.youtube.com/watch?v=yCwzA8XNBrg",
         "title": "Five Hours",
@@ -162,12 +432,102 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "m-WddQKTkIU",
+        "video_url": "https://www.youtube.com/watch?v=m-WddQKTkIU",
+        "title": "She Knows (with Akon) (feat. Akon)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ob9-G8EKzKGLMdhagaT62JpyN5Qe2DMSGW8dUq4prXs7wC-eYr4_a90Z0kVM0c9xCCD3GVsa7Q66OSs=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas & Like Mike, David Guetta & Afro Bros",
+        "album": "She Knows (with Akon)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "kMqw-wnFtBM",
+        "video_url": "https://www.youtube.com/watch?v=kMqw-wnFtBM",
+        "title": "Feel Your Love",
+        "thumbnail_url": "https://lh3.googleusercontent.com/E4wXdkOt1j41PKGOKd7cvko-RkAO0cWHoJZDt2j3MmagAcs9NJon42pZ2C-Tu9-A5BUrYExppwa4iN0=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas & Like Mike, Timmy Trumpet & Edward Maya",
+        "album": "Feel Your Love",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "DxWk6_l2NVg",
         "video_url": "https://www.youtube.com/watch?v=DxWk6_l2NVg",
         "title": "Thank You (Not So Bad)",
         "thumbnail_url": "https://lh3.googleusercontent.com/oyAtpVb8D0s296XxuhrUqRgyt7rI67HNXv5-6eSGq_UIsHj6l5DdGtJlGu7IZpRwgSVrsmTHFWhtN-IJ=w120-h120-l90-rj",
         "artist": "Dimitri Vegas & Like Mike, Ti\u00ebsto, Dido & W&W",
         "album": "Thank You (Not So Bad)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "f6p-OwYOWLQ",
+        "video_url": "https://www.youtube.com/watch?v=f6p-OwYOWLQ",
+        "title": "Friends",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gGpJI9q1vWutZ9ya6aEFkH87nknvdEqizdgJyS7hYkufxnrLs1nOYLRbTCUjsRwNlOXXvSuDy1eDasJN=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas, Steve Aoki & Chapter & Verse",
+        "album": "Friends",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Qz7iTCDqUKY",
+        "video_url": "https://www.youtube.com/watch?v=Qz7iTCDqUKY",
+        "title": "Cold Heart (Claptone Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GlJWbH1VSDzJC-4fdI4UU3zn29xLFliph8f6y6mqAJx1aqbX2KCCFZM7Y3CFXhWydql-BuHwFP1ufx8rpQ=w120-h120-l90-rj",
+        "artist": "Elton John & Dua Lipa",
+        "album": "Cold Heart (Claptone Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "QzySsWZ4ojA",
+        "video_url": "https://www.youtube.com/watch?v=QzySsWZ4ojA",
+        "title": "Pjanoo (Eric's Intro Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZlTXsJOWqWveLPGNPmqMjl93kWVMyNmw3mdJKV8aJzImVpxBnNZd5J5bq4_DUxV7-dpIm5ybqsVTd4bR=w120-h120-l90-rj",
+        "artist": "Eric Prydz",
+        "album": "Eric Prydz Presents Pryda",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UbFHLenJtJg",
+        "video_url": "https://www.youtube.com/watch?v=UbFHLenJtJg",
+        "title": "Every Day",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jrtueI09bFVBJSpts6FF3W3OzpcX8jfj9yijiKOB0NUmy2AMOdmxQp8oxr7_EEXANq-MzRxue_sjmsg=w120-h120-l90-rj",
+        "artist": "Eric Prydz",
+        "album": "Opus",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "gt1pKrwxAJU",
+        "video_url": "https://www.youtube.com/watch?v=gt1pKrwxAJU",
+        "title": "Opus",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jrtueI09bFVBJSpts6FF3W3OzpcX8jfj9yijiKOB0NUmy2AMOdmxQp8oxr7_EEXANq-MzRxue_sjmsg=w120-h120-l90-rj",
+        "artist": "Eric Prydz",
+        "album": "Opus",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zVtEBow2E7g",
+        "video_url": "https://www.youtube.com/watch?v=zVtEBow2E7g",
+        "title": "Pjanoo (Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uU-Qu2cj9WsSWwRtsnwY26OxM7u-wvozwZJ4LF1k0Hjx6ZlKxSPAGltGOfhsxx342PJrCiSbLo_ClVK4=w120-h120-l90-rj",
+        "artist": "Eric Prydz",
+        "album": "Pjanoo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "y902FSus0fI",
+        "video_url": "https://www.youtube.com/watch?v=y902FSus0fI",
+        "title": "Losing It",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-jLgjaaAjbPdds5-jE3y2TTfTk3p3p7JV9sNNPFC9duVgsojuGAHcW5esx34jZxXcQvOlPRD1dGt7WRpVA=w120-h120-l90-rj",
+        "artist": "FISHER",
+        "album": "Losing It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "gNBkFme2BPE",
+        "video_url": "https://www.youtube.com/watch?v=gNBkFme2BPE",
+        "title": "Pepas",
+        "thumbnail_url": "https://lh3.googleusercontent.com/22J000nZ05UFFDh41LedvZypSJVti20ihhCTmVWQzDOqTjmQEXACHuRXg5i8GSCUeTjdSQcrqSDidScXUw=w120-h120-l90-rj",
+        "artist": "Farruko",
+        "album": "Pepas",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -180,12 +540,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "nTQQdbBBeEQ",
+        "video_url": "https://www.youtube.com/watch?v=nTQQdbBBeEQ",
+        "title": "Bruises",
+        "thumbnail_url": "https://lh3.googleusercontent.com/C9YUvMnVdZ5UbFkn5dxT04FiRfLjb9GcjpPSluGAc8MwyPttZ9s8AmlrfpWuokDcN2_3psieuwGI41eV=w120-h120-l90-rj",
+        "artist": "Fox Stevenson",
+        "album": "Destinations, Vol. 1",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "3zXmvAjREDA",
         "video_url": "https://www.youtube.com/watch?v=3zXmvAjREDA",
         "title": "Baby again..",
         "thumbnail_url": "https://lh3.googleusercontent.com/RUt8a1MDyo04ZeAQO9n98m5DIznK0H3PMbSfklyztTcGzOZChOwtYNT5jj3MI7qOsV-W3oVV2CZYWmE=w120-h120-l90-rj",
         "artist": "Fred again.., Skrillex & Four Tet",
         "album": "USB",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1RmZeHGwMqg",
+        "video_url": "https://www.youtube.com/watch?v=1RmZeHGwMqg",
+        "title": "Solitary Daze",
+        "thumbnail_url": "https://lh3.googleusercontent.com/og9_1oo5WS76-tSkkvBQaIlk9IbNYjMo_F6Jrib-ZKAMIh7ihlaVSBfN-5bUG386ecsmtiH2TzAFdprNoA=w120-h120-l90-rj",
+        "artist": "Gabriel Ananda & Maceo Plex",
+        "album": "Solitary Daze",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YwvA-XIivlA",
+        "video_url": "https://www.youtube.com/watch?v=YwvA-XIivlA",
+        "title": "Call Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3XM5iUkCuiirty8_vOgglzwEdd2IVxE8oemr7jHHWEIw-Hs6h7oJIP5hCnHNfQYyZWWpNA_nloU-qlE=w120-h120-l90-rj",
+        "artist": "Gabry Ponte, R3HAB & Timmy Trumpet",
+        "album": "Call Me",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -198,12 +585,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "CxRDpr4N1J4",
+        "video_url": "https://www.youtube.com/watch?v=CxRDpr4N1J4",
+        "title": "Apollo (Dr Phunk Extended Remix) (feat. Amba Shepherd & A. Shepherd)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NVAinNCmXZoQwm_A2xSjZXiAKz6Fg2kaFH2HQKCJ2hxemu_ALaN89UzB2v-PxIAHlwjzipZeL4u3THXozg=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Apollo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "t7zoF8C2Q9Q",
         "video_url": "https://www.youtube.com/watch?v=t7zoF8C2Q9Q",
         "title": "Apollo (feat. Amba Shepherd)",
         "thumbnail_url": "https://lh3.googleusercontent.com/iwHNyP3MlgqbEXmh0djwfisxb7eQEYYWpGChtJE00p91NyDTZ--A-Hiz1XVocL8Gp3IJ9CoRmWu6ANOn=w120-h120-l90-rj",
         "artist": "Hardwell",
         "album": "Apollo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qditnpsOhp4",
+        "video_url": "https://www.youtube.com/watch?v=qditnpsOhp4",
+        "title": "Cobra (Official Energy Anthem 2012 Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/woiviWi064yeHvsYR__G2zdxdpczM1JESWcJ2p07DEmxVjs8B9keOOb_0KD8PHjBO3MdMII2-55ZCqmu=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Cobra (Official Energy Anthem 2012)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wGxKGYcEwvg",
+        "video_url": "https://www.youtube.com/watch?v=wGxKGYcEwvg",
+        "title": "Conquerors (Part Two)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PtlGxd0n4k5PfOttMljvfV3B7V9yuFWzz1lgQ6OLAsADyOtMPeO6Qp2wf_BM9bNtcceeRreoSS4ZyIn84g=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Conquerors (Part 1 and Part 2)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -225,6 +639,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "xzjodCDxOac",
+        "video_url": "https://www.youtube.com/watch?v=xzjodCDxOac",
+        "title": "We Are One (feat. Alexander Tidebrink)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NACwmqSKI-IuCVCqxoVNgl3ej6SSoylxXbJlq0KLApZmU-H2cYM6r3XaSA6SLfv1TMJBftRvKVnRwjD5=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Hardwell & Friends EP Volume 01",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "IGs5S-yrSsQ",
+        "video_url": "https://www.youtube.com/watch?v=IGs5S-yrSsQ",
+        "title": "How You Love Me (feat. Conor Maynard & Snoop Dogg)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4LFnAkPtI-edkv08MOVVb4aok8Xcg_XRPTehqF0LelwCkgy23IJktpgDYkdMeuBHZdXPg18QBTg4jFpt=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "How You Love Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "MnckcBPmrnc",
         "video_url": "https://www.youtube.com/watch?v=MnckcBPmrnc",
         "title": "Mad World (feat. Jake Reese)",
@@ -234,12 +666,48 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "EkcWWmgNJu8",
+        "video_url": "https://www.youtube.com/watch?v=EkcWWmgNJu8",
+        "title": "Make The World Ours",
+        "thumbnail_url": "https://lh3.googleusercontent.com/x7mGXhbXQZzFxYBgR5Q0Aq3Q3UseJlef8dQdoqhsGl_Nmz_1u5XYXwTDt_dt0YWZazFpPp4PQdDD7H-A=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Make The World Ours",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "a0w2tDAqP_I",
         "video_url": "https://www.youtube.com/watch?v=a0w2tDAqP_I",
         "title": "Oldskool Sound",
         "thumbnail_url": "https://lh3.googleusercontent.com/TmyYxh_uTR44epXx08iY76f1zZZ8e0yjMsK7neXy-S6OMcyLCrVME1nK7BVD9bqaw-Vj2cBgydqgLWA=w120-h120-l90-rj",
         "artist": "Hardwell",
         "album": "Oldskool Sound",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1gbBnMgkkmM",
+        "video_url": "https://www.youtube.com/watch?v=1gbBnMgkkmM",
+        "title": "DOPAMINE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "PrZ8wLNJ16c",
+        "video_url": "https://www.youtube.com/watch?v=PrZ8wLNJ16c",
+        "title": "F*CKING SOCIETY",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "VXpc1IeHp-I",
+        "video_url": "https://www.youtube.com/watch?v=VXpc1IeHp-I",
+        "title": "GODD",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -261,12 +729,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "YtUPGR-auaE",
+        "video_url": "https://www.youtube.com/watch?v=YtUPGR-auaE",
+        "title": "LASER",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "DswpD5e-96o",
+        "video_url": "https://www.youtube.com/watch?v=DswpD5e-96o",
+        "title": "MIND CONTROL",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "xjsGKdZUqlI",
         "video_url": "https://www.youtube.com/watch?v=xjsGKdZUqlI",
         "title": "PACMAN",
         "thumbnail_url": "https://lh3.googleusercontent.com/Rroj6_87OBOGkwc0ZVQSep5syQqM05bYc4otUuHzSLQUAqVlcYk0uWC8gmJ36ap6Ozy7DjFAzIZFOL4=w120-h120-l90-rj",
         "artist": "Hardwell",
         "album": "REBELS NEVER DIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zWiYVzCJcBE",
+        "video_url": "https://www.youtube.com/watch?v=zWiYVzCJcBE",
+        "title": "Run Wild (feat. Jake Reese)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cLBfR81VQ23Rzix2EyE8mBFYlbg7gfuwD4Kkcy1b53lMyq-v7-RNU1llovQZjERJxCKPAQy6mePBzrYbkA=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Run Wild",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -288,9 +783,27 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "0BwTUU4hDhE",
+        "video_url": "https://www.youtube.com/watch?v=0BwTUU4hDhE",
+        "title": "Apollo (feat. Amba Shepherd)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/epzb7mMO6NxJPhn2XuscwUqtqHKRzNj5JYcNBZr7E-cHSZa0CrKj3cTGW75ZNKqrjutlNKCHAVYTvl3j2g=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "The Sound Of Revealed 2012 (Mixed By Dannic & Dyro)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "vnTCQRMV-ME",
         "video_url": "https://www.youtube.com/watch?v=vnTCQRMV-ME",
         "title": "Echo (feat. Jonathan Mendelsohn)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "United We Are",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nGVlvId5vqY",
+        "video_url": "https://www.youtube.com/watch?v=nGVlvId5vqY",
+        "title": "Eclipse",
         "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
         "artist": "Hardwell",
         "album": "United We Are",
@@ -306,12 +819,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "KHZ8Q0Xh3F0",
+        "video_url": "https://www.youtube.com/watch?v=KHZ8Q0Xh3F0",
+        "title": "United We Are (feat. Amba Shepherd)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "United We Are",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "4oWNWn_7Cqs",
         "video_url": "https://www.youtube.com/watch?v=4oWNWn_7Cqs",
         "title": "Young Again (feat. Chris Jones)",
         "thumbnail_url": "https://lh3.googleusercontent.com/_IaG8KSjyCSOsJ7Pm9vjj6CeBGgo6mKLdgwih6sl9IDs2ePpvvNdlW3fCSuCtu0jxhWAT0DofxesBqw1=w120-h120-l90-rj",
         "artist": "Hardwell",
         "album": "Young Again",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ftYPjCHMro4",
+        "video_url": "https://www.youtube.com/watch?v=ftYPjCHMro4",
+        "title": "Apollo (SICK INDIVIDUALS Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Qid6ZBPDMwNhjznp_4T5nBW73cc2OmeFADLUxbSdUWaWGG7t6NKVBQC2PkizuN4aCcenCzVCD_9pLff27w=w120-h120-l90-rj",
+        "artist": "Hardwell & Amba Shepherd",
+        "album": "Apollo (The Remixes)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "q0iCLEpS7jA",
+        "video_url": "https://www.youtube.com/watch?v=q0iCLEpS7jA",
+        "title": "Off The Hook",
+        "thumbnail_url": "https://lh3.googleusercontent.com/II0qEJS1LXAJ1cM-gJ9R3JIeM7t3WCHTIOkdrcpC2djOj4mejJFYIV4C5_zSF3KqrCYSIGAsagAE8b0t=w120-h120-l90-rj",
+        "artist": "Hardwell & Armin van Buuren",
+        "album": "Off The Hook",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -324,6 +864,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "3QffFdGY9Rg",
+        "video_url": "https://www.youtube.com/watch?v=3QffFdGY9Rg",
+        "title": "Creatures Of The Night",
+        "thumbnail_url": "https://lh3.googleusercontent.com/apzQGZ9cR3CbNhIzAruJPAEpdvAGBT30OCJ7WC1cgWJNL-9GqJVYzhs2lWMyavHwMlBGIQHOixMf9wUJFA=w120-h120-l90-rj",
+        "artist": "Hardwell & Austin Mahone",
+        "album": "Creatures Of The Night",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CAX95e5tw6c",
+        "video_url": "https://www.youtube.com/watch?v=CAX95e5tw6c",
+        "title": "Anybody Out There (Dr Phunk Remix) (feat. Alex Hepburn)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GKrK7bdgC-sCTw-ME4wFxLAGgB_82CTm1bT_DpwxKwAGYAibR7zQ201DMCoAsaSk9_wydcSZuj5GV9kZkg=w120-h120-l90-rj",
+        "artist": "Hardwell & Azteck",
+        "album": "Anybody Out There (The Remixes)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "9EaudKAbqhA",
         "video_url": "https://www.youtube.com/watch?v=9EaudKAbqhA",
         "title": "Bigroom Never Dies (feat. Mitch Crown)",
@@ -333,12 +891,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Swkam9iW7OU",
+        "video_url": "https://www.youtube.com/watch?v=Swkam9iW7OU",
+        "title": "Survivors (Radio Edit) (feat. Haris)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bpFS7agkkDuacQX0PvLkAt3GpDdpBJw5E6LWtikyh6rJRqxOTQfBK_jE4fcfCqJTYwOA5UdHZxftXfo=w120-h120-l90-rj",
+        "artist": "Hardwell & Dannic",
+        "album": "Survivors (Radio Edit)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "uPmEoodYJwI",
         "video_url": "https://www.youtube.com/watch?v=uPmEoodYJwI",
         "title": "Never Say Goodbye (Extended Mix) (feat. Bright Lights & Heather Dawn Bright)",
         "thumbnail_url": "https://lh3.googleusercontent.com/hWeCi4UfEprRXMCy06aIetFLfcx5C0aiHXuQKG8yhYMZXvhjZ_QoO4MjaFJE2TfNIS4vWL8g4W_w8woA=w120-h120-l90-rj",
         "artist": "Hardwell & Dyro",
         "album": "Never Say Goodbye",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "npHawbVrcrI",
+        "video_url": "https://www.youtube.com/watch?v=npHawbVrcrI",
+        "title": "Nothing Can Hold Us Down (feat. Haris)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell & Headhunterz",
+        "album": "United We Are",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -360,6 +936,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "NUxNQXBH_TQ",
+        "video_url": "https://www.youtube.com/watch?v=NUxNQXBH_TQ",
+        "title": "This Is Love (feat. Loren Allred)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/H4MEygn4VHQZqbtRZWc0l-ChZ5DDrMiV8h82aAqLhntj98zj-WSOZpew82i9EY5d75nyFea6BS7Yt5Oa=w120-h120-l90-rj",
+        "artist": "Hardwell & KAAZE",
+        "album": "This Is Love",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "zrR7a59tZv0",
         "video_url": "https://www.youtube.com/watch?v=zrR7a59tZv0",
         "title": "Power",
@@ -378,6 +963,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "mPX2rftohKk",
+        "video_url": "https://www.youtube.com/watch?v=mPX2rftohKk",
+        "title": "Calavera",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_cZ2ge7XAvh9Y-nKv1IyZ0Oeck09PDeRAUZGMMKELUsIMOvO-3yIiO-d9VKjJu_VU13KWOmMxJoSkuRR=w120-h120-l90-rj",
+        "artist": "Hardwell & Kura",
+        "album": "Calavera",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "f8L7dPatsHQ",
         "video_url": "https://www.youtube.com/watch?v=f8L7dPatsHQ",
         "title": "REMINISCE",
@@ -393,6 +987,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/KwhEKHXxfQNmpPl01EsxWQ0hQ_zGuHBfE4PGSaC5nOwjMAzj36VmpUgi7FJEg3VXlIP-vc-CLjQLFCNR=w120-h120-l90-rj",
         "artist": "Hardwell & MAKJ",
         "album": "Countdown",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "brYbtyHRtpk",
+        "video_url": "https://www.youtube.com/watch?v=brYbtyHRtpk",
+        "title": "Human",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Hk2udO8U-N4Q99loyjF19X4xqapkHAXz3wb1Q9-dYuuwoFKB7P-xG50skbt6MlZ8tFPCiCXnOOlJsPuB=w120-h120-l90-rj",
+        "artist": "Hardwell & Machine Made",
+        "album": "Human",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -459,12 +1062,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "g4H5wUSi4V0",
+        "video_url": "https://www.youtube.com/watch?v=g4H5wUSi4V0",
+        "title": "The Abyss",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SZgg7DGg-LPJ6AIR5EcWkIeEUJB_OYB2cy6DhxFjs2SL1gVy0m7k1en3cFVzHvqU_vTWjcLc-wpPAE0=w120-h120-l90-rj",
+        "artist": "Hardwell & Space 92",
+        "album": "The Abyss",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "gY1XIvLQKX0",
         "video_url": "https://www.youtube.com/watch?v=gY1XIvLQKX0",
         "title": "Judgement Day",
         "thumbnail_url": "https://lh3.googleusercontent.com/qtlZ0onoK0t-FYEVvSC8Oxj0tQCGW8k58kTc63X_J5_H71vY23AD3WJCQqt4DBjZKHnXcTlujdZdO_Em=w120-h120-l90-rj",
         "artist": "Hardwell & Sub Zero Project",
         "album": "Judgement Day",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_gupPkTRvws",
+        "video_url": "https://www.youtube.com/watch?v=_gupPkTRvws",
+        "title": "8Fifty",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tPNrV2KXw0yfuY4NccuSWEKoz42PtOqVgtAdw7BGdRv-m6JTiloS4GQtFZZSclU16UMdX_t7iLGZbUA=w120-h120-l90-rj",
+        "artist": "Hardwell & Thomas Newson",
+        "album": "8Fifty",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -477,12 +1098,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "MPWp66cEl-k",
+        "video_url": "https://www.youtube.com/watch?v=MPWp66cEl-k",
+        "title": "Colors (feat. Andreas Moe)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UsDVG24raY1ieWyhKV9AJwSq6SyVQqUwhlARqY3bJxMGzHG3AgRI4EiY8F-Pzt3NHwsvevKdf992ALNG=w120-h120-l90-rj",
+        "artist": "Hardwell & Ti\u00ebsto",
+        "album": "United We Are",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Ja_ATB_YqEg",
+        "video_url": "https://www.youtube.com/watch?v=Ja_ATB_YqEg",
+        "title": "Jumper",
+        "thumbnail_url": "https://lh3.googleusercontent.com/I-JUMSenM2_kkjK7qJAHru4ZVKZVASE363w93ARw99qaQBRk4bFtYtcmCIwY_14YoBR6GulzZS9yREU=w120-h120-l90-rj",
+        "artist": "Hardwell & W&W",
+        "album": "Jumper",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "RU-drtOiBlA",
         "video_url": "https://www.youtube.com/watch?v=RU-drtOiBlA",
         "title": "Shine A Light (feat. KiFi)",
         "thumbnail_url": "https://lh3.googleusercontent.com/LqVApSd4FiXyHIY1XVh-vgwIJARYOJUp1lqu6cGbkYvBEQeSSx8UsmW0p3G2OJpMZYb_KYLdpc1CiPL5=w120-h120-l90-rj",
         "artist": "Hardwell & Wildstylez",
         "album": "Shine A Light",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XVvbtumOnhk",
+        "video_url": "https://www.youtube.com/watch?v=XVvbtumOnhk",
+        "title": "Twisted",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gLXRiVm4MkSP90xvoFyo8bzWgL52kXZog4xvRCXaEQgxJ-2_cJyAEx3w5XAbfM0yYXcRSMuJp-xzaG4Byw=w120-h120-l90-rj",
+        "artist": "Hardwell & Will Sparks",
+        "album": "Twisted",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -567,12 +1215,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "CWaLPmJ7yrs",
+        "video_url": "https://www.youtube.com/watch?v=CWaLPmJ7yrs",
+        "title": "Out Of This Town",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0T0KUu1mRPwWPgaPaYV63BaL4pJg5jIPHlLiF8HiNaPLD-IhwwaQ_5t6dC17j9mw9fc6OEpqQ3fmIX0TPw=w120-h120-l90-rj",
+        "artist": "Hardwell, VINAI & Cam Meekins",
+        "album": "Out Of This Town",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sP8YOzk0dX4",
         "video_url": "https://www.youtube.com/watch?v=sP8YOzk0dX4",
         "title": "On My Mind",
         "thumbnail_url": "https://lh3.googleusercontent.com/ptgw00QAoD6ksDBYwByMZTJZU_UbBMg82BOaaRKK8L5eTYc0gSWkYMAqpvRhyomApSZ6Pf39e4c6ubM=w120-h120-l90-rj",
         "artist": "Hedex & Modestep",
         "album": "From The Rave",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "KC0cNk0TXAs",
+        "video_url": "https://www.youtube.com/watch?v=KC0cNk0TXAs",
+        "title": "Off Of My Mind",
+        "thumbnail_url": "https://lh3.googleusercontent.com/X0GUQu8yEHoqWWsivFRAnFiSX-ox5CdQCFrX03Gz4kiWl2BEgSpi0X1r7KqQSYmfMIGr6RIk6tkDOCxiDA=w120-h120-l90-rj",
+        "artist": "Icona Pop & VIZE",
+        "album": "Club Romantech",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -627,6 +1293,33 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/NzoM33ChbUu3e8UuzkZMfF539ZNnvB4LKTyA70pCKwJ5U-JtRKWSX7bOhCGF_PGKtGUxgGyNvrJWxAE=w120-h120-l90-rj",
         "artist": "James Hype, Kim Petras & Ti\u00ebsto",
         "album": "Drums (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CqLw2uJLPpE",
+        "video_url": "https://www.youtube.com/watch?v=CqLw2uJLPpE",
+        "title": "My Paradise",
+        "thumbnail_url": "https://lh3.googleusercontent.com/927Ui6pmFxbhllLrV-OENsHs3ka4z3GQZ-w69VwRnHP3J-_u--iIl3HIqVrXSOXFjiO1WxASGQMU8gM=w120-h120-l90-rj",
+        "artist": "Jamie Jones",
+        "album": "My Paradise",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7AIvED1lXEI",
+        "video_url": "https://www.youtube.com/watch?v=7AIvED1lXEI",
+        "title": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZbyNOCbY6UQPkA9a7hWh6DeMNnEGLieW4iDap6NdDNEk_6Avgvvxrdpn0YCwSF4gbBFdJi0Jt-OmEOAk=w120-h120-l90-rj",
+        "artist": "Joel Corry & Jax Jones",
+        "album": "OUT OUT",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "4bN-cUL0C0c",
+        "video_url": "https://www.youtube.com/watch?v=4bN-cUL0C0c",
+        "title": "Hold On To My Love",
+        "thumbnail_url": "https://lh3.googleusercontent.com/O6YNYOhxI9IfD9uf5hTK0B8s6Qha4brWBDf08_pErkl9e8C_6V2GvXlQo7ws23hwnA8iByu_-dUpWQlSAw=w120-h120-l90-rj",
+        "artist": "John Newman",
+        "album": "Hold On To My Love",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -693,12 +1386,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "iY89Ts3mxFI",
+        "video_url": "https://www.youtube.com/watch?v=iY89Ts3mxFI",
+        "title": "Sun Goes Down",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1CqDvy6gw61xa3FAr0gORUXhfj9sdctzV1yLapy9bFKbyKXxtQ3Ilg_PgktVIeV73bb0Fyogpo31Dn8=w120-h120-l90-rj",
+        "artist": "Kenn Colt",
+        "album": "Sun Goes Down",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "9Go1GQZcK1U",
         "video_url": "https://www.youtube.com/watch?v=9Go1GQZcK1U",
         "title": "Pursuit Of Happiness (Extended Steve Aoki Remix) (feat. MGMT & Ratatat)",
         "thumbnail_url": "https://lh3.googleusercontent.com/6uA6wsx0ARVOK5Go5DK8w-4L--aZbMrqA6qWJeDyLzcbagtiHFN0QzmOWrtoWSAS2FAXy5jJuB-zQm0=w120-h120-l90-rj",
         "artist": "Kid Cudi",
         "album": "Pursuit Of Happiness (Extended Steve Aoki Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ypGKiy1XFfU",
+        "video_url": "https://www.youtube.com/watch?v=ypGKiy1XFfU",
+        "title": "Under My Skin",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cHxxPtzCZr3SY-EL7DhNRMPtFj4c9H0H0MgFche9Oz0GVC8QfzuVtuANhiq5iRvIwYGOABu5ghJLX-tbug=w120-h120-l90-rj",
+        "artist": "Korolova & Richard Judge",
+        "album": "Under My Skin",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "oN7pmvU-Ugw",
+        "video_url": "https://www.youtube.com/watch?v=oN7pmvU-Ugw",
+        "title": "Clap Your Hands",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YjPyTSpzAchR8Kgl_iCQ4jQhS7kSav2oAqMoSbQVJaEOB1nuPeUIsepOae4-IIpfdQZR51PNCNQ9G-k=w120-h120-l90-rj",
+        "artist": "Kungs",
+        "album": "Club Azur",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -764,12 +1484,120 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "O3hElaxgRlo",
+        "video_url": "https://www.youtube.com/watch?v=O3hElaxgRlo",
+        "title": "Higher",
+        "thumbnail_url": "https://lh3.googleusercontent.com/coFX-npujkbkj9hdpTkV7DJEzLaOKjWMOL5Yw4K3AYXfvwBt54qB9vgRdmIVgZ449-_HWEIwx8VMkPtB=w120-h120-l90-rj",
+        "artist": "London Grammar & CamelPhat",
+        "album": "The Remixes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lrurGKDyLho",
+        "video_url": "https://www.youtube.com/watch?v=lrurGKDyLho",
+        "title": "Jour Meilleur (Lost Frequencies Edit) (feat. Orelsan)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0Ps0C7o6UrVyj_tumdKdTCNxfthcVXAVruyskoHyo9cBfgfwcXydmhr1h2zLIC0bW-nFgQRiU-MNUkUBpw=w120-h120-l90-rj",
+        "artist": "Lost Frequencies",
+        "album": "Jour Meilleur (Lost Frequencies Edit)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UTwjOg6K_hA",
+        "video_url": "https://www.youtube.com/watch?v=UTwjOg6K_hA",
+        "title": "The Feeling",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ab35DpWwni7Q5fwgpWxblv4U_IzmBfK8bFdmNaYYgkNPJcFOpxIKgV79gIt4PLbCj8Vw_Kbyv0x4Xbs=w120-h120-l90-rj",
+        "artist": "Lost Frequencies",
+        "album": "The Feeling",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-23UKjwu_10",
+        "video_url": "https://www.youtube.com/watch?v=-23UKjwu_10",
+        "title": "Where Are You Now",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WSHF1GYugNLa5474rHMMsQEXnTcAH3E2uso-Afq34a6-mowSDewAfEpj0OG-6zJ8TXEChB15ScnyHYy3=w120-h120-l90-rj",
+        "artist": "Lost Frequencies & Calum Scott",
+        "album": "Where Are You Now",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "LxOXHuLrgF4",
+        "video_url": "https://www.youtube.com/watch?v=LxOXHuLrgF4",
+        "title": "Broken (Lost Frequencies Cut)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dM28pOwRKzXUW1IYiGOnt8nBiQPGi_RAX0DxkZx2iJvUJo1bWn0Tjc1ZcOWnSuOJ1hzGcAM8x8hC1uL0=w120-h120-l90-rj",
+        "artist": "Lost Frequencies & Isak Danielson",
+        "album": "Broken (Lost Frequencies Cut)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "oceXXCsO3fk",
+        "video_url": "https://www.youtube.com/watch?v=oceXXCsO3fk",
+        "title": "The Logical Song",
+        "thumbnail_url": "https://lh3.googleusercontent.com/G2byFQEc54jjz-rxz-rvUIZXnLaGIJO73t7-JycCAnQ-fPeAC4dRaDN5bb89TddyutXe_z8XBf4jBNcR7Q=w120-h120-l90-rj",
+        "artist": "MATTN & Klaas",
+        "album": "The Logical Song",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "yBvvvWWGtJ0",
+        "video_url": "https://www.youtube.com/watch?v=yBvvvWWGtJ0",
+        "title": "The Logical Song (Dimitri Vegas & Like Mike Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MyQyFGann7hvYdyErys_F8CUP_L6XR0nBevkFJs06nt6n1VdiJ20oY4irunQN-dXGD303WjSEqr5w0P-=w120-h120-l90-rj",
+        "artist": "MATTN & Klaas",
+        "album": "The Logical Song (Dimitri Vegas & Like Mike Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YFMSZ2tmfPY",
+        "video_url": "https://www.youtube.com/watch?v=YFMSZ2tmfPY",
+        "title": "Tell It To My Heart (feat. Hozier)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/2lhIdNA3tFRFdgin5o4hhcJrhPnKwLOZbrW8lPaaHDJPj_EkfdbB6FF9-IBomWVmzJ51S8vEoTchDzYXcw=w120-h120-l90-rj",
+        "artist": "MEDUZA",
+        "album": "Tell It To My Heart",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "96L5sV7rqX0",
         "video_url": "https://www.youtube.com/watch?v=96L5sV7rqX0",
         "title": "Can't Hold Us (feat. Ray Dalton)",
         "thumbnail_url": "https://lh3.googleusercontent.com/Ond7bzyvLRgppE6e31TdY8T3R1JDC5dZOdPZjb1cPoB49HDwhoZknvgkFAFvO2YISdg8UQjcs9bK9UQ5=w120-h120-l90-rj",
         "artist": "Macklemore & Ryan Lewis",
         "album": "The Heist",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tTedOE6u8Fg",
+        "video_url": "https://www.youtube.com/watch?v=tTedOE6u8Fg",
+        "title": "Ghost Assassin",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Cm3ifvOhygqqa6jLFh9Q0uCWnSNhJb2S1_U3hDB8J7x2ysyra2DvEZW6TRi153rGfhr2VtlbCksnuSE=w120-h120-l90-rj",
+        "artist": "Maduk & Veela",
+        "album": "Ghost Assassin EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "saTYifRt2kM",
+        "video_url": "https://www.youtube.com/watch?v=saTYifRt2kM",
+        "title": "Que Calor (feat. J Balvin & El Alfa)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YxTtH42wx4MEn-IscDmm1kslJ7YZdTSTJ7ibe2gOWbzKEiBX59Ecns9z_lawvXaYJavpNEnLsRpEuW5_=w120-h120-l90-rj",
+        "artist": "Major Lazer",
+        "album": "Music Is The Weapon",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "MbT_grBSt38",
+        "video_url": "https://www.youtube.com/watch?v=MbT_grBSt38",
+        "title": "Silence (feat. Khalid)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-I2ExgNtNfwXVvyPSwxhcpIg9-xWVjjGhC3PAR-hu-5tkufVVlXEyrOUAvcXY-b_AzRbHrum9KuBBBah=w120-h120-l90-rj",
+        "artist": "Marshmello",
+        "album": "Silence",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "VHk-XykD4ZU",
+        "video_url": "https://www.youtube.com/watch?v=VHk-XykD4ZU",
+        "title": "Rescue Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/T3x2pU8D34XtohYNjgYNihSSmozUny1eKUooZp7N06gIfp3FEgBxtER-0H0sl4tAulh_GCjH9MEStF7i4w=w120-h120-l90-rj",
+        "artist": "Marshmello & A Day To Remember",
+        "album": "Joytime III",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -791,6 +1619,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "7GC7eI9c-20",
+        "video_url": "https://www.youtube.com/watch?v=7GC7eI9c-20",
+        "title": "Numb",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3lvc_2ZzgcIjJwLwPOVUoJspZOci45ETSdgiJ_4GdhHaoV70gOi_-UVui-zGe8Jjk8tG246ctup_rb4Ugw=w120-h120-l90-rj",
+        "artist": "Marshmello & Khalid",
+        "album": "Numb",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "DYf28lOb8KU",
         "video_url": "https://www.youtube.com/watch?v=DYf28lOb8KU",
         "title": "Animals (Radio Edit)",
@@ -800,12 +1637,84 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "hZy_QR_UT6A",
+        "video_url": "https://www.youtube.com/watch?v=hZy_QR_UT6A",
+        "title": "Something",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-3EVV3JG9bWFfrpoDNtRdtZCLSTa56Rp0g8QwYaT9rG2q-0nbWSNMCMhZOyz2MFCpQuRbERl1aBps-Kb=w120-h120-l90-rj",
+        "artist": "Martin Garrix & Breathe Carolina",
+        "album": "Something",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "uoH7SmtIcpc",
+        "video_url": "https://www.youtube.com/watch?v=uoH7SmtIcpc",
+        "title": "Hero (DubVision Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/kSJQvKcuQubPyWoYtNQCpcLllQGFpvxfnGY4MXKLXoIoYa3FuzmfFHOQf2UD581LhkvjS-2YuTqyprOw=w120-h120-l90-rj",
+        "artist": "Martin Garrix & JVKE",
+        "album": "Hero (Remixes)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TM2p0cStLSI",
+        "video_url": "https://www.youtube.com/watch?v=TM2p0cStLSI",
+        "title": "Mistaken (feat. Alex Aris)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ziLVXafR0wH8BB1iDfPV3uL-Lpg3bn4TT_57pUTon81xoGZA9KYcALjpF9qd-Uk35fX6gjkoI6b-vM4=w120-h120-l90-rj",
+        "artist": "Martin Garrix & Matisse & Sadko",
+        "album": "Mistaken",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JWzD8xvdB4E",
+        "video_url": "https://www.youtube.com/watch?v=JWzD8xvdB4E",
+        "title": "Together",
+        "thumbnail_url": "https://lh3.googleusercontent.com/i9PeR1PIwntH138CJFLxc_Q_8rVIDauczOl_UVpksCUGDSsFYrMSK5JltdyIEIO52e73-1FVlARIMMTmXA=w120-h120-l90-rj",
+        "artist": "Martin Garrix & Matisse & Sadko",
+        "album": "Together",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "WOs7XrWpqCE",
+        "video_url": "https://www.youtube.com/watch?v=WOs7XrWpqCE",
+        "title": "Hurricane (feat. Bonn)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GWsBRkrUroSlJkcKqm6aJDaNv9Ys81gqOJnAUQk4b0xtNeab6JVgojQ0z1MMMHXWW6qfW28UJ_MKAOiJ=w120-h120-l90-rj",
+        "artist": "Martin Garrix & Sentinel",
+        "album": "Hurricane",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "wLbMjr822-s",
         "video_url": "https://www.youtube.com/watch?v=wLbMjr822-s",
         "title": "The Only Way Is Up",
         "thumbnail_url": "https://lh3.googleusercontent.com/sqPHdIWNmvFPj_7beI1NlxdHZOjiMThTbdCWKPTEPcZib-6o6izLGdxRjY2ts4vGpz2_Ep1Ut_4MsnFA=w120-h120-l90-rj",
         "artist": "Martin Garrix & Ti\u00ebsto",
         "album": "The Only Way Is Up",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "oaMxA5-z1jo",
+        "video_url": "https://www.youtube.com/watch?v=oaMxA5-z1jo",
+        "title": "Won\u2019t Let You Go",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ipvtr38B_ebGUc3bDoG2NQt3t0jt5RnRwbJKQLDtMO4QdXMPmh-y-ADrkRknv9aMUv7D3KUspGecrMi_=w120-h120-l90-rj",
+        "artist": "Martin Garrix, Matisse & Sadko & John Martin",
+        "album": "Won\u2019t Let You Go",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "QwDbZJhXNUc",
+        "video_url": "https://www.youtube.com/watch?v=QwDbZJhXNUc",
+        "title": "Lefka",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1BInKDD9sQc52Z3RYvM_Tp6b2bT0qufVlkjOTfd8k5BbeEUZM6PpFKENGBybFxvhfUIScJKTncUyB4c=w120-h120-l90-rj",
+        "artist": "Matisse & Sadko",
+        "album": "Lefka",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "G7yVPph_4Ek",
+        "video_url": "https://www.youtube.com/watch?v=G7yVPph_4Ek",
+        "title": "Saga",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yTOm1ev1kltYqgwJHYrj-C-xPA_JxEtf7bIzjW6AEuqkzqoRCGdynWYwAoI3TJaSSxJMhW190uyP23OX=w120-h120-l90-rj",
+        "artist": "Matisse & Sadko",
+        "album": "Saga",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -854,6 +1763,96 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "GSDhE3D7SF8",
+        "video_url": "https://www.youtube.com/watch?v=GSDhE3D7SF8",
+        "title": "Fireworks",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZC4iVuRK0Jj0_HqpqKcSO83ozPzvYZWtfZ5SMpHbXOXt0qTEPKYRHCuaxwJnqS44O-78jOILKJcJmqI=w120-h120-l90-rj",
+        "artist": "Moss Kena, Purple Disco Machine & The Knocks",
+        "album": "Exotica",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "34lxDYTPM0E",
+        "video_url": "https://www.youtube.com/watch?v=34lxDYTPM0E",
+        "title": "You're Gonna Love Again",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9hwW7CHVjs_2xypjhRG42gr9RaF26b14-RYmKvUTkHj73L5ZmvKZq7Ns1KZEo6eDByqJ1mob8mm2HmJi=w120-h120-l90-rj",
+        "artist": "NERVO",
+        "album": "Collateral",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "osWghzM3CgM",
+        "video_url": "https://www.youtube.com/watch?v=osWghzM3CgM",
+        "title": "Give In",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UjG8WcJ5b9MAUHLMrw7oUIsFN8F2hFCrAs9wbwTp4v8QgTrhdUur4yZreb2-9lJQ3wZa5_6aHRbu4FsF=w120-h120-l90-rj",
+        "artist": "Nicky Romero",
+        "album": "Give In",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BXvdVXV4q50",
+        "video_url": "https://www.youtube.com/watch?v=BXvdVXV4q50",
+        "title": "We're Still Young (feat. Olivia Penalva)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zw2JcvVqjM64yxKG2HUfRSdlx53UuDcmkRAjZ_JeT1KVVx8JmwDZ9Mi0l57xLp8LKin4tPlnakE2_r-iNQ=w120-h120-l90-rj",
+        "artist": "Nicky Romero & W&W",
+        "album": "We're Still Young",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "keODzY9C7vM",
+        "video_url": "https://www.youtube.com/watch?v=keODzY9C7vM",
+        "title": "4U",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EgnWlSmZQ9VXPpgCTdLU-8cfCYyFrmuV9FZroVM0uBBO6zr6307N1vNMyWLbiXZd_oiK0V4BJEMk4yI=w120-h120-l90-rj",
+        "artist": "Ofenbach",
+        "album": "I",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Ymcz67ASHe8",
+        "video_url": "https://www.youtube.com/watch?v=Ymcz67ASHe8",
+        "title": "U Ok?",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vdyFjmjBqk23KAZ8AefduZ6a37pKvIQgJyzRW_vZH-Rkcgs92LUOlg7bQ6El1bkA0z4zKBFrvDXBr7pu=w120-h120-l90-rj",
+        "artist": "PARISI, Steve Angello & Sebastian Ingrosso",
+        "album": "U Ok?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UbJLN2goiUs",
+        "video_url": "https://www.youtube.com/watch?v=UbJLN2goiUs",
+        "title": "Allein",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZlTXsJOWqWveLPGNPmqMjl93kWVMyNmw3mdJKV8aJzImVpxBnNZd5J5bq4_DUxV7-dpIm5ybqsVTd4bR=w120-h120-l90-rj",
+        "artist": "Pryda",
+        "album": "Eric Prydz Presents Pryda",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "HZFHSl_gAAU",
+        "video_url": "https://www.youtube.com/watch?v=HZFHSl_gAAU",
+        "title": "Substitution (feat. Julian Perretta)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/LrcdZ9IX1F8ztM6INYLvAp51xXFV2n32A-FHN__IAQQdgS98u45YURwpKmwvU7UxTHwD5OePU3fTUhU=w120-h120-l90-rj",
+        "artist": "Purple Disco Machine & Kungs",
+        "album": "Substitution",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lRVhtZmwpPc",
+        "video_url": "https://www.youtube.com/watch?v=lRVhtZmwpPc",
+        "title": "All Around The World (La La La)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FjryY4VOpU6xvdBdn4Zphd3v8BMNfl-6qjVdXljwhuqPY8CHVKNXXRUF-ZPHaDF57yBmYRxoKq0aSPF8=w120-h120-l90-rj",
+        "artist": "R3HAB & A Touch Of Class",
+        "album": "All Around The World (La La La)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "R2H0hKftsCk",
+        "video_url": "https://www.youtube.com/watch?v=R2H0hKftsCk",
+        "title": "Sleepless (feat. GoldFord)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Hb6lu142Slf06jmwa9DVaM75xwysK4BSIzC6oyHPWCbQsLTUTf1-7WL6FVuXTT32Lndl_yshQsoB6j92=w120-h120-l90-rj",
+        "artist": "Restricted & Topic",
+        "album": "Sleepless",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ieKIpFsUTYw",
         "video_url": "https://www.youtube.com/watch?v=ieKIpFsUTYw",
         "title": "Hypnocurrency",
@@ -869,6 +1868,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/LoPNkHwK6aFo_foZNaCkvmMoOXHItBOs56mZjuTq0-3Vd3LkxjqsZxH9Q0S12ik52PJoIjUo09Fh198=w120-h120-l90-rj",
         "artist": "Rihanna & Calvin Harris",
         "album": "Talk That Talk (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SeqwB3_b-e4",
+        "video_url": "https://www.youtube.com/watch?v=SeqwB3_b-e4",
+        "title": "Young Right Now",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gisEJ0RQUyMsYVurO6kcsWwBu0kA9GYD0KdllU0W8wA3OCTr4EcGi9prIZIdfN8iRhMg9tD577Vq1Cuj=w120-h120-l90-rj",
+        "artist": "Robin Schulz & Dennis Lloyd",
+        "album": "Young Right Now",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "O1QElyGTS5U",
+        "video_url": "https://www.youtube.com/watch?v=O1QElyGTS5U",
+        "title": "Sun Came Up",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_caXi1xFsBDtsbTROI4nvxJpuyb9BMrPxpsjFMK7QyEkR7bq0s77ApMANANSuSkq_elxTOnBp0XfC4A=w120-h120-l90-rj",
+        "artist": "SOFI TUKKER & John Summit",
+        "album": "WET TENNIS",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1412,12 +2429,84 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "qhGAngAGJDE",
+        "video_url": "https://www.youtube.com/watch?v=qhGAngAGJDE",
+        "title": "Valodja",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yxryQHHJXG2z5-BSw93UDA8vNG9lkcTcntNEp34xDamKprZRVwtO2b-vZ8SODLyU2yyznWWchI4SNjki=w120-h120-l90-rj",
+        "artist": "Steve Angello & AN21",
+        "album": "Valodja",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SkSL4fYwAqg",
+        "video_url": "https://www.youtube.com/watch?v=SkSL4fYwAqg",
+        "title": "What You Need",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EAlwb35sddOTqUeMrTp4bVcwz64txC-iHLc_yJe3PZ042ApvVLaePk9nse2LQyebPkao6s2NGvodTVE=w120-h120-l90-rj",
+        "artist": "Steve Angello & Wh0",
+        "album": "What You Need",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZZr39kPy4m4",
+        "video_url": "https://www.youtube.com/watch?v=ZZr39kPy4m4",
+        "title": "Hungry Heart (feat. Hayley Kiyoko)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3jYa4t2UVkpGwPWNgnuSDFJahny-oiXAqPBpmbTrvmeeHzIv9YSDsn3dtDAT0PlsZCAO6aoatIwMnrU=w120-h120-l90-rj",
+        "artist": "Steve Aoki & Galantis",
+        "album": "Hungry Heart",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1FRsuBgEHYI",
+        "video_url": "https://www.youtube.com/watch?v=1FRsuBgEHYI",
+        "title": "Turbulence (Radio Edit) (feat. Lil Jon)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/e9MqvcUkVmMclIh1nFZ5KFNj8EN8RrkwzbjGPF25eFJSqEpL1KQ46Puhww2R1jyADSKjX8QcsALgi7nN=w120-h120-l90-rj",
+        "artist": "Steve Aoki & Laidback Luke",
+        "album": "Sundown (Original Motion Picture Soundtrack)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "y-7AV5LMglo",
+        "video_url": "https://www.youtube.com/watch?v=y-7AV5LMglo",
+        "title": "Motor",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zvMeTeC9j-ptuoJoIQSieuLn6YOjooLZWjyEIXBC1ZllIxoTAAm0G7RK2pgRd6tTPiiHXOxJMpaRgdg=w120-h120-l90-rj",
+        "artist": "Steve Aoki & Quintino",
+        "album": "Motor",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "p6lkjfUbm3w",
+        "video_url": "https://www.youtube.com/watch?v=p6lkjfUbm3w",
+        "title": "Azukita",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZyR0pCciRBfYQw8TFCMBttM7zz-d4HYLd32Fl2Dy1i7U089v99ImvRkdcoYAWRCx0OyoailRdQJP7Jtf=w120-h120-l90-rj",
+        "artist": "Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo",
+        "album": "Neon Future III",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "DwA0Zfm3aW4",
+        "video_url": "https://www.youtube.com/watch?v=DwA0Zfm3aW4",
+        "title": "Mirror Mirror",
+        "thumbnail_url": "https://lh3.googleusercontent.com/z3ssj25-wCef1GFKDle0jmHrd6XJIRmJOLzKukd146QSljw6G8KwL8XJYBm6cWUZ-kSGShDT3VlF0mCM=w120-h120-l90-rj",
+        "artist": "Steve Aoki, Showtek & Jem Cooke",
+        "album": "Mirror Mirror",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "3mWbRB3Y4R8",
         "video_url": "https://www.youtube.com/watch?v=3mWbRB3Y4R8",
         "title": "Don't You Worry Child (Radio Edit) (feat. John Martin)",
         "thumbnail_url": "https://lh3.googleusercontent.com/zNbE3SfaWnIXl6PREd_Pwb6xtWYZHqCf297APAF9c_in8aoUO7s0Qbu62EGfB4jXPzGBc3C5hBlrSDZh=w120-h120-l90-rj",
         "artist": "Swedish House Mafia",
         "album": "Don't You Worry Child",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ujG5c5RmQJg",
+        "video_url": "https://www.youtube.com/watch?v=ujG5c5RmQJg",
+        "title": "See The Light (feat. Fridayy)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5USS6rmNAcTDBGCkhVu-rUH17_PDFod1v2zuW4vLsS9GjvZBYDXo-Vbg8koQi-xUZfl0arZ8L8P99qQ=w120-h120-l90-rj",
+        "artist": "Swedish House Mafia",
+        "album": "See The Light",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1430,12 +2519,66 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "po0Mxzlug68",
+        "video_url": "https://www.youtube.com/watch?v=po0Mxzlug68",
+        "title": "Make Me Feel",
+        "thumbnail_url": "https://lh3.googleusercontent.com/V93MewqRSVB-2Mr1WTKzzEICX3Cx1B-h-hBpEE6p2rLBes8cG4OuzNwEIwJrRFfOtUqT-xOD604V6uQXIw=w120-h120-l90-rj",
+        "artist": "The Chainsmokers & Cheyenne Giles",
+        "album": "Make Me Feel",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ck7s0DosNdg",
         "video_url": "https://www.youtube.com/watch?v=ck7s0DosNdg",
         "title": "Feel It (Explicit Album Version)",
         "thumbnail_url": "https://lh3.googleusercontent.com/F4J8kNfMRVPnF2-4WN534ASQGqGQfMffcPcSLJvrI4Hiw-6v1_zuU4NIGSSDYsSlc40IS6Rr8kPpGZGJ=w120-h120-s-l90-rj",
         "artist": "Three 6 Mafia & Ti\u00ebsto",
         "album": "Feel It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "f5WzbM4TUfk",
+        "video_url": "https://www.youtube.com/watch?v=f5WzbM4TUfk",
+        "title": "Synergy",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OQoLTRNWwduaz1_adWnMYshoC14bwMoylFCmAdfrMRmJ6gTbMXRUtOFfm1r22NOguJuM984usr3tMm4=w120-h120-l90-rj",
+        "artist": "Timmy Trumpet & DVBBS",
+        "album": "Synergy",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Romd33sfjWA",
+        "video_url": "https://www.youtube.com/watch?v=Romd33sfjWA",
+        "title": "For Those About To Rave",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YlgSmMayHdIFx-YSZUQDZ_-rOLwnvFo1Gmptv7LY-Wma1oKzNqOe3mb-gGeJh3ASyU6hnEhmVocKpkcV=w120-h120-l90-rj",
+        "artist": "Timmy Trumpet & Scooter",
+        "album": "For Those About To Rave",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ynA5hP5hptg",
+        "video_url": "https://www.youtube.com/watch?v=ynA5hP5hptg",
+        "title": "Girls Like (feat. Zara Larsson)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rUDguTcJYXNlgmmcnYVbz6HHxP7qDAPZNeAZXqx8EUF-p80XvoTuqVMGVXyZp9HjkgHyRLJC1xyjS9Jn=w120-h120-l90-rj",
+        "artist": "Tinie Tempah",
+        "album": "YOUTH",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "oBoTAtdmsJY",
+        "video_url": "https://www.youtube.com/watch?v=oBoTAtdmsJY",
+        "title": "Rebirth (feat. Hero Baldwin)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PmhjxbJlhcc2TDecOqrGM3cjBrdpV5JIk9pmV0bnEPTSk41BpvwkEPl7KU0Dw4Cj1t4jiTEsanRwbnWIgg=w120-h120-l90-rj",
+        "artist": "Tinlicker",
+        "album": "In Another Lifetime",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "OoIhxNRrprM",
+        "video_url": "https://www.youtube.com/watch?v=OoIhxNRrprM",
+        "title": "Because You Move Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yDUFD2QvyDGD-tZJQlTExVJ1_A4dbYhZwNQo2kHGU-1yGcb1xHDTZQKLUG7N2eIzJmoHbrD54mRVn4VQ=w120-h120-l90-rj",
+        "artist": "Tinlicker & Helsloot",
+        "album": "Because You Move Me",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2339,6 +3482,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "MMIfLby5vis",
+        "video_url": "https://www.youtube.com/watch?v=MMIfLby5vis",
+        "title": "Voices In My Head",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SEoZIUXkc1-UMUYWf8ZQRoaPTtJTqNfshrOGAub-0QnZzFAFGzkjCARivfu8GyWEZDhoxA_h7VqyUnkw=w120-h120-l90-rj",
+        "artist": "Vicetone",
+        "album": "Departing Reality",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "VUNUWfumkCo",
+        "video_url": "https://www.youtube.com/watch?v=VUNUWfumkCo",
+        "title": "Rocket Spaceman [Mix Cut] (W&W & Hardwell Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/IBszTNNfYXRULIqLpXL6F3JQzYBTTIjftq12U_GciCIjla_doIqzP4IJ_72cVr-NG9NDs5SVSwgQQat9Nw=w120-h120-l90-rj",
+        "artist": "W&W, Blasterjaxx & Hardwell",
+        "album": "Revealed 5 Year Anniversary",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "dDENykCQ0dU",
         "video_url": "https://www.youtube.com/watch?v=dDENykCQ0dU",
         "title": "Live the Night",
@@ -2354,6 +3515,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/ctluGPJszPiLPgFjy9WBA4IhgypSmM42rxQYW7FyrW1TBOUdhxS1seN13nQzfdSLR2R_FFDlFso6-u49=w120-h120-l90-rj",
         "artist": "Yogi & Skrillex",
         "album": "Burial",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "rCx3JrUso9w",
+        "video_url": "https://www.youtube.com/watch?v=rCx3JrUso9w",
+        "title": "Not So Bad (feat. Emie)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dHlTdtMnpdXjRvIJ1biO-H5l7bPKzUXdnIgD81aJknDQpbYE3gQz18H8zqwY8XhP8SaU1rVbNkTgOiY=w120-h120-l90-rj",
+        "artist": "Yves V & Ilkay Sencan",
+        "album": "Not So Bad",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
