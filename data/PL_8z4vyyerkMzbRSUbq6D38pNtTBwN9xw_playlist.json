@@ -126,6 +126,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "OHFndoUuMZI",
+        "video_url": "https://www.youtube.com/watch?v=OHFndoUuMZI",
+        "title": "Atom",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3mwEaqYediaY5joFHLcqfIdLaDemJwHNg-iiX0Oc379-2tGs83vEGDMeRCExkI9dBfyv6fWIj98Kxffn=w120-h120-l90-rj",
+        "artist": "Alex Mine & Deborah De Luca",
+        "album": "Atom",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "iX6SpfS3tV8",
         "video_url": "https://www.youtube.com/watch?v=iX6SpfS3tV8",
         "title": "Headlights (feat. KIDDO)",
@@ -225,12 +234,75 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Dx807s45y1U",
+        "video_url": "https://www.youtube.com/watch?v=Dx807s45y1U",
+        "title": "Silhouettes (Original Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l9RndCRtvljLRiZWoCNyvnqbcIa2AcxijRTcAKUc2Fhbs8GkiCeIr6hBQn-jsoN2rd-yDGfLl5qJegs=w120-h120-l90-rj",
+        "artist": "Avicii",
+        "album": "Silhouettes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iR1sAex__VA",
+        "video_url": "https://www.youtube.com/watch?v=iR1sAex__VA",
+        "title": "Waiting For Love",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R=w120-h120-l90-rj",
+        "artist": "Avicii",
+        "album": "Stories",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ppWbG03O_AU",
+        "video_url": "https://www.youtube.com/watch?v=ppWbG03O_AU",
+        "title": "I Could Be The One (Avicii Vs. Nicky Romero) (Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GVAaBDScD7V8t3BjXWzk8dybIaLdEENJ0YlzUPoNi9qin1u0a7xGxyVtlEFPvSM80XWLNv17wwCjF28=w120-h120-l90-rj",
+        "artist": "Avicii & Nicky Romero",
+        "album": "I Could Be The One [Avicii vs Nicky Romero]",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "I9svIq_-EfY",
         "video_url": "https://www.youtube.com/watch?v=I9svIq_-EfY",
         "title": "NO MIENTEN (Ti\u00ebsto Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/bGHKUl4_pDZ0IaOoZK880lZsLVPJ6_UqWqy0ScTf9l446SadkOJHp3QLblQRpG7EnKN2kP0sTBkiXZo=w120-h120-l90-rj",
         "artist": "Becky G & Ti\u00ebsto",
         "album": "NO MIENTEN (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BkR5jP7db8A",
+        "video_url": "https://www.youtube.com/watch?v=BkR5jP7db8A",
+        "title": "Cinema (Skrillex Radio Edit) (feat. Gary Go)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tuiJiQ-JEd6Hzh_2WuB_iqUQ0HafrFvQrN3j8dk-IeIDnbBpa8z1yHGJP_HWauD5WNMdx50S3hvaHga0=w120-h120-l90-rj",
+        "artist": "Benny Benassi",
+        "album": "Cinema (Pt. 2)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "i8yfBqYaiyA",
+        "video_url": "https://www.youtube.com/watch?v=i8yfBqYaiyA",
+        "title": "Cinema (Skrillex Remix) (feat. Gary Go)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tMi1Og-nyeAAVy6DAJc_NyYrw6yna-DcNbeiDSX4cybHTWXJUoAycC-amkTYr8BiPIJmKqvcZsXNYLRc=w120-h120-l90-rj",
+        "artist": "Benny Benassi",
+        "album": "Electroman",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "039uT1Tg2N0",
+        "video_url": "https://www.youtube.com/watch?v=039uT1Tg2N0",
+        "title": "Love is Gonna Save Us",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3nu1UVorQKFTlzF12VcveDpsPO_nZvcBas3I5yoMgtwHWKQCl6XaUpx78dDEQR6rjIFvTpz4TS8BVVh1=w120-h120-l90-rj",
+        "artist": "Benny Benassi & The Biz",
+        "album": "Hypnotica (UK Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZKrbrWarBAI",
+        "video_url": "https://www.youtube.com/watch?v=ZKrbrWarBAI",
+        "title": "Satisfaction (Uk Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3c3UeRYrtLaKHTM6MN5_kEBqLGRYnsKU_soxzyq52r4vk0dLLF_hg9Lg9yUM4g4oBDaTVXDQKDl1oR0=w120-h120-l90-rj",
+        "artist": "Benny Benassi & The Biz",
+        "album": "Satisfaction (Benny Benassi Presents The Biz)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -252,12 +324,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "sobYJY7nHIA",
+        "video_url": "https://www.youtube.com/watch?v=sobYJY7nHIA",
+        "title": "Purple Noise",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vrplJqqDqhl8BVPQwx7jfEyb2eCXOW_3SladAapu2l4kSEyz06TLPBTt6jkR449rYHQanggLHzIUUIY=w120-h120-l90-rj",
+        "artist": "Boris Brejcha",
+        "album": "Feuerfalter Part 02",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Y4MUd4hg_54",
         "video_url": "https://www.youtube.com/watch?v=Y4MUd4hg_54",
         "title": "Candyman",
         "thumbnail_url": "https://lh3.googleusercontent.com/eSfGXsTor26lBfW4PbdzoRvZYC2b8jzMuwldw6pVXh6okes7ANhnsA5hRpgIQXrMHP-g7AGrTRnBeptS8g=w120-h120-l90-rj",
         "artist": "Boris S.",
         "album": "Best of 15 years Boris S.",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ApEjeRCKAoc",
+        "video_url": "https://www.youtube.com/watch?v=ApEjeRCKAoc",
+        "title": "Oblivion",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZT3qwXkmB-bp1cs7jhJ71nT6eiHuhUBNogaR-uZBzW4n9fFCFUpjb8CehfvvJqLyJf-j9Vu-PFEuFaOo=w120-h120-l90-rj",
+        "artist": "Boston 168",
+        "album": "Oblivion",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -276,6 +366,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/K4Du4P4k1jnellG3UqVcLGMk_oHffqIpEgXJCZtK6HSbS1xquCLjkbSypVVOK-0gNZbuLhTK4omRnfjU=w120-h120-l90-rj",
         "artist": "Calvin Harris",
         "album": "Motion",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "KSgKKSny0Qo",
+        "video_url": "https://www.youtube.com/watch?v=KSgKKSny0Qo",
+        "title": "Summer",
+        "thumbnail_url": "https://lh3.googleusercontent.com/K4Du4P4k1jnellG3UqVcLGMk_oHffqIpEgXJCZtK6HSbS1xquCLjkbSypVVOK-0gNZbuLhTK4omRnfjU=w120-h120-l90-rj",
+        "artist": "Calvin Harris",
+        "album": "Motion",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XCBP-NBDvXY",
+        "video_url": "https://www.youtube.com/watch?v=XCBP-NBDvXY",
+        "title": "Under Control (Extended Mix) (feat. Hurts)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Sz3Lhohf6BNMDSrippgR5Hy2EHYU4vaTZHoKha7Trx-uzTveo61A7jBvslJqx6VaWQikFkHaEje2M3i3=w120-h120-l90-rj",
+        "artist": "Calvin Harris & Alesso",
+        "album": "Under Control",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -330,6 +438,33 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/Fjb78OoY9IQ3qXDgJJE_PTHmoqVxf9rMr3BK7d7OXxk_6ZKg6-UzBe0m5JMU76I-IWRC6BokFeVY8Eff=w120-h120-l90-rj",
         "artist": "Capital Cities",
         "album": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pkcQgKnQ2lQ",
+        "video_url": "https://www.youtube.com/watch?v=pkcQgKnQ2lQ",
+        "title": "KTM",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UMx37U4vxKH6-j9fj6zoz8aeiqU5m7ncODU7uNeQHPKX_AE9jvbeviCJInyiQBj7LfkZ-1-BiIY4PBG3=w120-h120-l90-rj",
+        "artist": "Carnage",
+        "album": "KTM",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_XZ0Bt0GFS4",
+        "video_url": "https://www.youtube.com/watch?v=_XZ0Bt0GFS4",
+        "title": "Incredible",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NQi_5Ytii5tMDNILA2IV0HZzdm0OphDnzmrXHo0pAZcqg5iMzuHIgIr9_13smELhoQDyTZG8q3mkxP9u=w120-h120-l90-rj",
+        "artist": "Carnage & Borgore",
+        "album": "Ibiza 2013 (Beatport Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "oHlNCNHrUFQ",
+        "video_url": "https://www.youtube.com/watch?v=oHlNCNHrUFQ",
+        "title": "I Like Tuh",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hywKCqnjfE0Cc9-PuZG0RgLx_ivaoDU6LNvQKdKjs1DPDWfqYPeT60i7hB7sXPsTBtxssTYPNpe75pQ=w120-h120-l90-rj",
+        "artist": "Carnage & ILOVEMAKONNEN",
+        "album": "Ultra 2016",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -540,6 +675,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "kieTmqXcXaA",
+        "video_url": "https://www.youtube.com/watch?v=kieTmqXcXaA",
+        "title": "Satisfaction (Hardwell & Maddix Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/i1Fz7ln7ach4ixwdGNwToCzgXJ0oT7mVh9GygxpHRrOrjKOm9DSkiUs1WWx3IwPT2EjuhsgyjSlWTGpOQQ=w120-h120-l90-rj",
+        "artist": "David Guetta & Benny Benassi",
+        "album": "Satisfaction (Hardwell & Maddix Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "-Yap2dh2k44",
         "video_url": "https://www.youtube.com/watch?v=-Yap2dh2k44",
         "title": "Love Is Gone (Fred Riester & Joachim Garraud Radio Edit Remix)",
@@ -555,6 +699,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/tOvRQaMGVK4COsa6LEEX0r8uIQCuhhGiIzhSI_y1A77LFvIn40gXfvk_dTlGGOkhSvJY23ALWo6tb9YK=w120-h120-l90-rj",
         "artist": "David Guetta & MORTEN",
         "album": "Dreams",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TTS_6QKH6UA",
+        "video_url": "https://www.youtube.com/watch?v=TTS_6QKH6UA",
+        "title": "Don't Let Me Go",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pKhFjvvwSwpIkOeUHj3OUh05F2B9k5HsIkX8-wieUSGILfT9zSDaO5wQgyhrGSnXntuxLLZk83j8zpicDg=w120-h120-l90-rj",
+        "artist": "Deborah De Luca",
+        "album": "Don't Let Me Go",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "OnC4rXazQrE",
+        "video_url": "https://www.youtube.com/watch?v=OnC4rXazQrE",
+        "title": "Dualism",
+        "thumbnail_url": "https://lh3.googleusercontent.com/S_eWviM4e-j6GBqtg6HcPsDrYR7qRajDTxzLzbLnWUK0dcYqL72Xp3Jau7_CtesjmyXe6ieI3HRFGMAZ=w120-h120-l90-rj",
+        "artist": "Deniz Bul",
+        "album": "Dualism",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -582,6 +744,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/_S1bb2GzK0XVcSDNSAxsFIrjw8cphXSDTsGLpvmGWktl0JPgdPjiL-6RppZkMgal9e6XfhKmlACiH8vDYQ=w120-h120-l90-rj",
         "artist": "Dimitri Vegas & Like Mike & Hardwell",
         "album": "Unity",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "QsRkVTc63K8",
+        "video_url": "https://www.youtube.com/watch?v=QsRkVTc63K8",
+        "title": "The Chase",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OnBITdLchVPRPsWQaqmupUDH9-_qGQOy7G_UwN-eJon8WGyWVPDEmBD_IKH0Xd-pQec3Pcuk0qzlotvkNQ=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas & Like Mike & Quintino",
+        "album": "The Chase",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Z6KMR52UHFI",
+        "video_url": "https://www.youtube.com/watch?v=Z6KMR52UHFI",
+        "title": "Arcade",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hVc2nDQYSyasJRofXenwdx4R5r5ubQFnuZr3Bl8wYclHwLMHkQI_8pNCLipxM2uMKtpRGAcndd9cdsgd=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas & Like Mike & W&W",
+        "album": "Arcade",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -756,6 +936,96 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "51d0EeKW2KQ",
+        "video_url": "https://www.youtube.com/watch?v=51d0EeKW2KQ",
+        "title": "Further Away",
+        "thumbnail_url": "https://lh3.googleusercontent.com/r5mOwnWfC1URzauoWVBarx52CRmDpVlHO7bJhx4JMSQMBqIleXR1hZVTplawWgaWvn806qneXmmX0YO1=w120-h120-l90-rj",
+        "artist": "Goodboys & Benny Benassi",
+        "album": "Further Away",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nWGaGJe5mOA",
+        "video_url": "https://www.youtube.com/watch?v=nWGaGJe5mOA",
+        "title": "EENIE WEENIE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3n-4ltkHMw0R2OZT9mqmALMMYrSUpoHVglAbQWGoQ_9YQTzofCEXogeqSMXCerwEUY86woo8drLWTBCf=w120-h120-l90-rj",
+        "artist": "Gordo",
+        "album": "EENIE WEENIE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CsWUiqyYWqA",
+        "video_url": "https://www.youtube.com/watch?v=CsWUiqyYWqA",
+        "title": "Kill For This Shit (feat. Young Dolph)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3EMoidZBlmHhUBTr32bio6c146zkD-KHC6msOrL80OqdbHK0weMxVn8Y4PfiN-X4X9MGyiIoOMLHtoA=w120-h120-l90-rj",
+        "artist": "Gordo",
+        "album": "Kill For This Shit",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "qHjKpmg_VRY",
+        "video_url": "https://www.youtube.com/watch?v=qHjKpmg_VRY",
+        "title": "R U 4REAL (feat. Marina Maximilian)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-fo9X7E5-wWo9qa6XJjBCBN9TML363mQTAUTThw9yyFFTL24u9QJJ41Xeadj-6e9QfeEtiWqagD-2BylZQ=w120-h120-l90-rj",
+        "artist": "Gordo",
+        "album": "R U 4REAL",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "eWwvaQwSvfU",
+        "video_url": "https://www.youtube.com/watch?v=eWwvaQwSvfU",
+        "title": "TARAKA",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3AbpSu3RdxFe60BR4qcHHPNNLwmBoQTtkK5zIvuTW-yoke6NW5COtcIBmTveJyL6qL9pYnL-zzhk0XAa6A=w120-h120-l90-rj",
+        "artist": "Gordo",
+        "album": "TARAKA",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dvbLIahCtPs",
+        "video_url": "https://www.youtube.com/watch?v=dvbLIahCtPs",
+        "title": "TARAKA (Korolova & Two Are Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/a1ZmYxZrkeXJHtNw6zlWEMY0qoHHA7I7eYv1e-03O0wp0Bds3gBDvP-7KVUarx2jMe8eGZIvgGSSzWLE=w120-h120-l90-rj",
+        "artist": "Gordo",
+        "album": "TARAKA (Korolova & Two Are Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "A8iUGHJO-Gc",
+        "video_url": "https://www.youtube.com/watch?v=A8iUGHJO-Gc",
+        "title": "TARAKA (Ti\u00ebsto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GyXQPDigKRn3ju8E1xz6Idg0mvIzIVn1PiXkDoiznUGoU-e_IneOo_kkxII5xcbtXoalNLGQc-pqLRlc=w120-h120-l90-rj",
+        "artist": "Gordo",
+        "album": "TARAKA (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "LHg54cT6T-c",
+        "video_url": "https://www.youtube.com/watch?v=LHg54cT6T-c",
+        "title": "With You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PvrDIBleMJbBN_OrMrzKK6Nz8Bz2fumIl5ZfUoUw7T7id8t2I-Jrs9HaGU776DL1o6Dr3ymyVRSPu3gpNg=w120-h120-l90-rj",
+        "artist": "Gordo & Adriatique",
+        "album": "With You",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "S5ylZvdLT_A",
+        "video_url": "https://www.youtube.com/watch?v=S5ylZvdLT_A",
+        "title": "Hombres y Mujeres",
+        "thumbnail_url": "https://lh3.googleusercontent.com/QxpOD6FwZaTol8lOxMGuPVjPhirN_IxhMS6QST6DzMlVviH_eEoC6qqFgHvuvGUbSefKefmBPOn5tW1w=w120-h120-l90-rj",
+        "artist": "Gordo & Feid",
+        "album": "Hombres y Mujeres",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SKJtoTWSHmc",
+        "video_url": "https://www.youtube.com/watch?v=SKJtoTWSHmc",
+        "title": "Parcera",
+        "thumbnail_url": "https://lh3.googleusercontent.com/sI-KP2NXbJXtsTtOWsHAerPFXtIWOh6SQkylPBMZO8Y0crQw2_GYgPTu5lDE5QVzLtSgYMwv4O9OwK07tQ=w120-h120-l90-rj",
+        "artist": "Gordo & Maluma",
+        "album": "Don Juan",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "YFMUiAuny-A",
         "video_url": "https://www.youtube.com/watch?v=YFMUiAuny-A",
         "title": "Good Love (Ti\u00ebsto Remix)",
@@ -780,6 +1050,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/iwHNyP3MlgqbEXmh0djwfisxb7eQEYYWpGChtJE00p91NyDTZ--A-Hiz1XVocL8Gp3IJ9CoRmWu6ANOn=w120-h120-l90-rj",
         "artist": "Hardwell",
         "album": "Apollo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "IqZurU-dpCU",
+        "video_url": "https://www.youtube.com/watch?v=IqZurU-dpCU",
+        "title": "Call Me A Spaceman (Extended Mix) (feat. Mitch Crown)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PfGt1k8u7P0sT7lk30VnTefiTekN-zBh1Cg80nUXUfulaNHtCBr9989wbLTddwFvZVsBfxZ1GfgqowkW=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "album": "Call Me A Spaceman (Unplugged Version)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1422,6 +1701,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "eF4qj6xI9KE",
+        "video_url": "https://www.youtube.com/watch?v=eF4qj6xI9KE",
+        "title": "Veins",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gsNP0rsd5RjFaJeoL5X92K8X1nkNJRoNpUWsnQfqSW4NTzKlL4SNjheeLFXb9m6i3YHm25MIc3u5ZZbE=w120-h120-l90-rj",
+        "artist": "Hot Since 82",
+        "album": "Damage/Veins",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iYxmZCgns6w",
+        "video_url": "https://www.youtube.com/watch?v=iYxmZCgns6w",
+        "title": "Buggin' (Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vCwC88Iepnr5Bz2ibpQJi0PpZJ9GUapM0zpbIYKyyta6o6b51xH6OTFGo2_gFtplWgf-b5zpoum88uNK=w120-h120-l90-rj",
+        "artist": "Hot Since 82 & Jem Cooke",
+        "album": "Buggin'",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "KC0cNk0TXAs",
         "video_url": "https://www.youtube.com/watch?v=KC0cNk0TXAs",
         "title": "Off Of My Mind",
@@ -1536,6 +1833,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/pgekGa1pMHRwSGGCtfhrGyw2KGIhHx-SS5cEjQa5hm53ifUGWEJ4Af2yqzM5OIlmie3YjOslempXBeOp=w120-h120-l90-rj",
         "artist": "KAROL G & Ti\u00ebsto",
         "album": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "o2x9jZzAZho",
+        "video_url": "https://www.youtube.com/watch?v=o2x9jZzAZho",
+        "title": "Leaving Earth (feat. Ki Bae)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VyCuiqDo5E2_eAY2ZVdG340a2291XfxQ4ta-2u0_tjSmwk4FLBMHPNwX2A5ggaFcWurOAPW9Xt3N5Uc=w120-h120-l90-rj",
+        "artist": "KAS:ST & Gordo",
+        "album": "Leaving Earth",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1682,6 +1988,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "XfV8fXloPhI",
+        "video_url": "https://www.youtube.com/watch?v=XfV8fXloPhI",
+        "title": "Universe Inside Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3n1G0qENl6zecrg8x4Gt2vFCRl0B9duZP_7QhTfybl5J-I_xfvLXX-F1wqbgf2Aqz6xU6K9EgCgbhgANrQ=w120-h120-l90-rj",
+        "artist": "Liquid Soul & Vini Vici",
+        "album": "Universe Inside Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "NPDQYPL3uWw",
         "video_url": "https://www.youtube.com/watch?v=NPDQYPL3uWw",
         "title": "Everyday",
@@ -1760,6 +2075,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/2lhIdNA3tFRFdgin5o4hhcJrhPnKwLOZbrW8lPaaHDJPj_EkfdbB6FF9-IBomWVmzJ51S8vEoTchDzYXcw=w120-h120-l90-rj",
         "artist": "MEDUZA",
         "album": "Tell It To My Heart",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "fWJyleYa0T8",
+        "video_url": "https://www.youtube.com/watch?v=fWJyleYa0T8",
+        "title": "Mammoth",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6zbdgcYMnA5aZ2qU8Z0aTuBEhHgUDpOxRV0I0MFP9GiGwhN0BEBIMZAhHHHi8fKVcgTeEZsuBMRTpH4=w120-h120-l90-rj",
+        "artist": "MOGUAI & Dimitri Vegas & Like Mike",
+        "album": "Mammoth",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1904,6 +2228,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/Xdziganx3wCMfjaQngDhqqS_03SFHMUqlkiVsXFzYuUIvmpolTMbgzdQi7qwGF_U7vb3l8a0vYINoQ=w120-h120-l90-rj",
         "artist": "Marshmello & Bastille",
         "album": "Happier",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XRcsT9uRntk",
+        "video_url": "https://www.youtube.com/watch?v=XRcsT9uRntk",
+        "title": "Back in Time",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0r2WybgL7F5s4aOMYlr_QDxmCGCnhSCG-bMuP-lWOIGphNU3oLFyWPFOsrsQ0hHol3RguwcW2CZ8NK65=w120-h120-l90-rj",
+        "artist": "Marshmello & Carnage",
+        "album": "Shockwave",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2210,6 +2543,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/h5OhvzrLwclCrzjc7BLRHfZFUM4CI3A6e-1RN58Lw9PhQlQ0rdFR6ChcKJz2lOu9v6duomrifrySXtZFNw=w120-h120-l90-rj",
         "artist": "Sean Paul & Major Lazer",
         "album": "Mad Love The Prequel",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1a-Rs5zLNZ8",
+        "video_url": "https://www.youtube.com/watch?v=1a-Rs5zLNZ8",
+        "title": "Calling (Lose My Mind) (Radio Edit) (feat. Ryan Tedder)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aKiLpaqahF-FE-ytV7hjDVSxIfZFQbzr_SadDzjrw_sySeYgziqGSqFvsAjeNPr_a1NBCsUY2DQUOAzo-g=w120-h120-l90-rj",
+        "artist": "Sebastian Ingrosso & Alesso",
+        "album": "Calling (Lose My Mind)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2843,6 +3185,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "9TJGY8_22Kk",
+        "video_url": "https://www.youtube.com/watch?v=9TJGY8_22Kk",
+        "title": "Save The World",
+        "thumbnail_url": "https://lh3.googleusercontent.com/T4wZPbkc5lxM_LiJ8YSC0ns7ZUN0Y1QtM_xvX05EtI45jRFgOmk_CSENoi3dvjQv7XQuGNw80qSBDqQ=w120-h120-l90-rj",
+        "artist": "Swedish House Mafia",
+        "album": "Save The World",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ujG5c5RmQJg",
         "video_url": "https://www.youtube.com/watch?v=ujG5c5RmQJg",
         "title": "See The Light (feat. Fridayy)",
@@ -2867,6 +3218,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/V93MewqRSVB-2Mr1WTKzzEICX3Cx1B-h-hBpEE6p2rLBes8cG4OuzNwEIwJrRFfOtUqT-xOD604V6uQXIw=w120-h120-l90-rj",
         "artist": "The Chainsmokers & Cheyenne Giles",
         "album": "Make Me Feel",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZIFW3f-J6Fw",
+        "video_url": "https://www.youtube.com/watch?v=ZIFW3f-J6Fw",
+        "title": "Rizzla",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4ox2s5tFcYrlCwdYcqWg5G5s1YXFU5PO02dTrWfYAq50-9KgLSkuI1CHEC0-wKNSDeUgaMueDvpcCKcoUg=w120-h120-l90-rj",
+        "artist": "The Martinez Brothers, Gordo, & Rema",
+        "album": "Rizzla",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pwT-AsbU_wk",
+        "video_url": "https://www.youtube.com/watch?v=pwT-AsbU_wk",
+        "title": "Rizzla (Mochakk Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PV79Kd1uPIo6MN3OxxUHyvNHjdyyz2qtQUKabYCaOJ-FUXmZ0zeCPxbIN6uW7E-yb4gxl6VSN9qeuzMH=w120-h120-l90-rj",
+        "artist": "The Martinez Brothers, Rema, & Gordo",
+        "album": "Rizzla (Mochakk Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -3830,6 +4199,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/SEoZIUXkc1-UMUYWf8ZQRoaPTtJTqNfshrOGAub-0QnZzFAFGzkjCARivfu8GyWEZDhoxA_h7VqyUnkw=w120-h120-l90-rj",
         "artist": "Vicetone",
         "album": "Departing Reality",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bUZpT-A_ghM",
+        "video_url": "https://www.youtube.com/watch?v=bUZpT-A_ghM",
+        "title": "In The Dark",
+        "thumbnail_url": "https://lh3.googleusercontent.com/76s9prMrfJiTLhpRS7sOxxHtTKGTXE8k2PjC_AqqGAT_G31xfSvf_AsEqZzPH4kPLLL9UffD5mV1dDat=w120-h120-l90-rj",
+        "artist": "Vintage Culture & Fancy Inc",
+        "album": "In The Dark",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
