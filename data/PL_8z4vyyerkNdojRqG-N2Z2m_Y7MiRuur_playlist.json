@@ -225,12 +225,39 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "RuPr33Jk2A4",
+        "video_url": "https://www.youtube.com/watch?v=RuPr33Jk2A4",
+        "title": "Where Is the Love?",
+        "thumbnail_url": "https://lh3.googleusercontent.com/I-sN5DMyYv-BGa1Icgj0dxnhyf-6mFTH3qFKKws6cWBeryTD9TUvX_3KLbL4X-2btaemtRMFl9XYkXC1=w120-h120-l90-rj",
+        "artist": "The Black Eyed Peas",
+        "album": "Elephunk",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "mRaQAdynxto",
+        "video_url": "https://www.youtube.com/watch?v=mRaQAdynxto",
+        "title": "Let's Get It Started (Spike Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/L_DqofJcadN9Oe843DunQ-07MjgK8DJ_G0pXvVO3vRdJe2aIyEziSnSaL6TQoatEWPJOW-_WGqd1vck=w120-h120-l90-rj",
+        "artist": "The Black Eyed Peas",
+        "album": "Let's Get It Started (The Urbz edition EP)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Wnn6M1nNiKQ",
         "video_url": "https://www.youtube.com/watch?v=Wnn6M1nNiKQ",
         "title": "I Gotta Feeling",
         "thumbnail_url": "https://lh3.googleusercontent.com/SPVfJZ3aTXrhsM87BAV5ULDUXUF32Ia3n5qTPazx3R2Ir7ox0kaWf1vYSxR9Oiq3_7wv_vUA4ZBgnA=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
         "album": "THE E.N.D. (THE ENERGY NEVER DIES) (International Version)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "e6ztG5kjUZo",
+        "video_url": "https://www.youtube.com/watch?v=e6ztG5kjUZo",
+        "title": "Just Can\u2019t Get Enough",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MdzHSrVwKo8gp_R0Fdl6kQQ6OGkixVc1iKf39UX2Ff2HEjr7ikYg6IVgB9YSJL3WV9_dqmbAM8Iuy79nQ=w120-h120-l90-rj",
+        "artist": "The Black Eyed Peas",
+        "album": "The Beginning",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

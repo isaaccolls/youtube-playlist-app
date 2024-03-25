@@ -1,5 +1,32 @@
 [
     {
+        "video_id": "cZVJmId7qFk",
+        "video_url": "https://www.youtube.com/watch?v=cZVJmId7qFk",
+        "title": "21 Questions (feat. Nate Dogg)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YV7PApb2Darso5SCVlx7VzJJunWNXiohh9m4172J2iuxPJYguQIkgqg1fiMwX56zt07Cx8CAlNrbP13B=w120-h120-s-l90-rj",
+        "artist": "50 Cent",
+        "album": "Get Rich Or Die Tryin'",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_VXUiAJi5KY",
+        "video_url": "https://www.youtube.com/watch?v=_VXUiAJi5KY",
+        "title": "In Da Club",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YV7PApb2Darso5SCVlx7VzJJunWNXiohh9m4172J2iuxPJYguQIkgqg1fiMwX56zt07Cx8CAlNrbP13B=w120-h120-s-l90-rj",
+        "artist": "50 Cent",
+        "album": "Get Rich Or Die Tryin'",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JlR6Isnf6Z8",
+        "video_url": "https://www.youtube.com/watch?v=JlR6Isnf6Z8",
+        "title": "Just A Lil Bit",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4wI4wMDOHx2wN1Wj3agsFvfV58Bh86KwLgsRyOn0ThUccpdLewFdSOuliqs7SMgXdmeyHc72fZJ9237B=w120-h120-l90-rj",
+        "artist": "50 Cent",
+        "album": "The Massacre",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "--sMy0gkrpE",
         "video_url": "https://www.youtube.com/watch?v=--sMy0gkrpE",
         "title": "No Me Quiero Ba\u00f1ar",
@@ -45,6 +72,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "-5qqrMu_AZc",
+        "video_url": "https://www.youtube.com/watch?v=-5qqrMu_AZc",
+        "title": "Gangsta's Paradise (feat. L.V.)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Lr03ht1tN-GhBAzNo2mpWMYgAZIyCkPuGXB5RgWrK1yXso4bFIlNGYK2ldKxQ-szp4KknWLRnFhDgodb=w120-h120-l90-rj",
+        "artist": "Coolio",
+        "album": "Gangsta's Paradise",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7dDmJzNC1sg",
         "video_url": "https://www.youtube.com/watch?v=7dDmJzNC1sg",
         "title": "Bandoleros (feat. Tego Calder\u00f3n)",
@@ -54,12 +90,120 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Qeem6ZVr8Ic",
+        "video_url": "https://www.youtube.com/watch?v=Qeem6ZVr8Ic",
+        "title": "Still D.R.E. (feat. Snoop Dogg)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/w42BmVN1uTez5YI99RhuHvk4u_Eoj6LeXg7d-HMP4c5IkZ5XJbD_04suECGSRw0a6TBdU8UgwRNlDt3lQQ=w120-h120-s-l90-rj",
+        "artist": "Dr. Dre",
+        "album": "2001",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nL2HPPHdPAA",
+        "video_url": "https://www.youtube.com/watch?v=nL2HPPHdPAA",
+        "title": "The Next Episode (feat. Snoop Dogg)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/w42BmVN1uTez5YI99RhuHvk4u_Eoj6LeXg7d-HMP4c5IkZ5XJbD_04suECGSRw0a6TBdU8UgwRNlDt3lQQ=w120-h120-s-l90-rj",
+        "artist": "Dr. Dre",
+        "album": "2001",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "i4B5VcoaS9s",
+        "video_url": "https://www.youtube.com/watch?v=i4B5VcoaS9s",
+        "title": "Nuthin' But A \"G\" Thang",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KW5qkgrwAimkTUsJj_w50ntEYykaZs9hk1XqipzAPT8Zr2pJKlX1Az-WnIy_FFTq3VI3blnj-hksL3yb=w120-h120-l90-rj",
+        "artist": "Dr. Dre & Snoop Dogg",
+        "album": "The Chronic",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "4wOLVrGHiIU",
+        "video_url": "https://www.youtube.com/watch?v=4wOLVrGHiIU",
+        "title": "Lose Yourself",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8aW-ynltCML7Hwi4_XWQykhMaIYeL11W8WxBHyWvcuQABlNaJQf-1CTW_QpEglC8taIi9JDfXH9B-9ob=w120-h120-s-l90-rj",
+        "artist": "Eminem",
+        "album": "Just Lose It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tqxRidAWER8",
+        "video_url": "https://www.youtube.com/watch?v=tqxRidAWER8",
+        "title": "Without Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GJmbTYfaMrWuPSzhOAy7jGCQ70a2UN2-0moTq-uh_Prd73-Au51FDHhGteg543a7iBv1Y9SPm4huMSBS=w120-h120-s-l90-rj",
+        "artist": "Eminem",
+        "album": "The Eminem Show",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_ydMlTassYc",
+        "video_url": "https://www.youtube.com/watch?v=_ydMlTassYc",
+        "title": "Empire State Of Mind (feat. Alicia Keys)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cac7RCDKMaGadnmmVcJA1pJBi5Vcp3hwPHbKSHJzJ1H-JXOhASEuLYCvUPX3blZx6OlIyGtm8ld9BKFS=w120-h120-l90-rj",
+        "artist": "JAY-Z",
+        "album": "The Blueprint 3",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "w-C_6SeE4-w",
+        "video_url": "https://www.youtube.com/watch?v=w-C_6SeE4-w",
+        "title": "Day 'N' Nite (Nightmare)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qQi4x98fo78a-fURI1IbnRTQyb_TiiQFsw32MkuvHox3lOKhOy-m6bF73mu0zKnaIYcDOtC4AUET5X8=w120-h120-l90-rj",
+        "artist": "Kid Cudi",
+        "album": "Man On The Moon: The End Of Day (Int'l Version)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "1vzNiFrq37E",
         "video_url": "https://www.youtube.com/watch?v=1vzNiFrq37E",
         "title": "Dale Dos",
         "thumbnail_url": "https://lh3.googleusercontent.com/6GV3EVWvKRzKL-nUZRfHF19B9GLAqnkph4tLaCZxIh3ucj7K8N2hA21osDWxw9XdvGuS444w0VDaquDi=w120-h120-l90-rj",
         "artist": "Reke",
         "album": "El Astronauta",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "m3VrFX2Zdms",
+        "video_url": "https://www.youtube.com/watch?v=m3VrFX2Zdms",
+        "title": "Sexual Eruption (Album Version FINAL)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qnawYnOErjJLTBCuEzJa7_iP8t3zTh8J09BVSsnQBAd40ERsPYD_iK1A3zyFn7Jr6S7KKgcGH7hsPYI=w120-h120-l90-rj",
+        "artist": "Snoop Dogg",
+        "album": "Ego Trippin'",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dD2Lgiyh4QE",
+        "video_url": "https://www.youtube.com/watch?v=dD2Lgiyh4QE",
+        "title": "I Wanna Fuck You (feat. Akon)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cw3zgQ20iR2I5ySn3rXTmI7hYPDELDhAE8XU9t69SZ1FK4yVnNzginiNJ0TdWel9yaU4WkBATYAV8E0=w120-h120-s-l90-rj",
+        "artist": "Snoop Dogg",
+        "album": "Tha Blue Carpet Treatment",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tdwDYpWsktc",
+        "video_url": "https://www.youtube.com/watch?v=tdwDYpWsktc",
+        "title": "Young, Wild & Free (feat. Bruno Mars)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nuKRb1LVgTaQnFkquDy6xt3zEHT8grvbH4v4iHBrrYld97BARxAnyU5Q3A9aJpN5ZuJ1Rt7_Cs_2on2N=w120-h120-l90-rj",
+        "artist": "Snoop Dogg & Wiz Khalifa",
+        "album": "Young, Wild & Free",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TaQwW5eQZeY",
+        "video_url": "https://www.youtube.com/watch?v=TaQwW5eQZeY",
+        "title": "How We Do (feat. 50 Cent)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/y4htBVa5FJTFazVvx_WlsHGdtPMRd2plJb7J9saD7ouasTcy2G_IfcqnTTXnupeIGpwlwK6rqNgm6z10=w120-h120-s-l90-rj",
+        "artist": "The Game",
+        "album": "The Documentary",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "NQbkGDoD7B0",
+        "video_url": "https://www.youtube.com/watch?v=NQbkGDoD7B0",
+        "title": "SICKO MODE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PSIZ9cf9hpESZwcSz2ylS5I-zIREqCSagxV-X4CJqefrE0sRCktRtFw-a7PlkLygmg7k1nZREKCaSzY=w120-h120-l90-rj",
+        "artist": "Travis Scott",
+        "album": "ASTROWORLD",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
