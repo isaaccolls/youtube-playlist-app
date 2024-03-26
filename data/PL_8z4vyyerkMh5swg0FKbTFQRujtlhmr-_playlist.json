@@ -6273,6 +6273,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "bTjh9sebISE",
+        "video_url": "https://www.youtube.com/watch?v=bTjh9sebISE",
+        "title": "La Vecina",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MpC75menfONMNVAbrTLbpN6RzMxPPIABZo1OLs-_wixsioufHzoTlQwEsffzQtuycauA2gB2knhnYi8=w120-h120-l90-rj",
+        "artist": "Los Amigos Invisibles",
+        "album": "Arepa 3000",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BtFXlXUmV_o",
+        "video_url": "https://www.youtube.com/watch?v=BtFXlXUmV_o",
+        "title": "La Que Me Gusta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uvyYqRzilqZXEHZpuM2JeYoFmw7j-0qiHQkl0KLr-sS3uNJGbUHhOAlLDHNQgv90GNA6e9O2ELlEBmQ=w120-h120-l90-rj",
+        "artist": "Los Amigos Invisibles",
+        "album": "Repeat After Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sBBq_dcJfjI",
         "video_url": "https://www.youtube.com/watch?v=sBBq_dcJfjI",
         "title": "Fallout",
@@ -8630,6 +8648,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "QsE3pfju48I",
+        "video_url": "https://www.youtube.com/watch?v=QsE3pfju48I",
+        "title": "Pathetica",
+        "thumbnail_url": "https://lh3.googleusercontent.com/q3h4IUNFLuYZFyATr237ShjNjwCpYn7qk0jzXRMQ0f__0QgJBwzk2QRi_z3TCoLAMPE01ZVkML-MzEUi=w120-h120-l90-rj",
+        "artist": "Panda",
+        "album": "Amantes Sunt Amentes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "s1GB-iE3GUU",
         "video_url": "https://www.youtube.com/watch?v=s1GB-iE3GUU",
         "title": "Procedimientos Para Llegar A Un Com\u00fan Acuerdo",
@@ -8645,6 +8672,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/q3h4IUNFLuYZFyATr237ShjNjwCpYn7qk0jzXRMQ0f__0QgJBwzk2QRi_z3TCoLAMPE01ZVkML-MzEUi=w120-h120-l90-rj",
         "artist": "Panda",
         "album": "Amantes Sunt Amentes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TtyH_d_dkzE",
+        "video_url": "https://www.youtube.com/watch?v=TtyH_d_dkzE",
+        "title": "Mu\u00f1eca",
+        "thumbnail_url": "https://lh3.googleusercontent.com/axPn6KZt-fIKo_xssll-_aYBRdRyoejmiz1IbaeoZwzZC0c0uYWfT74OFQCr3mElY6N_XhKPQYPSOvSY=w120-h120-l90-rj",
+        "artist": "Panda",
+        "album": "Arroz Con Leche",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "75cVNE39zoM",
+        "video_url": "https://www.youtube.com/watch?v=75cVNE39zoM",
+        "title": "Si Supieras",
+        "thumbnail_url": "https://lh3.googleusercontent.com/axPn6KZt-fIKo_xssll-_aYBRdRyoejmiz1IbaeoZwzZC0c0uYWfT74OFQCr3mElY6N_XhKPQYPSOvSY=w120-h120-l90-rj",
+        "artist": "Panda",
+        "album": "Arroz Con Leche",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

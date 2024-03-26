@@ -1,5 +1,131 @@
 [
     {
+        "video_id": "24h1OJmQjHw",
+        "video_url": "https://www.youtube.com/watch?v=24h1OJmQjHw",
+        "title": "Fiera Salvaje",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YKELojKI0VBIQ9RQiHJlTUL7p417MWguOlCGKyGLPXighQTcVkEBfbEF56tXWQU0XHNwB6mPoql6Ic5u=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Grandes L\u00e9xicos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TsY20ZDCM14",
+        "video_url": "https://www.youtube.com/watch?v=TsY20ZDCM14",
+        "title": "Grandes L\u00e9xicos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YKELojKI0VBIQ9RQiHJlTUL7p417MWguOlCGKyGLPXighQTcVkEBfbEF56tXWQU0XHNwB6mPoql6Ic5u=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Grandes L\u00e9xicos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hK_4BlsW_Yo",
+        "video_url": "https://www.youtube.com/watch?v=hK_4BlsW_Yo",
+        "title": "Originales",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YKELojKI0VBIQ9RQiHJlTUL7p417MWguOlCGKyGLPXighQTcVkEBfbEF56tXWQU0XHNwB6mPoql6Ic5u=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Grandes L\u00e9xicos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "eCg-6_82BuE",
+        "video_url": "https://www.youtube.com/watch?v=eCg-6_82BuE",
+        "title": "Te Quiero",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YKELojKI0VBIQ9RQiHJlTUL7p417MWguOlCGKyGLPXighQTcVkEBfbEF56tXWQU0XHNwB6mPoql6Ic5u=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Grandes L\u00e9xicos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "WgisYMzdBwA",
+        "video_url": "https://www.youtube.com/watch?v=WgisYMzdBwA",
+        "title": "Tres Chiflados",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YKELojKI0VBIQ9RQiHJlTUL7p417MWguOlCGKyGLPXighQTcVkEBfbEF56tXWQU0XHNwB6mPoql6Ic5u=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Grandes L\u00e9xicos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "r3XaW7Q9Mu4",
+        "video_url": "https://www.youtube.com/watch?v=r3XaW7Q9Mu4",
+        "title": "El Tromb\u00f3n",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "KD-3KgIZBYg",
+        "video_url": "https://www.youtube.com/watch?v=KD-3KgIZBYg",
+        "title": "En el Aire",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "g4AbyrkEqww",
+        "video_url": "https://www.youtube.com/watch?v=g4AbyrkEqww",
+        "title": "Impresiones",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "AyYiH-xSPDU",
+        "video_url": "https://www.youtube.com/watch?v=AyYiH-xSPDU",
+        "title": "Materia Prima",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "psAdLjvhAQg",
+        "video_url": "https://www.youtube.com/watch?v=psAdLjvhAQg",
+        "title": "Mu\u00e9rete Que Chao",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZwoFO_zxYUQ",
+        "video_url": "https://www.youtube.com/watch?v=ZwoFO_zxYUQ",
+        "title": "Nadie Nos Tumba",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hCx8-4jS9b0",
+        "video_url": "https://www.youtube.com/watch?v=hCx8-4jS9b0",
+        "title": "Para Ti",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JRhG7LejUf0",
+        "video_url": "https://www.youtube.com/watch?v=JRhG7LejUf0",
+        "title": "Salso Killing",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "m_lZZLx7Tc0",
+        "video_url": "https://www.youtube.com/watch?v=m_lZZLx7Tc0",
+        "title": "Venezolana",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hlsl_cLKzBx_-Cn9gAdNNlxnbB7FGKFkT1WBeBXp-77qrebGB6qMgEuoWLVsPS4NDlyKefHLVexEhWdlGA=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os",
+        "album": "Materia Prima",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "cZVJmId7qFk",
         "video_url": "https://www.youtube.com/watch?v=cZVJmId7qFk",
         "title": "21 Questions (feat. Nate Dogg)",
@@ -24,6 +150,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/4wI4wMDOHx2wN1Wj3agsFvfV58Bh86KwLgsRyOn0ThUccpdLewFdSOuliqs7SMgXdmeyHc72fZJ9237B=w120-h120-l90-rj",
         "artist": "50 Cent",
         "album": "The Massacre",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "atnP_PiMqZs",
+        "video_url": "https://www.youtube.com/watch?v=atnP_PiMqZs",
+        "title": "Akapelinho",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gEGB_Fxr_ZSdbGHMsu47gyXBw0FZIvm5P4SgjzlH9kypuwNbwRGv7x-hr11Bq49cCATpdXOY4YFRHbA2=w120-h120-l90-rj",
+        "artist": "Akapellah & Neo Beats",
+        "album": "Akapelinho",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -54,12 +189,174 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "T_PNGq2gKpI",
+        "video_url": "https://www.youtube.com/watch?v=T_PNGq2gKpI",
+        "title": "La Vuelta Al Mundo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Qj_7UTXE25Or8eD3x-4jiwsPzx09mf75GNbPglwjD_fG7UOzDD4E80XdzcKS3rYbqGcW1R_eDKZwfmA=w120-h120-s-l90-rj",
+        "artist": "Calle 13",
+        "album": "Entren Los Que Quieran",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "x0lHTtbWs_c",
+        "video_url": "https://www.youtube.com/watch?v=x0lHTtbWs_c",
+        "title": "Cuando Vayas Conmigo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-Y9zzd0aHTC3JLPDpU0D1E08mhXt3-5sq0OLLx_nrmAnqcNJR0anEnaZ6UdvTf_9_8gs5RWcjlbvEPg2=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Can + Zoo \u00cdndigo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "uHEF0dI7nLY",
+        "video_url": "https://www.youtube.com/watch?v=uHEF0dI7nLY",
+        "title": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-Y9zzd0aHTC3JLPDpU0D1E08mhXt3-5sq0OLLx_nrmAnqcNJR0anEnaZ6UdvTf_9_8gs5RWcjlbvEPg2=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Can + Zoo \u00cdndigo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "11IWuxAMEn8",
+        "video_url": "https://www.youtube.com/watch?v=11IWuxAMEn8",
+        "title": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qO0fDnWvKsxQPBvJTZV-IA3qSfpJ82lvqMYjKWhSP1me8Ca3CZV6QOGUkVr_aXnhTQdoYyj-UO_qCLtB=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "De la Vida Como Pelicula, Tragedia, Comedia y Ficcion",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "rp9gsxbxr78",
+        "video_url": "https://www.youtube.com/watch?v=rp9gsxbxr78",
+        "title": "C'est La Mort",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7JB0Uoon8I8",
+        "video_url": "https://www.youtube.com/watch?v=7JB0Uoon8I8",
+        "title": "El Primer Trago",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "YcUW7oKDUJM",
         "video_url": "https://www.youtube.com/watch?v=YcUW7oKDUJM",
         "title": "Es \u00c9pico",
         "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
         "artist": "Canserbero",
         "album": "Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "B1m1KeYW5wA",
+        "video_url": "https://www.youtube.com/watch?v=B1m1KeYW5wA",
+        "title": "Jerem\u00edas 17-5",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "aLb44_g6bf0",
+        "video_url": "https://www.youtube.com/watch?v=aLb44_g6bf0",
+        "title": "Llov\u00eda",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Q3ymrDlBI3w",
+        "video_url": "https://www.youtube.com/watch?v=Q3ymrDlBI3w",
+        "title": "Maquiav\u00e9lico",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2o6SEzRVOUw",
+        "video_url": "https://www.youtube.com/watch?v=2o6SEzRVOUw",
+        "title": "Mundo de Piedra",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "J3if3R7w4j8",
+        "video_url": "https://www.youtube.com/watch?v=J3if3R7w4j8",
+        "title": "Na",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vkpm1acMcn-CQ47BBU3jfGzTVge6YaFgc7LB3hI4WdlOlL719vr0XKV1EsegTAd7t5mwDjACkhByAMcf=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Na",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Hk56W3KQdBY",
+        "video_url": "https://www.youtube.com/watch?v=Hk56W3KQdBY",
+        "title": "Querer Querernos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HUUx3h0kS43iOtQUvC99QQ8gtrn6BWp-72uTfEwCF9SGfawcTLpi7hwq-xlY6b0j-tiJmESQz7n3wrBg=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Querer Querernos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tz7niPCDOl8",
+        "video_url": "https://www.youtube.com/watch?v=tz7niPCDOl8",
+        "title": "Pensando en Ti",
+        "thumbnail_url": "https://lh3.googleusercontent.com/H2KmK-T7NiUXL36kK-OPmT0Nu9gz-I8MM9Su-ytKiaK9LW9pFNq_Uidqa-Kn7VblM1GPahm2bfg62X6E=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Vida",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "t6ezJsAY-ow",
+        "video_url": "https://www.youtube.com/watch?v=t6ezJsAY-ow",
+        "title": "Y la Felicidad Qu\u00e9",
+        "thumbnail_url": "https://lh3.googleusercontent.com/H2KmK-T7NiUXL36kK-OPmT0Nu9gz-I8MM9Su-ytKiaK9LW9pFNq_Uidqa-Kn7VblM1GPahm2bfg62X6E=w120-h120-l90-rj",
+        "artist": "Canserbero",
+        "album": "Vida",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "NcpeSohogzs",
+        "video_url": "https://www.youtube.com/watch?v=NcpeSohogzs",
+        "title": "Apa y Can",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0veFj2nwOi136SCeMaaX77aw9P-ez0Jcq5CEoIoKC1zLIrDeuR9cOYy7ru-COGTy02yBpOW7fM7lWT5V5Q=w120-h120-l90-rj",
+        "artist": "Canserbero & Apache",
+        "album": "Apa y Can",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3JWtSpBGEO0",
+        "video_url": "https://www.youtube.com/watch?v=3JWtSpBGEO0",
+        "title": "Hasta Cu\u00e1ndo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0veFj2nwOi136SCeMaaX77aw9P-ez0Jcq5CEoIoKC1zLIrDeuR9cOYy7ru-COGTy02yBpOW7fM7lWT5V5Q=w120-h120-l90-rj",
+        "artist": "Canserbero & Apache",
+        "album": "Apa y Can",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "NsQS-WPljFM",
+        "video_url": "https://www.youtube.com/watch?v=NsQS-WPljFM",
+        "title": "P\u00f3nmela en el Aire",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0veFj2nwOi136SCeMaaX77aw9P-ez0Jcq5CEoIoKC1zLIrDeuR9cOYy7ru-COGTy02yBpOW7fM7lWT5V5Q=w120-h120-l90-rj",
+        "artist": "Canserbero & Apache",
+        "album": "Apa y Can",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Oc3kZeB0xNc",
+        "video_url": "https://www.youtube.com/watch?v=Oc3kZeB0xNc",
+        "title": "Ready",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0veFj2nwOi136SCeMaaX77aw9P-ez0Jcq5CEoIoKC1zLIrDeuR9cOYy7ru-COGTy02yBpOW7fM7lWT5V5Q=w120-h120-l90-rj",
+        "artist": "Canserbero & Apache",
+        "album": "Apa y Can",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -72,12 +369,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "qumaCjpqZrc",
+        "video_url": "https://www.youtube.com/watch?v=qumaCjpqZrc",
+        "title": "Stupid Love Story",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0veFj2nwOi136SCeMaaX77aw9P-ez0Jcq5CEoIoKC1zLIrDeuR9cOYy7ru-COGTy02yBpOW7fM7lWT5V5Q=w120-h120-l90-rj",
+        "artist": "Canserbero & Apache",
+        "album": "Apa y Can",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "-5qqrMu_AZc",
         "video_url": "https://www.youtube.com/watch?v=-5qqrMu_AZc",
         "title": "Gangsta's Paradise (feat. L.V.)",
         "thumbnail_url": "https://lh3.googleusercontent.com/Lr03ht1tN-GhBAzNo2mpWMYgAZIyCkPuGXB5RgWrK1yXso4bFIlNGYK2ldKxQ-szp4KknWLRnFhDgodb=w120-h120-l90-rj",
         "artist": "Coolio",
         "album": "Gangsta's Paradise",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Oef9TsgP84U",
+        "video_url": "https://www.youtube.com/watch?v=Oef9TsgP84U",
+        "title": "Salud y Vida",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HM6B9Wpt1gRqrD7Gkawop5pCywlmCQOjbBnVBk0aytqg9wGui8z_IdhFrKhbruPDfSgj0ZWiZositS_Y=w120-h120-l90-rj",
+        "artist": "Daddy Yankee",
+        "album": "Barrio Fino (Bonus Track Version)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -153,10 +468,19 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "1vzNiFrq37E",
-        "video_url": "https://www.youtube.com/watch?v=1vzNiFrq37E",
+        "video_id": "KLRxSoLaQ5c",
+        "video_url": "https://www.youtube.com/watch?v=KLRxSoLaQ5c",
+        "title": "Babilonia",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pyRzeDKHCZBwrxgbVU1fIzX9P_PCnIv5oRJZFK38JzE0Ll_QSyC1zYUQ7mO7DpvY4TqXFPHBrKOiOBY=w120-h120-l90-rj",
+        "artist": "Morodo & Souchi",
+        "album": "Ozmlstayl",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "htVJRm1v9aE",
+        "video_url": "https://www.youtube.com/watch?v=htVJRm1v9aE",
         "title": "Dale Dos",
-        "thumbnail_url": "https://lh3.googleusercontent.com/6GV3EVWvKRzKL-nUZRfHF19B9GLAqnkph4tLaCZxIh3ucj7K8N2hA21osDWxw9XdvGuS444w0VDaquDi=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TuZDZlD8N-M5KEyCH25Lof97eu519wiiI6TSfrzPG3Vm0-2T_stqC8cVzuxvs1LHr_IeyxRKLhxdOhU=w120-h120-l90-rj",
         "artist": "Reke",
         "album": "El Astronauta",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
@@ -204,6 +528,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/PSIZ9cf9hpESZwcSz2ylS5I-zIREqCSagxV-X4CJqefrE0sRCktRtFw-a7PlkLygmg7k1nZREKCaSzY=w120-h120-l90-rj",
         "artist": "Travis Scott",
         "album": "ASTROWORLD",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hfM8fDi0k4Q",
+        "video_url": "https://www.youtube.com/watch?v=hfM8fDi0k4Q",
+        "title": "Desahogo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zpzM0n7C0WqEbSGJIO6775vLH-PjGhsnJIJfeaTLl73W_mZ4gd-KizmzWWHCJu19nAN_f9tAvBZYSi50qQ=w120-h120-l90-rj",
+        "artist": "Vico-C",
+        "album": "Desahogo",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
