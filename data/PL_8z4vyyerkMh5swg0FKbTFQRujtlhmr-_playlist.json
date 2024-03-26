@@ -2034,6 +2034,60 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "onCZOgWlr1U",
+        "video_url": "https://www.youtube.com/watch?v=onCZOgWlr1U",
+        "title": "A Little Piece of Heaven",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VlTQrXZRD1eJrAnClrZoD3vnMQByIGMQ_GEZKD45NVThSUBNqpkVkHTgMY_5-tSXT_lujiaAHu_1diyi=w120-h120-l90-rj",
+        "artist": "Avenged Sevenfold",
+        "album": "Avenged Sevenfold",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "krQAtmz4apw",
+        "video_url": "https://www.youtube.com/watch?v=krQAtmz4apw",
+        "title": "Afterlife",
+        "thumbnail_url": "https://lh3.googleusercontent.com/BFPLCUdcSziW4KfjCvhMi2f5Gsz328iQc1bNztactVK_sDXHRjn432mDdb2k6a92xW1xlmL_BFVAS3s=w120-h120-l90-rj",
+        "artist": "Avenged Sevenfold",
+        "album": "Avenged Sevenfold",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "uRJxzGNL9es",
+        "video_url": "https://www.youtube.com/watch?v=uRJxzGNL9es",
+        "title": "Seize the Day",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v4VktFpNR2DVnv2v-CF6x7c8l3ueGrWd9_G2SXRr9puqCkF5nwdbf_znKIuk2TLVendBqd3I5ZU3bJtP=w120-h120-s-l90-rj",
+        "artist": "Avenged Sevenfold",
+        "album": "City of Evil",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "MjwttGizNEs",
+        "video_url": "https://www.youtube.com/watch?v=MjwttGizNEs",
+        "title": "Hail to the King",
+        "thumbnail_url": "https://lh3.googleusercontent.com/IWHn1s-WN3CLPJTirW9W72RQLbLb00UexhGQJ5e4QlNQ7uD3FVpvHGHFhoghNslXOwaD91KGX-lgxLY=w120-h120-l90-rj",
+        "artist": "Avenged Sevenfold",
+        "album": "Hail to the King",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "KAljnUezZFk",
+        "video_url": "https://www.youtube.com/watch?v=KAljnUezZFk",
+        "title": "Nightmare",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YpLk6Su_qtyjiCeDXvftPpR1znW5TEO4hRlxuYcT6Sqs7eUn_-95IjvE-RXOturNU3Y3sdE65YULM31q=w120-h120-l90-rj",
+        "artist": "Avenged Sevenfold",
+        "album": "Nightmare",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iJ-WsnaYDCg",
+        "video_url": "https://www.youtube.com/watch?v=iJ-WsnaYDCg",
+        "title": "Welcome to the Family",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gYNq04gEad6IWtHLPmq7IYPROzuZH0184nVESSgSFx30UECtGamL6Dpl6LypoQebw1AKyh0wgTTYdmpL=w120-h120-l90-rj",
+        "artist": "Avenged Sevenfold",
+        "album": "Nightmare",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "xgWUxN9u-ws",
         "video_url": "https://www.youtube.com/watch?v=xgWUxN9u-ws",
         "title": "When You're Gone (Acoustic Version)",
@@ -5391,12 +5445,120 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "eMirow-QFYs",
+        "video_url": "https://www.youtube.com/watch?v=eMirow-QFYs",
+        "title": "The Sky Is A Neighborhood",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8ABWKhlfvxGnTYgI0LELV-qPZzv9_VxcyT_uGpUMCfozpxsq1RtOYconpc2OfgHBzkJo5YzS1_Ff3tCv=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "Concrete and Gold",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "BMMGwtklEeE",
         "video_url": "https://www.youtube.com/watch?v=BMMGwtklEeE",
         "title": "The Pretender",
         "thumbnail_url": "https://lh3.googleusercontent.com/0t56z7BHoL-y707OisUF5JfM6fJFKdhRUW9XHoW120v7PdeNGrXRh68djTKXaRJy1oc3fFfLcWBO8ndU_g=w120-h120-l90-rj",
         "artist": "Foo Fighters",
         "album": "Echoes, Silence, Patience & Grace",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YLRlOvzs-XU",
+        "video_url": "https://www.youtube.com/watch?v=YLRlOvzs-XU",
+        "title": "Everlong (Acoustic Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/z2ewiJO461Wgy39cibqByj-9PvqeeVjwTPhVlBzJ__e0G27piB3LWAoDJA3PLiN6AMMJNtSQlTPgQmzI=w120-h120-s-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "Greatest Hits",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "L6SIgRlijmU",
+        "video_url": "https://www.youtube.com/watch?v=L6SIgRlijmU",
+        "title": "Best of You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/S44ZxLJB34vTMcL12zhAZfEgya1luLvXhnl7SXtjt3c7hkrpigU2GpTyRhH7ypQWqWqiPRyILRwVl1Pi=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "In Your Honor",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "KlWBO9m52Fk",
+        "video_url": "https://www.youtube.com/watch?v=KlWBO9m52Fk",
+        "title": "All My Life",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "One By One",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EpRPOTh1KUg",
+        "video_url": "https://www.youtube.com/watch?v=EpRPOTh1KUg",
+        "title": "Times Like These",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dyiM05s0cA6XuxFTK-c2LDqClxdZK96MLO-x8DePcEAKn03yT59LKyXFV4ZvR3Bki0Ivz2dZCJnGeLmC-A=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "One By One",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "AxuTd9rwEHQ",
+        "video_url": "https://www.youtube.com/watch?v=AxuTd9rwEHQ",
+        "title": "Everlong",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aa0-mDhn39MhLg7uBDLsBKhzQKV_scXO5KP4JS9XUiujzVWx7zRUG3oYKpW-BYHaYYKHvO_SYtciRN0Ldw=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "The Colour And The Shape",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "8PG5oTnDpXA",
+        "video_url": "https://www.youtube.com/watch?v=8PG5oTnDpXA",
+        "title": "Monkey Wrench",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aa0-mDhn39MhLg7uBDLsBKhzQKV_scXO5KP4JS9XUiujzVWx7zRUG3oYKpW-BYHaYYKHvO_SYtciRN0Ldw=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "The Colour And The Shape",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "V_DI4mhrY64",
+        "video_url": "https://www.youtube.com/watch?v=V_DI4mhrY64",
+        "title": "My Hero",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aa0-mDhn39MhLg7uBDLsBKhzQKV_scXO5KP4JS9XUiujzVWx7zRUG3oYKpW-BYHaYYKHvO_SYtciRN0Ldw=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "The Colour And The Shape",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZPwklc-awtk",
+        "video_url": "https://www.youtube.com/watch?v=ZPwklc-awtk",
+        "title": "Breakout",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uIvh_nHhKDBLQoi-DtLllajBBfqf9bMzLTMJh7qgjfkYkYwdB0Ql1dibkkz-0FXlg0TOYfSTDvzIfTI7=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "There Is Nothing Left To Lose",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "HJMLLKgknvk",
+        "video_url": "https://www.youtube.com/watch?v=HJMLLKgknvk",
+        "title": "Learn to Fly",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uIvh_nHhKDBLQoi-DtLllajBBfqf9bMzLTMJh7qgjfkYkYwdB0Ql1dibkkz-0FXlg0TOYfSTDvzIfTI7=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "There Is Nothing Left To Lose",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "WHzGYudqdiw",
+        "video_url": "https://www.youtube.com/watch?v=WHzGYudqdiw",
+        "title": "These Days",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "Wasting Light",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "FQU0QOmwHFA",
+        "video_url": "https://www.youtube.com/watch?v=FQU0QOmwHFA",
+        "title": "Walk",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tT__3cVHvuFo7lttNU4D1ApF6beZZjGIGHfrqORR4UYe0fQRo_xK0Me2gslp8J9fdCyvkWyzChWWvJY=w120-h120-l90-rj",
+        "artist": "Foo Fighters",
+        "album": "Wasting Light",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -5685,6 +5847,123 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/ldVVO7vktLrUuW13A3oCdDlgrxfTQxmIyyMwAxef5W07pkRxdbgu3GLV8BaIZkW_RDR7qxd9utQy7Wqj=w120-h120-l90-rj",
         "artist": "LINKIN PARK",
         "album": "LIVING THINGS",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ltOShbr2hv4",
+        "video_url": "https://www.youtube.com/watch?v=ltOShbr2hv4",
+        "title": "Ruin",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rTCt6-TTp8jiS_kg_l98TjaVEXJ-WZ5m9xFbXHF6zAql54M9Ql2dtMMTHbnQyKk9ftdJ7BVWWgHLN4Entg=w120-h120-l90-rj",
+        "artist": "Lamb Of God",
+        "album": "As The Palaces Burn",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nAdHx77fGJs",
+        "video_url": "https://www.youtube.com/watch?v=nAdHx77fGJs",
+        "title": "Memento Mori",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Qjut7RQlinXoN4nX6VWhlfm7vMUMj8-XHPOre98iuZo-N0BZ9Cka2Grpj6O0YrD1s0UL7ppPdb46mdc=w120-h120-l90-rj",
+        "artist": "Lamb Of God",
+        "album": "Lamb of God",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SDrB0NpwiXw",
+        "video_url": "https://www.youtube.com/watch?v=SDrB0NpwiXw",
+        "title": "Ditch",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jVwUAUeRV8FW1Tt4-w1J-j6UHZq_bPfTm4l5zq6ksV-mwYYc-wtb3uA6AV9w2_Z77-WbltlY9UNLmeA=w120-h120-l90-rj",
+        "artist": "Lamb Of God",
+        "album": "Omens",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zU0Zr9oWPgQ",
+        "video_url": "https://www.youtube.com/watch?v=zU0Zr9oWPgQ",
+        "title": "Desolation",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oRQgFxh-yEBVGZElxJh6m6IdZaw_IMoyBQp0eanheUX913SerMI7R8RjHTVLBfWFyJo5vlQvtvPXL4OFiA=w120-h120-l90-rj",
+        "artist": "Lamb Of God",
+        "album": "Resolution",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "cFXtQ0mMMEE",
+        "video_url": "https://www.youtube.com/watch?v=cFXtQ0mMMEE",
+        "title": "512",
+        "thumbnail_url": "https://lh3.googleusercontent.com/l_q5Y3RtEucrkB4p95_98Ab9c9aJXMZwM0qQ_m5uCYRkTPttiqzNdNMSiZcpDCK0HjESnKCR9dtlMXe6=w120-h120-l90-rj",
+        "artist": "Lamb Of God",
+        "album": "VII: Sturm und Drang",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UZ0BQnXrMS4",
+        "video_url": "https://www.youtube.com/watch?v=UZ0BQnXrMS4",
+        "title": "Hourglass",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oMXx2PndllQkBrSBD6EZNGR1oNYxwlmly1KPfbRGIqpZpXEI2yxmxXTFOmjKUWkY6LBvV7ifzJ4mJ7WP=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Ashes of the Wake (15th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "sbobZULzNBM",
+        "video_url": "https://www.youtube.com/watch?v=sbobZULzNBM",
+        "title": "Laid to Rest",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oMXx2PndllQkBrSBD6EZNGR1oNYxwlmly1KPfbRGIqpZpXEI2yxmxXTFOmjKUWkY6LBvV7ifzJ4mJ7WP=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Ashes of the Wake (15th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0m5fIHHfJTw",
+        "video_url": "https://www.youtube.com/watch?v=0m5fIHHfJTw",
+        "title": "Now You've Got Something to Die For",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oMXx2PndllQkBrSBD6EZNGR1oNYxwlmly1KPfbRGIqpZpXEI2yxmxXTFOmjKUWkY6LBvV7ifzJ4mJ7WP=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Ashes of the Wake (15th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "n-q_eYANZSs",
+        "video_url": "https://www.youtube.com/watch?v=n-q_eYANZSs",
+        "title": "Omerta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oMXx2PndllQkBrSBD6EZNGR1oNYxwlmly1KPfbRGIqpZpXEI2yxmxXTFOmjKUWkY6LBvV7ifzJ4mJ7WP=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Ashes of the Wake (15th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "WKVFfx1HroI",
+        "video_url": "https://www.youtube.com/watch?v=WKVFfx1HroI",
+        "title": "The Faded Line",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oMXx2PndllQkBrSBD6EZNGR1oNYxwlmly1KPfbRGIqpZpXEI2yxmxXTFOmjKUWkY6LBvV7ifzJ4mJ7WP=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Ashes of the Wake (15th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_V_ZbJE5oLs",
+        "video_url": "https://www.youtube.com/watch?v=_V_ZbJE5oLs",
+        "title": "Descending",
+        "thumbnail_url": "https://lh3.googleusercontent.com/h68RVnzSQKfVBhUYdZ3rlkd6JxkhZF6yj_M79Ddd1O97ZS3nN1zyPzYkt1AddfHHsG_sAopaTvqg9NyV=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Sacrament",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "QPhrucZ-upw",
+        "video_url": "https://www.youtube.com/watch?v=QPhrucZ-upw",
+        "title": "Redneck",
+        "thumbnail_url": "https://lh3.googleusercontent.com/s4hMAjYWmINMQDrVE3Q3mQYZ25Fd2IkXMpRpUmj3BxcSn6BrPJxqyOV_1NvijfogBvcI-AWgpibr58BO=w120-h120-s-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Sacrament",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "m4QyQk8vOCY",
+        "video_url": "https://www.youtube.com/watch?v=m4QyQk8vOCY",
+        "title": "Walk with Me In Hell",
+        "thumbnail_url": "https://lh3.googleusercontent.com/h68RVnzSQKfVBhUYdZ3rlkd6JxkhZF6yj_M79Ddd1O97ZS3nN1zyPzYkt1AddfHHsG_sAopaTvqg9NyV=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "album": "Sacrament",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -8630,6 +8909,186 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "JIx2H-plXdU",
+        "video_url": "https://www.youtube.com/watch?v=JIx2H-plXdU",
+        "title": "About A Girl",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nhcuMa9GzEnthhuKJuHd_VU4VOC5hu_-J7f_lbbdgxG35ZVa971LwLW6d5v6RSq-sx4HWiBt2u9va0U=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Bleach: Deluxe Edition",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ljvhYweP4-0",
+        "video_url": "https://www.youtube.com/watch?v=ljvhYweP4-0",
+        "title": "Love Buzz",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nhcuMa9GzEnthhuKJuHd_VU4VOC5hu_-J7f_lbbdgxG35ZVa971LwLW6d5v6RSq-sx4HWiBt2u9va0U=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Bleach: Deluxe Edition",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "11G9j9utRCs",
+        "video_url": "https://www.youtube.com/watch?v=11G9j9utRCs",
+        "title": "Dumb",
+        "thumbnail_url": "https://lh3.googleusercontent.com/AU54rAq1sj8xzHtArON5sp8gE7eUc_4c2I1suZz85nkTCpBYIxOYil6vH5PL4Ue49MtHWqbRWefjC2mW=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "In Utero (20th Anniversary Remaster)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "8eGY-4OALgM",
+        "video_url": "https://www.youtube.com/watch?v=8eGY-4OALgM",
+        "title": "Heart-Shaped Box",
+        "thumbnail_url": "https://lh3.googleusercontent.com/AU54rAq1sj8xzHtArON5sp8gE7eUc_4c2I1suZz85nkTCpBYIxOYil6vH5PL4Ue49MtHWqbRWefjC2mW=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "In Utero (20th Anniversary Remaster)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JtWaCViY_tc",
+        "video_url": "https://www.youtube.com/watch?v=JtWaCViY_tc",
+        "title": "Rape Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/AU54rAq1sj8xzHtArON5sp8gE7eUc_4c2I1suZz85nkTCpBYIxOYil6vH5PL4Ue49MtHWqbRWefjC2mW=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "In Utero (20th Anniversary Remaster)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "GPwcy8lUYng",
+        "video_url": "https://www.youtube.com/watch?v=GPwcy8lUYng",
+        "title": "Moist Vagina (2013 Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Uta2P9V1BbFiscOltlDE1ufG2nyve_lZiPIvpPEGaXOUBmYDifT1YQ-h_c4t6J2bVOXEGAVy6wQuj9hN=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "In Utero (Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "21JfDpX8ulg",
+        "video_url": "https://www.youtube.com/watch?v=21JfDpX8ulg",
+        "title": "Sliver",
+        "thumbnail_url": "https://lh3.googleusercontent.com/2Igbk-aPuaQgmqAeFan2JDyo5eu2UCDKW1bNsa9jUdR6Qah6LsEqAfPzes3RVImFfdPqGGXg2RimiDE=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Incesticide",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bPG7uI_WqZE",
+        "video_url": "https://www.youtube.com/watch?v=bPG7uI_WqZE",
+        "title": "About A Girl (Live)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/b6z65aoWHX0Hn9O3AmXJx40nLWePzY4deNqx801T5jTnZZDKVV4VrCMM7cXvZ4j7rva3EXxxCFylwAM=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "MTV Unplugged In New York (25th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "DrSVtOXg4ts",
+        "video_url": "https://www.youtube.com/watch?v=DrSVtOXg4ts",
+        "title": "Come As You Are (Live)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/b6z65aoWHX0Hn9O3AmXJx40nLWePzY4deNqx801T5jTnZZDKVV4VrCMM7cXvZ4j7rva3EXxxCFylwAM=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "MTV Unplugged In New York (25th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UJWTHdCPSiw",
+        "video_url": "https://www.youtube.com/watch?v=UJWTHdCPSiw",
+        "title": "The Man Who Sold The World (Live)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/b6z65aoWHX0Hn9O3AmXJx40nLWePzY4deNqx801T5jTnZZDKVV4VrCMM7cXvZ4j7rva3EXxxCFylwAM=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "MTV Unplugged In New York (25th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ox_BG6sLPq8",
+        "video_url": "https://www.youtube.com/watch?v=ox_BG6sLPq8",
+        "title": "Breed",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZEMBDKMtHqM",
+        "video_url": "https://www.youtube.com/watch?v=ZEMBDKMtHqM",
+        "title": "Come As You Are",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jFU6xiWbHT0",
+        "video_url": "https://www.youtube.com/watch?v=jFU6xiWbHT0",
+        "title": "Drain You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ng_vqlKtxLs",
+        "video_url": "https://www.youtube.com/watch?v=ng_vqlKtxLs",
+        "title": "In Bloom",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_oWUgfpGi0M",
+        "video_url": "https://www.youtube.com/watch?v=_oWUgfpGi0M",
+        "title": "Lithium",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ljUtuoFt-8c",
+        "video_url": "https://www.youtube.com/watch?v=ljUtuoFt-8c",
+        "title": "Smells Like Teen Spirit",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UGA6zBEyo8Y",
+        "video_url": "https://www.youtube.com/watch?v=UGA6zBEyo8Y",
+        "title": "Stay Away",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "W64Bz9wXvRs",
+        "video_url": "https://www.youtube.com/watch?v=W64Bz9wXvRs",
+        "title": "Territorial Pissings",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eyKiPBSqEu556sYTd_IyZhfxun5e_hatZ9tAyu8bnmVRgtbM3aW-SXUvhVX-d7s1oU0Yf3a38JOuYMZK5w=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dWXa9lKuCfk",
+        "video_url": "https://www.youtube.com/watch?v=dWXa9lKuCfk",
+        "title": "The Man Who Sold The World (Live)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jr16jEKGQxeTDk_IbnNrDh4xg6h8j-vFlBxh6epwDdmHulrltiITobOp7xlQtOjCT9A0oHWgloao0jxa=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nirvana",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "F2zJDTL6dh8",
+        "video_url": "https://www.youtube.com/watch?v=F2zJDTL6dh8",
+        "title": "You Know You're Right",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jr16jEKGQxeTDk_IbnNrDh4xg6h8j-vFlBxh6epwDdmHulrltiITobOp7xlQtOjCT9A0oHWgloao0jxa=w120-h120-l90-rj",
+        "artist": "Nirvana",
+        "album": "Nirvana",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Mj3RLcfnwKE",
         "video_url": "https://www.youtube.com/watch?v=Mj3RLcfnwKE",
         "title": "Los Malaventurados No Lloran",
@@ -9368,6 +9827,51 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "4BX5xpB2DBM",
+        "video_url": "https://www.youtube.com/watch?v=4BX5xpB2DBM",
+        "title": "Creep (Acoustic)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/RTH-QFEdYKq5qpKihRDfL_MIFo2CUdPFJjFcXYbXFJfGUMeBffbDhP80nHEIIBc01tHbwOwPS780gDHV=w120-h120-l90-rj",
+        "artist": "Radiohead",
+        "album": "Creep EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nbCOAPR33ME",
+        "video_url": "https://www.youtube.com/watch?v=nbCOAPR33ME",
+        "title": "Karma Police",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gdMTA2cTkNFr6COYNygeVpgIpxR2yNg5MjaX02OQqmsU6NlymcR2mqWR0UZe2HaBYVSTHU8lIQamafQC=w120-h120-l90-rj",
+        "artist": "Radiohead",
+        "album": "OK Computer OKNOTOK 1997 2017",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7374CZQoS2Y",
+        "video_url": "https://www.youtube.com/watch?v=7374CZQoS2Y",
+        "title": "No Surprises",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gdMTA2cTkNFr6COYNygeVpgIpxR2yNg5MjaX02OQqmsU6NlymcR2mqWR0UZe2HaBYVSTHU8lIQamafQC=w120-h120-l90-rj",
+        "artist": "Radiohead",
+        "album": "OK Computer OKNOTOK 1997 2017",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zFYEYRcjK2g",
+        "video_url": "https://www.youtube.com/watch?v=zFYEYRcjK2g",
+        "title": "Creep",
+        "thumbnail_url": "https://lh3.googleusercontent.com/U7k2oSmy45dhhj8ACdsUr1hQAvoY1IcOlHI_ZwU2rckJte1UEcTyrBUPUGr6Q-HT9-zeY0BwJ05xlOOJ=w120-h120-l90-rj",
+        "artist": "Radiohead",
+        "album": "Pablo Honey",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7fv84nPfTH0",
+        "video_url": "https://www.youtube.com/watch?v=7fv84nPfTH0",
+        "title": "High and Dry",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TWWT47cHLv3yAugk4h9eOzQ46FHmXc_g-KmBVy2d4sbg_F-Gv6xrPglztRVzp8D_l-yzOnvh-QToM8s=w120-h120-l90-rj",
+        "artist": "Radiohead",
+        "album": "The Bends",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "XhjqmAoBKCQ",
         "video_url": "https://www.youtube.com/watch?v=XhjqmAoBKCQ",
         "title": "Give It Away",
@@ -9608,6 +10112,222 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/h-aV-MEdOl3_WNSDkX6nl-EQ94jFKw1I31gTSXLdKkTYIvrF3lR9cbXhquwoutZBT1aCYiUBKRbFwZt-=w120-h120-l90-rj",
         "artist": "Sigrid & Bring Me The Horizon",
         "album": "Bad Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3pdVtlBYtrc",
+        "video_url": "https://www.youtube.com/watch?v=3pdVtlBYtrc",
+        "title": "Custer",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_GAnRJaQRZbpuRlFkjzuav-DEWqfAcln3DX4z8f6SS652IGnfKSo6F8yh5Q6KJ7G3H1qx4RAWbtFLTrDJQ=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": ".5: The Gray Chapter (Special Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "oYzkMBMV1sw",
+        "video_url": "https://www.youtube.com/watch?v=oYzkMBMV1sw",
+        "title": "Killpop",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_GAnRJaQRZbpuRlFkjzuav-DEWqfAcln3DX4z8f6SS652IGnfKSo6F8yh5Q6KJ7G3H1qx4RAWbtFLTrDJQ=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": ".5: The Gray Chapter (Special Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Ub_NI1lCrdA",
+        "video_url": "https://www.youtube.com/watch?v=Ub_NI1lCrdA",
+        "title": "The Devil in I",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_GAnRJaQRZbpuRlFkjzuav-DEWqfAcln3DX4z8f6SS652IGnfKSo6F8yh5Q6KJ7G3H1qx4RAWbtFLTrDJQ=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": ".5: The Gray Chapter (Special Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "q6rMwP_V9qY",
+        "video_url": "https://www.youtube.com/watch?v=q6rMwP_V9qY",
+        "title": "The Negative One",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_GAnRJaQRZbpuRlFkjzuav-DEWqfAcln3DX4z8f6SS652IGnfKSo6F8yh5Q6KJ7G3H1qx4RAWbtFLTrDJQ=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": ".5: The Gray Chapter (Special Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7h8BcHmGskQ",
+        "video_url": "https://www.youtube.com/watch?v=7h8BcHmGskQ",
+        "title": "Dead Memories",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9t0VQpirs0AuoefQAlOMvm0mB7EPzMIYC66MA7RJLszaiX2cT0PeVo_1OA0hAGM_GAKHtOnPzbnWyRc=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "All Hope Is Gone",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-XlW-cyAdiw",
+        "video_url": "https://www.youtube.com/watch?v=-XlW-cyAdiw",
+        "title": "Psychosocial",
+        "thumbnail_url": "https://lh3.googleusercontent.com/BKN1q6592B6RRjUCzycpYLMsRXezlbNW7lbJ3Y1xDUuzdJ_D9tbhr9GHk2_STmHBcIZYu4mNpu1cGgTU=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "All Hope Is Gone",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Yi0YbsT0TJ0",
+        "video_url": "https://www.youtube.com/watch?v=Yi0YbsT0TJ0",
+        "title": "Snuff",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9t0VQpirs0AuoefQAlOMvm0mB7EPzMIYC66MA7RJLszaiX2cT0PeVo_1OA0hAGM_GAKHtOnPzbnWyRc=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "All Hope Is Gone",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9Ncd1har8tY",
+        "video_url": "https://www.youtube.com/watch?v=9Ncd1har8tY",
+        "title": "All Out Life",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ubt-zfY-NQUIEA6vjHNOOuW-cH9ryfW_d1D_Vmo5qN7BYLopK4hYN46HU_UJsXfwG0Yf1RXBY8XA4As=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "All Out Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UXcB1X9G1Uo",
+        "video_url": "https://www.youtube.com/watch?v=UXcB1X9G1Uo",
+        "title": "Before I Forget",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1oyIAkZWxugz855bRjb20de5kM9xBPnBGCafrwuDbpZPnnhHMwwKLXsW-ry34_wzUZXh32fwFOzueRT_=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Antennas to Hell",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "S6HfZ4PJlwY",
+        "video_url": "https://www.youtube.com/watch?v=S6HfZ4PJlwY",
+        "title": "Left Behind",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dSexcYj7G21150UZyiHiSC3bn2yjNJ4eybThmagkLk9jdHSNUEWx5ULp9cg5jBtiIyoeMTJVH2-unnRTuw=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Iowa",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "D9L-uKy5lcs",
+        "video_url": "https://www.youtube.com/watch?v=D9L-uKy5lcs",
+        "title": "My Plague",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dSexcYj7G21150UZyiHiSC3bn2yjNJ4eybThmagkLk9jdHSNUEWx5ULp9cg5jBtiIyoeMTJVH2-unnRTuw=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Iowa",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "p3LWd5JFYbs",
+        "video_url": "https://www.youtube.com/watch?v=p3LWd5JFYbs",
+        "title": "People = Shit",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dSexcYj7G21150UZyiHiSC3bn2yjNJ4eybThmagkLk9jdHSNUEWx5ULp9cg5jBtiIyoeMTJVH2-unnRTuw=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Iowa",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jd3fun04bNI",
+        "video_url": "https://www.youtube.com/watch?v=jd3fun04bNI",
+        "title": "The Heretic Anthem",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dSexcYj7G21150UZyiHiSC3bn2yjNJ4eybThmagkLk9jdHSNUEWx5ULp9cg5jBtiIyoeMTJVH2-unnRTuw=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Iowa",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "pH4PkaN3eVA",
+        "video_url": "https://www.youtube.com/watch?v=pH4PkaN3eVA",
+        "title": "Spit It Out",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MCh2LyaTgzerPtiZGJ87E3WEV94tKwj9ReOekknIhVmO2zspPjsI-s_7iSlQmc4re8jeGtdv-vTIkF7G=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Slipknot",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "IBy7TCSY2wk",
+        "video_url": "https://www.youtube.com/watch?v=IBy7TCSY2wk",
+        "title": "Wait and Bleed",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MCh2LyaTgzerPtiZGJ87E3WEV94tKwj9ReOekknIhVmO2zspPjsI-s_7iSlQmc4re8jeGtdv-vTIkF7G=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Slipknot",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "HtMxyNqQCH4",
+        "video_url": "https://www.youtube.com/watch?v=HtMxyNqQCH4",
+        "title": "Purity",
+        "thumbnail_url": "https://lh3.googleusercontent.com/byNGWYX5rhZtRzWTWPBxCP1KwyqcUWNFRH_yPpAuMo25SG9H7cAnin5JnJYASPFW4INlV1w739mhS7c=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Slipknot (10th Anniversary Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "GOSTlT691O8",
+        "video_url": "https://www.youtube.com/watch?v=GOSTlT691O8",
+        "title": "Wait and Bleed",
+        "thumbnail_url": "https://lh3.googleusercontent.com/byNGWYX5rhZtRzWTWPBxCP1KwyqcUWNFRH_yPpAuMo25SG9H7cAnin5JnJYASPFW4INlV1w739mhS7c=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Slipknot (10th Anniversary Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "8rcpLVw9ML8",
+        "video_url": "https://www.youtube.com/watch?v=8rcpLVw9ML8",
+        "title": "Yen",
+        "thumbnail_url": "https://lh3.googleusercontent.com/b1FVZlizLuBb6gawTjCK_Lsm7nmkxSLpNJediXkIQr-VyfRwNLMJhvNYU_aKPqhZ1TCmw169X3TNOG_fiA=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "The End, So Far",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "mQxWYy1JaqU",
+        "video_url": "https://www.youtube.com/watch?v=mQxWYy1JaqU",
+        "title": "Before I Forget",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3R-9BbeyhyFXj1H6mz1a-SwLGbl9J1b-2JnXhdpHskn5mtJzVOlM_0MTCUJTwHHF2b52OsJ9e9MiNyv0=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Vol. 3 The Subliminal Verses",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7gXi9LZOLEw",
+        "video_url": "https://www.youtube.com/watch?v=7gXi9LZOLEw",
+        "title": "The Blister Exists",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3R-9BbeyhyFXj1H6mz1a-SwLGbl9J1b-2JnXhdpHskn5mtJzVOlM_0MTCUJTwHHF2b52OsJ9e9MiNyv0=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Vol. 3 The Subliminal Verses",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "B2lmOei7qfk",
+        "video_url": "https://www.youtube.com/watch?v=B2lmOei7qfk",
+        "title": "Duality",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NcBCPN1E4DVzkJ6qHmV-KXdxEBYNmvrGJ9OiwbLNDV-CwKVA9nmlFmwybpWohcbSfLl_BYcXzwhqzdyrEQ=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Vol. 3: The Subliminal Verses",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zrrwq1E9oFU",
+        "video_url": "https://www.youtube.com/watch?v=zrrwq1E9oFU",
+        "title": "Vermilion",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NcBCPN1E4DVzkJ6qHmV-KXdxEBYNmvrGJ9OiwbLNDV-CwKVA9nmlFmwybpWohcbSfLl_BYcXzwhqzdyrEQ=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Vol. 3: The Subliminal Verses",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xKuQtmdOWWE",
+        "video_url": "https://www.youtube.com/watch?v=xKuQtmdOWWE",
+        "title": "Vermilion (Alternate Mix; U.S. Edit Full Length)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NcBCPN1E4DVzkJ6qHmV-KXdxEBYNmvrGJ9OiwbLNDV-CwKVA9nmlFmwybpWohcbSfLl_BYcXzwhqzdyrEQ=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "Vol. 3: The Subliminal Verses",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XYZue7_NQew",
+        "video_url": "https://www.youtube.com/watch?v=XYZue7_NQew",
+        "title": "Unsainted",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dBNXEtSEu_BucS37nTj8tTQZmMK_yCLRQnRl1AmbK9mvLdVF9LETD04SRS-6lZrgDPB-CBuKFtlqvV_7=w120-h120-l90-rj",
+        "artist": "Slipknot",
+        "album": "We Are Not Your Kind",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -9890,6 +10610,105 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "dWc91Rw4b0s",
+        "video_url": "https://www.youtube.com/watch?v=dWc91Rw4b0s",
+        "title": "25",
+        "thumbnail_url": "https://lh3.googleusercontent.com/30SW7KGTcNl_ZKJmsqrIp84IAY2WqC2iZ8KX8MRFT5d5TyHzri7VBtG1xsfZacyJp5AtVr7hya4ZpsdN_g=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Death by Rock and Roll",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wqlEbpefIwY",
+        "video_url": "https://www.youtube.com/watch?v=wqlEbpefIwY",
+        "title": "And So It Went (feat. Tom Morello)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/30SW7KGTcNl_ZKJmsqrIp84IAY2WqC2iZ8KX8MRFT5d5TyHzri7VBtG1xsfZacyJp5AtVr7hya4ZpsdN_g=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Death by Rock and Roll",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-kVXlsM-efA",
+        "video_url": "https://www.youtube.com/watch?v=-kVXlsM-efA",
+        "title": "Death by Rock and Roll",
+        "thumbnail_url": "https://lh3.googleusercontent.com/30SW7KGTcNl_ZKJmsqrIp84IAY2WqC2iZ8KX8MRFT5d5TyHzri7VBtG1xsfZacyJp5AtVr7hya4ZpsdN_g=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Death by Rock and Roll",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vmVb4JfOvcQ",
+        "video_url": "https://www.youtube.com/watch?v=vmVb4JfOvcQ",
+        "title": "Going to Hell",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6tP0bsrrO47mohWLy85xu2MKjmBnEOVN-pB6-JZj150pHGd2lLWleBZ3OnGl-lX6AgtDpD1xGYZSBL6heA=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Going to Hell",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JNhyAHcndCg",
+        "video_url": "https://www.youtube.com/watch?v=JNhyAHcndCg",
+        "title": "Heaven Knows",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6tP0bsrrO47mohWLy85xu2MKjmBnEOVN-pB6-JZj150pHGd2lLWleBZ3OnGl-lX6AgtDpD1xGYZSBL6heA=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Going to Hell",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Z6ZtYZiHong",
+        "video_url": "https://www.youtube.com/watch?v=Z6ZtYZiHong",
+        "title": "Hit Me Like A Man",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8ueNtKZJN_KNm1CIOzpAdNQlh91kM6sNVMnzZmFIGY5U_sJTr9-SCnP6oDtylKtRXp_B9Q1UfbS7FZ2hDg=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Hit Me Like A Man EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "jRfDNnioH30",
+        "video_url": "https://www.youtube.com/watch?v=jRfDNnioH30",
+        "title": "Just Tonight",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qYvb1Z-lCYkAn02xalQArGtBI7GYoRtIPK31vnD6qZQ16tiMiJxnB0jLw49cH7FrgLKoDV8sjwPaIeKo0g=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Light Me Up",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "G6dN1HsM8GE",
+        "video_url": "https://www.youtube.com/watch?v=G6dN1HsM8GE",
+        "title": "Make Me Wanna Die",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qYvb1Z-lCYkAn02xalQArGtBI7GYoRtIPK31vnD6qZQ16tiMiJxnB0jLw49cH7FrgLKoDV8sjwPaIeKo0g=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Light Me Up",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7qZRKBk0IuU",
+        "video_url": "https://www.youtube.com/watch?v=7qZRKBk0IuU",
+        "title": "Miss Nothing",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qYvb1Z-lCYkAn02xalQArGtBI7GYoRtIPK31vnD6qZQ16tiMiJxnB0jLw49cH7FrgLKoDV8sjwPaIeKo0g=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Light Me Up",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1SSVDDaBGMw",
+        "video_url": "https://www.youtube.com/watch?v=1SSVDDaBGMw",
+        "title": "My Medicine (Single Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qYvb1Z-lCYkAn02xalQArGtBI7GYoRtIPK31vnD6qZQ16tiMiJxnB0jLw49cH7FrgLKoDV8sjwPaIeKo0g=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Light Me Up",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9BefkzTeHfs",
+        "video_url": "https://www.youtube.com/watch?v=9BefkzTeHfs",
+        "title": "Take Me Down",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GET3hvjh6Cgw-S7Dcr55FfBKgxTLNebIpR0T5KOQOSjtP1xFC3s0VpFKzLsZuJVjilST-2bdVZ6HMwO5=w120-h120-l90-rj",
+        "artist": "The Pretty Reckless",
+        "album": "Who You Selling For",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Zq7dwCnrMLE",
         "video_url": "https://www.youtube.com/watch?v=Zq7dwCnrMLE",
         "title": "Ten Black Roses",
@@ -10040,6 +10859,96 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/gUdP_lGdDtFeeexh79ujnrRUyvL5YUaxGFy5EsCX7v1i7AjyoXduowX5IvhnM3bb7eiNdg-DqsRggiOA=w120-h120-l90-rj",
         "artist": "The Rasmus feat. Anette Olzon",
         "album": "October & April",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Ho86D-yuBUw",
+        "video_url": "https://www.youtube.com/watch?v=Ho86D-yuBUw",
+        "title": "Under Cover of Darkness",
+        "thumbnail_url": "https://lh3.googleusercontent.com/I19vn-ki2SWeimZjZtfjkBJDGLKgpQAnaDBJ0kTgGy0d4mVbb3QRcrYt8kSwjyjiHc6I-fMXt-MF124=w120-h120-s-l90-rj",
+        "artist": "The Strokes",
+        "album": "Angles",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "grjUGt7z8jA",
+        "video_url": "https://www.youtube.com/watch?v=grjUGt7z8jA",
+        "title": "Heart In a Cage",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jtBWLQOnunJsVNVBHUxhScou6VaIIUEv2i-L28kPgeUSmod6RFapfoTBv6Q4iOlolSPTD-dcsix6obJQ=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "First Impressions Of Earth",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EAqtgMbSn-o",
+        "video_url": "https://www.youtube.com/watch?v=EAqtgMbSn-o",
+        "title": "Juicebox",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jtBWLQOnunJsVNVBHUxhScou6VaIIUEv2i-L28kPgeUSmod6RFapfoTBv6Q4iOlolSPTD-dcsix6obJQ=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "First Impressions Of Earth",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6FnbPTaoahM",
+        "video_url": "https://www.youtube.com/watch?v=6FnbPTaoahM",
+        "title": "You Only Live Once",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jtBWLQOnunJsVNVBHUxhScou6VaIIUEv2i-L28kPgeUSmod6RFapfoTBv6Q4iOlolSPTD-dcsix6obJQ=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "First Impressions Of Earth",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ay3AFRcq5b4",
+        "video_url": "https://www.youtube.com/watch?v=ay3AFRcq5b4",
+        "title": "Hard To Explain",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pC3z_hnQSQCi4PGNdImJyFwOUwuneY39EnsMiGZhqjREZMxWnpSptv97zcl7nLojlf4KeOj5z25DZjpS=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "Is This It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "phDGgIvwAmw",
+        "video_url": "https://www.youtube.com/watch?v=phDGgIvwAmw",
+        "title": "Last Nite",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pC3z_hnQSQCi4PGNdImJyFwOUwuneY39EnsMiGZhqjREZMxWnpSptv97zcl7nLojlf4KeOj5z25DZjpS=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "Is This It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2u4ZlLpY7_Y",
+        "video_url": "https://www.youtube.com/watch?v=2u4ZlLpY7_Y",
+        "title": "Someday",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pC3z_hnQSQCi4PGNdImJyFwOUwuneY39EnsMiGZhqjREZMxWnpSptv97zcl7nLojlf4KeOj5z25DZjpS=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "Is This It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YdRjNeu11Ww",
+        "video_url": "https://www.youtube.com/watch?v=YdRjNeu11Ww",
+        "title": "Reptilia",
+        "thumbnail_url": "https://lh3.googleusercontent.com/IkjmGRNEs8pjJNVufyMdJxbZkPAcgRpfgalWkkKDBwTP6V_jiwkkWAwA3HrwVsmE3inaA_vqul68Rr94=w120-h120-s-l90-rj",
+        "artist": "The Strokes",
+        "album": "Room On Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CU0i9W_XkDI",
+        "video_url": "https://www.youtube.com/watch?v=CU0i9W_XkDI",
+        "title": "Ode To The Mets",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7XBCMOwR2NNvQ0X_OuoyPthJUC2wD0863g-qyLgi0QaGrsvETACOAgh4YKHX8Twb9k9IwKSCCwdGLlAb=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "The New Abnormal",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "826mxiKjoP0",
+        "video_url": "https://www.youtube.com/watch?v=826mxiKjoP0",
+        "title": "The Adults Are Talking",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7XBCMOwR2NNvQ0X_OuoyPthJUC2wD0863g-qyLgi0QaGrsvETACOAgh4YKHX8Twb9k9IwKSCCwdGLlAb=w120-h120-l90-rj",
+        "artist": "The Strokes",
+        "album": "The New Abnormal",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
