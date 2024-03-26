@@ -1,5 +1,14 @@
 [
     {
+        "video_id": "nkanGdtP4rk",
+        "video_url": "https://www.youtube.com/watch?v=nkanGdtP4rk",
+        "title": "Como Amigos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OgZLTYYZsOIuSNYSSxFXii4MLKfydp4qnjIZCPnE5fa7bmWJ8Nv4a4QQX1s7EZQQTv7Y9VuHl-lAMyID=w120-h120-l90-rj",
+        "artist": "Akapellah",
+        "album": "Como Antes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "AmbN5CSDn8U",
         "video_url": "https://www.youtube.com/watch?v=AmbN5CSDn8U",
         "title": "Kingston Town",
@@ -459,6 +468,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "dUlQEl7WKmU",
+        "video_url": "https://www.youtube.com/watch?v=dUlQEl7WKmU",
+        "title": "Liquor Store Blues (feat. Damian Marley)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-MBagZMcp-AsKziX22bIEvPjNlxPPyU8hgXC07dXlt9GmlBTA1hZI9yyAuCP0mswnSBNRMOvoI1y9_Y=w120-h120-s-l90-rj",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dltgBdOXkMk",
+        "video_url": "https://www.youtube.com/watch?v=dltgBdOXkMk",
+        "title": "No Hay Nadie Como T\u00fa (feat. Caf\u00e9 Tacuba)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jz_znZFjXFaOCC9tNkC6Ysx1nzU3eN_O6t81f4skX5Sp_5y4KYrod5pbo3GWZmf8Dzm7pWvRfut7MHF1=w120-h120-s-l90-rj",
+        "artist": "Calle 13",
+        "album": "Los De Atr\u00e1s Vienen Conmigo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "euBbQYzK_zk",
         "video_url": "https://www.youtube.com/watch?v=euBbQYzK_zk",
         "title": "Buffalo Soldier (Live)",
@@ -861,6 +888,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/wLn_pmdo7cdP_wNI6eMxk73GVBbKhNm4u-72us_xXmwVg_tuXj8dunQ03Lx7Y3TH0_rS0q0B45_RvtQ=w120-h120-l90-rj",
         "artist": "Dread Mar I",
         "album": "10 A\u00f1os (En Vivo)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "QlPxhHpfj1o",
+        "video_url": "https://www.youtube.com/watch?v=QlPxhHpfj1o",
+        "title": "Tu Sin Mi",
+        "thumbnail_url": "https://lh3.googleusercontent.com/t6lt7C1o1V6TI0oTGxm9T5dx0v8iiRX7rW6A1o2b2Y2h6spoQ6RNaTM0dDs6nOh8NP7_i8WGBj0yA7ba=w120-h120-l90-rj",
+        "artist": "Dread Mar I",
+        "album": "Vivi En Do",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

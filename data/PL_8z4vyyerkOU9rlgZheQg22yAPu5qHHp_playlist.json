@@ -153,6 +153,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "DJ9cqJ7aO7w",
+        "video_url": "https://www.youtube.com/watch?v=DJ9cqJ7aO7w",
+        "title": "R\u00e9plica",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bue_c-37CAIBw9-F4J-BEcKZQJsO6edP6dGHcgxVn7zyiAqJ6CYUKISb_a_PFeEiqqX6ag-jJ3x4fgEb=w120-h120-l90-rj",
+        "artist": "Akapellah",
+        "album": "R\u00e9plica",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "atnP_PiMqZs",
         "video_url": "https://www.youtube.com/watch?v=atnP_PiMqZs",
         "title": "Akapelinho",
@@ -162,12 +171,48 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "xWuNn0OuAJo",
+        "video_url": "https://www.youtube.com/watch?v=xWuNn0OuAJo",
+        "title": "No Eres Rapero",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ldq65V3Ff-0WK6i1iCnLdZV8uvHhmQd60IJoBdQU77SMJ9FVMsgw0Seh2C2Y0odUP7y-PCOKISi2hzmb=w120-h120-l90-rj",
+        "artist": "Akapellah & Oldtape",
+        "album": "No Eres Rapero",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "--sMy0gkrpE",
         "video_url": "https://www.youtube.com/watch?v=--sMy0gkrpE",
         "title": "No Me Quiero Ba\u00f1ar",
         "thumbnail_url": "https://lh3.googleusercontent.com/3mH7pmcYT3wY-V5T-XODlkdffTv78C3FNVsmk_JFfUNkXXn4b3mD1NmARD-sKdxvfQfKLn_4aaS-_xlwmg=w120-h120-l90-rj",
         "artist": "Akapellah, Motherflowers & Comida Para Llevar",
         "album": "No Me Quiero Ba\u00f1ar",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "sQcJWibIMAc",
+        "video_url": "https://www.youtube.com/watch?v=sQcJWibIMAc",
+        "title": "En Defensa Propia",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Eq3cxRHTDZMosnLQ0TBuJ_RQq6v3PyBP-MjfJuVcivUKMc6jKLL36Bq7SSc31FTeHvwC5I4xACs6_Dzl=w120-h120-l90-rj",
+        "artist": "Apache",
+        "album": "En Defensa Propia",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "f4fbq1ZgF2I",
+        "video_url": "https://www.youtube.com/watch?v=f4fbq1ZgF2I",
+        "title": "Pasame la Yesca",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tgPjt_6kypPmaMoGG0ah2c5a5LUFSVix7gTLAIySSMmGKqxNACNXz-n8ow3V5XY_4hBWk7OMgzuUhu61=w120-h120-l90-rj",
+        "artist": "Apache",
+        "album": "Lo Necesario",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "PNIw1SIVnWM",
+        "video_url": "https://www.youtube.com/watch?v=PNIw1SIVnWM",
+        "title": "Como Venga (feat. Gona)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
+        "artist": "Apache",
+        "album": "Original Combination",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -441,6 +486,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "-fMKC9m6NyU",
+        "video_url": "https://www.youtube.com/watch?v=-fMKC9m6NyU",
+        "title": "Lucky You (feat. Joyner Lucas)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JS6MK7XawzUUeCq-ANPfjk2BvkRnz5lblyK59uOhV9lmYSNdlZJx3KUQ6eF2CC7gjKOPO4Rq8tMPO2g=w120-h120-l90-rj",
+        "artist": "Eminem",
+        "album": "Kamikaze",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "tqxRidAWER8",
         "video_url": "https://www.youtube.com/watch?v=tqxRidAWER8",
         "title": "Without Me",
@@ -465,6 +519,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/qQi4x98fo78a-fURI1IbnRTQyb_TiiQFsw32MkuvHox3lOKhOy-m6bF73mu0zKnaIYcDOtC4AUET5X8=w120-h120-l90-rj",
         "artist": "Kid Cudi",
         "album": "Man On The Moon: The End Of Day (Int'l Version)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "IBxcHJZjtVI",
+        "video_url": "https://www.youtube.com/watch?v=IBxcHJZjtVI",
+        "title": "23 (feat. Miley Cyrus, Wiz Khalifa & Juicy J)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/G0gM0ixMdbg2c56wBLUdazhdH9wOemNMN_tLI_BXexVAnKa9IkwgNOl-ZNVFYpHz5UW7zzgkYZf9q2yf=w120-h120-l90-rj",
+        "artist": "Mike WiLL Made-It",
+        "album": "23",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
