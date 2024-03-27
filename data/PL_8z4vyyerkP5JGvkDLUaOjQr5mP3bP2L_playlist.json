@@ -900,6 +900,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "WwkpR7zURgU",
+        "video_url": "https://www.youtube.com/watch?v=WwkpR7zURgU",
+        "title": "No, No, No (feat. Stephen Marley & Damian Marley)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/J7a-emQYwh1Lg6nW4i15ZviUJ1EsPxZyRemmFdnEKSP28nX3Rr9_nX6xKQL1dumBKRJe-l7-juE06yQ=w120-h120-l90-rj",
+        "artist": "Eve",
+        "album": "Scorpion",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "tUtcEOY7z_k",
         "video_url": "https://www.youtube.com/watch?v=tUtcEOY7z_k",
         "title": "Antonia",
@@ -1302,6 +1311,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/9XhelCdgSLJ9MI3jLHM8-Wf9gsMBuD8RvnwZJbG9OvfNoU_exisaUt6tzrNM8eTsw6SYD1r3foLS8G4=w120-h120-l90-rj",
         "artist": "Tego Calderon",
         "album": "The Underdog - El Subestimado",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "VBEif1lMdZM",
+        "video_url": "https://www.youtube.com/watch?v=VBEif1lMdZM",
+        "title": "Billionaire (feat. Bruno Mars)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aOwcUzHO5qitOn2e6qkjE657xfTkHbedBJjJcwiTgguPDemker8hJnPMlySoNGO9xP57DPLAcD1Zb9Q-AA=w120-h120-s-l90-rj",
+        "artist": "Travie McCoy",
+        "album": "Lazarus",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
