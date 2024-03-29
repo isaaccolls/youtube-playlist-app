@@ -45,6 +45,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "6cjUGT6vcfU",
+        "video_url": "https://www.youtube.com/watch?v=6cjUGT6vcfU",
+        "title": "Eres",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xoJ15bxIKExZp7qBN7--WeFace5fKra7aeC_tjg32CQKe8-r-p2SFPMr3pJ2Yox4ZVgUOYid4-KtTJr7GQ=w120-h120-s-l90-rj",
+        "artist": "Caf\u00e9 Tacvba",
+        "album": "Cuatro Caminos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "fqqcXP1D0Fw",
         "video_url": "https://www.youtube.com/watch?v=fqqcXP1D0Fw",
         "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
@@ -60,6 +69,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/DAMVezymoY4RlzZWQiddgnKVZ-BxHF4_GdHEn7nz4YDUD_dZA2ndqsoAFpjJ9vAccsTYsRNacdzingE=w120-h120-l90-rj",
         "artist": "Dua Lipa",
         "album": "Dua Lipa (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vBtvhPM2GHc",
+        "video_url": "https://www.youtube.com/watch?v=vBtvhPM2GHc",
+        "title": "Crazy",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EPk9WJeL0oHUkR-E9epQRs9erHzVqQHowqnbZEsYg77fOG91B1lxLqKp0fNuShsdGh-2p1wgdpTAKb9Ttg=w120-h120-s-l90-rj",
+        "artist": "Gnarls Barkley",
+        "album": "St. Elsewhere",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -267,6 +285,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/3MdzHSrVwKo8gp_R0Fdl6kQQ6OGkixVc1iKf39UX2Ff2HEjr7ikYg6IVgB9YSJL3WV9_dqmbAM8Iuy79nQ=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
         "album": "The Beginning",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ricvj03PHSU",
+        "video_url": "https://www.youtube.com/watch?v=ricvj03PHSU",
+        "title": "Can't Feel My Face",
+        "thumbnail_url": "https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg=w120-h120-l90-rj",
+        "artist": "The Weeknd",
+        "album": "Beauty Behind The Madness",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

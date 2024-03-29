@@ -153,6 +153,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "gfIFUdFJdoM",
+        "video_url": "https://www.youtube.com/watch?v=gfIFUdFJdoM",
+        "title": "Praise The Lord (Da Shine) (feat. Skepta)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0jEaU0OlA4m0EK5v58ouaXt2VJwqgKsKvvBHPBPZHPIiu2jcUkzxL4mcv9LKF6BLUdp5g2XFcyPZXjHd_A=w120-h120-l90-rj",
+        "artist": "A$AP Rocky",
+        "album": "TESTING",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "DJ9cqJ7aO7w",
         "video_url": "https://www.youtube.com/watch?v=DJ9cqJ7aO7w",
         "title": "R\u00e9plica",
@@ -222,6 +231,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
         "artist": "Apache",
         "album": "Original Combination",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wQJIkbvUVPQ",
+        "video_url": "https://www.youtube.com/watch?v=wQJIkbvUVPQ",
+        "title": "Nothin' on You (feat. Bruno Mars)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/u4USijs5wXloKDO7j7qrD-Z8bGV7KlGdZBF-jALtgAL3kR4249inYyT2Ii3c7LYKvls8fwCxoOKKm5R0JA=w120-h120-s-l90-rj",
+        "artist": "B.o.B",
+        "album": "B.o.B Presents: The Adventures of Bobby Ray",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -459,6 +477,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "SqTSgCdDaaM",
+        "video_url": "https://www.youtube.com/watch?v=SqTSgCdDaaM",
+        "title": "Forgot About Dre (feat. Eminem)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/w42BmVN1uTez5YI99RhuHvk4u_Eoj6LeXg7d-HMP4c5IkZ5XJbD_04suECGSRw0a6TBdU8UgwRNlDt3lQQ=w120-h120-s-l90-rj",
+        "artist": "Dr. Dre",
+        "album": "2001",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Qeem6ZVr8Ic",
         "video_url": "https://www.youtube.com/watch?v=Qeem6ZVr8Ic",
         "title": "Still D.R.E. (feat. Snoop Dogg)",
@@ -486,6 +513,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "USo0sAaJKR0",
+        "video_url": "https://www.youtube.com/watch?v=USo0sAaJKR0",
+        "title": "Hotline Bling",
+        "thumbnail_url": "https://lh3.googleusercontent.com/A1TM5fq8-SVso9RdLdcbPVsncxblhUIdZ_ZQH2xviK6-6sh4J4kf_1LrTS9WWnYeXzQYLnptPIt40-u7=w120-h120-l90-rj",
+        "artist": "Drake",
+        "video_type": null
+    },
+    {
         "video_id": "4wOLVrGHiIU",
         "video_url": "https://www.youtube.com/watch?v=4wOLVrGHiIU",
         "title": "Lose Yourself",
@@ -510,6 +545,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/GJmbTYfaMrWuPSzhOAy7jGCQ70a2UN2-0moTq-uh_Prd73-Au51FDHhGteg543a7iBv1Y9SPm4huMSBS=w120-h120-s-l90-rj",
         "artist": "Eminem",
         "album": "The Eminem Show",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "5EPJgyX7rvI",
+        "video_url": "https://www.youtube.com/watch?v=5EPJgyX7rvI",
+        "title": "Let Me Blow Ya Mind (feat. Gwen Stefani)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/J7a-emQYwh1Lg6nW4i15ZviUJ1EsPxZyRemmFdnEKSP28nX3Rr9_nX6xKQL1dumBKRJe-l7-juE06yQ=w120-h120-l90-rj",
+        "artist": "Eve",
+        "album": "Scorpion",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -594,12 +638,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "R9ESrQ_PvWc",
+        "video_url": "https://www.youtube.com/watch?v=R9ESrQ_PvWc",
+        "title": "Ooh Ahh (My Life Be Like) (feat. TobyMac)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nKBdSITy8l6MjiOmH_xE_8xtdRtXHTRoNCD8jMe0b0DxKhO69Og0lsslYWtFxpQo85ZgKX4Ru91rgzYhyw=w120-h120-l90-rj",
+        "artist": "Grits",
+        "album": "The Art of Translation",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "_ydMlTassYc",
         "video_url": "https://www.youtube.com/watch?v=_ydMlTassYc",
         "title": "Empire State Of Mind (feat. Alicia Keys)",
         "thumbnail_url": "https://lh3.googleusercontent.com/cac7RCDKMaGadnmmVcJA1pJBi5Vcp3hwPHbKSHJzJ1H-JXOhASEuLYCvUPX3blZx6OlIyGtm8ld9BKFS=w120-h120-l90-rj",
         "artist": "JAY-Z",
         "album": "The Blueprint 3",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "H4RELGc9su8",
+        "video_url": "https://www.youtube.com/watch?v=H4RELGc9su8",
+        "title": "HUMBLE.",
+        "thumbnail_url": "https://lh3.googleusercontent.com/B1bVbj-AbBIJxL7RHJ2B7F9fLCv2reqD-9hPQAQf77cbWpf_a0KQM-d2zHoKCXBbjtKYBlc3-18zK4I=w120-h120-l90-rj",
+        "artist": "Kendrick Lamar",
+        "album": "DAMN. COLLECTORS EDITION.",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -618,6 +680,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/SLdBA0n3t0zS-CjMz9DpuCUjnr1zjpbH2qouzCoYPZtFyRixYc8GPjRuyRlJYp5L4_nzN_duNkI_7_M=w120-h120-l90-rj",
         "artist": "Lil Wayne, Wiz Khalifa & Imagine Dragons",
         "album": "Sucker for Pain",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "27WDAYaVS-s",
+        "video_url": "https://www.youtube.com/watch?v=27WDAYaVS-s",
+        "title": "Thrift Shop (feat. Wanz)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/QYbsINoGU9I21SDVPyluHD3Sv5anfENbnvyQ6C5FSN0nxWBz9PHqcFW9H-kzjiYhWviRaaLjyHFM0a1M=w120-h120-l90-rj",
+        "artist": "Macklemore & Ryan Lewis",
+        "album": "The Heist (Deluxe Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -654,6 +725,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/TuZDZlD8N-M5KEyCH25Lof97eu519wiiI6TSfrzPG3Vm0-2T_stqC8cVzuxvs1LHr_IeyxRKLhxdOhU=w120-h120-l90-rj",
         "artist": "Reke",
         "album": "El Astronauta",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_Wxfu7Th2S8",
+        "video_url": "https://www.youtube.com/watch?v=_Wxfu7Th2S8",
+        "title": "Beautiful Girls",
+        "thumbnail_url": "https://lh3.googleusercontent.com/g6qYFDrUCWXdCZLHFpGvNOmfrbgZ8VGzYdJTJKmFU4foqkMbyEXgHxaeAzsJt1bMeKcAZxUNrLhikn8=w120-h120-l90-rj",
+        "artist": "Sean Kingston",
+        "album": "Sean Kingston",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -726,6 +806,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/PSIZ9cf9hpESZwcSz2ylS5I-zIREqCSagxV-X4CJqefrE0sRCktRtFw-a7PlkLygmg7k1nZREKCaSzY=w120-h120-l90-rj",
         "artist": "Travis Scott",
         "album": "ASTROWORLD",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XGXZOQ8yTU4",
+        "video_url": "https://www.youtube.com/watch?v=XGXZOQ8yTU4",
+        "title": "Yeah! (feat. Lil Jon & Ludacris)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MBYo3NSSYjhz4pM40dR-TLfLVhlW_G6D5b8zispPyn-fp1PYDk4iidmLJFD27jZ40nf-YgHlQAZJLXQ=w120-h120-s-l90-rj",
+        "artist": "Usher",
+        "album": "Confessions (Expanded Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

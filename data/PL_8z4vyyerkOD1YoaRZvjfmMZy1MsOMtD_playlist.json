@@ -171,6 +171,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ZuJbaB27LzY",
+        "video_url": "https://www.youtube.com/watch?v=ZuJbaB27LzY",
+        "title": "Party",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0Ke36SSY53TQbmpqzKP4hMPoGiWYQiGI0KJ2CzcwjW4ore9vUMUmyzEi7irEU2MR3FCpNPdwIIuNslS6hg=w120-h120-l90-rj",
+        "artist": "Bad Bunny & Rauw Alejandro",
+        "album": "Un Verano Sin Ti",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "g5dLe5VPAAo",
         "video_url": "https://www.youtube.com/watch?v=g5dLe5VPAAo",
         "title": "Callaita",
@@ -366,6 +375,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/5-wFjHYQ0mYxW1ZWjo-IIK802c7WDqcax00vfUjhj36lyNG88B-ATS4WEhWEriGvB5lwZ_XIZ7bTFt8_=w120-h120-l90-rj",
         "artist": "Daddy Yankee & Wisin & Yandel",
         "album": "Si Supieras",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-R4cfUgDRWY",
+        "video_url": "https://www.youtube.com/watch?v=-R4cfUgDRWY",
+        "title": "Me Reh\u00faso",
+        "thumbnail_url": "https://lh3.googleusercontent.com/c_SXPwaS2Nw2UtlPfBddfCzDaOjeojoD_fWz0JxBohlgBmE_PVxOoBrY-GtpSgsyWHww0lQ8Cy9GezsC=w120-h120-l90-rj",
+        "artist": "Danny Ocean",
+        "album": "54+1",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -855,6 +873,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "aZnFUhA0bog",
+        "video_url": "https://www.youtube.com/watch?v=aZnFUhA0bog",
+        "title": "AM",
+        "thumbnail_url": "https://lh3.googleusercontent.com/f9lErYMJnXmIyLehQMDFxYGxEA4xV7zfro0S2VUSCJNQ1RL5LgKwQI6FY8OAP9NswbT3nLdsW0GPISVYOw=w120-h120-l90-rj",
+        "artist": "Nio Garcia & Flow La Movie",
+        "album": "AM",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "IixzND-q9UE",
         "video_url": "https://www.youtube.com/watch?v=IixzND-q9UE",
         "title": "Te Bot\u00e9 (Remix) (feat. Darell, Ozuna & Nicky Jam)",
@@ -1058,6 +1085,15 @@
         "title": "Chica Ideal",
         "thumbnail_url": "https://lh3.googleusercontent.com/wknyb5nhcSqrBHTG2vMFmvJsF5QGspf2RREyUXWEQ_xelop8BJVQT2sQjGX7TC6s3AVLHtpQbF8OLhTU=w120-h120-l90-rj",
         "artist": "Sebasti\u00e1n Yatra & Guaynaa",
+        "album": "Dharma",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bQZhDdme-R0",
+        "video_url": "https://www.youtube.com/watch?v=bQZhDdme-R0",
+        "title": "Pareja Del A\u00f1o",
+        "thumbnail_url": "https://lh3.googleusercontent.com/wknyb5nhcSqrBHTG2vMFmvJsF5QGspf2RREyUXWEQ_xelop8BJVQT2sQjGX7TC6s3AVLHtpQbF8OLhTU=w120-h120-l90-rj",
+        "artist": "Sebasti\u00e1n Yatra & Myke Towers",
         "album": "Dharma",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -1338,6 +1374,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/S9cmfk0ryy3X62Tq6rrfF_T-GqblQLySI0bjR6WxVpnfJ5uGfsBLwaYt_bmTXGysK-v6MtaRAqO-tc4=w120-h120-l90-rj",
         "artist": "Zion & Lennox",
         "album": "Motivan2",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xYQgNZ14G_Q",
+        "video_url": "https://www.youtube.com/watch?v=xYQgNZ14G_Q",
+        "title": "Me Pones en Tension",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Tql8keAmngFX-HyMfMuZAOverZ7hgfJ-XNd_G1de4XQ_BOaXpJuYuBlMrtBfLlNd5k1318PkMj7BgfcQ=w120-h120-l90-rj",
+        "artist": "Zion & Lennox",
+        "album": "The Noise \"La Biograf\u00eda\"",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
