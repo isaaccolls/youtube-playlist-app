@@ -2150,6 +2150,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "MY7tzr4r6_c",
+        "video_url": "https://www.youtube.com/watch?v=MY7tzr4r6_c",
+        "title": "Party Till We Die (Extended Mix) (feat. Andrew W.K.)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oVp48uxmv440MQXouvB1SdVGuiApBO6IoXjYXBoks-ygxvcgW_4YBUcCtVk1O5usAkLPjXHMGERhP3s=w120-h120-l90-rj",
+        "artist": "MAKJ & Timmy Trumpet",
+        "album": "Party Till We Die",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "oceXXCsO3fk",
         "video_url": "https://www.youtube.com/watch?v=oceXXCsO3fk",
         "title": "The Logical Song",
@@ -3389,6 +3398,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/F4J8kNfMRVPnF2-4WN534ASQGqGQfMffcPcSLJvrI4Hiw-6v1_zuU4NIGSSDYsSlc40IS6Rr8kPpGZGJ=w120-h120-s-l90-rj",
         "artist": "Three 6 Mafia & Ti\u00ebsto",
         "album": "Feel It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "CqEYTU-xlSU",
+        "video_url": "https://www.youtube.com/watch?v=CqEYTU-xlSU",
+        "title": "Oracle",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WN0UoYXvBxKeWQUf1-KIcVhkJudEAllfBL9jjikw5IDPHzyF3a-YTavo2fE-i0Et6B58CafSLyr2Tfl5=w120-h120-l90-rj",
+        "artist": "Timmy Trumpet",
+        "album": "Oracle",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

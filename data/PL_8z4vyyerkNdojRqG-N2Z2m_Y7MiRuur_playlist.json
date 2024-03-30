@@ -1,5 +1,14 @@
 [
     {
+        "video_id": "57_fffHS8rU",
+        "video_url": "https://www.youtube.com/watch?v=57_fffHS8rU",
+        "title": "Caraluna",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1jit7imGggIwBuS9UDDd7MI1abDYiDt3efdl-FyshKvdnEAeOSEz1d66olP7t7SGdJqcECuYGaqwrchjrQ=w120-h120-s-l90-rj",
+        "artist": "Bacilos",
+        "album": "Caraluna",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "YFsVa_-A_as",
         "video_url": "https://www.youtube.com/watch?v=YFsVa_-A_as",
         "title": "GIRL LIKE ME",
@@ -87,6 +96,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w120-h120-l90-rj",
         "artist": "Imagine Dragons",
         "album": "Evolve",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "5aq0NdXYrMY",
+        "video_url": "https://www.youtube.com/watch?v=5aq0NdXYrMY",
+        "title": "Es Por Ti",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ekEyhKz1OXn6oSLXiB_yVQJyHobjfL6uaD7DmCwUXLLq2y18XeNkaXoWnCYOkOkw6KpAdkX0TKNKHDW1=w120-h120-s-l90-rj",
+        "artist": "Juanes",
+        "album": "Un D\u00eda Normal",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -231,6 +249,33 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/C7_AWRi-Uj22Abb7ERe7HowFqP_xWTOrnb0tNMqr1fAKAY2HzVnO9Dq5KFkqMNkzR5qEmUa95lcYXJ1E=w120-h120-l90-rj",
         "artist": "Reggaeton Urbano",
         "album": "Reggaeton Suave",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "y4PdyqjWeqE",
+        "video_url": "https://www.youtube.com/watch?v=y4PdyqjWeqE",
+        "title": "Historia de Taxi",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Lof5rYVKCzZtUfvUtZ7RZcC6XWeuaAQ6qsGIkarsYUB6M0-vrwpasVgmGtBk2tO051NBd5NACk3uWrg=w120-h120-l90-rj",
+        "artist": "Ricardo Arjona",
+        "album": "Historias",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "uoVD-XFO1AU",
+        "video_url": "https://www.youtube.com/watch?v=uoVD-XFO1AU",
+        "title": "El Problema",
+        "thumbnail_url": "https://lh3.googleusercontent.com/a8r_iPwR7KBsw20kGK1n5-dZ8x1MZcx3220WF-qh83NoZcQadNt8WDfBxjgAAur_RjbyjjMFAqfhc3Q=w120-h120-l90-rj",
+        "artist": "Ricardo Arjona",
+        "album": "Santo Pecado",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ekfKf8uXIYE",
+        "video_url": "https://www.youtube.com/watch?v=ekfKf8uXIYE",
+        "title": "Minutos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/a8r_iPwR7KBsw20kGK1n5-dZ8x1MZcx3220WF-qh83NoZcQadNt8WDfBxjgAAur_RjbyjjMFAqfhc3Q=w120-h120-l90-rj",
+        "artist": "Ricardo Arjona",
+        "album": "Santo Pecado",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
