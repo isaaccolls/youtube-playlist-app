@@ -954,6 +954,42 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "9vWNauaZAgg",
+        "video_url": "https://www.youtube.com/watch?v=9vWNauaZAgg",
+        "title": "Back In Black",
+        "thumbnail_url": "https://lh3.googleusercontent.com/etTz20YiB4ccbsUO2yLrCY9wSS9GybYF5qJh-j5tu8MLTqP2GjgROiBt_4JUC5rjnnd_RiuWa3ndUAeO=w120-h120-l90-rj",
+        "artist": "AC/DC",
+        "album": "Back In Black",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SP9t2Iq_zQ8",
+        "video_url": "https://www.youtube.com/watch?v=SP9t2Iq_zQ8",
+        "title": "You Shook Me All Night Long",
+        "thumbnail_url": "https://lh3.googleusercontent.com/etTz20YiB4ccbsUO2yLrCY9wSS9GybYF5qJh-j5tu8MLTqP2GjgROiBt_4JUC5rjnnd_RiuWa3ndUAeO=w120-h120-l90-rj",
+        "artist": "AC/DC",
+        "album": "Back In Black",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ikFFVfObwss",
+        "video_url": "https://www.youtube.com/watch?v=ikFFVfObwss",
+        "title": "Highway to Hell",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PUFomqBydVJyjWf41HjnsoBmEgA2AkCuy3u9x1Xz6jzVjNgpf01SMhUvgz3kgacUQ6rmXnSpc4UVD4tL=w120-h120-l90-rj",
+        "artist": "AC/DC",
+        "album": "Highway to Hell",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lhg9bYNLvOg",
+        "video_url": "https://www.youtube.com/watch?v=lhg9bYNLvOg",
+        "title": "Thunderstruck",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DV_ebk0MH4HMLfn2CxeH6Thjf9OSs1Q6FhZulHE6KIyoPWYT6rh2FOZIERUFLRKg7yxpPqwIBE31D5ETkg=w120-h120-l90-rj",
+        "artist": "AC/DC",
+        "album": "The Razors Edge",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "9PpXu-2fPHc",
         "video_url": "https://www.youtube.com/watch?v=9PpXu-2fPHc",
         "title": "Dream On",
@@ -7026,6 +7062,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/MpC75menfONMNVAbrTLbpN6RzMxPPIABZo1OLs-_wixsioufHzoTlQwEsffzQtuycauA2gB2knhnYi8=w120-h120-l90-rj",
         "artist": "Los Amigos Invisibles",
         "album": "Arepa 3000",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "cSvXuQRKQRw",
+        "video_url": "https://www.youtube.com/watch?v=cSvXuQRKQRw",
+        "title": "Mentiras",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lG_F49-NvazyAjBeZdrUK7wnL3WQpvbcAZHYhIzNoGv4blUUMQB7RtjcOYcyBW_ZQXcnlVbeVKNtnAV5=w120-h120-l90-rj",
+        "artist": "Los Amigos Invisibles",
+        "album": "Commercial",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

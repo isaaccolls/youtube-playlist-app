@@ -9,6 +9,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "MpMGgzx9fiE",
+        "video_url": "https://www.youtube.com/watch?v=MpMGgzx9fiE",
+        "title": "Mi Primer Millon",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1jit7imGggIwBuS9UDDd7MI1abDYiDt3efdl-FyshKvdnEAeOSEz1d66olP7t7SGdJqcECuYGaqwrchjrQ=w120-h120-s-l90-rj",
+        "artist": "Bacilos",
+        "album": "Caraluna",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "YFsVa_-A_as",
         "video_url": "https://www.youtube.com/watch?v=YFsVa_-A_as",
         "title": "GIRL LIKE ME",
@@ -24,6 +33,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/m6kgRvgrCyaRF9YlXq21pMn8wUg8RHQAyVErzAc1r3GMZrUVIeY5SzTV0sB7XkfdvRvgde-goh0X128r=w120-h120-l90-rj",
         "artist": "Black Eyed Peas, Shakira & David Guetta",
         "album": "DON'T YOU WORRY",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JucvYrdSIcM",
+        "video_url": "https://www.youtube.com/watch?v=JucvYrdSIcM",
+        "title": "That's What I Like",
+        "thumbnail_url": "https://lh3.googleusercontent.com/L0TeCOIXRykdcItgMBf2qrO72RDFn59k3wLd3OFlXO3y4dfrSeR-jD1NCPKiJsRN7gaf4ot_dWSVjfwXZA=w120-h120-l90-rj",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wem2YgNIeBs",
+        "video_url": "https://www.youtube.com/watch?v=wem2YgNIeBs",
+        "title": "Treasure",
+        "thumbnail_url": "https://lh3.googleusercontent.com/G0DdKHD3qkCLaXMzK0z3m6Nl8WWGO4QqN64s2hUZp-89Jx_kFNOwbAQQk3ozZe6Bnba_24e0pg0NHxsP=w120-h120-l90-rj",
+        "artist": "Bruno Mars",
+        "album": "Dig! Throwback",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -54,6 +81,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "zuaBRqUBhyw",
+        "video_url": "https://www.youtube.com/watch?v=zuaBRqUBhyw",
+        "title": "Locked out of Heaven",
+        "thumbnail_url": "https://lh3.googleusercontent.com/m0WX28nJGAiRC8PgPrT7LrC5vRTWlSlQmnelZb2VR0HWDS-e8GPO0MvhEPM0C-KTjTtnvZsOS1R8y1cg=w120-h120-l90-rj",
+        "artist": "Bruno Mars",
+        "album": "Unorthodox Jukebox",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "6cjUGT6vcfU",
         "video_url": "https://www.youtube.com/watch?v=6cjUGT6vcfU",
         "title": "Eres",
@@ -72,12 +108,57 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "NpNyxZv8Hj4",
+        "video_url": "https://www.youtube.com/watch?v=NpNyxZv8Hj4",
+        "title": "Vida de Rico",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7NEp_92ahtCUPkdh__Del8sT9BcyJAoZMk9cdnkfs9xyVPAGOhTwr-5MbPbvituvtHacu8YgIBAMKpvK=w120-h120-l90-rj",
+        "artist": "Camilo",
+        "album": "Mis Manos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dlObDivWgx8",
+        "video_url": "https://www.youtube.com/watch?v=dlObDivWgx8",
+        "title": "Call Me Maybe",
+        "thumbnail_url": "https://lh3.googleusercontent.com/74iPDM13qn-WhH5hMEmsO3A0mXvE5fAYYjNfO0rzRvA4DvjwoGoZN3S3fp8yJVAJB5PwQqUvldC9U8S_=w120-h120-l90-rj",
+        "artist": "Carly Rae Jepsen",
+        "album": "Kiss",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-SttFgyRNCI",
+        "video_url": "https://www.youtube.com/watch?v=-SttFgyRNCI",
+        "title": "Symphony (feat. Zara Larsson)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Xy3KoIfXgwX1zSWADUZRtnvxM2r1zjnXU9-fqqxJMT3Ms2VQ10_R8XsKAHScsaXPA9fClXVvfacs5xEKSA=w120-h120-l90-rj",
+        "artist": "Clean Bandit",
+        "album": "What Is Love? (Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ZqYGW8uXL0I",
         "video_url": "https://www.youtube.com/watch?v=ZqYGW8uXL0I",
         "title": "New Rules",
         "thumbnail_url": "https://lh3.googleusercontent.com/DAMVezymoY4RlzZWQiddgnKVZ-BxHF4_GdHEn7nz4YDUD_dZA2ndqsoAFpjJ9vAccsTYsRNacdzingE=w120-h120-l90-rj",
         "artist": "Dua Lipa",
         "album": "Dua Lipa (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wd9_QCH8Eq4",
+        "video_url": "https://www.youtube.com/watch?v=wd9_QCH8Eq4",
+        "title": "Don't Start Now",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UpJ_IhBqyhQV9b2UGcDxxWDm14kRQ2eY1o9S96AGsbE7Ol8isbpbPA0Yefvg8S8ZGAX9L1g4xaj21zVJ=w120-h120-l90-rj",
+        "artist": "Dua Lipa",
+        "album": "Future Nostalgia",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Yw-vvxnG9Y4",
+        "video_url": "https://www.youtube.com/watch?v=Yw-vvxnG9Y4",
+        "title": "Burn",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nnQWsrV2qp-gAqrkLRzFBkLttuTI-9zytM5qCO742jyRbfp3Vps41rGp9LcCS9m9qOAh4HMp8-VxJjU=w120-h120-l90-rj",
+        "artist": "Ellie Goulding",
+        "album": "Halcyon Nights",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -99,12 +180,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "CM2nA0zZQ54",
+        "video_url": "https://www.youtube.com/watch?v=CM2nA0zZQ54",
+        "title": "Nada Valgo Sin Tu Amor",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yvo0O6-7ae5vtj6pdO_Cv1MzioHdLW4zfACAP4LWZVJ9rd0N5E1jWckEUUgplhbLCjgzeAfw0MX-2fQu7w=w120-h120-s-l90-rj",
+        "artist": "Juanes",
+        "album": "Mi Sangre",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "5aq0NdXYrMY",
         "video_url": "https://www.youtube.com/watch?v=5aq0NdXYrMY",
         "title": "Es Por Ti",
         "thumbnail_url": "https://lh3.googleusercontent.com/ekEyhKz1OXn6oSLXiB_yVQJyHobjfL6uaD7DmCwUXLLq2y18XeNkaXoWnCYOkOkw6KpAdkX0TKNKHDW1=w120-h120-s-l90-rj",
         "artist": "Juanes",
         "album": "Un D\u00eda Normal",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "v16qZcBllUU",
+        "video_url": "https://www.youtube.com/watch?v=v16qZcBllUU",
+        "title": "Sorry",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D=w120-h120-l90-rj",
+        "artist": "Justin Bieber",
+        "album": "Purpose",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -117,12 +216,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "gxTRx4uurxs",
+        "video_url": "https://www.youtube.com/watch?v=gxTRx4uurxs",
+        "title": "Dark Horse (feat. Juicy J)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rK_0RWon3UaVXylUo66duU3atE3QW81S-hY0QYvojnpBTtos_bLKwRRek1QnXkc75-ltfORlmd4zhxdyQQ=w120-h120-l90-rj",
+        "artist": "Katy Perry",
+        "album": "PRISM (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "6nJuUdc2qNg",
         "video_url": "https://www.youtube.com/watch?v=6nJuUdc2qNg",
         "title": "Roar",
         "thumbnail_url": "https://lh3.googleusercontent.com/rK_0RWon3UaVXylUo66duU3atE3QW81S-hY0QYvojnpBTtos_bLKwRRek1QnXkc75-ltfORlmd4zhxdyQQ=w120-h120-l90-rj",
         "artist": "Katy Perry",
         "album": "PRISM (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "kNtk-CnpL-Y",
+        "video_url": "https://www.youtube.com/watch?v=kNtk-CnpL-Y",
+        "title": "This Girl (Kungs Vs. Cookin' On 3 Burners) (Kungs Vs. Cookin' On 3 Burners)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tyKzasvYUGESVVNrq-qNbZ604iqRfvJiHuQiSnMF4UQ8Mu6ygqPbouKA7mRgQ1Urlt8KSrRfa8e3ybXB=w120-h120-l90-rj",
+        "artist": "Kungs & Cookin' On 3 Burners",
+        "album": "Layers",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -216,6 +333,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "MozAXGgC1Mc",
+        "video_url": "https://www.youtube.com/watch?v=MozAXGgC1Mc",
+        "title": "Sugar",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4igiWMyX-TCOC4EwsL4hGJz4Z1QVSSLCrqAySMivS_UHkAjGQA7BqCf7iaaDQPSciW1T8xfDeDqP7iLzEA=w120-h120-l90-rj",
+        "artist": "Maroon 5",
+        "album": "V (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "BkSSOGNeWTM",
         "video_url": "https://www.youtube.com/watch?v=BkSSOGNeWTM",
         "title": "Flowers",
@@ -252,6 +378,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "shK3c_PSIXE",
+        "video_url": "https://www.youtube.com/watch?v=shK3c_PSIXE",
+        "title": "Yo Quisiera",
+        "thumbnail_url": "https://lh3.googleusercontent.com/N42N0xZ3qNaJ1Fv9jFc44X1D33gmqII3seFR1_tKdao-YdAkYVy0YW6UBJTkST9tQgvPUCBG94Lez18avw=w120-h120-l90-rj",
+        "artist": "Reik",
+        "album": "Reik",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "DKrelwjugQA",
+        "video_url": "https://www.youtube.com/watch?v=DKrelwjugQA",
+        "title": "Calm Down",
+        "thumbnail_url": "https://lh3.googleusercontent.com/kTxtxmzJ-4CKH_7InmwvuAMpJncOg2-HcZjSL2V-21OQo87TBSGqmHdKajnEhTyKQdELwV_FfIfyvJ4=w120-h120-l90-rj",
+        "artist": "Rema & Selena Gomez",
+        "album": "Rave & Roses Ultra",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "y4PdyqjWeqE",
         "video_url": "https://www.youtube.com/watch?v=y4PdyqjWeqE",
         "title": "Historia de Taxi",
@@ -279,6 +423,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "4mVo93E9wpU",
+        "video_url": "https://www.youtube.com/watch?v=4mVo93E9wpU",
+        "title": "Diamonds",
+        "thumbnail_url": "https://lh3.googleusercontent.com/CjmoWDBH4kQKmmdQwZcKF_cv4jdlhsE24OJnKMuTSw5rOFQ9mEwnqRuLb_PZgrXIVmSulZOFvuymGdw6=w120-h120-l90-rj",
+        "artist": "Rihanna",
+        "album": "Unapologetic",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "n6N1_sxlBU8",
+        "video_url": "https://www.youtube.com/watch?v=n6N1_sxlBU8",
+        "title": "We Found Love",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zmlRluJ_elAqb0QDneBX3cg8tG4DSTdE8g9W6WlkR57PikkQMSjoBayrtClLG4qPizXQsEnDNbA0VBPDBA=w120-h120-l90-rj",
+        "artist": "Rihanna & Calvin Harris",
+        "album": "Talk That Talk",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "iyl0ocEW7-Q",
         "video_url": "https://www.youtube.com/watch?v=iyl0ocEW7-Q",
         "title": "Tacones Rojos",
@@ -288,12 +450,102 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "XhGior4O2eM",
+        "video_url": "https://www.youtube.com/watch?v=XhGior4O2eM",
+        "title": "Love You Like a Love Song",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Peb_pNRV-5OqjbQ0hiwt6P9zf9GRMniMdaavpUfa-jSYZ9YLkul8c6u8Bh4TXLihsDyBI9kJI_gojF2Q1g=w120-h120-l90-rj",
+        "artist": "Selena Gomez & The Scene",
+        "album": "When the Sun Goes Down",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "uzaYLK3k0DQ",
+        "video_url": "https://www.youtube.com/watch?v=uzaYLK3k0DQ",
+        "title": "Chandelier",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YTKwsJicv1Hi6R5qJpgiBAkNcWPYOVSGMsqRM8bmhKuMHDWk2zJ3ee3UcT930KmId02LYThjfGoBAEib=w120-h120-l90-rj",
+        "artist": "Sia",
+        "album": "1000 Forms Of Fear (Deluxe Version)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "K_idN3P5_yk",
         "video_url": "https://www.youtube.com/watch?v=K_idN3P5_yk",
         "title": "Cheap Thrills",
         "thumbnail_url": "https://lh3.googleusercontent.com/p27-yULJr9QtyiKZ_C4hoy92A9COtzxBAtx62OueZUeiUU4ZZLttlASDms2GyqlWaCX6FlKYXIiDVUgP=w120-h120-l90-rj",
         "artist": "Sia",
         "album": "Cheap Thrills",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "663K25hyYG0",
+        "video_url": "https://www.youtube.com/watch?v=663K25hyYG0",
+        "title": "Bad Blood",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-jaWr9K7U0bJoqMv50tihlvf1QXe_y-dmvw_z_40gA9bPj4PhfRPobOdQndQIoCxsFDWRyEoP0Rben8=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "1989",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dC9QIUKviJU",
+        "video_url": "https://www.youtube.com/watch?v=dC9QIUKviJU",
+        "title": "Blank Space",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GcrDhHXqrPm4BjS-4L1c0OHC9iz0ZxmFeRur2A6Aqo9Vm7OfFCBOSVbRzp1M1D1s_3rsvKaC7w6kku0=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "1989 (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "sWMk8dwljFU",
+        "video_url": "https://www.youtube.com/watch?v=sWMk8dwljFU",
+        "title": "Shake It Off",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GcrDhHXqrPm4BjS-4L1c0OHC9iz0ZxmFeRur2A6Aqo9Vm7OfFCBOSVbRzp1M1D1s_3rsvKaC7w6kku0=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "1989 (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "LYyUr75fs_o",
+        "video_url": "https://www.youtube.com/watch?v=LYyUr75fs_o",
+        "title": "You Belong With Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YEcmx-25aRBMaKNTvCx17QboP0KCJq2jqKdjpjLImqA60wWE2AZV_ZdQa417ZEmAkK7ipsEt1m0DEI-Z9A=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "Fearless (Platinum Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "e7yg0A-PCTI",
+        "video_url": "https://www.youtube.com/watch?v=e7yg0A-PCTI",
+        "title": "Love Story (Taylor\u2019s Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/huIYugJjpimikk-tSDJyDU09Jr8vDVJuLOh5uGG6T45c5MEtYvFW_9NlqkHHSaLl231kLBgAS8rtDfQ=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "Love Story (Taylor\u2019s Version)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "aC9HkZW2hZk",
+        "video_url": "https://www.youtube.com/watch?v=aC9HkZW2hZk",
+        "title": "Cruel Summer",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "gGwN25z7FrE",
+        "video_url": "https://www.youtube.com/watch?v=gGwN25z7FrE",
+        "title": "Anti-Hero",
+        "thumbnail_url": "https://lh3.googleusercontent.com/omCs21jqwK4Ss_VZxPFKwQP5z0UY0vi_8gXu4XNxHKDgE-GHYHWkIw80XR1uzFgdyhM3PvVUZeZ8iAfF=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "Midnights",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "65Q7EdWnjqM",
+        "video_url": "https://www.youtube.com/watch?v=65Q7EdWnjqM",
+        "title": "We Are Never Ever Getting Back Together",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_HJASc9B_QXn2yoUBn4ZLkn6ka8o_CYX4hNT3HQSeIRcqStiJU15VVtOwlaoFV4KqhJK3d-0W0sw3yQ=w120-h120-l90-rj",
+        "artist": "Taylor Swift",
+        "album": "Red",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -342,12 +594,57 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "qPRNIHxLhmc",
+        "video_url": "https://www.youtube.com/watch?v=qPRNIHxLhmc",
+        "title": "I Feel It Coming (feat. Daft Punk)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ=w120-h120-l90-rj",
+        "artist": "The Weeknd",
+        "album": "Starboy",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3_g2un5M350",
+        "video_url": "https://www.youtube.com/watch?v=3_g2un5M350",
+        "title": "Starboy (feat. Daft Punk)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ=w120-h120-l90-rj",
+        "artist": "The Weeknd",
+        "album": "Starboy",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lS9Kgp6PsWY",
+        "video_url": "https://www.youtube.com/watch?v=lS9Kgp6PsWY",
+        "title": "Save Your Tears ((Remix) Bonus Track)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ds4HZUl-Cziy9wW0zGv5_rRw0fGc01a3rMZ6mB27HkSTtVLaPwUpPaXdoISHAH3XprkYyPfIEcSpmPy-=w120-h120-l90-rj",
+        "artist": "The Weeknd & Ariana Grande",
+        "album": "After Hours (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Hx4nWW9z0ig",
         "video_url": "https://www.youtube.com/watch?v=Hx4nWW9z0ig",
         "title": "Dance Monkey",
         "thumbnail_url": "https://lh3.googleusercontent.com/hDSzLR6UDLcfxL6Hl9k5kJ6KmDTOavpr-GSCPyKgZTlPZuFcbNFTBI8O9HJR_i-Ts_bGg6bn9-3AGSu1=w120-h120-l90-rj",
         "artist": "Tones And I",
         "album": "Dance Monkey",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xl8thVrlvjI",
+        "video_url": "https://www.youtube.com/watch?v=xl8thVrlvjI",
+        "title": "See You Again (feat. Charlie Puth)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7H6mrIDvzOTwfiHo-68P6zIWvhx8RwZE1f4M1mbjrDbOHII6mcW_-DXZBs8kO7hXejMT8LGeJfp-ULKm=w120-h120-l90-rj",
+        "artist": "Wiz Khalifa",
+        "album": "See You Again",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "w1Smzzw_w7Q",
+        "video_url": "https://www.youtube.com/watch?v=w1Smzzw_w7Q",
+        "title": "Ride",
+        "thumbnail_url": "https://lh3.googleusercontent.com/H1px0o3ZVeyqTdLXwqLpJxbFj8wwxGHgAD-sLE8Bmog8l8-ZecP469Q00yHyid4_zcWsGaYpZi9uDThENw=w120-h120-l90-rj",
+        "artist": "twenty one pilots",
+        "album": "Blurryface",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
