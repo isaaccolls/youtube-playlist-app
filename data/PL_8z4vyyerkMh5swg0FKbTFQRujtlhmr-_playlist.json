@@ -1143,6 +1143,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "XNzptk68Jg8",
+        "video_url": "https://www.youtube.com/watch?v=XNzptk68Jg8",
+        "title": "Fantasma de la Opera",
+        "thumbnail_url": "https://lh3.googleusercontent.com/wMiYC4U6svOk2vbtLyuiZqr0i3tFnN9qRU03I6Vse_1KMyuAGT-Ig0E9Fllubz_Ms4qzBZ-TkeVZFVlO=w120-h120-l90-rj",
+        "artist": "Anabantha",
+        "album": "Letan\u00edas, Cap\u00edtulo 2",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "UpC_RPeOPmM",
         "video_url": "https://www.youtube.com/watch?v=UpC_RPeOPmM",
         "title": "2010 (feat. Dave Lombardo)",
@@ -10988,6 +10997,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "2BdsygDv-So",
+        "video_url": "https://www.youtube.com/watch?v=2BdsygDv-So",
+        "title": "La Leyenda Del Hada Y El Mago",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WRP4nORwlPTBfbwZIzl4DtgiCz3Ft-7o6Jv-iYcVvY4uUGtTElCCBdImoohfUiLxndyUcedJjdJu2aY4=w120-h120-l90-rj",
+        "artist": "Rata Blanca",
+        "album": "Magos, Espadas Y Rosas",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "TvMUuNsSZNw",
         "video_url": "https://www.youtube.com/watch?v=TvMUuNsSZNw",
         "title": "Mujer Amante",
@@ -12344,6 +12362,87 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/mp9GCV_T4mGNh8Ftpa_n3leJRK1UK0txATUwsUiJdJuthYa2N7enmdSzBMKFPG9Vf2FqdwbCBXkOTZk=w120-h120-l90-rj",
         "artist": "WILLOW & Avril Lavigne",
         "album": "lately I feel EVERYTHING",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "LAsAuVShlbo",
+        "video_url": "https://www.youtube.com/watch?v=LAsAuVShlbo",
+        "title": "Return Of Salieri",
+        "thumbnail_url": "https://lh3.googleusercontent.com/sDuQZgpnzbziY8kNO_Etulz7J9kppgtkPeUOV_UsOtvvWWUJQHjqTwO7kszC-MbFAOD7xlGeabcMM-I=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Accept The Fact",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "eQpX6Y-l72U",
+        "video_url": "https://www.youtube.com/watch?v=eQpX6Y-l72U",
+        "title": "Alone",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6wIoPF1wokFj6LDIbvlePzDP_rzDIjAwZklcwatBwXY6hEImISP2s9_ohjbTYhEg8T1KRHduytH1u4c=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Beyond Abilities",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wAmmUWUHVkg",
+        "video_url": "https://www.youtube.com/watch?v=wAmmUWUHVkg",
+        "title": "Beyond Abilities",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6wIoPF1wokFj6LDIbvlePzDP_rzDIjAwZklcwatBwXY6hEImISP2s9_ohjbTYhEg8T1KRHduytH1u4c=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Beyond Abilities",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nfJT-u9GstE",
+        "video_url": "https://www.youtube.com/watch?v=nfJT-u9GstE",
+        "title": "Salieri Strikes Back",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6wIoPF1wokFj6LDIbvlePzDP_rzDIjAwZklcwatBwXY6hEImISP2s9_ohjbTYhEg8T1KRHduytH1u4c=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Beyond Abilities",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SEir9ITXfXI",
+        "video_url": "https://www.youtube.com/watch?v=SEir9ITXfXI",
+        "title": "War of Worlds",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6wIoPF1wokFj6LDIbvlePzDP_rzDIjAwZklcwatBwXY6hEImISP2s9_ohjbTYhEg8T1KRHduytH1u4c=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Beyond Abilities",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Ftn4hO5FiAY",
+        "video_url": "https://www.youtube.com/watch?v=Ftn4hO5FiAY",
+        "title": "Devil's Mistress",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8oV9BrYObbgrf_9v1nnIpvWtqCwtYp-cr6n8r6XKXowfVDtRa5oc7nBu9Qikp4NEv3kawnVG3sXCAao=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Unknown Soldier",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "d12uGV531VA",
+        "video_url": "https://www.youtube.com/watch?v=d12uGV531VA",
+        "title": "The Evil that Warmen Do",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8oV9BrYObbgrf_9v1nnIpvWtqCwtYp-cr6n8r6XKXowfVDtRa5oc7nBu9Qikp4NEv3kawnVG3sXCAao=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Unknown Soldier",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "id6oeHMdG0M",
+        "video_url": "https://www.youtube.com/watch?v=id6oeHMdG0M",
+        "title": "Unknown Soldier",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8oV9BrYObbgrf_9v1nnIpvWtqCwtYp-cr6n8r6XKXowfVDtRa5oc7nBu9Qikp4NEv3kawnVG3sXCAao=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Unknown Soldier",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7BVHjgGParQ",
+        "video_url": "https://www.youtube.com/watch?v=7BVHjgGParQ",
+        "title": "Warcry of Salieri",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8oV9BrYObbgrf_9v1nnIpvWtqCwtYp-cr6n8r6XKXowfVDtRa5oc7nBu9Qikp4NEv3kawnVG3sXCAao=w120-h120-l90-rj",
+        "artist": "Warmen",
+        "album": "Unknown Soldier",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
