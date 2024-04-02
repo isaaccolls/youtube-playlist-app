@@ -36,6 +36,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "_Iahdahe79s",
+        "video_url": "https://www.youtube.com/watch?v=_Iahdahe79s",
+        "title": "Finesse",
+        "thumbnail_url": "https://lh3.googleusercontent.com/L0TeCOIXRykdcItgMBf2qrO72RDFn59k3wLd3OFlXO3y4dfrSeR-jD1NCPKiJsRN7gaf4ot_dWSVjfwXZA=w120-h120-l90-rj",
+        "artist": "Bruno Mars",
+        "album": "24K Magic",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "JucvYrdSIcM",
         "video_url": "https://www.youtube.com/watch?v=JucvYrdSIcM",
         "title": "That's What I Like",
@@ -135,6 +144,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "FrsOnNxIrg8",
+        "video_url": "https://www.youtube.com/watch?v=FrsOnNxIrg8",
+        "title": "God's Plan",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9Oe4acEXgmAlCKgcgI6JlSXi2Tj30u6anzvfGBrunGO-fLhBTgzy-ei1ugPJpZDD5ArKFod9H4RTA5g0=w120-h120-l90-rj",
+        "artist": "Drake",
+        "album": "Scorpion",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ZqYGW8uXL0I",
         "video_url": "https://www.youtube.com/watch?v=ZqYGW8uXL0I",
         "title": "New Rules",
@@ -168,6 +186,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/EPk9WJeL0oHUkR-E9epQRs9erHzVqQHowqnbZEsYg77fOG91B1lxLqKp0fNuShsdGh-2p1wgdpTAKb9Ttg=w120-h120-s-l90-rj",
         "artist": "Gnarls Barkley",
         "album": "St. Elsewhere",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xOazTYPrt64",
+        "video_url": "https://www.youtube.com/watch?v=xOazTYPrt64",
+        "title": "Somebody That I Used To Know (feat. Kimbra)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Mec0zeof6z-TkwToxxv3Fs6GjyUmifRDUJeEq200VC3_Tla3Sx4S6UfLTK8uNuPB8Q-RaPm4DU5B-EeQ=w120-h120-l90-rj",
+        "artist": "Gotye",
+        "album": "Making Mirrors",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -231,6 +258,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/rK_0RWon3UaVXylUo66duU3atE3QW81S-hY0QYvojnpBTtos_bLKwRRek1QnXkc75-ltfORlmd4zhxdyQQ=w120-h120-l90-rj",
         "artist": "Katy Perry",
         "album": "PRISM (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "HLlo6lb337w",
+        "video_url": "https://www.youtube.com/watch?v=HLlo6lb337w",
+        "title": "Fire Hive",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ViHyTT6wBHJrymuluoZgzy0mbWdmZchj556evRezqVB2Gjx6BGM72RidXVdwopaj0aTwGFXobbZIkFcWCQ=w120-h120-l90-rj",
+        "artist": "Knife Party",
+        "album": "100% No Modern Talking",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -579,6 +615,15 @@
         "video_id": "e6ztG5kjUZo",
         "video_url": "https://www.youtube.com/watch?v=e6ztG5kjUZo",
         "title": "Just Can\u2019t Get Enough",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3MdzHSrVwKo8gp_R0Fdl6kQQ6OGkixVc1iKf39UX2Ff2HEjr7ikYg6IVgB9YSJL3WV9_dqmbAM8Iuy79nQ=w120-h120-l90-rj",
+        "artist": "The Black Eyed Peas",
+        "album": "The Beginning",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "r_-dTUjfhAk",
+        "video_url": "https://www.youtube.com/watch?v=r_-dTUjfhAk",
+        "title": "The Time (Dirty Bit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/3MdzHSrVwKo8gp_R0Fdl6kQQ6OGkixVc1iKf39UX2Ff2HEjr7ikYg6IVgB9YSJL3WV9_dqmbAM8Iuy79nQ=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
         "album": "The Beginning",

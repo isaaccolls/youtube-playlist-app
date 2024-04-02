@@ -234,6 +234,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "pfEZW-1eDl8",
+        "video_url": "https://www.youtube.com/watch?v=pfEZW-1eDl8",
+        "title": "Airplanes (feat. Hayley Williams of Paramore)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/u4USijs5wXloKDO7j7qrD-Z8bGV7KlGdZBF-jALtgAL3kR4249inYyT2Ii3c7LYKvls8fwCxoOKKm5R0JA=w120-h120-s-l90-rj",
+        "artist": "B.o.B",
+        "album": "B.o.B Presents: The Adventures of Bobby Ray",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "wQJIkbvUVPQ",
         "video_url": "https://www.youtube.com/watch?v=wQJIkbvUVPQ",
         "title": "Nothin' on You (feat. Bruno Mars)",
@@ -468,6 +477,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "uDsJB_zUquo",
+        "video_url": "https://www.youtube.com/watch?v=uDsJB_zUquo",
+        "title": "Road To Zion (feat. Nas)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YwH5C0VghGh36zVMzDP4OzAhOya0nIpgSUfCB6X2jDcwzVmBiViKMQme0hUM4JGs8CcHccQ_l8SxVuhe=w120-h120-s-l90-rj",
+        "artist": "Damian Marley",
+        "album": "Welcome to Jamrock",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7dDmJzNC1sg",
         "video_url": "https://www.youtube.com/watch?v=7dDmJzNC1sg",
         "title": "Bandoleros (feat. Tego Calder\u00f3n)",
@@ -647,6 +665,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "S6FNvCBJxjQ",
+        "video_url": "https://www.youtube.com/watch?v=S6FNvCBJxjQ",
+        "title": "Ooh Ahh (My Life Be Like) (feat. TobyMac)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JSTg_WGa793nDVoB0mxZSdxih_4BNTyRTn-JF5Mtvc83RB9iVfQWj_SqRI_jaoPs2D8wtwYEQxvikzTS=w120-h120-l90-rj",
+        "artist": "Grits",
+        "album": "The Greatest Hits",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "_ydMlTassYc",
         "video_url": "https://www.youtube.com/watch?v=_ydMlTassYc",
         "title": "Empire State Of Mind (feat. Alicia Keys)",
@@ -746,6 +773,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "sTMgX1PDGAE",
+        "video_url": "https://www.youtube.com/watch?v=sTMgX1PDGAE",
+        "title": "It Wasn't Me (feat. Ricardo Ducent)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9iCF54IEuRNu0yULGMBTQGyWn2Y1VhDQ6MpYWCezom6feVnSDrfcint1-jVKncD74X14Q4W3fbJ2XYMD=w120-h120-s-l90-rj",
+        "artist": "Shaggy",
+        "album": "Hot Shot",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "m3VrFX2Zdms",
         "video_url": "https://www.youtube.com/watch?v=m3VrFX2Zdms",
         "title": "Sexual Eruption (Album Version FINAL)",
@@ -824,6 +860,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/zpzM0n7C0WqEbSGJIO6775vLH-PjGhsnJIJfeaTLl73W_mZ4gd-KizmzWWHCJu19nAN_f9tAvBZYSi50qQ=w120-h120-l90-rj",
         "artist": "Vico-C",
         "album": "Desahogo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "PpULp5YxYCQ",
+        "video_url": "https://www.youtube.com/watch?v=PpULp5YxYCQ",
+        "title": "On My Level (feat. Too $hort)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZMUqFNjPNdE2eFQNuMGkBc8gIj2nET2QyhP9KhxTXaKHP3YANj8viTQ_SGu6hSmeQr5g6rk2nWy0LK-5bg=w120-h120-l90-rj",
+        "artist": "Wiz Khalifa",
+        "album": "Rolling Papers",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
