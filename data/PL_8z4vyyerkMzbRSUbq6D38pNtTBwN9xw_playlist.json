@@ -207,6 +207,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "cbs3xHDUeLk",
+        "video_url": "https://www.youtube.com/watch?v=cbs3xHDUeLk",
+        "title": "Syren",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-pgaZIdRXppsYIQsE2Rzjd64eTHRArbH3D1yJfqa5tMHQs2ATmzM0KBe1YbUpX8qg7tNcn-56yrl3NmT=w120-h120-l90-rj",
+        "artist": "Anyma & Reb\u016bke",
+        "album": "Genesys",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "TC5uDOp_r4s",
         "video_url": "https://www.youtube.com/watch?v=TC5uDOp_r4s",
         "title": "Majesty feat. Wasiu (feat. Wasiu)",
@@ -240,6 +249,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/qrQykmZGmWcZz-tgS6NSfqBpmEIO1-6yobnQKDDY_n-cUi_aclhQ8MJRnjuV9rCrxFSC_qvSQXvcO_bzpA=w120-h120-l90-rj",
         "artist": "Armin van Buuren & The Stickmen Project",
         "album": "Feel Again, Pt. 1",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lLPJNxAttpw",
+        "video_url": "https://www.youtube.com/watch?v=lLPJNxAttpw",
+        "title": "Great Spirit",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KBLYwBGmbl9wSPjM4VF3JtgjJtBJtIhCTA-YWN41NziDS8lVhf5MtwPHj0-P7dM6Ct8dKvEUMBKAFZs=w120-h120-l90-rj",
+        "artist": "Armin van Buuren, Vini Vici & Hilight Tribe",
+        "album": "Great Spirit",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -717,6 +735,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/Xy3KoIfXgwX1zSWADUZRtnvxM2r1zjnXU9-fqqxJMT3Ms2VQ10_R8XsKAHScsaXPA9fClXVvfacs5xEKSA=w120-h120-l90-rj",
         "artist": "Clean Bandit",
         "album": "What Is Love? (Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "5vDvHoiPgOQ",
+        "video_url": "https://www.youtube.com/watch?v=5vDvHoiPgOQ",
+        "title": "Push Up (Short Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ez3bQPWrM7vPAOzsSEoknehC-PIEvo0_xBDKd8KWD9p9tNWj_aUSoMT884VQakePOh-mYylMK_WasqfX=w120-h120-l90-rj",
+        "artist": "Creeds",
+        "album": "Push Up (Short Version)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

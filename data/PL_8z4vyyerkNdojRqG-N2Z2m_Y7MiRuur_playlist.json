@@ -81,6 +81,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "nkz0M4TS7oA",
+        "video_url": "https://www.youtube.com/watch?v=nkz0M4TS7oA",
+        "title": "Marry You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-MBagZMcp-AsKziX22bIEvPjNlxPPyU8hgXC07dXlt9GmlBTA1hZI9yyAuCP0mswnSBNRMOvoI1y9_Y=w120-h120-s-l90-rj",
+        "artist": "Bruno Mars",
+        "album": "Doo-Wops & Hooligans",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sLRtf41L12A",
         "video_url": "https://www.youtube.com/watch?v=sLRtf41L12A",
         "title": "The Lazy Song",
@@ -168,6 +177,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/UpJ_IhBqyhQV9b2UGcDxxWDm14kRQ2eY1o9S96AGsbE7Ol8isbpbPA0Yefvg8S8ZGAX9L1g4xaj21zVJ=w120-h120-l90-rj",
         "artist": "Dua Lipa",
         "album": "Future Nostalgia",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wqlTrBCNRiY",
+        "video_url": "https://www.youtube.com/watch?v=wqlTrBCNRiY",
+        "title": "Castle on the Hill",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xpDEOr2TeqEn1QpXosXhqtj149FzNnTgAG3oqPnpTxTbQk-oceO90Sz4Axq0s4Jp_QLGQha_um6_EG3WGQ=w120-h120-l90-rj",
+        "artist": "Ed Sheeran",
+        "album": "\u00f7 (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -360,6 +378,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "smKgVuSB18k",
+        "video_url": "https://www.youtube.com/watch?v=smKgVuSB18k",
+        "title": "Payphone (feat. Wiz Khalifa)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aqUChJrezGmTQ2x4_-Xj28XFlUVDIqEC2f_lEugI5EYRInPjlDyzBK1G5zwdlIEuBm3wDlJEu2O7F90Z=w120-h120-l90-rj",
+        "artist": "Maroon 5",
+        "album": "Overexposed",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "XDbW5bXrm7I",
         "video_url": "https://www.youtube.com/watch?v=XDbW5bXrm7I",
         "title": "Girls Like You (Cardi B Version) (feat. Cardi B)",
@@ -384,6 +411,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/umJNTu_qH_THEHP4XsOb4bMCjKn1nka4c8iz8Vs791pB5aroCWwq4aHC9ds5kCnONrgNUPgPadWnecak=w120-h120-l90-rj",
         "artist": "Miley Cyrus",
         "album": "Flowers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_GWKkqNoyEA",
+        "video_url": "https://www.youtube.com/watch?v=_GWKkqNoyEA",
+        "title": "Counting Stars",
+        "thumbnail_url": "https://lh3.googleusercontent.com/m2pZLjozMvQBj21LgvAIslVPP-T2xQlxbxCTJ98vpPN8HZ0fgR-wisJQ2IzrKS2yLTAYBjs0TpOYnIY=w120-h120-l90-rj",
+        "artist": "OneRepublic",
+        "album": "Native",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -687,6 +723,15 @@
         "video_id": "w1Smzzw_w7Q",
         "video_url": "https://www.youtube.com/watch?v=w1Smzzw_w7Q",
         "title": "Ride",
+        "thumbnail_url": "https://lh3.googleusercontent.com/H1px0o3ZVeyqTdLXwqLpJxbFj8wwxGHgAD-sLE8Bmog8l8-ZecP469Q00yHyid4_zcWsGaYpZi9uDThENw=w120-h120-l90-rj",
+        "artist": "twenty one pilots",
+        "album": "Blurryface",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "K1FlAphL2p8",
+        "video_url": "https://www.youtube.com/watch?v=K1FlAphL2p8",
+        "title": "Stressed Out",
         "thumbnail_url": "https://lh3.googleusercontent.com/H1px0o3ZVeyqTdLXwqLpJxbFj8wwxGHgAD-sLE8Bmog8l8-ZecP469Q00yHyid4_zcWsGaYpZi9uDThENw=w120-h120-l90-rj",
         "artist": "twenty one pilots",
         "album": "Blurryface",
