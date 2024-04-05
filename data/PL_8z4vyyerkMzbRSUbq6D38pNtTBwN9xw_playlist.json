@@ -3167,6 +3167,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "0HK8fCpJX_Y",
+        "video_url": "https://www.youtube.com/watch?v=0HK8fCpJX_Y",
+        "title": "Like Wooh Wooh (Matic Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3SH-L2QsTlO8b2d_kG-diOv4FHFtpllQCnqMlQ1mLheE0QM2W5FAEnVQQcecnwfV6lwRlHEJ-UKX38T2=w120-h120-l90-rj",
+        "artist": "Rnbstylerz",
+        "album": "Like Wooh Wooh (Matic Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "SeqwB3_b-e4",
         "video_url": "https://www.youtube.com/watch?v=SeqwB3_b-e4",
         "title": "Young Right Now",
@@ -3982,6 +3991,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/cYBeuZ_MdVjoxYH2qFHiYKXQN4eHoqfMtEthw_Fxp2ZnpAXZS7-OpDJyQaqExtnSANahwxiK2Wiob8MQ7A=w120-h120-l90-rj",
         "artist": "Supermode & MEDUZA",
         "album": "Tell Me Why (MEDUZA Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "6tvgdNtupp0",
+        "video_url": "https://www.youtube.com/watch?v=6tvgdNtupp0",
+        "title": "Tell Me Why (Maddix Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9AG47s1Mszp8XYnlx2TIidsz93gL2LYTREcSxmuVYdVEYd4xCHi7O6uxNd_zhrH0SRK6_aJ2egJu_N7xWQ=w120-h120-l90-rj",
+        "artist": "Supermode & Maddix",
+        "album": "Tell Me Why (Maddix Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
