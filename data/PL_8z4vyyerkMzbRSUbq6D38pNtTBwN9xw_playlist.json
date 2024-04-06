@@ -234,6 +234,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "OPvx_3uR93U",
+        "video_url": "https://www.youtube.com/watch?v=OPvx_3uR93U",
+        "title": "Blah Blah Blah",
+        "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
+        "artist": "Armin van Buuren",
+        "album": "Balance",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "13sxGWY7SwQ",
+        "video_url": "https://www.youtube.com/watch?v=13sxGWY7SwQ",
+        "title": "Turn It Up",
+        "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
+        "artist": "Armin van Buuren",
+        "album": "Balance",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "HLVVM72Z7Zo",
         "video_url": "https://www.youtube.com/watch?v=HLVVM72Z7Zo",
         "title": "On & On (feat. Alika)",
@@ -288,6 +306,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "diJ62WogBEE",
+        "video_url": "https://www.youtube.com/watch?v=diJ62WogBEE",
+        "title": "Ex To See",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JzXne2tYCuIH8T2K-W7AfJIptpe-_Un8ycO9x7i4uCg71pY359Llo_5csUQ-Sl0Wm-C7pJ9vDPVdUiM=w120-h120-l90-rj",
+        "artist": "Avao",
+        "album": "Ex To See",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "wDuoOapZ9Z0",
         "video_url": "https://www.youtube.com/watch?v=wDuoOapZ9Z0",
         "title": "Levels",
@@ -339,6 +366,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/GVAaBDScD7V8t3BjXWzk8dybIaLdEENJ0YlzUPoNi9qin1u0a7xGxyVtlEFPvSM80XWLNv17wwCjF28=w120-h120-l90-rj",
         "artist": "Avicii & Nicky Romero",
         "album": "I Could Be The One [Avicii vs Nicky Romero]",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "i9Jr50r8L7o",
+        "video_url": "https://www.youtube.com/watch?v=i9Jr50r8L7o",
+        "title": "Vois sur ton chemin (Techno Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/w1uGuDOGuxTM2YbQdLxlna-KraJCw-BkW0Ged7J7SFnJxdUNyG7XPBUCdRlhfdWV56qm7uCRnFyVO4ww=w120-h120-l90-rj",
+        "artist": "BENNETT",
+        "album": "Vois sur ton chemin (Techno Mix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -402,6 +438,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/UM_xqfsKUcThN40KI-A51I0Y6sdX0wQG3YbJ3dm7ikCYRS-dqPj7fY8dI4g6dhlyQHOj8uxPxRHzChja=w120-h120-l90-rj",
         "artist": "Black Eyed Peas, Shakira & David Guetta",
         "album": "ELEVATION",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YmVX2OZJkz4",
+        "video_url": "https://www.youtube.com/watch?v=YmVX2OZJkz4",
+        "title": "Dirty race",
+        "thumbnail_url": "https://lh3.googleusercontent.com/2GJwpDROB_sbtWXixb_arVnN_oxZwvSu8TPX0fvOyfVJUHaAMiGRLVhP_RUf1tSJCC5jdkfA1cotzYwz=w120-h120-l90-rj",
+        "artist": "Black Muffin",
+        "album": "Monsters Around Me",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -567,6 +612,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "X_-pFy47Bro",
+        "video_url": "https://www.youtube.com/watch?v=X_-pFy47Bro",
+        "title": "Desire",
+        "thumbnail_url": "https://lh3.googleusercontent.com/64HF1BTQRFHT_W_HJcTES9vhabCVkavoKd_w7yr_hyyei_LeLFlyuZNodOfP6eSd9l5llm-nFRLdYiv7EA=w120-h120-l90-rj",
+        "artist": "Calvin Harris & Sam Smith",
+        "album": "Desire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "TS6rgVPIreE",
         "video_url": "https://www.youtube.com/watch?v=TS6rgVPIreE",
         "title": "Breathe (Dark Matter Edit) (feat. Jem Cooke)",
@@ -618,6 +672,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/hywKCqnjfE0Cc9-PuZG0RgLx_ivaoDU6LNvQKdKjs1DPDWfqYPeT60i7hB7sXPsTBtxssTYPNpe75pQ=w120-h120-l90-rj",
         "artist": "Carnage & ILOVEMAKONNEN",
         "album": "Ultra 2016",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "szgW2-D1eEY",
+        "video_url": "https://www.youtube.com/watch?v=szgW2-D1eEY",
+        "title": "Psy or Die",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UEoSwZ9pkNtbw1vI_a0IHIfRv8L61mBviMFdrYg6YUgnHh7R8t6t3zFuhmgadNxnTI6I3SdMPG-7gsumaw=w120-h120-l90-rj",
+        "artist": "Carnage & Timmy Trumpet",
+        "album": "Skitzmix 53",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -972,6 +1035,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "S9h06ZXxmtQ",
+        "video_url": "https://www.youtube.com/watch?v=S9h06ZXxmtQ",
+        "title": "Children (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cThV3aCGej-xoAlSp9zMB1kCK_NpCBkxkzetg7GoIzftfdryfcQQCLezVynafgorHBUA2J3zaKXfmifPSQ=w120-h120-l90-rj",
+        "artist": "Deborah de Luca & Robert Miles",
+        "album": "Children",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "OnC4rXazQrE",
         "video_url": "https://www.youtube.com/watch?v=OnC4rXazQrE",
         "title": "Dualism",
@@ -1116,6 +1188,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "DBdz5m6qrK0",
+        "video_url": "https://www.youtube.com/watch?v=DBdz5m6qrK0",
+        "title": "Be The One",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OpboxyfzA-p5gFw15XfWR9wspG6l6ufOYytJ5YFO-xv1pgMYW9ep8SnPad7gEF58vhCHimw37BZpopc=w120-h120-l90-rj",
+        "artist": "Eli Brown",
+        "album": "Be The One",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Qz7iTCDqUKY",
         "video_url": "https://www.youtube.com/watch?v=Qz7iTCDqUKY",
         "title": "Cold Heart (Claptone Remix)",
@@ -1170,6 +1251,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "o69jWxZe5yA",
+        "video_url": "https://www.youtube.com/watch?v=o69jWxZe5yA",
+        "title": "Push Up (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/L4yi2WBW_qstsYa9E3b_hBkYPooLxHCFdFCeURIrk7eUVdm2LZW3xQ-8Ezxq2uNuniR5AoGK9EE_GXrf2A=w120-h120-l90-rj",
+        "artist": "F4ST",
+        "album": "Push Up (Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "y902FSus0fI",
         "video_url": "https://www.youtube.com/watch?v=y902FSus0fI",
         "title": "Losing It",
@@ -1221,6 +1311,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/5ekOSCMnk6CsXjjVk6aJfgeIsL1zq95zSALJeRyiXpQpwU8IVMXAB1y9h_UhJU0AuCj_aeSpitmwyD25hA=w120-h120-l90-rj",
         "artist": "FOVOS",
         "album": "Feel The Rhythm EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "b8rsbA7kNoY",
+        "video_url": "https://www.youtube.com/watch?v=b8rsbA7kNoY",
+        "title": "Flashing Lights",
+        "thumbnail_url": "https://lh3.googleusercontent.com/BhAj34CPhOQDfcevPuFM96_lSvKPfVywyMwGotcgYc1cNZAfolQNHHZNi4nclDkW6FAzvLn7OFVh6l8=w120-h120-l90-rj",
+        "artist": "FOVOS & Lister",
+        "album": "Flashing Lights",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1383,6 +1482,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/sI-KP2NXbJXtsTtOWsHAerPFXtIWOh6SQkylPBMZO8Y0crQw2_GYgPTu5lDE5QVzLtSgYMwv4O9OwK07tQ=w120-h120-l90-rj",
         "artist": "Gordo & Maluma",
         "album": "Don Juan",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xiQJvHkENUQ",
+        "video_url": "https://www.youtube.com/watch?v=xiQJvHkENUQ",
+        "title": "The Captain",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SSRvykbCkOTnmQoFip-UQe9kenkG8hiNbZRgb_8Bl06f1SnGY_E2Q583VfMUR2XAT9DqhjGQucJ25h8=w120-h120-l90-rj",
+        "artist": "HIJCKD",
+        "album": "The Captain",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2555,6 +2663,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "BjjB9YXTp-A",
+        "video_url": "https://www.youtube.com/watch?v=BjjB9YXTp-A",
+        "title": "S&M (HYPERTECHNO Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-rq54YCkw-4nQKYBe0LImCCv6KplvfDQbq7V1OIMHOaOSSSwMNiU9MdwAn3UK9MLA-FVeSlFZBMNV8JM=w120-h120-l90-rj",
+        "artist": "Macon & Chacel",
+        "album": "S&M (HYPERTECHNO Edit)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "tTedOE6u8Fg",
         "video_url": "https://www.youtube.com/watch?v=tTedOE6u8Fg",
         "title": "Ghost Assassin",
@@ -3011,6 +3128,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/vdyFjmjBqk23KAZ8AefduZ6a37pKvIQgJyzRW_vZH-Rkcgs92LUOlg7bQ6El1bkA0z4zKBFrvDXBr7pu=w120-h120-l90-rj",
         "artist": "PARISI, Steve Angello & Sebastian Ingrosso",
         "album": "U Ok?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EConX2hhuuY",
+        "video_url": "https://www.youtube.com/watch?v=EConX2hhuuY",
+        "title": "Walking On a Dream (Techno Remix) (feat. Zyzz)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4S-blsDMglgWEnPRZ02FR3wee8gafpM2PHAgm5l0MGBZNc0jtDQ50vYZEFQqR8vercnrr5vWm0Dg1Xw=w120-h120-l90-rj",
+        "artist": "Pascal Ghost",
+        "album": "Walking On a Dream (Techno Remix) (feat. Zyzz)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -5116,6 +5242,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/CiJx8DLgKIrLZ1NRdA7CXN_ohP9Vi2I0p0hYz91cqsOyKUa_p7dN4Y6fxk-kkls0-1c4BbKFm2iz_TNG=w120-h120-l90-rj",
         "artist": "Will Sparks & New World Sound",
         "album": "LSD",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xFPE0cGYvf0",
+        "video_url": "https://www.youtube.com/watch?v=xFPE0cGYvf0",
+        "title": "Pills",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UcyLb_rL19x6grOhCBdpKdL2Migdc45FPRxD8xxeOO9MMaLzw2CjrzoxVuHoNBkw4SzYKJIwtU90YqA=w120-h120-l90-rj",
+        "artist": "Will Sparks & ShortRound",
+        "album": "Pills",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
