@@ -52,5 +52,14 @@
         "artist": "Reke",
         "album": "El Astronauta",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hp4a8Js7OkY",
+        "video_url": "https://www.youtube.com/watch?v=hp4a8Js7OkY",
+        "title": "Chillin' (feat. Don Omar)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9XhelCdgSLJ9MI3jLHM8-Wf9gsMBuD8RvnwZJbG9OvfNoU_exisaUt6tzrNM8eTsw6SYD1r3foLS8G4=w120-h120-l90-rj",
+        "artist": "Tego Calderon",
+        "album": "The Underdog - El Subestimado",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]
