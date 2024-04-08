@@ -189,6 +189,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Vs_SYvUKmLk",
+        "video_url": "https://www.youtube.com/watch?v=Vs_SYvUKmLk",
+        "title": "No Me Quiero Ba\u00f1ar",
+        "thumbnail_url": "https://lh3.googleusercontent.com/AuuF6aoBcpi1kz98omZ4tPtBjgxEVP8Ck7I99I6W3EdGz0fU8UdSWmOnKTZBG1lWODNze59bP4dkH0_p=w120-h120-l90-rj",
+        "artist": "Akapellah, Motherflowers & Comida Para Llevar",
+        "album": "No Me Quiero Ba\u00f1ar",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sQcJWibIMAc",
         "video_url": "https://www.youtube.com/watch?v=sQcJWibIMAc",
         "title": "En Defensa Propia",
@@ -439,14 +448,6 @@
         "artist": "Canserbero & Apache",
         "album": "Apa y Can",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "--sMy0gkrpE",
-        "video_url": "https://www.youtube.com/watch?v=--sMy0gkrpE",
-        "title": "No Me Quiero Ba\u00f1ar",
-        "thumbnail_url": "https://lh3.googleusercontent.com/rvGXTUe-3uWegwg3BVEZCRb1eoDdWAHZVMtOVnZrXL3iK41wHDNQPJBt7hC4DejAT3u-0E5Htyybb1h3=w120-h120-l90-rj",
-        "artist": "Comida Para Llevar, Motherflowers, & Akapellah",
-        "video_type": null
     },
     {
         "video_id": "jKr3SSF2-Bw",

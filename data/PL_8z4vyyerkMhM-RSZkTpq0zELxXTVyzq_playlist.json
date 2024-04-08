@@ -48,6 +48,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "PnR4fnxb2t4",
+        "video_url": "https://www.youtube.com/watch?v=PnR4fnxb2t4",
+        "title": "TECHNO MIX 2024 \ud83d\udca3 Remixes Of Popular Songs \ud83d\udca3 Only Techno Bangers",
+        "thumbnail_url": "https://i.ytimg.com/vi/PnR4fnxb2t4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3la32u7ag2Jnexmuaxb8x5lr5WyIQ",
+        "artist": "BrutishHeavyMusic",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "hVdJkWvwzHw",
         "video_url": "https://www.youtube.com/watch?v=hVdJkWvwzHw",
         "title": "TECHNO MIX 2024 \ud83d\udca3 Remixes Of Popular Songs \ud83d\udca3 Only Techno Bangers",
@@ -120,14 +128,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
-        "video_id": "jzX1Z6O1W5U",
-        "video_url": "https://www.youtube.com/watch?v=jzX1Z6O1W5U",
-        "title": "GORDO @ The Brooklyn Mirage (New York, NY)",
-        "thumbnail_url": "https://i.ytimg.com/vi/jzX1Z6O1W5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kZYW6bzVt_wj0LGOSkLYBVwwTkZQ",
-        "artist": "GORDO",
-        "video_type": "MUSIC_VIDEO_TYPE_UGC"
-    },
-    {
         "video_id": "w3zCxh-70Ms",
         "video_url": "https://www.youtube.com/watch?v=w3zCxh-70Ms",
         "title": "HARDWELL LIVE AT ULTRA MUSIC FESTIVAL MIAMI 2024",
@@ -190,6 +190,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/BCBQY66sHZ8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3m7qf79cnUgx3tFDQ0TLXwIYW8ZkQ",
         "artist": "MakeTiestoGreatAgain",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "jzX1Z6O1W5U",
+        "video_url": "https://www.youtube.com/watch?v=jzX1Z6O1W5U",
+        "title": "GORDO @ The Brooklyn Mirage (New York, NY)",
+        "thumbnail_url": "https://i.ytimg.com/vi/jzX1Z6O1W5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kZYW6bzVt_wj0LGOSkLYBVwwTkZQ",
+        "artist": "Maluma &  Gordo",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "Pnp_7IaqW74",

@@ -261,6 +261,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ijCg7XvyG2k",
+        "video_url": "https://www.youtube.com/watch?v=ijCg7XvyG2k",
+        "title": "Tutu",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v7BPAW3_LF3BE5umfbvTqe-kez2LSmFY222PJgqqJFaB6cT8iOX8rNvW6ucA9EIR1XeW2cEHzzJiiKg=w120-h120-l90-rj",
+        "artist": "Camilo & Pedro Cap\u00f3",
+        "album": "Por Primera Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "RJ90IIy3rOQ",
         "video_url": "https://www.youtube.com/watch?v=RJ90IIy3rOQ",
         "title": "KESI",
@@ -816,6 +825,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/ZMs4XyMZyPkc1JtF5h2apHsxJvAuAEH-Y5VozQmdleAAVU-Oc_UFnsr-hWC0gslCKNKB-cfwS3P0vI5cmQ=w120-h120-l90-rj",
         "artist": "Marshmello & Farruko",
         "album": "Sugar Papi",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BzjHbEqQYM8",
+        "video_url": "https://www.youtube.com/watch?v=BzjHbEqQYM8",
+        "title": "Desconocidos",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-t9aEgMjLYGppGIKaPuqR0xwOavpSqfFKHZtrhAaxd3pTbAFLw6UdMjhI8yBWohH1wnx5whpNCyc1lQ=w120-h120-l90-rj",
+        "artist": "Mau y Ricky, Manuel Turizo & Camilo",
+        "album": "Para Aventuras y Curiosidades",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

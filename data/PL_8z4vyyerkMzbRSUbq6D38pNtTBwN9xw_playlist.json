@@ -252,6 +252,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "5OevhFuc2fA",
+        "video_url": "https://www.youtube.com/watch?v=5OevhFuc2fA",
+        "title": "Blah Blah Blah (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Estfg2FHrJQTgwiQI6Fbrc7-w8A9vlhKb6ceiInvRjyEL9X02pg9kYBM-sF5-TWmu9mD9CaIEKZqTGw=w120-h120-l90-rj",
+        "artist": "Armin van Buuren",
+        "album": "Balance (Extended Versions)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "HLVVM72Z7Zo",
         "video_url": "https://www.youtube.com/watch?v=HLVVM72Z7Zo",
         "title": "On & On (feat. Alika)",
@@ -312,6 +321,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/JzXne2tYCuIH8T2K-W7AfJIptpe-_Un8ycO9x7i4uCg71pY359Llo_5csUQ-Sl0Wm-C7pJ9vDPVdUiM=w120-h120-l90-rj",
         "artist": "Avao",
         "album": "Ex To See",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "4l4UP01rxBA",
+        "video_url": "https://www.youtube.com/watch?v=4l4UP01rxBA",
+        "title": "Give Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zvTbxMIu2qLu73WyvS0LE-umAJaJJ4rdbqBBIIb5BAUXwabbJAbRGk-YLqlEqMMWvndPOzDCUHj3aq3V=w120-h120-l90-rj",
+        "artist": "Avao",
+        "album": "Give Me",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -471,10 +489,9 @@
         "video_id": "sobYJY7nHIA",
         "video_url": "https://www.youtube.com/watch?v=sobYJY7nHIA",
         "title": "Purple Noise",
-        "thumbnail_url": "https://lh3.googleusercontent.com/vrplJqqDqhl8BVPQwx7jfEyb2eCXOW_3SladAapu2l4kSEyz06TLPBTt6jkR449rYHQanggLHzIUUIY=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/akt7TRhyiOs_N_8Ww293_KKBmz_Mt_zM3Tl7o62OFjNHgH4M_Rl281WlDOBrKuxtCEbOQsYktaTyG2k=w120-h120-l90-rj",
         "artist": "Boris Brejcha",
-        "album": "Feuerfalter Part 02",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": null
     },
     {
         "video_id": "rh28hi6er2U",
@@ -1260,6 +1277,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "aWxlQgiPyQ4",
+        "video_url": "https://www.youtube.com/watch?v=aWxlQgiPyQ4",
+        "title": "Push Up X Sicko Mode - Nightcore",
+        "thumbnail_url": "https://lh3.googleusercontent.com/35Vxzgqh7aJu3LQBZu45-G0LCp5PNPKuNEVmDXSk161RSzaFzJqG4Z1TcvweKvyB0tFKVcMVIeD1RKmM=w120-h120-l90-rj",
+        "artist": "F4ST",
+        "album": "Push Up X Sicko Mode - Nightcore",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "y902FSus0fI",
         "video_url": "https://www.youtube.com/watch?v=y902FSus0fI",
         "title": "Losing It",
@@ -1338,6 +1364,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/uXmjhLYf-9OSo75NzmQOGF82k1bOiePDeJDdD2iU-aHUCaRND7ZATfWSOMmTquYUZUiCKswDl3MB5SvE=w120-h120-l90-rj",
         "artist": "Farruko & Ti\u00ebsto",
         "album": "Pepas (Ti\u00ebsto Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "46PIJAPrLac",
+        "video_url": "https://www.youtube.com/watch?v=46PIJAPrLac",
+        "title": "It's A Killa (Shermanology Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JRjwa6l7skqcLzYcudarbH-AeCR6-ZAr_ztZ83RdRXnHR69IA0k0q3ACqdkRwLqmc-n3M21hzyGjisNS=w120-h120-l90-rj",
+        "artist": "Fisher (OZ)",
+        "album": "It's A Killa (Shermanology Edit)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2672,6 +2707,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "_Bx00EXfF_U",
+        "video_url": "https://www.youtube.com/watch?v=_Bx00EXfF_U",
+        "title": "The Rave",
+        "thumbnail_url": "https://lh3.googleusercontent.com/X6DFo8ffGfWQEFDsdGjyfEUywdAsyfwwLtS5rbidzLqQ53e0zlJcINfwuVw3biZfpKhfb6mjwRzEfVGJ=w120-h120-l90-rj",
+        "artist": "Maddix",
+        "album": "Tribe EP Vol. I",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hkYt5So8a0U",
+        "video_url": "https://www.youtube.com/watch?v=hkYt5So8a0U",
+        "title": "My Gasoline",
+        "thumbnail_url": "https://lh3.googleusercontent.com/z8d72gFrNLnB8Dks14L9DmNvF0OY1vzFNViPFIPCjcY6vHzErE_sZbKEZETKEYJNfxX_XoW3IgudbZe4=w120-h120-l90-rj",
+        "artist": "Maddix & F\u0113l\u0113s",
+        "album": "My Gasoline",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "tTedOE6u8Fg",
         "video_url": "https://www.youtube.com/watch?v=tTedOE6u8Fg",
         "title": "Ghost Assassin",
@@ -2903,6 +2956,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/yTOm1ev1kltYqgwJHYrj-C-xPA_JxEtf7bIzjW6AEuqkzqoRCGdynWYwAoI3TJaSSxJMhW190uyP23OX=w120-h120-l90-rj",
         "artist": "Matisse & Sadko",
         "album": "Saga",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "OMCMZJKI4z4",
+        "video_url": "https://www.youtube.com/watch?v=OMCMZJKI4z4",
+        "title": "Give It to Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/kzr4VbIXQTkC-yYfwEwOQqqPyqQyTXqkV7dZNfZ-WCMgNif22cbK_US5KbmyUTailjtYqr7WRdyIBuycWg=w120-h120-l90-rj",
+        "artist": "Matt Sassari",
+        "album": "Give It to Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YBTLqg4iTrg",
+        "video_url": "https://www.youtube.com/watch?v=YBTLqg4iTrg",
+        "title": "Drugs From Amsterdam",
+        "thumbnail_url": "https://lh3.googleusercontent.com/J3CnNt19EIVeWr-WPSbOKM6jAxvxZnPW3nPy1-TLJyH2PraKjMV0th95Vw6ooO0V2lnhoCgJ4gEt2CeEVg=w120-h120-l90-rj",
+        "artist": "Mau P",
+        "album": "Drugs From Amsterdam",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -3959,6 +4030,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "bASrrfF2FAc",
+        "video_url": "https://www.youtube.com/watch?v=bASrrfF2FAc",
+        "title": "Gravity (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/2O13WO_4zxY74wSxDE6kgyjmDJfx8LMjOTuGTaZvPGgr_Y3mD7x9RQ-y2iwxGBhT1RU1_q6Oq7YBihw=w120-h120-l90-rj",
+        "artist": "Space 92",
+        "album": "Gravity",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "1EPVJW7rGxU",
         "video_url": "https://www.youtube.com/watch?v=1EPVJW7rGxU",
         "title": "Hera (Radio Edit)",
@@ -4028,6 +4108,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/z3ssj25-wCef1GFKDle0jmHrd6XJIRmJOLzKukd146QSljw6G8KwL8XJYBm6cWUZ-kSGShDT3VlF0mCM=w120-h120-l90-rj",
         "artist": "Steve Aoki, Showtek & Jem Cooke",
         "album": "Mirror Mirror",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "wfnT3N5d60Y",
+        "video_url": "https://www.youtube.com/watch?v=wfnT3N5d60Y",
+        "title": "Yes! (Radio Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4zxgoV7Fn9bMB00iAuVCdBhu7yBv8t0GRvKMKVbsOBOdkcdJoyPPAD9p_f4sCsNrfV9O1LoOoTLixolapA=w120-h120-l90-rj",
+        "artist": "Steve Levi",
+        "album": "Yes!",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -5233,6 +5322,24 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/VjSCs601mS92DlByjoNOVV6MBdV-QeB3Y5ED3G_OQ1CYWaakOxu_aajR-Bwby2hLlAW7UwozNpbFo9c=w120-h120-l90-rj",
         "artist": "W&W, Hardwell & Lil Jon",
         "album": "Live the Night",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ZxaB5ZEdiVc",
+        "video_url": "https://www.youtube.com/watch?v=ZxaB5ZEdiVc",
+        "title": "HARD (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pERne_yHHauLIILT8Smwiu46rmPGRBTHvOCA_tHjFZnTJzc6aSt0FXoRO2oAvytFzX8sHEXVaPHEKHs=w120-h120-l90-rj",
+        "artist": "Will Sparks",
+        "album": "HARD",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "QoDfXB8mveo",
+        "video_url": "https://www.youtube.com/watch?v=QoDfXB8mveo",
+        "title": "Techno Viking (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rJD96R9zaHjEZoOQuHfoxijS_nsIOad7VyT8_qr_KlvlyTrrtw1uzetv7Wxa4NaWITBUzGF_QUudlAMN=w120-h120-l90-rj",
+        "artist": "Will Sparks",
+        "album": "Nothing More, Nothing Less",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
