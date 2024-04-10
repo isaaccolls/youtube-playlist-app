@@ -48,11 +48,27 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "u-1trScfe_8",
+        "video_url": "https://www.youtube.com/watch?v=u-1trScfe_8",
+        "title": "TECHNO RAVE MIX 2024 \ud83c\udfa7 Best Remixes of Popular Songs \ud83c\udfa7 [TECHNO, HYPERTECHNO & TECH HOUSE Bangers]",
+        "thumbnail_url": "https://i.ytimg.com/vi/u-1trScfe_8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kP9mTJ4Ou6SXSpxwunSIdQeUsM_w",
+        "artist": "Bounce & Bass Mixes",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "tumXyDuFVfg",
         "video_url": "https://www.youtube.com/watch?v=tumXyDuFVfg",
         "title": "Techno Mega Mix 2024 \ud83c\udfa7 Best Rave Remixes of Popular Songs \ud83c\udfa7 [Techno, EDM, Tech House] - Bass Mix",
         "thumbnail_url": "https://i.ytimg.com/vi/tumXyDuFVfg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nYX6yIcJleQb2a1-ecdEbtAU1k1w",
         "artist": "Bounce & Bass Mixes",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "KvNtv2I4PeM",
+        "video_url": "https://www.youtube.com/watch?v=KvNtv2I4PeM",
+        "title": "TECHNO MIX 2024 \ud83d\udca3 Remixes Of Popular Songs \ud83d\udca3 Only Techno Bangers",
+        "thumbnail_url": "https://i.ytimg.com/vi/KvNtv2I4PeM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nfMlvKmqj2s9RWUkxvHT9RJkZE-Q",
+        "artist": "BrutishHeavyMusic",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -394,7 +410,7 @@
     {
         "video_id": "KO7cYLLFbLw",
         "video_url": "https://www.youtube.com/watch?v=KO7cYLLFbLw",
-        "title": "TI\u00cbSTO - Live @ Ultra Music Festival 2024",
+        "title": "Tiesto Remix",
         "thumbnail_url": "https://i.ytimg.com/vi/KO7cYLLFbLw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n5ENtM0drPOVxKZG-Hpe_MU9s3kQ",
         "artist": "Ti\u00ebsto",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"

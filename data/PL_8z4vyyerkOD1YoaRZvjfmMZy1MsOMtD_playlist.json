@@ -225,6 +225,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "bfH2AO-oek0",
+        "video_url": "https://www.youtube.com/watch?v=bfH2AO-oek0",
+        "title": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_xtNRdAigNR0XtdJuEUCtsHyRYd2WladgU-k3YgR3x-B_CtGGl_828i9Vsu-blCKlYlVJ0b1ie8Jyp1Q=w120-h120-l90-rj",
+        "artist": "Bizarrap & Quevedo",
+        "album": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "HK_XI1MPKW0",
         "video_url": "https://www.youtube.com/watch?v=HK_XI1MPKW0",
         "title": "Shakira: Bzrp Music Sessions, Vol. 53",
@@ -258,6 +267,51 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/45CbOMVnRZoZ7xqV2zWtPs2JulaPlADrTv8lMgcFnRUCCHY_dEPwjOO_x8197Vum_SOUN0b3ocR-CLU=w120-h120-l90-rj",
         "artist": "Brytiago, Daddy Yankee & Ozuna",
         "album": "Asesina (Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "TrohAjQX-VU",
+        "video_url": "https://www.youtube.com/watch?v=TrohAjQX-VU",
+        "title": "KESI",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7NEp_92ahtCUPkdh__Del8sT9BcyJAoZMk9cdnkfs9xyVPAGOhTwr-5MbPbvituvtHacu8YgIBAMKpvK=w120-h120-l90-rj",
+        "artist": "Camilo",
+        "album": "Mis Manos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "5tLSjGUlZyo",
+        "video_url": "https://www.youtube.com/watch?v=5tLSjGUlZyo",
+        "title": "Millones",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7NEp_92ahtCUPkdh__Del8sT9BcyJAoZMk9cdnkfs9xyVPAGOhTwr-5MbPbvituvtHacu8YgIBAMKpvK=w120-h120-l90-rj",
+        "artist": "Camilo",
+        "album": "Mis Manos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "eedq_gArSeE",
+        "video_url": "https://www.youtube.com/watch?v=eedq_gArSeE",
+        "title": "Favorito",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v7BPAW3_LF3BE5umfbvTqe-kez2LSmFY222PJgqqJFaB6cT8iOX8rNvW6ucA9EIR1XeW2cEHzzJiiKg=w120-h120-l90-rj",
+        "artist": "Camilo",
+        "album": "Por Primera Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Xcxqzz1znRI",
+        "video_url": "https://www.youtube.com/watch?v=Xcxqzz1znRI",
+        "title": "No Te Vayas",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v7BPAW3_LF3BE5umfbvTqe-kez2LSmFY222PJgqqJFaB6cT8iOX8rNvW6ucA9EIR1XeW2cEHzzJiiKg=w120-h120-l90-rj",
+        "artist": "Camilo",
+        "album": "Por Primera Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "5nCeXWnHSlc",
+        "video_url": "https://www.youtube.com/watch?v=5nCeXWnHSlc",
+        "title": "Por Primera Vez",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v7BPAW3_LF3BE5umfbvTqe-kez2LSmFY222PJgqqJFaB6cT8iOX8rNvW6ucA9EIR1XeW2cEHzzJiiKg=w120-h120-l90-rj",
+        "artist": "Camilo & Evaluna Montaner",
+        "album": "Por Primera Vez",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -819,12 +873,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "5wtAt0Q6-3Q",
+        "video_url": "https://www.youtube.com/watch?v=5wtAt0Q6-3Q",
+        "title": "La Nota",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UtAZ-HORNIJuSmywDCOL4RnakmtmS7nZeW0KdAWgtT8Azt5_wTqVapgqB7tF6P85DNdknyIjhLZId1yMVA=w120-h120-l90-rj",
+        "artist": "Manuel Turizo, Rauw Alejandro & Myke Towers",
+        "album": "Dopamina",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "y9A7vcut8ww",
         "video_url": "https://www.youtube.com/watch?v=y9A7vcut8ww",
         "title": "Esta Vida",
         "thumbnail_url": "https://lh3.googleusercontent.com/ZMs4XyMZyPkc1JtF5h2apHsxJvAuAEH-Y5VozQmdleAAVU-Oc_UFnsr-hWC0gslCKNKB-cfwS3P0vI5cmQ=w120-h120-l90-rj",
         "artist": "Marshmello & Farruko",
         "album": "Sugar Papi",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BMsjjt0P3RU",
+        "video_url": "https://www.youtube.com/watch?v=BMsjjt0P3RU",
+        "title": "Mi Mala",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-t9aEgMjLYGppGIKaPuqR0xwOavpSqfFKHZtrhAaxd3pTbAFLw6UdMjhI8yBWohH1wnx5whpNCyc1lQ=w120-h120-l90-rj",
+        "artist": "Mau y Ricky & Karol G",
+        "album": "Para Aventuras y Curiosidades",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1044,6 +1116,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "yPeySkSQB3A",
+        "video_url": "https://www.youtube.com/watch?v=yPeySkSQB3A",
+        "title": "BABY HELLO",
+        "thumbnail_url": "https://lh3.googleusercontent.com/G1pEQvEETVkeASEddObzNjTrufhSRLUgDr7b0OJZAyiazaOgsJGVxjzJPHY8l6p19ApggFrv3s0W7bIq=w120-h120-l90-rj",
+        "artist": "Rauw Alejandro & Bizarrap",
+        "album": "PLAYA SATURNO",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "tupl2hiXbcE",
         "video_url": "https://www.youtube.com/watch?v=tupl2hiXbcE",
         "title": "El Efecto",
@@ -1104,6 +1185,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/C7_AWRi-Uj22Abb7ERe7HowFqP_xWTOrnb0tNMqr1fAKAY2HzVnO9Dq5KFkqMNkzR5qEmUa95lcYXJ1E=w120-h120-l90-rj",
         "artist": "Reggaeton Urbano",
         "album": "Reggaeton Suave",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "yfBf1fjkU0I",
+        "video_url": "https://www.youtube.com/watch?v=yfBf1fjkU0I",
+        "title": "Indeciso",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EQ7WSav-REUb8ebiUAgQY5eiFhjUBLtQCLX6S_y5COYKPKlryqwwFXbrTdgyJkRjwKVBXx-yDMtQGO4=w120-h120-l90-rj",
+        "artist": "Reik, J Balvin & Lalo Ebratt",
+        "album": "Indeciso",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
