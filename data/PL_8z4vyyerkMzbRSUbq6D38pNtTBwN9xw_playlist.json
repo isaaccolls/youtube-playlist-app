@@ -480,17 +480,8 @@
         "video_id": "y0JxLVaNTK4",
         "video_url": "https://www.youtube.com/watch?v=y0JxLVaNTK4",
         "title": "Unicorn Zombie Apocalypse",
-        "thumbnail_url": "https://lh3.googleusercontent.com/HQUfmuiyJ_WeJOTVP3V3S3h0bAMV37piwFnG0Y6HtvlMoc60EvtoJrsMIJMSzy6MhY_5aWzw4I2b27GD=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XDP2_6VRfNXbZZd7KBaYSNiAJ2S7phYcx05Lb5uCr5HLvkoJtryt8-YcFWlHfJ6oFIwN9P_s2sMQVtg=w120-h120-l90-rj",
         "artist": "Borgore & Sikdope",
-        "album": "Unicorn Zombie Apocalypse",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "sobYJY7nHIA",
-        "video_url": "https://www.youtube.com/watch?v=sobYJY7nHIA",
-        "title": "Purple Noise",
-        "thumbnail_url": "https://lh3.googleusercontent.com/akt7TRhyiOs_N_8Ww293_KKBmz_Mt_zM3Tl7o62OFjNHgH4M_Rl281WlDOBrKuxtCEbOQsYktaTyG2k=w120-h120-l90-rj",
-        "artist": "Boris Brejcha",
         "video_type": null
     },
     {
@@ -518,6 +509,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/dEhomz3J2OY5_HfxN7nnAB5TbSUrLBIKAZo_RJVKIqaQGuhE75LugJ1guRGpgJEG1Tld_lDztNe02nE3=w120-h120-l90-rj",
         "artist": "Boris Brejcha",
         "album": "Never Look Back (Edit)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "eG5tMhTihzI",
+        "video_url": "https://www.youtube.com/watch?v=eG5tMhTihzI",
+        "title": "Purple Noise",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KeeLTL1_KBa0vQHfzud3EmCUQ9SpjqG3nmuGg3HUFpWY4G-Ge67I-usGRTBTpipy4SUaUFte4gij_Z8=w120-h120-l90-rj",
+        "artist": "Boris Brejcha",
+        "album": "Non Stop Techno Collection, Vol. 1",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1385,10 +1385,10 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "3zXmvAjREDA",
-        "video_url": "https://www.youtube.com/watch?v=3zXmvAjREDA",
+        "video_id": "eSr_jCf9KK8",
+        "video_url": "https://www.youtube.com/watch?v=eSr_jCf9KK8",
         "title": "Baby again..",
-        "thumbnail_url": "https://lh3.googleusercontent.com/RUt8a1MDyo04ZeAQO9n98m5DIznK0H3PMbSfklyztTcGzOZChOwtYNT5jj3MI7qOsV-W3oVV2CZYWmE=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/IQJgNMzlgHwfLmVvXDM2vZgTUns3_Z5EVscGGLCcAY2wtxEqVbmRMYhUtxbR6133VO3O_r_q8y_NlmE=w120-h120-l90-rj",
         "artist": "Fred again.., Skrillex & Four Tet",
         "album": "USB",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
@@ -2671,13 +2671,12 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "fWJyleYa0T8",
-        "video_url": "https://www.youtube.com/watch?v=fWJyleYa0T8",
+        "video_id": null,
+        "video_url": "https://www.youtube.com/watch?v=None",
         "title": "Mammoth",
         "thumbnail_url": "https://lh3.googleusercontent.com/6zbdgcYMnA5aZ2qU8Z0aTuBEhHgUDpOxRV0I0MFP9GiGwhN0BEBIMZAhHHHi8fKVcgTeEZsuBMRTpH4=w120-h120-l90-rj",
         "artist": "MOGUAI & Dimitri Vegas & Like Mike",
-        "album": "Mammoth",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+        "video_type": null
     },
     {
         "video_id": "QP_NllbV44o",

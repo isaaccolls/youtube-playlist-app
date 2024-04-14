@@ -48,6 +48,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "uArk6D1vJIs",
+        "video_url": "https://www.youtube.com/watch?v=uArk6D1vJIs",
+        "title": "TECHNO RAVE MIX 2024 \ud83c\udfa7 Best Remixes of Popular Songs \ud83c\udfa7 [TECHNO, HYPERTECHNO & TECH HOUSE Bangers]",
+        "thumbnail_url": "https://i.ytimg.com/vi/uArk6D1vJIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lRRlLks5VZ_S_T_HuVBKfHWXECrg",
+        "artist": "Bounce & Bass Mixes",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "u-1trScfe_8",
         "video_url": "https://www.youtube.com/watch?v=u-1trScfe_8",
         "title": "TECHNO RAVE MIX 2024 \ud83c\udfa7 Best Remixes of Popular Songs \ud83c\udfa7 [TECHNO, HYPERTECHNO & TECH HOUSE Bangers]",
@@ -144,6 +152,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "Gx7Yf4E0dZE",
+        "video_url": "https://www.youtube.com/watch?v=Gx7Yf4E0dZE",
+        "title": "Summer Mix 2023 #5  | Best Of Deep & Tech House Music Chillout Mix \ud83d\udd25",
+        "thumbnail_url": "https://i.ytimg.com/vi/Gx7Yf4E0dZE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kDR0tMcS8RnppV_lceVBVVxQLe5g",
+        "artist": "Darley Jefferson",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "iyzeAcrkooY",
         "video_url": "https://www.youtube.com/watch?v=iyzeAcrkooY",
         "title": "TECHNO MIX 2023 | INSOMNIA | Mixed by EJ",
@@ -158,14 +174,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/r0hjPR4wriI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l1igwPzqjwTuF2A-tSzoaS7cNonQ",
         "artist": "Electro Junkiee",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
-    },
-    {
-        "video_id": "w3zCxh-70Ms",
-        "video_url": "https://www.youtube.com/watch?v=w3zCxh-70Ms",
-        "title": "HARDWELL LIVE AT ULTRA MUSIC FESTIVAL MIAMI 2024",
-        "thumbnail_url": "https://i.ytimg.com/vi/w3zCxh-70Ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nZVyWobqwMszdS01_0TaDUmq6ULw",
-        "artist": "Hardwell",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "p1k00xobH-Y",
@@ -237,6 +245,14 @@
         "title": "MARTIN GARRIX LIVE ON DUTCH WATERS \ud83c\uddf3\ud83c\uddf1 (feat. Clinton Kane)",
         "thumbnail_url": "https://i.ytimg.com/vi/Pnp_7IaqW74/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nEb_EORVx92PzH5P842FrSLLiJ5Q",
         "artist": "Martin Garrix",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
+        "video_id": "w3zCxh-70Ms",
+        "video_url": "https://www.youtube.com/watch?v=w3zCxh-70Ms",
+        "title": "HARDWELL LIVE AT ULTRA MUSIC FESTIVAL MIAMI 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/w3zCxh-70Ms/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nZVyWobqwMszdS01_0TaDUmq6ULw",
+        "artist": "Maurice West, Hardwell & Cascada",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
@@ -357,6 +373,22 @@
         "title": "Bob Marley MIX Deep Reggae House Session",
         "thumbnail_url": "https://i.ytimg.com/vi/W5V2NxAhPF4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kN2dE6P6EyV3IrUKzspXJ-gWPBIg",
         "artist": "Se\u00f1or B",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "kAumMl8Dhqw",
+        "video_url": "https://www.youtube.com/watch?v=kAumMl8Dhqw",
+        "title": "Progressive Psytrance - Infected Mushroom mix 2023",
+        "thumbnail_url": "https://i.ytimg.com/vi/kAumMl8Dhqw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kD8coZUnDeUKqWV7Lj41iwygFSnQ",
+        "artist": "Speedsound",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "n-WpxmQGCl4",
+        "video_url": "https://www.youtube.com/watch?v=n-WpxmQGCl4",
+        "title": "Tomorrowland 2024 - Best Songs, Remixes & Mashups",
+        "thumbnail_url": "https://i.ytimg.com/vi/n-WpxmQGCl4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kHw_03l1hXirIjm9FHckGDgwqr3w",
+        "artist": "TOBI",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -509,6 +541,14 @@
         "title": "Acid Techno From The Future",
         "thumbnail_url": "https://i.ytimg.com/vi/OHqdhk6WxMM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n0Sn79HMdazlWXKtcoC6filQaeRg",
         "artist": "donit",
+        "video_type": null
+    },
+    {
+        "video_id": "U7nhGv_zyN0",
+        "video_url": "https://www.youtube.com/watch?v=U7nhGv_zyN0",
+        "title": "\ud83e\udd16 BORIS BREJCHA\ud83e\udd16 PYTHON-SHADOW5X-HIGH TECH MINIMAL\ud83d\udc7dPIKALLO DJ SET  \ud83d\udc7d    \ud83d\ude8d\ud83d\ude92 EURO TRUCK ROADS \ud83d\ude92\ud83d\ude8d 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/U7nhGv_zyN0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mPawzllutFu9pm-qG6X-cAhP1CaA",
+        "artist": "\ud83d\udc7dPIKALLO DJ\ud83d\udc7d",
         "video_type": null
     }
 ]
