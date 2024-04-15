@@ -477,12 +477,13 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "y0JxLVaNTK4",
-        "video_url": "https://www.youtube.com/watch?v=y0JxLVaNTK4",
+        "video_id": "tAAeeNAqlLY",
+        "video_url": "https://www.youtube.com/watch?v=tAAeeNAqlLY",
         "title": "Unicorn Zombie Apocalypse",
-        "thumbnail_url": "https://lh3.googleusercontent.com/XDP2_6VRfNXbZZd7KBaYSNiAJ2S7phYcx05Lb5uCr5HLvkoJtryt8-YcFWlHfJ6oFIwN9P_s2sMQVtg=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/YcK5USloX5hepiBc7Jr5r1d4tRObu0eztCQ59b5gpZhMrc0n5FaAHX1-miApcv_ao-j0Nc1q78rHkAKm=w120-h120-l90-rj",
         "artist": "Borgore & Sikdope",
-        "video_type": null
+        "album": "Unicorn Zombie Apocalypse",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
         "video_id": "rh28hi6er2U",

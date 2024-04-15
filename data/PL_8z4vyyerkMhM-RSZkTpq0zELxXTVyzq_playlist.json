@@ -376,10 +376,26 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "zJ6qHBz2q7w",
+        "video_url": "https://www.youtube.com/watch?v=zJ6qHBz2q7w",
+        "title": "Progressive Psytrance - Electric Samurai / Hallucinations mix 2024 (AI Graphic Visuals)",
+        "thumbnail_url": "https://i.ytimg.com/vi/zJ6qHBz2q7w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lg5_eJDGtkG-CNHMJAARYCvFTBaw",
+        "artist": "Speedsound",
+        "video_type": null
+    },
+    {
         "video_id": "kAumMl8Dhqw",
         "video_url": "https://www.youtube.com/watch?v=kAumMl8Dhqw",
         "title": "Progressive Psytrance - Infected Mushroom mix 2023",
         "thumbnail_url": "https://i.ytimg.com/vi/kAumMl8Dhqw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kD8coZUnDeUKqWV7Lj41iwygFSnQ",
+        "artist": "Speedsound",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "x4hGgQybWpU",
+        "video_url": "https://www.youtube.com/watch?v=x4hGgQybWpU",
+        "title": "Progressive Psytrance - The Mechanic Stable Diffusion / Space Weed T.H.C. mix 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/x4hGgQybWpU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nHjxzQ59zJ3D4IyJK0wK_2TTudGA",
         "artist": "Speedsound",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
