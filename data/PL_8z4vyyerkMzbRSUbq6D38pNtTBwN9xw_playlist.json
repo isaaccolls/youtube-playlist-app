@@ -180,6 +180,24 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "q68FHEVjF4I",
+        "video_url": "https://www.youtube.com/watch?v=q68FHEVjF4I",
+        "title": "Jungle",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OY-oqAyPr6YBLKep17Dhk5qC9WNUno-P4Moa0RjjmjwXmChcHcE-UrvMjdaaqjLpoue_FUFq3JCNYJ8=w120-h120-l90-rj",
+        "artist": "Alok, The Chainsmokers & Mae Stephens",
+        "album": "Jungle",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2BCRj-P9S7M",
+        "video_url": "https://www.youtube.com/watch?v=2BCRj-P9S7M",
+        "title": "strangely sentimental",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3pUlSBo5JZCka9Bo6HFOPFh0snd170wbY-0-uRyqgjw8OVYyY7rgUArRghps8S5TOh0gCxk1rLjpvCv6=w120-h120-l90-rj",
+        "artist": "Anabel Englund",
+        "album": "strangely sentimental",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "r5k6bvJ7S38",
         "video_url": "https://www.youtube.com/watch?v=r5k6bvJ7S38",
         "title": "Let Me In",
@@ -258,6 +276,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/Estfg2FHrJQTgwiQI6Fbrc7-w8A9vlhKb6ceiInvRjyEL9X02pg9kYBM-sF5-TWmu9mD9CaIEKZqTGw=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "album": "Balance (Extended Versions)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Gsvi6fLjD24",
+        "video_url": "https://www.youtube.com/watch?v=Gsvi6fLjD24",
+        "title": "Blah Blah Blah (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/k7ndwH-ON-Pc9b_mXMz_98bvgYnF9dJsV6BU5wumhVyvm7vtL_3t-3GyN2CHmlcFaCr9yOxIVqp-PV8=w120-h120-l90-rj",
+        "artist": "Armin van Buuren",
+        "album": "Blah Blah Blah",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -609,6 +636,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/1sjXHgwlp45I6ixx95jmcx2Q-P_MwTEMePc_WbJF9e4-TUVAO1qOMUi01SYTdOFX_M3Lr54krxCRj6xY=w120-h120-l90-rj",
         "artist": "Calvin Harris & Alesso",
         "album": "Under Control",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ba4MlsG_Ce8",
+        "video_url": "https://www.youtube.com/watch?v=ba4MlsG_Ce8",
+        "title": "Miracle",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GNRMHg8PznoHnR-ttf5nAvDgpAc13CYCj_AO0JOyo19PMTcbWm_uU2ETpopbQ15PO81khiKnJWTgUlc8=w120-h120-l90-rj",
+        "artist": "Calvin Harris & Ellie Goulding",
+        "album": "Miracle",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1170,6 +1206,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "aAlzpDB20tM",
+        "video_url": "https://www.youtube.com/watch?v=aAlzpDB20tM",
+        "title": "Thank You (Not So Bad) (Extended)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gJKLmmHW_bpARsUkgdCjyoscY2PBvgD3zSblglKCPEEz6I2qiHqmtbYPx0Wjz_yHZs7_uQ8thwfUAYQ=w120-h120-l90-rj",
+        "artist": "Dimitri Vegas & Like Mike, Ti\u00ebsto, Dido & W&W",
+        "album": "Thank You (Not So Bad) (Extended)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "vuJ2V-9GhBo",
         "video_url": "https://www.youtube.com/watch?v=vuJ2V-9GhBo",
         "title": "Tremor (Sensation 2014 Anthem)",
@@ -1203,6 +1248,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/t0oK4cW4pBaOHpAhNSSvaz9uHu3TrBf55d9OwfcDDU8AbK60u6ivgRbZU94TVmY3l42JLrqwWIqpuU-3=w120-h120-l90-rj",
         "artist": "Dynoro & Gigi D'Agostino",
         "album": "In My Mind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0Q6L7mwr1q4",
+        "video_url": "https://www.youtube.com/watch?v=0Q6L7mwr1q4",
+        "title": "Stereo Love (SP3CTRUM Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1EjDxHUDHHdnKIUDrzOUyaBmJG3XMlc7ocA-oftHuu9wsOeIgMB0tX1qOsdAbP9f7UgrTCKCPgudJ9P4=w120-h120-l90-rj",
+        "artist": "Edward Maya & Vika Jigulina",
+        "album": "Stereo Love",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1338,6 +1392,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/5ekOSCMnk6CsXjjVk6aJfgeIsL1zq95zSALJeRyiXpQpwU8IVMXAB1y9h_UhJU0AuCj_aeSpitmwyD25hA=w120-h120-l90-rj",
         "artist": "FOVOS",
         "album": "Feel The Rhythm EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "9P2efceVErs",
+        "video_url": "https://www.youtube.com/watch?v=9P2efceVErs",
+        "title": "The Less I Know The Better",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jjpkPsnU7v_03KIHdLghbwJjwC14zDEdQH-611GaIRVVGn4lr_unmd873_B7O-ecw9vAYwqFMf-3Y5cy=w120-h120-l90-rj",
+        "artist": "FOVOS",
+        "album": "The Less I Know The Better",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1521,12 +1584,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "86QuZ3ssTEQ",
+        "video_url": "https://www.youtube.com/watch?v=86QuZ3ssTEQ",
+        "title": "Jet Plane",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xNsW1fTWIwM33H6oPW49Nqo-JV7L4TmD0dQBMLaPSiiAXkOJbVTMv0ZOnYvmNXSb4UOEf4N7TdsaQvgxyg=w120-h120-l90-rj",
+        "artist": "Gusted",
+        "album": "Jet Plane",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "xiQJvHkENUQ",
         "video_url": "https://www.youtube.com/watch?v=xiQJvHkENUQ",
         "title": "The Captain",
         "thumbnail_url": "https://lh3.googleusercontent.com/SSRvykbCkOTnmQoFip-UQe9kenkG8hiNbZRgb_8Bl06f1SnGY_E2Q583VfMUR2XAT9DqhjGQucJ25h8=w120-h120-l90-rj",
         "artist": "HIJCKD",
         "album": "The Captain",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "BDg_gKB2ds4",
+        "video_url": "https://www.youtube.com/watch?v=BDg_gKB2ds4",
+        "title": "L'AMOUR TOUJOURS HYPERTECHNO",
+        "thumbnail_url": "https://lh3.googleusercontent.com/K2lL52de-qzBDxAjGi4j8mR_J0EOKseVE9vF6z_3YvoLZ-U8cvGiUHVD4kpXx4OYGPwARNhm5uI4cNgvRw=w120-h120-l90-rj",
+        "artist": "HYPERTECHNO",
+        "album": "L'AMOUR TOUJOURS HYPERTECHNO",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2306,9 +2387,9 @@
     {
         "video_id": "6ZKCpI49iL4",
         "video_url": "https://www.youtube.com/watch?v=6ZKCpI49iL4",
-        "title": "Drums (Ti\u00ebsto Remix)",
+        "title": "Drums (Ti\u00ebsto Remix) (feat. Kim Petras)",
         "thumbnail_url": "https://lh3.googleusercontent.com/NzoM33ChbUu3e8UuzkZMfF539ZNnvB4LKTyA70pCKwJ5U-JtRKWSX7bOhCGF_PGKtGUxgGyNvrJWxAE=w120-h120-l90-rj",
-        "artist": "James Hype, Kim Petras & Ti\u00ebsto",
+        "artist": "James Hype & Ti\u00ebsto",
         "album": "Drums (Ti\u00ebsto Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -2322,12 +2403,30 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "5WXs6hzsuZs",
+        "video_url": "https://www.youtube.com/watch?v=5WXs6hzsuZs",
+        "title": "Pedro",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vr0L_Pmw6JjJ-rucsCEEM4r4bEU-Yy-APvYrbzCtmOMy3ArRWPh4SwKwy_NN5wduWqV2lloOlOe14svv=w120-h120-l90-rj",
+        "artist": "Jaxomy, Agatino Romero & Raffaella Carr\u00e0",
+        "album": "Pedro",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7AIvED1lXEI",
         "video_url": "https://www.youtube.com/watch?v=7AIvED1lXEI",
         "title": "OUT OUT (feat. Charli XCX & Saweetie)",
         "thumbnail_url": "https://lh3.googleusercontent.com/ZbyNOCbY6UQPkA9a7hWh6DeMNnEGLieW4iDap6NdDNEk_6Avgvvxrdpn0YCwSF4gbBFdJi0Jt-OmEOAk=w120-h120-l90-rj",
         "artist": "Joel Corry & Jax Jones",
         "album": "OUT OUT",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "nJVWeRGi_fk",
+        "video_url": "https://www.youtube.com/watch?v=nJVWeRGi_fk",
+        "title": "Lionheart (Fearless)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vz68JI_q4HyksAZ5ZvrXFiaVJYxHYpHyMFX7d1b0c83jYDc23Irw_vvIwZyO8HJpwcScUSyZOGPnhNQO=w120-h120-l90-rj",
+        "artist": "Joel Corry & Tom Grennan",
+        "album": "What Ifs & Maybes",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2716,6 +2815,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "IsHEbyQkdjQ",
+        "video_url": "https://www.youtube.com/watch?v=IsHEbyQkdjQ",
+        "title": "The Rave (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/X6DFo8ffGfWQEFDsdGjyfEUywdAsyfwwLtS5rbidzLqQ53e0zlJcINfwuVw3biZfpKhfb6mjwRzEfVGJ=w120-h120-l90-rj",
+        "artist": "Maddix",
+        "album": "Tribe EP Vol. I",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "hkYt5So8a0U",
         "video_url": "https://www.youtube.com/watch?v=hkYt5So8a0U",
         "title": "My Gasoline",
@@ -2821,6 +2929,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/MDD0MVe1K4RXAPQJii8fi4V-7m3ghmPXQfHnAWcRE6psNUXKRc47ZCEyFu1w1yIPJks1N79_Qk-N0BSE_g=w120-h120-l90-rj",
         "artist": "Marshmello",
         "album": "Silence",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "SR37KLIZdNo",
+        "video_url": "https://www.youtube.com/watch?v=SR37KLIZdNo",
+        "title": "Unity",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_SIQfr9yrbrFfJcty3RKFxFquHR_nLKQomUijrFWN8fZGZR9B-mixZdxXv01sc0nheOpEs1CnfJZpoRz3Q=w120-h120-l90-rj",
+        "artist": "Marshmello",
+        "album": "Unity",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2995,6 +3112,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "y_0slwDD9TY",
+        "video_url": "https://www.youtube.com/watch?v=y_0slwDD9TY",
+        "title": "Waterfall",
+        "thumbnail_url": "https://lh3.googleusercontent.com/RbyqXd-D-Griz5myA5eDizdhB97C9VtN0AIbFmzGQgQbeBNtjJhLFmvzRsOmyYs-7MlEJWK-gIRBKuM0=w120-h120-l90-rj",
+        "artist": "Michael Schulte & R3HAB",
+        "album": "Remember Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Ah0srVZq9ac",
         "video_url": "https://www.youtube.com/watch?v=Ah0srVZq9ac",
         "title": "I Took A Pill In Ibiza (Seeb Remix)",
@@ -3145,6 +3271,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/ZC4iVuRK0Jj0_HqpqKcSO83ozPzvYZWtfZ5SMpHbXOXt0qTEPKYRHCuaxwJnqS44O-78jOILKJcJmqI=w120-h120-l90-rj",
         "artist": "Moss Kena, Purple Disco Machine & The Knocks",
         "album": "Exotica",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "HoqSbJ03zgo",
+        "video_url": "https://www.youtube.com/watch?v=HoqSbJ03zgo",
+        "title": "The Lost Soul Down (Slowed & Reverb)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/E_Qo4FChz-2Pk53c876eptiHmLqu7l6cxq8a_HOriRPBCkwqCtj0WV48gzVUdjMlfSHgauEiICJM4SSGlw=w120-h120-l90-rj",
+        "artist": "NBSPLV",
+        "album": "The Lost Soul Down (Slowed & Reverb)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -3328,6 +3463,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "8U7JjSaiL6U",
+        "video_url": "https://www.youtube.com/watch?v=8U7JjSaiL6U",
+        "title": "No Sleep",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MFc-j7C1yBv_PhGB8Qzq5ttDQYgN0YvssGiG4ohHb3fCAR8Vi-pUqiEPfijuKiHvfhYGrVKS3st-Fo9abw=w120-h120-l90-rj",
+        "artist": "Regard & Ella Henderson",
+        "album": "No Sleep",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "R2H0hKftsCk",
         "video_url": "https://www.youtube.com/watch?v=R2H0hKftsCk",
         "title": "Sleepless (feat. GoldFord)",
@@ -3352,6 +3496,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/LoPNkHwK6aFo_foZNaCkvmMoOXHItBOs56mZjuTq0-3Vd3LkxjqsZxH9Q0S12ik52PJoIjUo09Fh198=w120-h120-l90-rj",
         "artist": "Rihanna & Calvin Harris",
         "album": "Talk That Talk (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "PSIy0JM6u2A",
+        "video_url": "https://www.youtube.com/watch?v=PSIy0JM6u2A",
+        "title": "Praising You (feat. Fatboy Slim)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/D0KepIwPPSwbByrJt9o2TmG2YNITufpQ0Pt7RkpxD-j0j6ZSvMoFLNtDqYyWNke34E_VkVuaWHGhtziyqg=w120-h120-l90-rj",
+        "artist": "Rita Ora",
+        "album": "You & I",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -3415,6 +3568,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/_caXi1xFsBDtsbTROI4nvxJpuyb9BMrPxpsjFMK7QyEkR7bq0s77ApMANANSuSkq_elxTOnBp0XfC4A=w120-h120-l90-rj",
         "artist": "SOFI TUKKER & John Summit",
         "album": "WET TENNIS",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "tkd1tFuqkVY",
+        "video_url": "https://www.youtube.com/watch?v=tkd1tFuqkVY",
+        "title": "Crying On The Dancefloor",
+        "thumbnail_url": "https://lh3.googleusercontent.com/n3hWiSbiCN1iVA7dfh3ad5QaUCKzH5TqicWU5rTSC20ZBuHeC9qzg4826HRofIhKvvoQBvul5eKvV64=w120-h120-l90-rj",
+        "artist": "Sam Feldt, Jonas Blue, Endless Summer, and Violet Days",
+        "album": "Crying On The Dancefloor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -4242,6 +4404,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/5USS6rmNAcTDBGCkhVu-rUH17_PDFod1v2zuW4vLsS9GjvZBYDXo-Vbg8koQi-xUZfl0arZ8L8P99qQ=w120-h120-l90-rj",
         "artist": "Swedish House Mafia",
         "album": "See The Light",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "VGU0Os_22CE",
+        "video_url": "https://www.youtube.com/watch?v=VGU0Os_22CE",
+        "title": "Disturbia (Techno)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7Taus8vDwrTaiu6rK023AgFlE39f-Y2SZH4SPx6FlUJMVlk1B7wi6gaIOJZA-qs2F-AsSBCjlQWYfqas=w120-h120-l90-rj",
+        "artist": "Tektony & Way 2 Fast",
+        "album": "Disturbia (Techno)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -5307,6 +5478,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "0iuhiglXAn0",
+        "video_url": "https://www.youtube.com/watch?v=0iuhiglXAn0",
+        "title": "RAVE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JJ-IWYOzfnmfOoLj1E-5cXY0gJGXUaHO8IKC7QrqfKcM31R_T5lGe1F7V1EDK9oPo15j4WE_AS06gPo=w120-h120-l90-rj",
+        "artist": "Vlinder Vos & GEWOONRAVES",
+        "album": "RAVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "VUNUWfumkCo",
         "video_url": "https://www.youtube.com/watch?v=VUNUWfumkCo",
         "title": "Rocket Spaceman [Mix Cut] (W&W & Hardwell Edit)",
@@ -5700,6 +5880,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/0qyGqRIqAzhL1-h5I2IochHk97s8HcLhLbxsSd0yNZbfzbiofY6nfUYD2y7KW45LAVP_EVgj7HtxMghS=w120-h120-l90-rj",
         "artist": "deadmau5, Kaskade & Kx5",
         "album": "Alive (KREAM Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "zCeQdBCZklo",
+        "video_url": "https://www.youtube.com/watch?v=zCeQdBCZklo",
+        "title": "Miss You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/U5NBIfsv138ttTzzoL4azbeehL0U1BPRCOqGYrH-it6QTkRkZS7jisM4SDKOY_6UOmSEN-yE-3iyEnvXhg=w120-h120-l90-rj",
+        "artist": "southstar",
+        "album": "Miss You",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

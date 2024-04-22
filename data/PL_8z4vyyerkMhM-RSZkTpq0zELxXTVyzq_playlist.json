@@ -328,6 +328,14 @@
         "video_type": null
     },
     {
+        "video_id": "tV-b3bDrWjE",
+        "video_url": "https://www.youtube.com/watch?v=tV-b3bDrWjE",
+        "title": "Pure PsyTech (Psychedelic Techno Mix 2023) \u25c9 Psytocin",
+        "thumbnail_url": "https://i.ytimg.com/vi/tV-b3bDrWjE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mK69JWD3ECvnNWqUgLHb8a5ZnNVw",
+        "artist": "Psytocin Music",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "D25hWvMbt4U",
         "video_url": "https://www.youtube.com/watch?v=D25hWvMbt4U",
         "title": "Melodic Techno & Progressive House  Mix 2023  Silver Panda Space Motion Ranji Raf Fender Mix",
@@ -557,6 +565,14 @@
         "title": "AE:THER Live  |  around  |  Valle Nevado, Chile",
         "thumbnail_url": "https://i.ytimg.com/vi/HAx2kv-vEV0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l6mRKWSAB6KhnoskgYELO1NdwtQQ",
         "artist": "around",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "liOAbkQtIkc",
+        "video_url": "https://www.youtube.com/watch?v=liOAbkQtIkc",
+        "title": "Psychadelic Drum and Bass Mix 2017 | Atmospheric, Deep and Minimal Rollers",
+        "thumbnail_url": "https://i.ytimg.com/vi/liOAbkQtIkc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kD1UODkW6OeDgx9YOPOt4A8K9U0g",
+        "artist": "dnb zone",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
