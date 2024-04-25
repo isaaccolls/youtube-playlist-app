@@ -9,6 +9,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "pSVbF6DGH9U",
+        "video_url": "https://www.youtube.com/watch?v=pSVbF6DGH9U",
+        "title": "Around the World (La La La La La)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SPsBdwjWbdEpmXlyvreqdSyht6QLrh4rwfGJzYpQkfQJku1aoPM5Efz9Sh22ftG5gpD9bluX25_0x8E=w120-h120-s-l90-rj",
+        "artist": "A Touch of Class",
+        "album": "Planet Pop",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "88UsYjd9AAE",
         "video_url": "https://www.youtube.com/watch?v=88UsYjd9AAE",
         "title": "Believe (feat. Goodboys)",
@@ -411,6 +420,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/GVAaBDScD7V8t3BjXWzk8dybIaLdEENJ0YlzUPoNi9qin1u0a7xGxyVtlEFPvSM80XWLNv17wwCjF28=w120-h120-l90-rj",
         "artist": "Avicii & Nicky Romero",
         "album": "I Could Be The One [Avicii vs Nicky Romero]",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7QXDkrkdmc8",
+        "video_url": "https://www.youtube.com/watch?v=7QXDkrkdmc8",
+        "title": "CAN'T GET YOU OUT OF MY HEAD (TECHNO)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/S4wro-guaEpLV1SKk1j93ZQDYRzhV54dpGoZcX8bItBaZbgLXNNVqyvnUHN2OB0rS5WGEMJm5mmc19tbQQ=w120-h120-l90-rj",
+        "artist": "BASSTON, Techno Tazzy & Tazzy",
+        "album": "CAN'T GET YOU OUT OF MY HEAD (TECHNO)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -2646,6 +2664,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "NruQh0QDTTM",
+        "video_url": "https://www.youtube.com/watch?v=NruQh0QDTTM",
+        "title": "Be My Lover",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fPd4SyyPJKusj5csOvXTl9r9dEAPn4WqnZh72mY0NS2T_rhCr9GybzcS6E-WMOtPAWR2w_D5aCkaO0U=w120-h120-s-l90-rj",
+        "artist": "La Bouche",
+        "album": "Sweet Dreams",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Bs1t3zddY1M",
         "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
         "title": "Live The Night (Extended Mix)",
@@ -3326,6 +3353,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/vdyFjmjBqk23KAZ8AefduZ6a37pKvIQgJyzRW_vZH-Rkcgs92LUOlg7bQ6El1bkA0z4zKBFrvDXBr7pu=w120-h120-l90-rj",
         "artist": "PARISI, Steve Angello & Sebastian Ingrosso",
         "album": "U Ok?",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Ca291epXSJg",
+        "video_url": "https://www.youtube.com/watch?v=Ca291epXSJg",
+        "title": "Cant Get You Out of My Head (Techno Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/p-Brz-x4paivZAId_7UgVgVnkBfFfikK4XwIAOh6m5yUK1QvYbClzHn2eSATMlqUwh0XfJHLOjmbbsqr=w120-h120-l90-rj",
+        "artist": "Pascal Ghost",
+        "album": "Cant Get You Out of My Head (Techno Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
