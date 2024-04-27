@@ -4,6 +4,7 @@ from ytmusicapi import YTMusic
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 import time
+from constants import playlistsForMusic
 
 
 class YoutubeAPI:
@@ -44,7 +45,7 @@ class YoutubeAPI:
                 'thumbnail_url': thumbnail_url,
                 'artist': artist,
             }
-            if content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None:
+            if (content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None) and playlist_id in playlistsForMusic:
                 if content['album'] is not None:
                     item['album'] = content['album']['name']
                 else:
