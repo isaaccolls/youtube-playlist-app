@@ -38,7 +38,8 @@ class Downloader:
             # Add ID3 tags
             audiofile = eyed3.load(mp3_filename)
             audiofile.tag.artist = artist
-            audiofile.tag.album = album
+            if album != '':
+                audiofile.tag.album = album
             audiofile.tag.title = title
             # Download thumbnail
             response = requests.get(thumbnail_url)

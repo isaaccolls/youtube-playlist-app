@@ -44,8 +44,11 @@ class YoutubeAPI:
                 'thumbnail_url': thumbnail_url,
                 'artist': artist,
             }
-            if content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' and content['album'] is not None:
-                item['album'] = content['album']['name']
+            if content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None:
+                if content['album'] is not None:
+                    item['album'] = content['album']['name']
+                else:
+                    item['album'] = ''
             # OMV: Original Music Video - uploaded by original artist with actual video content
             # UGC: User Generated Content - uploaded by regular YouTube user
             # ATV: High quality song uploaded by original artist with cover image
