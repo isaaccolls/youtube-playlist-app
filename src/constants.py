@@ -17,6 +17,8 @@ playlistsForMusic = [
     'PL_8z4vyyerkOU9rlgZheQg22yAPu5qHHp',
     # 🤘-rock
     'PL_8z4vyyerkMh5swg0FKbTFQRujtlhmr-',
+    # 🤷-whatever
+    'PL_8z4vyyerkPHIqxrDUgLA3_TQbVdpzYJ'
 ]
 
 playlistsForVideo = [
