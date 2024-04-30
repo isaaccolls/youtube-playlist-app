@@ -1089,6 +1089,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "S_bDOujUe5U",
+        "video_url": "https://www.youtube.com/watch?v=S_bDOujUe5U",
+        "title": "King Without a Crown (Live at Stubb's, Austin, TX - February 2005)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/2PJpMbiKSFlQHmcHvjNNlnjD_g3oQW92oytma_H6XZGLDkYIIgCkmcErrC7pA4WBZETvPup9O2qOAp7N=w120-h120-s-l90-rj",
+        "artist": "Matisyahu",
+        "album": "Live at Stubb's",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "yZxExKERfpU",
         "video_url": "https://www.youtube.com/watch?v=yZxExKERfpU",
         "title": "Tu Eres Como el Fuego (feat. Indica Sound)",
@@ -1305,6 +1314,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "oof6AFVP_g0",
+        "video_url": "https://www.youtube.com/watch?v=oof6AFVP_g0",
+        "title": "Hora Loca",
+        "thumbnail_url": "https://lh3.googleusercontent.com/p76HzPBsD74WgWqpU_heYoZ0CwCR0oqWxO-rcJZaS8KsAMw3Cgr_su41Qp3JoXa3ON8M-0slTtcTMbd-=w120-h120-l90-rj",
+        "artist": "Rawayana & Monsieur Perin\u00e9",
+        "album": "Hora Loca",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "njaLN1xgztM",
         "video_url": "https://www.youtube.com/watch?v=njaLN1xgztM",
         "title": "V\u00e1yanse Todos A Mam\u00e1",
@@ -1347,6 +1365,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/VdMyBtyyA416Ny9mBN6WtEvptqrtj7f3rb6tJOGEibagg3-vZMKRLQl3RB2IFpullJQpHL_2jq4_vBoErg=w120-h120-l90-rj",
         "artist": "Vicente Garcia",
         "album": "Melodrama",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "2Id_HjVXfHM",
+        "video_url": "https://www.youtube.com/watch?v=2Id_HjVXfHM",
+        "title": "Dulcito e Coco",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1dL-4GX7O7FfcLYq_fbT9VvaovdzL2DO70LkfOaASUnvyxINdlfkA__7oskCYoJpvBUpUfG9I55r-s-nyw=w120-h120-l90-rj",
+        "artist": "Vicente Garc\u00eda",
+        "album": "A la Mar",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]

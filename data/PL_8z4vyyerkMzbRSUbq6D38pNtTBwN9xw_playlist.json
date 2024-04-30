@@ -1359,6 +1359,15 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Dbho-S2xpbc",
+        "video_url": "https://www.youtube.com/watch?v=Dbho-S2xpbc",
+        "title": "I WAS MADE FOR LOVIN' YOU (TECHNO SPED UP)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/POAqzplnl84NIMxCzQ6r4XHrQfPiLf_6g0gfnhD1bwH1ARDn4ULY1wulMbkdlq0DtTIL4hZTM_ChKTeE=w120-h120-l90-rj",
+        "artist": "FAST BASSTON & BASSTON",
+        "album": "I WAS MADE FOR LOVIN' YOU",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "y902FSus0fI",
         "video_url": "https://www.youtube.com/watch?v=y902FSus0fI",
         "title": "Losing It",
@@ -2841,6 +2850,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/X6DFo8ffGfWQEFDsdGjyfEUywdAsyfwwLtS5rbidzLqQ53e0zlJcINfwuVw3biZfpKhfb6mjwRzEfVGJ=w120-h120-l90-rj",
         "artist": "Maddix",
         "album": "Tribe EP Vol. I",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "vjodR-lGzks",
+        "video_url": "https://www.youtube.com/watch?v=vjodR-lGzks",
+        "title": "Adrenalina (Minha Gasolina)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dAyBTbJedMtauO3f-LQZ2zZzO9-5UQao-64P91yPX5D8cKEJqXjgyv57YeozaWEnmmJFO3rQClziAyan=w120-h120-l90-rj",
+        "artist": "Maddix & CERES",
+        "album": "Adrenalina (Minha Gasolina)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -4434,6 +4452,15 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/5USS6rmNAcTDBGCkhVu-rUH17_PDFod1v2zuW4vLsS9GjvZBYDXo-Vbg8koQi-xUZfl0arZ8L8P99qQ=w120-h120-l90-rj",
         "artist": "Swedish House Mafia",
         "album": "See The Light",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_bRmAeCIDIA",
+        "video_url": "https://www.youtube.com/watch?v=_bRmAeCIDIA",
+        "title": "praise the lord tekkno",
+        "thumbnail_url": "https://lh3.googleusercontent.com/RitGZf3BOhKJmWEKRsfIVtXvARZoaCQeJZWjAqp6ZR-XC1LFS14NpO4a1xSTasE6H1obVF2T-wx7vdk=w120-h120-l90-rj",
+        "artist": "TEKKNO",
+        "album": "praise the lord tekkno",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
