@@ -248,6 +248,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "MykrqqKJUJ4",
+        "video_url": "https://www.youtube.com/watch?v=MykrqqKJUJ4",
+        "title": "Marshmello Sanctuary Mix",
+        "thumbnail_url": "https://i.ytimg.com/vi/MykrqqKJUJ4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k4SHU0UQBesmXJtYnIuf6C8EunNw",
+        "artist": "Marshmello",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "Pnp_7IaqW74",
         "video_url": "https://www.youtube.com/watch?v=Pnp_7IaqW74",
         "title": "MARTIN GARRIX LIVE ON DUTCH WATERS \ud83c\uddf3\ud83c\uddf1 (feat. Clinton Kane)",
@@ -438,6 +446,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/aAcHRQ-IE0Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mZfq3ypokdrGfyg-iTm9I2vaWi0w",
         "artist": "Speedsound",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "geufuNuwIfA",
+        "video_url": "https://www.youtube.com/watch?v=geufuNuwIfA",
+        "title": "TECHNO MIX 2024 \ud83d\udc7d\ud83c\udfa7\ud83d\udc7dPopular techno songs | Episode 15",
+        "thumbnail_url": "https://i.ytimg.com/vi/geufuNuwIfA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k7C7OBjg-QkfDE4nLRJgpAOUZhuw",
+        "artist": "Sven Malvik",
+        "video_type": null
     },
     {
         "video_id": "n-WpxmQGCl4",
