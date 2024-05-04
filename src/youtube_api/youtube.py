@@ -5,14 +5,40 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 import time
 from constants import playlistsForMusic
+import pylast
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
 
 
 class YoutubeAPI:
     def __init__(self):
         load_dotenv()
         api_key = os.getenv('YOUTUBE_API_KEY')
+        lastfm_api_key = os.getenv('LASTFM_API_KEY')
+        lastfm_api_secret = os.getenv('LASTFM_API_SECRET')
+        spotify_client_id = os.getenv('SPOTIFY_CLIENT_ID')
+        spotify_client_secret = os.getenv('SPOTIFY_CLIENT_SECRET')
         self.ytmusic = YTMusic()
         self.youtube = build('youtube', 'v3', developerKey=api_key)
+        self.lastfm_network = pylast.LastFMNetwork(
+            api_key=lastfm_api_key, api_secret=lastfm_api_secret)
+        self.spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
+            client_id=spotify_client_id, client_secret=spotify_client_secret))
+
+    def get_genre(self, artist, title):
+        results = self.spotify.search(q='artist:' + artist, type='artist')
+        if results['artists']['items']:
+            genres = results['artists']['items'][0]['genres']
+            if genres:
+                return genres[0]
+        try:
+            track = self.lastfm_network.get_track(artist, title)
+            top_tags = track.get_top_tags()
+            if top_tags:
+                return top_tags[0].item.get_name()
+        except pylast.WSError:
+            pass
+        return 'Unknown'
 
     def get_playlist_info(self, playlist_id, retries=3):
         print(f'👉 get metadata for: {playlist_id}')
@@ -30,6 +56,7 @@ class YoutubeAPI:
                 print(f'🥺 Error: {e}. No more retry.')
                 return {"playlist_name": playlist_name, "items": items}
         for content in playlist['tracks']:
+            print(f'👉 get metadata for content: {content["title"]}')
             video_id = content['videoId']
             if video_id is None:
                 video_id = self.search(playlist_id, content['title'])
@@ -44,6 +71,7 @@ class YoutubeAPI:
                 'title': content['title'],
                 'thumbnail_url': thumbnail_url,
                 'artist': artist,
+                'genre': self.get_genre(artist, content['title']),
             }
             if (content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None) and playlist_id in playlistsForMusic:
                 if content['album'] is not None:

@@ -5,3 +5,5 @@ moviepy==1.0.3
 ytmusicapi==1.5.3
 google-api-python-client==2.121.0
 python-dotenv==1.0.1
+spotipy==2.23.0
+pylast==5.2.0
