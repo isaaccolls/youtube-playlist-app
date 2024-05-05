@@ -5,6 +5,7 @@
         "title": "Pasame la Yesca",
         "thumbnail_url": "https://lh3.googleusercontent.com/tgPjt_6kypPmaMoGG0ah2c5a5LUFSVix7gTLAIySSMmGKqxNACNXz-n8ow3V5XY_4hBWk7OMgzuUhu61=w120-h120-l90-rj",
         "artist": "Apache",
+        "genre": "german hip hop",
         "album": "Lo Necesario",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -14,6 +15,7 @@
         "title": "High Grade (feat. Jey da Polemic)",
         "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
         "artist": "Apache",
+        "genre": "german hip hop",
         "album": "Original Combination",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -23,6 +25,7 @@
         "title": "Sube el Humo",
         "thumbnail_url": "https://lh3.googleusercontent.com/PMU3DRK9V7fYWD9K6ewufXyppmhHHtUX6JeD-PMmV1M71RSmqU9MgeFoCxYETvRn8Bwjxus8ESXrT_e-=w120-h120-l90-rj",
         "artist": "Cultura Prof\u00e9tica",
+        "genre": "latin alternative",
         "album": "M. O. T. A.",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -32,6 +35,7 @@
         "title": "Pepas",
         "thumbnail_url": "https://lh3.googleusercontent.com/22J000nZ05UFFDh41LedvZypSJVti20ihhCTmVWQzDOqTjmQEXACHuRXg5i8GSCUeTjdSQcrqSDidScXUw=w120-h120-l90-rj",
         "artist": "Farruko",
+        "genre": "reggaeton",
         "album": "Pepas",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -41,6 +45,7 @@
         "title": "High (feat. Apache)",
         "thumbnail_url": "https://lh3.googleusercontent.com/DhNYtNCQZiP5kumPv61XovVLed-YnHE_bLhIsAWPcSPJ-ifyzr5h1tjXNnz_BoSGM6xYSeoy7Gbztvg=w120-h120-l90-rj",
         "artist": "Rawayana",
+        "genre": "venezuelan hip hop",
         "album": "Trippy Caribbean",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -50,6 +55,7 @@
         "title": "Dale Dos",
         "thumbnail_url": "https://lh3.googleusercontent.com/6GV3EVWvKRzKL-nUZRfHF19B9GLAqnkph4tLaCZxIh3ucj7K8N2hA21osDWxw9XdvGuS444w0VDaquDi=w120-h120-l90-rj",
         "artist": "Reke",
+        "genre": "trap venezolano",
         "album": "El Astronauta",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -59,6 +65,7 @@
         "title": "Chillin' (feat. Don Omar)",
         "thumbnail_url": "https://lh3.googleusercontent.com/9XhelCdgSLJ9MI3jLHM8-Wf9gsMBuD8RvnwZJbG9OvfNoU_exisaUt6tzrNM8eTsw6SYD1r3foLS8G4=w120-h120-l90-rj",
         "artist": "Tego Calderon",
+        "genre": "latin hip hop",
         "album": "The Underdog - El Subestimado",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
