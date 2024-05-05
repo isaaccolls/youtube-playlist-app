@@ -42,6 +42,8 @@ class Downloader:
             if album != '':
                 audiofile.tag.album = album
             audiofile.tag.title = title
+            if genre.isdigit():
+                genre = "Genre " + genre
             audiofile.tag.genre = genre
             # Download thumbnail
             response = requests.get(thumbnail_url)
