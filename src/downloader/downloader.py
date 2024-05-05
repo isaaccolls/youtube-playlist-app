@@ -4,6 +4,7 @@ import requests
 from pytube import YouTube
 from urllib.error import HTTPError
 from moviepy.editor import AudioFileClip
+import time
 
 
 class Downloader:
@@ -22,8 +23,8 @@ class Downloader:
         except Exception as e:
             print(f"🚫🚫 error downloading {video_id}: {str(e)}")
 
-    def download_audio(self, playlist_name, video_id, video_url, title, thumbnail_url, artist, album):
-        print(f"download_audio: {title} - {artist} - {album}")
+    def download_audio(self, playlist_name, video_id, video_url, title, thumbnail_url, artist, album, genre, retries=3):
+        print(f"download_audio: {title} - {artist}")
         audio_download_path = self.download_path + "/mp3/" + playlist_name
         try:
             yt = YouTube(video_url)
@@ -41,6 +42,7 @@ class Downloader:
             if album != '':
                 audiofile.tag.album = album
             audiofile.tag.title = title
+            audiofile.tag.genre = genre
             # Download thumbnail
             response = requests.get(thumbnail_url)
             thumbnail_filename = "thumbnail.jpg"
@@ -55,4 +57,11 @@ class Downloader:
             os.remove(mp4_filename)
             os.remove(thumbnail_filename)
         except Exception as e:
-            print(f"🚫🚫 error downloading audio {video_id}: {str(e)}")
+            if retries > 0:
+                print(f"🚫🚫 error downloading audio {video_id}: {str(e)}")
+                print("Retry")
+                time.sleep(2)
+                return self.download_audio(playlist_name, video_id, video_url, title, thumbnail_url, artist, album, genre, retries-1)
+            else:
+                print(f"🚫🚫 error downloading audio {video_id}: {str(e)}")
+                print("No more retry.")

@@ -8,6 +8,7 @@ from constants import playlistsForMusic
 import pylast
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+import requests
 
 
 class YoutubeAPI:
@@ -25,19 +26,25 @@ class YoutubeAPI:
         self.spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
             client_id=spotify_client_id, client_secret=spotify_client_secret))
 
-    def get_genre(self, artist, title):
-        results = self.spotify.search(q='artist:' + artist, type='artist')
-        if results['artists']['items']:
-            genres = results['artists']['items'][0]['genres']
-            if genres:
-                return genres[0]
+    def get_genre(self, artist, title, retries=3):
         try:
-            track = self.lastfm_network.get_track(artist, title)
-            top_tags = track.get_top_tags()
-            if top_tags:
-                return top_tags[0].item.get_name()
-        except pylast.WSError:
-            pass
+            results = self.spotify.search(q='artist:' + artist, type='artist')
+            if results['artists']['items']:
+                genres = results['artists']['items'][0]['genres']
+                if genres:
+                    return genres[0]
+            try:
+                track = self.lastfm_network.get_track(artist, title)
+                top_tags = track.get_top_tags()
+                if top_tags:
+                    return top_tags[0].item.get_name()
+            except pylast.WSError:
+                pass
+        except requests.exceptions.ReadTimeout:
+            if retries > 0:
+                print("The request to the Spotify API timed out. Retrying...")
+                time.sleep(5)
+                return self.get_genre(artist, title, retries-1)
         return 'Unknown'
 
     def get_playlist_info(self, playlist_id, retries=3):

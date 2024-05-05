@@ -42,7 +42,7 @@ class Playlist:
                 print(f"🚫 not music {item['title']} // {item['artist']}")
             else:
                 downloader.download_audio(
-                    playlist_name, item['video_id'], item['video_url'], item['title'], item['thumbnail_url'], item['artist'], item['album'])
+                    playlist_name, item['video_id'], item['video_url'], item['title'], item['thumbnail_url'], item['artist'], item['album'], item['genre'])
 
     def process_video(self):
         print(f'go for video 📺 {self.playlist_id}')
