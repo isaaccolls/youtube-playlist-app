@@ -5,6 +5,7 @@
         "title": "Caraluna",
         "thumbnail_url": "https://lh3.googleusercontent.com/1jit7imGggIwBuS9UDDd7MI1abDYiDt3efdl-FyshKvdnEAeOSEz1d66olP7t7SGdJqcECuYGaqwrchjrQ=w120-h120-s-l90-rj",
         "artist": "Bacilos",
+        "genre": "colombian pop",
         "album": "Caraluna",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -14,6 +15,7 @@
         "title": "Mi Primer Millon",
         "thumbnail_url": "https://lh3.googleusercontent.com/1jit7imGggIwBuS9UDDd7MI1abDYiDt3efdl-FyshKvdnEAeOSEz1d66olP7t7SGdJqcECuYGaqwrchjrQ=w120-h120-s-l90-rj",
         "artist": "Bacilos",
+        "genre": "colombian pop",
         "album": "Caraluna",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -23,6 +25,7 @@
         "title": "GIRL LIKE ME",
         "thumbnail_url": "https://lh3.googleusercontent.com/YJuu4RnDkK-yXe-BWSB4Cz8lmpy6VnOQ97hrc-xQ4LYxFIPtJguyq1q-8pyIUHk7Ka3JP7ay_qvNiCY8=w120-h120-l90-rj",
         "artist": "Black Eyed Peas",
+        "genre": "dance pop",
         "album": "TRANSLATION",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -32,6 +35,7 @@
         "title": "DON'T YOU WORRY",
         "thumbnail_url": "https://lh3.googleusercontent.com/m6kgRvgrCyaRF9YlXq21pMn8wUg8RHQAyVErzAc1r3GMZrUVIeY5SzTV0sB7XkfdvRvgde-goh0X128r=w120-h120-l90-rj",
         "artist": "Black Eyed Peas, Shakira & David Guetta",
+        "genre": "linedance 2022",
         "album": "DON'T YOU WORRY",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -41,6 +45,7 @@
         "title": "Finesse",
         "thumbnail_url": "https://lh3.googleusercontent.com/L0TeCOIXRykdcItgMBf2qrO72RDFn59k3wLd3OFlXO3y4dfrSeR-jD1NCPKiJsRN7gaf4ot_dWSVjfwXZA=w120-h120-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "24K Magic",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -50,6 +55,7 @@
         "title": "That's What I Like",
         "thumbnail_url": "https://lh3.googleusercontent.com/L0TeCOIXRykdcItgMBf2qrO72RDFn59k3wLd3OFlXO3y4dfrSeR-jD1NCPKiJsRN7gaf4ot_dWSVjfwXZA=w120-h120-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "24K Magic",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -59,6 +65,7 @@
         "title": "Treasure",
         "thumbnail_url": "https://lh3.googleusercontent.com/G0DdKHD3qkCLaXMzK0z3m6Nl8WWGO4QqN64s2hUZp-89Jx_kFNOwbAQQk3ozZe6Bnba_24e0pg0NHxsP=w120-h120-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "Dig! Throwback",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -68,6 +75,7 @@
         "title": "Just the Way You Are",
         "thumbnail_url": "https://lh3.googleusercontent.com/-MBagZMcp-AsKziX22bIEvPjNlxPPyU8hgXC07dXlt9GmlBTA1hZI9yyAuCP0mswnSBNRMOvoI1y9_Y=w120-h120-s-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "Doo-Wops & Hooligans",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -77,6 +85,7 @@
         "title": "Liquor Store Blues (feat. Damian Marley)",
         "thumbnail_url": "https://lh3.googleusercontent.com/-MBagZMcp-AsKziX22bIEvPjNlxPPyU8hgXC07dXlt9GmlBTA1hZI9yyAuCP0mswnSBNRMOvoI1y9_Y=w120-h120-s-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "Doo-Wops & Hooligans",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -86,6 +95,7 @@
         "title": "Marry You",
         "thumbnail_url": "https://lh3.googleusercontent.com/-MBagZMcp-AsKziX22bIEvPjNlxPPyU8hgXC07dXlt9GmlBTA1hZI9yyAuCP0mswnSBNRMOvoI1y9_Y=w120-h120-s-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "Doo-Wops & Hooligans",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -95,6 +105,7 @@
         "title": "The Lazy Song",
         "thumbnail_url": "https://lh3.googleusercontent.com/-MBagZMcp-AsKziX22bIEvPjNlxPPyU8hgXC07dXlt9GmlBTA1hZI9yyAuCP0mswnSBNRMOvoI1y9_Y=w120-h120-s-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "Doo-Wops & Hooligans",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -104,6 +115,7 @@
         "title": "Locked out of Heaven",
         "thumbnail_url": "https://lh3.googleusercontent.com/m0WX28nJGAiRC8PgPrT7LrC5vRTWlSlQmnelZb2VR0HWDS-e8GPO0MvhEPM0C-KTjTtnvZsOS1R8y1cg=w120-h120-l90-rj",
         "artist": "Bruno Mars",
+        "genre": "dance pop",
         "album": "Unorthodox Jukebox",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -113,6 +125,7 @@
         "title": "Eres",
         "thumbnail_url": "https://lh3.googleusercontent.com/xoJ15bxIKExZp7qBN7--WeFace5fKra7aeC_tjg32CQKe8-r-p2SFPMr3pJ2Yox4ZVgUOYid4-KtTJr7GQ=w120-h120-s-l90-rj",
         "artist": "Caf\u00e9 Tacvba",
+        "genre": "latin alternative",
         "album": "Cuatro Caminos",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -122,6 +135,7 @@
         "title": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
         "thumbnail_url": "https://lh3.googleusercontent.com/VHdOBJElHdTf7hsG9c3jlmG68hB_z-jB0KR-lhCQET0ksmn70QWKo_emVsxsxd1oFMTZVEpdWgSq_cM=w120-h120-l90-rj",
         "artist": "Calvin Harris",
+        "genre": "dance pop",
         "album": "Funk Wav Bounces Vol.1",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -131,6 +145,7 @@
         "title": "Vida de Rico",
         "thumbnail_url": "https://lh3.googleusercontent.com/7NEp_92ahtCUPkdh__Del8sT9BcyJAoZMk9cdnkfs9xyVPAGOhTwr-5MbPbvituvtHacu8YgIBAMKpvK=w120-h120-l90-rj",
         "artist": "Camilo",
+        "genre": "colombian pop",
         "album": "Mis Manos",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -140,6 +155,7 @@
         "title": "\u00cdndigo",
         "thumbnail_url": "https://lh3.googleusercontent.com/YWI7T4uvAIcmCV-fNFNFLgE1pBPaGrNVbCGsGD3D3_xTt7gyPvA7qZa5vNgQrBRspLi4D7-MnqSb2Ao_=w120-h120-l90-rj",
         "artist": "Camilo & Evaluna Montaner",
+        "genre": "Unknown",
         "album": "\u00cdndigo",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -149,6 +165,7 @@
         "title": "Call Me Maybe",
         "thumbnail_url": "https://lh3.googleusercontent.com/74iPDM13qn-WhH5hMEmsO3A0mXvE5fAYYjNfO0rzRvA4DvjwoGoZN3S3fp8yJVAJB5PwQqUvldC9U8S_=w120-h120-l90-rj",
         "artist": "Carly Rae Jepsen",
+        "genre": "canadian pop",
         "album": "Kiss",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -158,6 +175,7 @@
         "title": "Symphony (feat. Zara Larsson)",
         "thumbnail_url": "https://lh3.googleusercontent.com/Xy3KoIfXgwX1zSWADUZRtnvxM2r1zjnXU9-fqqxJMT3Ms2VQ10_R8XsKAHScsaXPA9fClXVvfacs5xEKSA=w120-h120-l90-rj",
         "artist": "Clean Bandit",
+        "genre": "pop",
         "album": "What Is Love? (Deluxe Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -167,6 +185,7 @@
         "title": "God's Plan",
         "thumbnail_url": "https://lh3.googleusercontent.com/9Oe4acEXgmAlCKgcgI6JlSXi2Tj30u6anzvfGBrunGO-fLhBTgzy-ei1ugPJpZDD5ArKFod9H4RTA5g0=w120-h120-l90-rj",
         "artist": "Drake",
+        "genre": "canadian hip hop",
         "album": "Scorpion",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -176,6 +195,7 @@
         "title": "New Rules",
         "thumbnail_url": "https://lh3.googleusercontent.com/DAMVezymoY4RlzZWQiddgnKVZ-BxHF4_GdHEn7nz4YDUD_dZA2ndqsoAFpjJ9vAccsTYsRNacdzingE=w120-h120-l90-rj",
         "artist": "Dua Lipa",
+        "genre": "dance pop",
         "album": "Dua Lipa (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -185,6 +205,7 @@
         "title": "Don't Start Now",
         "thumbnail_url": "https://lh3.googleusercontent.com/UpJ_IhBqyhQV9b2UGcDxxWDm14kRQ2eY1o9S96AGsbE7Ol8isbpbPA0Yefvg8S8ZGAX9L1g4xaj21zVJ=w120-h120-l90-rj",
         "artist": "Dua Lipa",
+        "genre": "dance pop",
         "album": "Future Nostalgia",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -194,6 +215,7 @@
         "title": "Castle on the Hill",
         "thumbnail_url": "https://lh3.googleusercontent.com/xpDEOr2TeqEn1QpXosXhqtj149FzNnTgAG3oqPnpTxTbQk-oceO90Sz4Axq0s4Jp_QLGQha_um6_EG3WGQ=w120-h120-l90-rj",
         "artist": "Ed Sheeran",
+        "genre": "pop",
         "album": "\u00f7 (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -203,6 +225,7 @@
         "title": "Burn",
         "thumbnail_url": "https://lh3.googleusercontent.com/nnQWsrV2qp-gAqrkLRzFBkLttuTI-9zytM5qCO742jyRbfp3Vps41rGp9LcCS9m9qOAh4HMp8-VxJjU=w120-h120-l90-rj",
         "artist": "Ellie Goulding",
+        "genre": "indietronica",
         "album": "Halcyon Nights",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -212,6 +235,7 @@
         "title": "Crazy",
         "thumbnail_url": "https://lh3.googleusercontent.com/EPk9WJeL0oHUkR-E9epQRs9erHzVqQHowqnbZEsYg77fOG91B1lxLqKp0fNuShsdGh-2p1wgdpTAKb9Ttg=w120-h120-s-l90-rj",
         "artist": "Gnarls Barkley",
+        "genre": "atl hip hop",
         "album": "St. Elsewhere",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -221,6 +245,7 @@
         "title": "Somebody That I Used To Know (feat. Kimbra)",
         "thumbnail_url": "https://lh3.googleusercontent.com/Mec0zeof6z-TkwToxxv3Fs6GjyUmifRDUJeEq200VC3_Tla3Sx4S6UfLTK8uNuPB8Q-RaPm4DU5B-EeQ=w120-h120-l90-rj",
         "artist": "Gotye",
+        "genre": "australian pop",
         "album": "Making Mirrors",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -230,6 +255,7 @@
         "title": "Thunder",
         "thumbnail_url": "https://lh3.googleusercontent.com/weYQWfEwWNPOuAm34geXN1LkSYPlsJay78NnQgHC3PKsyZcdvBHIsMtqoFh3rioA4XgMdHMQd3h6vH6mbA=w120-h120-l90-rj",
         "artist": "Imagine Dragons",
+        "genre": "modern rock",
         "album": "Evolve",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -239,6 +265,7 @@
         "title": "Nada Valgo Sin Tu Amor",
         "thumbnail_url": "https://lh3.googleusercontent.com/yvo0O6-7ae5vtj6pdO_Cv1MzioHdLW4zfACAP4LWZVJ9rd0N5E1jWckEUUgplhbLCjgzeAfw0MX-2fQu7w=w120-h120-s-l90-rj",
         "artist": "Juanes",
+        "genre": "colombian pop",
         "album": "Mi Sangre",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -248,6 +275,7 @@
         "title": "Es Por Ti",
         "thumbnail_url": "https://lh3.googleusercontent.com/ekEyhKz1OXn6oSLXiB_yVQJyHobjfL6uaD7DmCwUXLLq2y18XeNkaXoWnCYOkOkw6KpAdkX0TKNKHDW1=w120-h120-s-l90-rj",
         "artist": "Juanes",
+        "genre": "colombian pop",
         "album": "Un D\u00eda Normal",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -257,6 +285,7 @@
         "title": "Sorry",
         "thumbnail_url": "https://lh3.googleusercontent.com/Be4u9Ce9rGZfFZ8ML_EQrYpMGXv8vqVUVVHS2yZaMeThrIAqx2LytIGVZxin7-blzTdUFZdtZyCDmq6D=w120-h120-l90-rj",
         "artist": "Justin Bieber",
+        "genre": "canadian pop",
         "album": "Purpose",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -266,6 +295,7 @@
         "title": "MIENTRAS ME CURO DEL CORA",
         "thumbnail_url": "https://lh3.googleusercontent.com/Ao6HZJhSwmVZJ2TzgOtqLQ1j1iEKshnw5SA9G8aMwCpy-rNqE5UYFwVrSEEFt5nNOtPayoNJA4e20S9LmA=w120-h120-l90-rj",
         "artist": "KAROL G",
+        "genre": "reggaeton",
         "album": "MA\u00d1ANA SER\u00c1 BONITO",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -275,6 +305,7 @@
         "title": "Dark Horse (feat. Juicy J)",
         "thumbnail_url": "https://lh3.googleusercontent.com/rK_0RWon3UaVXylUo66duU3atE3QW81S-hY0QYvojnpBTtos_bLKwRRek1QnXkc75-ltfORlmd4zhxdyQQ=w120-h120-l90-rj",
         "artist": "Katy Perry",
+        "genre": "pop",
         "album": "PRISM (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -284,6 +315,7 @@
         "title": "Roar",
         "thumbnail_url": "https://lh3.googleusercontent.com/rK_0RWon3UaVXylUo66duU3atE3QW81S-hY0QYvojnpBTtos_bLKwRRek1QnXkc75-ltfORlmd4zhxdyQQ=w120-h120-l90-rj",
         "artist": "Katy Perry",
+        "genre": "pop",
         "album": "PRISM (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -293,6 +325,7 @@
         "title": "Tengo Un Plan",
         "thumbnail_url": "https://lh3.googleusercontent.com/s-Kq-bK0mlMR6jbg1LO3OLo92NieehHZMN7xoJQH2aPfIIESU1OyjryjFA0_CILstTCW7nWDt89_1xM=w120-h120-l90-rj",
         "artist": "Key-Key",
+        "genre": "memphis hip hop",
         "album": "Tengo Un Plan",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -302,6 +335,7 @@
         "title": "Fire Hive",
         "thumbnail_url": "https://lh3.googleusercontent.com/ViHyTT6wBHJrymuluoZgzy0mbWdmZchj556evRezqVB2Gjx6BGM72RidXVdwopaj0aTwGFXobbZIkFcWCQ=w120-h120-l90-rj",
         "artist": "Knife Party",
+        "genre": "australian dance",
         "album": "100% No Modern Talking",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -311,6 +345,7 @@
         "title": "This Girl (Kungs Vs. Cookin' On 3 Burners) (Kungs Vs. Cookin' On 3 Burners)",
         "thumbnail_url": "https://lh3.googleusercontent.com/tyKzasvYUGESVVNrq-qNbZ604iqRfvJiHuQiSnMF4UQ8Mu6ygqPbouKA7mRgQ1Urlt8KSrRfa8e3ybXB=w120-h120-l90-rj",
         "artist": "Kungs & Cookin' On 3 Burners",
+        "genre": "Unknown",
         "album": "Layers",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -320,6 +355,7 @@
         "title": "Corriendo Con Tijeras",
         "thumbnail_url": "https://lh3.googleusercontent.com/9DTeFfS6SaQ6Gs3VTscJuy1Whpwh60eSoSWGU_OlqIQBioIb4xOGjO0m-Cfj2ht_U8piBouNru1IU8q1=w120-h120-l90-rj",
         "artist": "Lasso",
+        "genre": "pop venezolano",
         "album": "Corriendo Con Tijeras",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -329,6 +365,7 @@
         "title": "Hasta Ese D\u00eda",
         "thumbnail_url": "https://lh3.googleusercontent.com/Ir3vfXiodvoftORhS0p8gdQjJPh6foqtLxl2ZyTEoPljSoGq-3HqdNEgRe7qO69at6_YLAlFWUeyXKsC=w120-h120-l90-rj",
         "artist": "Lasso",
+        "genre": "pop venezolano",
         "album": "Cuatro Estaciones",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -338,6 +375,7 @@
         "title": "Ojos Marrones",
         "thumbnail_url": "https://lh3.googleusercontent.com/O0J3qXgZFQHDLHDbSN78NF3bxCeK_Y2NfUjhTUJTNfVKkic7Lmde9rubBI-Pbm2oQLkDAGakukVnpl0=w120-h120-l90-rj",
         "artist": "Lasso",
+        "genre": "pop venezolano",
         "album": "Ojos Marrones",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -347,6 +385,7 @@
         "title": "Odio Que No Te Odio",
         "thumbnail_url": "https://lh3.googleusercontent.com/RAS7Ex9HuUv97dS2zB6Nc2Nyn0WpKTsm6oVthj5mO1IWCOhOZfbGh9rA3dmU0LAEsLNeqYyHxIbHCgcQ=w120-h120-l90-rj",
         "artist": "Lasso & Cami",
+        "genre": "Unknown",
         "album": "Odio Que No Te Odio",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -356,6 +395,7 @@
         "title": "Un Mill\u00f3n Como T\u00fa",
         "thumbnail_url": "https://lh3.googleusercontent.com/Bg84zKp324YKkjyJasMCVOhjbeqvnH2fS0EYRvanVqRXTlBQk6NO_o41ziTK1RroCr0mC4jKP95B-aOm=w120-h120-l90-rj",
         "artist": "Lasso & Cami",
+        "genre": "Unknown",
         "album": "Un Mill\u00f3n Como T\u00fa",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -365,6 +405,7 @@
         "title": "Subt\u00edtulos",
         "thumbnail_url": "https://lh3.googleusercontent.com/Ir3vfXiodvoftORhS0p8gdQjJPh6foqtLxl2ZyTEoPljSoGq-3HqdNEgRe7qO69at6_YLAlFWUeyXKsC=w120-h120-l90-rj",
         "artist": "Lasso & Danna Paola",
+        "genre": "Unknown",
         "album": "Cuatro Estaciones",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -374,6 +415,7 @@
         "title": "Ojos Marrones (Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/hcTuUmhCcDH31aKunPYRmTKBwjye4CluKrVo_5dx3ZrWZ3q6psxoOaNbkjpcbSEa_dqzZ-VlYXvO0GRO=w120-h120-l90-rj",
         "artist": "Lasso & Sebasti\u00e1n Yatra",
+        "genre": "Unknown",
         "album": "Mix de Octubre",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -383,6 +425,7 @@
         "title": "Ojos Marrones (Con Sebasti\u00e1n Yatra)",
         "thumbnail_url": "https://lh3.googleusercontent.com/VGT60AOM3LMvc4b7os8_6ILCl12oQoVJ3HuKY153K4bfIbbYRloz8pXnN0P3OAFsn0ZH_plz5tBvQi5LKw=w120-h120-l90-rj",
         "artist": "Lasso & Sebasti\u00e1n Yatra",
+        "genre": "Unknown",
         "album": "Ojos Marrones",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -392,6 +435,7 @@
         "title": "Rude",
         "thumbnail_url": "https://lh3.googleusercontent.com/a-H-DATHq83Mn4N5MkCtiCYfTzL_TNPuDfVNwaTpRx0d-iqVCRZu_LBsKVFmHxRLujYw6VOg_Mgy3JHI=w120-h120-l90-rj",
         "artist": "MAGIC!",
+        "genre": "reggaeton",
         "album": "Don't Kill the Magic",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -401,6 +445,7 @@
         "title": "Payphone (feat. Wiz Khalifa)",
         "thumbnail_url": "https://lh3.googleusercontent.com/aqUChJrezGmTQ2x4_-Xj28XFlUVDIqEC2f_lEugI5EYRInPjlDyzBK1G5zwdlIEuBm3wDlJEu2O7F90Z=w120-h120-l90-rj",
         "artist": "Maroon 5",
+        "genre": "pop",
         "album": "Overexposed",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -410,6 +455,7 @@
         "title": "Girls Like You (Cardi B Version) (feat. Cardi B)",
         "thumbnail_url": "https://lh3.googleusercontent.com/ukH2eUwVN4dgJR_xTGjFuPUp0NkLnUINgEBHDGglldxDEor4GAXiC_Ssln8x6-BBsnjsu-hH149u_ao=w120-h120-l90-rj",
         "artist": "Maroon 5",
+        "genre": "pop",
         "album": "Red Pill Blues",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -419,6 +465,7 @@
         "title": "Sugar",
         "thumbnail_url": "https://lh3.googleusercontent.com/4igiWMyX-TCOC4EwsL4hGJz4Z1QVSSLCrqAySMivS_UHkAjGQA7BqCf7iaaDQPSciW1T8xfDeDqP7iLzEA=w120-h120-l90-rj",
         "artist": "Maroon 5",
+        "genre": "pop",
         "album": "V (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -428,6 +475,7 @@
         "title": "Flowers",
         "thumbnail_url": "https://lh3.googleusercontent.com/umJNTu_qH_THEHP4XsOb4bMCjKn1nka4c8iz8Vs791pB5aroCWwq4aHC9ds5kCnONrgNUPgPadWnecak=w120-h120-l90-rj",
         "artist": "Miley Cyrus",
+        "genre": "pop",
         "album": "Flowers",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -437,6 +485,7 @@
         "title": "Counting Stars",
         "thumbnail_url": "https://lh3.googleusercontent.com/m2pZLjozMvQBj21LgvAIslVPP-T2xQlxbxCTJ98vpPN8HZ0fgR-wisJQ2IzrKS2yLTAYBjs0TpOYnIY=w120-h120-l90-rj",
         "artist": "OneRepublic",
+        "genre": "piano rock",
         "album": "Native",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -446,6 +495,7 @@
         "title": "Feel This Moment (feat. Christina Aguilera)",
         "thumbnail_url": "https://lh3.googleusercontent.com/APWFDkXKjxkgvk3IP_uOrocW69Q37UfSm3Vd1s2gOI-ko6L9gJpqep5NggIEuqcuS6BxZzfIpN57SlTG=w120-h120-s-l90-rj",
         "artist": "Pitbull",
+        "genre": "dance pop",
         "album": "Global Warming (Deluxe Version)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -455,6 +505,7 @@
         "title": "Todo de Ti",
         "thumbnail_url": "https://lh3.googleusercontent.com/PGZvpR1LqIYvJd9g_CB0n_3EDumnPAA4kDo7vUqLhQ5vkrwwaNsEkc6jnsmx-ZwPenhnDmNq3Tvt_urCiA=w120-h120-l90-rj",
         "artist": "Rauw Alejandro",
+        "genre": "puerto rican pop",
         "album": "VICE VERSA",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -464,6 +515,7 @@
         "title": "Todo De Ti",
         "thumbnail_url": "https://lh3.googleusercontent.com/C7_AWRi-Uj22Abb7ERe7HowFqP_xWTOrnb0tNMqr1fAKAY2HzVnO9Dq5KFkqMNkzR5qEmUa95lcYXJ1E=w120-h120-l90-rj",
         "artist": "Reggaeton Urbano",
+        "genre": "Unknown",
         "album": "Reggaeton Suave",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -473,6 +525,7 @@
         "title": "Yo Quisiera",
         "thumbnail_url": "https://lh3.googleusercontent.com/N42N0xZ3qNaJ1Fv9jFc44X1D33gmqII3seFR1_tKdao-YdAkYVy0YW6UBJTkST9tQgvPUCBG94Lez18avw=w120-h120-l90-rj",
         "artist": "Reik",
+        "genre": "latin arena pop",
         "album": "Reik",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -482,6 +535,7 @@
         "title": "Calm Down",
         "thumbnail_url": "https://lh3.googleusercontent.com/kTxtxmzJ-4CKH_7InmwvuAMpJncOg2-HcZjSL2V-21OQo87TBSGqmHdKajnEhTyKQdELwV_FfIfyvJ4=w120-h120-l90-rj",
         "artist": "Rema & Selena Gomez",
+        "genre": "pop",
         "album": "Rave & Roses Ultra",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -491,6 +545,7 @@
         "title": "Historia de Taxi",
         "thumbnail_url": "https://lh3.googleusercontent.com/Lof5rYVKCzZtUfvUtZ7RZcC6XWeuaAQ6qsGIkarsYUB6M0-vrwpasVgmGtBk2tO051NBd5NACk3uWrg=w120-h120-l90-rj",
         "artist": "Ricardo Arjona",
+        "genre": "cantautor",
         "album": "Historias",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -500,6 +555,7 @@
         "title": "El Problema",
         "thumbnail_url": "https://lh3.googleusercontent.com/a8r_iPwR7KBsw20kGK1n5-dZ8x1MZcx3220WF-qh83NoZcQadNt8WDfBxjgAAur_RjbyjjMFAqfhc3Q=w120-h120-l90-rj",
         "artist": "Ricardo Arjona",
+        "genre": "cantautor",
         "album": "Santo Pecado",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -509,6 +565,7 @@
         "title": "Minutos",
         "thumbnail_url": "https://lh3.googleusercontent.com/a8r_iPwR7KBsw20kGK1n5-dZ8x1MZcx3220WF-qh83NoZcQadNt8WDfBxjgAAur_RjbyjjMFAqfhc3Q=w120-h120-l90-rj",
         "artist": "Ricardo Arjona",
+        "genre": "cantautor",
         "album": "Santo Pecado",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -518,6 +575,7 @@
         "title": "Diamonds",
         "thumbnail_url": "https://lh3.googleusercontent.com/CjmoWDBH4kQKmmdQwZcKF_cv4jdlhsE24OJnKMuTSw5rOFQ9mEwnqRuLb_PZgrXIVmSulZOFvuymGdw6=w120-h120-l90-rj",
         "artist": "Rihanna",
+        "genre": "barbadian pop",
         "album": "Unapologetic",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -527,6 +585,7 @@
         "title": "We Found Love",
         "thumbnail_url": "https://lh3.googleusercontent.com/zmlRluJ_elAqb0QDneBX3cg8tG4DSTdE8g9W6WlkR57PikkQMSjoBayrtClLG4qPizXQsEnDNbA0VBPDBA=w120-h120-l90-rj",
         "artist": "Rihanna & Calvin Harris",
+        "genre": "shame that they made so bad track",
         "album": "Talk That Talk",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -536,6 +595,7 @@
         "title": "Tacones Rojos",
         "thumbnail_url": "https://lh3.googleusercontent.com/wknyb5nhcSqrBHTG2vMFmvJsF5QGspf2RREyUXWEQ_xelop8BJVQT2sQjGX7TC6s3AVLHtpQbF8OLhTU=w120-h120-l90-rj",
         "artist": "Sebasti\u00e1n Yatra",
+        "genre": "colombian pop",
         "album": "Dharma",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -545,6 +605,7 @@
         "title": "Love You Like a Love Song",
         "thumbnail_url": "https://lh3.googleusercontent.com/Peb_pNRV-5OqjbQ0hiwt6P9zf9GRMniMdaavpUfa-jSYZ9YLkul8c6u8Bh4TXLihsDyBI9kJI_gojF2Q1g=w120-h120-l90-rj",
         "artist": "Selena Gomez & The Scene",
+        "genre": "pop",
         "album": "When the Sun Goes Down",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -554,6 +615,7 @@
         "title": "Chandelier",
         "thumbnail_url": "https://lh3.googleusercontent.com/YTKwsJicv1Hi6R5qJpgiBAkNcWPYOVSGMsqRM8bmhKuMHDWk2zJ3ee3UcT930KmId02LYThjfGoBAEib=w120-h120-l90-rj",
         "artist": "Sia",
+        "genre": "australian dance",
         "album": "1000 Forms Of Fear (Deluxe Version)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -563,6 +625,7 @@
         "title": "Cheap Thrills",
         "thumbnail_url": "https://lh3.googleusercontent.com/p27-yULJr9QtyiKZ_C4hoy92A9COtzxBAtx62OueZUeiUU4ZZLttlASDms2GyqlWaCX6FlKYXIiDVUgP=w120-h120-l90-rj",
         "artist": "Sia",
+        "genre": "australian dance",
         "album": "Cheap Thrills",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -572,6 +635,7 @@
         "title": "Bad Blood",
         "thumbnail_url": "https://lh3.googleusercontent.com/-jaWr9K7U0bJoqMv50tihlvf1QXe_y-dmvw_z_40gA9bPj4PhfRPobOdQndQIoCxsFDWRyEoP0Rben8=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "1989",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -581,6 +645,7 @@
         "title": "Blank Space",
         "thumbnail_url": "https://lh3.googleusercontent.com/GcrDhHXqrPm4BjS-4L1c0OHC9iz0ZxmFeRur2A6Aqo9Vm7OfFCBOSVbRzp1M1D1s_3rsvKaC7w6kku0=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "1989 (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -590,6 +655,7 @@
         "title": "Shake It Off",
         "thumbnail_url": "https://lh3.googleusercontent.com/GcrDhHXqrPm4BjS-4L1c0OHC9iz0ZxmFeRur2A6Aqo9Vm7OfFCBOSVbRzp1M1D1s_3rsvKaC7w6kku0=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "1989 (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -599,6 +665,7 @@
         "title": "You Belong With Me",
         "thumbnail_url": "https://lh3.googleusercontent.com/YEcmx-25aRBMaKNTvCx17QboP0KCJq2jqKdjpjLImqA60wWE2AZV_ZdQa417ZEmAkK7ipsEt1m0DEI-Z9A=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "Fearless (Platinum Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -608,6 +675,7 @@
         "title": "Love Story (Taylor\u2019s Version)",
         "thumbnail_url": "https://lh3.googleusercontent.com/huIYugJjpimikk-tSDJyDU09Jr8vDVJuLOh5uGG6T45c5MEtYvFW_9NlqkHHSaLl231kLBgAS8rtDfQ=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "Love Story (Taylor\u2019s Version)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -617,6 +685,7 @@
         "title": "Cruel Summer",
         "thumbnail_url": "https://lh3.googleusercontent.com/OhxDTHQOQzSrcdgH9hzqzp1v22GYDE-QKnkryvCeq4ddx-3K3_c8oDXN0E6NvHlMn1q4XV59aHr0oL4f=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "Lover",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -626,6 +695,7 @@
         "title": "Anti-Hero",
         "thumbnail_url": "https://lh3.googleusercontent.com/omCs21jqwK4Ss_VZxPFKwQP5z0UY0vi_8gXu4XNxHKDgE-GHYHWkIw80XR1uzFgdyhM3PvVUZeZ8iAfF=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "Midnights",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -635,6 +705,7 @@
         "title": "We Are Never Ever Getting Back Together",
         "thumbnail_url": "https://lh3.googleusercontent.com/_HJASc9B_QXn2yoUBn4ZLkn6ka8o_CYX4hNT3HQSeIRcqStiJU15VVtOwlaoFV4KqhJK3d-0W0sw3yQ=w120-h120-l90-rj",
         "artist": "Taylor Swift",
+        "genre": "pop",
         "album": "Red",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -644,6 +715,7 @@
         "title": "Where Is the Love?",
         "thumbnail_url": "https://lh3.googleusercontent.com/I-sN5DMyYv-BGa1Icgj0dxnhyf-6mFTH3qFKKws6cWBeryTD9TUvX_3KLbL4X-2btaemtRMFl9XYkXC1=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
+        "genre": "Hip-Hop",
         "album": "Elephunk",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -653,6 +725,7 @@
         "title": "Let's Get It Started (Spike Mix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/L_DqofJcadN9Oe843DunQ-07MjgK8DJ_G0pXvVO3vRdJe2aIyEziSnSaL6TQoatEWPJOW-_WGqd1vck=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
+        "genre": "Hip-Hop",
         "album": "Let's Get It Started (The Urbz edition EP)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -662,6 +735,7 @@
         "title": "I Gotta Feeling",
         "thumbnail_url": "https://lh3.googleusercontent.com/SPVfJZ3aTXrhsM87BAV5ULDUXUF32Ia3n5qTPazx3R2Ir7ox0kaWf1vYSxR9Oiq3_7wv_vUA4ZBgnA=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
+        "genre": "pop",
         "album": "THE E.N.D. (THE ENERGY NEVER DIES) (International Version)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -671,6 +745,7 @@
         "title": "Just Can\u2019t Get Enough",
         "thumbnail_url": "https://lh3.googleusercontent.com/3MdzHSrVwKo8gp_R0Fdl6kQQ6OGkixVc1iKf39UX2Ff2HEjr7ikYg6IVgB9YSJL3WV9_dqmbAM8Iuy79nQ=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
+        "genre": "pop",
         "album": "The Beginning",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -680,6 +755,7 @@
         "title": "The Time (Dirty Bit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/3MdzHSrVwKo8gp_R0Fdl6kQQ6OGkixVc1iKf39UX2Ff2HEjr7ikYg6IVgB9YSJL3WV9_dqmbAM8Iuy79nQ=w120-h120-l90-rj",
         "artist": "The Black Eyed Peas",
+        "genre": "dance",
         "album": "The Beginning",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -689,6 +765,7 @@
         "title": "Can't Feel My Face",
         "thumbnail_url": "https://lh3.googleusercontent.com/RNsC4IIArffVIpusLyonzKv_ijRbLmZYXkrQtKNrtLomjWr_sGnvPoDRoNSSDzq9F_ax-TOFmxuYS6hMRg=w120-h120-l90-rj",
         "artist": "The Weeknd",
+        "genre": "canadian contemporary r&b",
         "album": "Beauty Behind The Madness",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -698,6 +775,7 @@
         "title": "I Feel It Coming (feat. Daft Punk)",
         "thumbnail_url": "https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ=w120-h120-l90-rj",
         "artist": "The Weeknd",
+        "genre": "canadian contemporary r&b",
         "album": "Starboy",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -707,6 +785,7 @@
         "title": "Starboy (feat. Daft Punk)",
         "thumbnail_url": "https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ=w120-h120-l90-rj",
         "artist": "The Weeknd",
+        "genre": "canadian contemporary r&b",
         "album": "Starboy",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -716,6 +795,7 @@
         "title": "Save Your Tears ((Remix) Bonus Track)",
         "thumbnail_url": "https://lh3.googleusercontent.com/Ds4HZUl-Cziy9wW0zGv5_rRw0fGc01a3rMZ6mB27HkSTtVLaPwUpPaXdoISHAH3XprkYyPfIEcSpmPy-=w120-h120-l90-rj",
         "artist": "The Weeknd & Ariana Grande",
+        "genre": "Unknown",
         "album": "After Hours (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -725,6 +805,7 @@
         "title": "Dance Monkey",
         "thumbnail_url": "https://lh3.googleusercontent.com/hDSzLR6UDLcfxL6Hl9k5kJ6KmDTOavpr-GSCPyKgZTlPZuFcbNFTBI8O9HJR_i-Ts_bGg6bn9-3AGSu1=w120-h120-l90-rj",
         "artist": "Tones And I",
+        "genre": "australian pop",
         "album": "Dance Monkey",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -734,6 +815,7 @@
         "title": "See You Again (feat. Charlie Puth)",
         "thumbnail_url": "https://lh3.googleusercontent.com/7H6mrIDvzOTwfiHo-68P6zIWvhx8RwZE1f4M1mbjrDbOHII6mcW_-DXZBs8kO7hXejMT8LGeJfp-ULKm=w120-h120-l90-rj",
         "artist": "Wiz Khalifa",
+        "genre": "hip hop",
         "album": "See You Again",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -743,6 +825,7 @@
         "title": "Ride",
         "thumbnail_url": "https://lh3.googleusercontent.com/H1px0o3ZVeyqTdLXwqLpJxbFj8wwxGHgAD-sLE8Bmog8l8-ZecP469Q00yHyid4_zcWsGaYpZi9uDThENw=w120-h120-l90-rj",
         "artist": "twenty one pilots",
+        "genre": "modern rock",
         "album": "Blurryface",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -752,6 +835,7 @@
         "title": "Stressed Out",
         "thumbnail_url": "https://lh3.googleusercontent.com/H1px0o3ZVeyqTdLXwqLpJxbFj8wwxGHgAD-sLE8Bmog8l8-ZecP469Q00yHyid4_zcWsGaYpZi9uDThENw=w120-h120-l90-rj",
         "artist": "twenty one pilots",
+        "genre": "modern rock",
         "album": "Blurryface",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }

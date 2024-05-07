@@ -1235,7 +1235,7 @@
         "title": "Love The Way You Lie",
         "thumbnail_url": "https://lh3.googleusercontent.com/Hn8AuqZcPBZIxBxCL7fCscTnQpyXHOaEkporTukq1GkyLB3aWjia5Q5Ff5LJWe_FN3EhACT5Bgfefuc4=w120-h120-l90-rj",
         "artist": "A Skylit Drive",
-        "genre": "melodic metalcore",
+        "genre": "metalcore",
         "album": "Punk Goes Pop, Vol. 4",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -10920,6 +10920,46 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "qbupw2ibzcs",
+        "video_url": "https://www.youtube.com/watch?v=qbupw2ibzcs",
+        "title": "Castillo Eterno (feat. Prieto Gang & Rekeson)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3Ua5W2uuHh97yTmaVenMoGYkO8_kK7TXUCnWOmV0F8J_JAQjVhNN9VHk16ASho8iXCjfTWE3dE9ovd5f=w120-h120-l90-rj",
+        "artist": "Familia Subterranea",
+        "genre": "venezuelan hip hop",
+        "album": "Venezuela Subterranea",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "XNfkhTdLTxE",
+        "video_url": "https://www.youtube.com/watch?v=XNfkhTdLTxE",
+        "title": "La Bella y las Bestias (feat. Vagos y Maleantes & Maria Rivas)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3Ua5W2uuHh97yTmaVenMoGYkO8_kK7TXUCnWOmV0F8J_JAQjVhNN9VHk16ASho8iXCjfTWE3dE9ovd5f=w120-h120-l90-rj",
+        "artist": "Familia Subterranea",
+        "genre": "venezuelan hip hop",
+        "album": "Venezuela Subterranea",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3UKRv950dVw",
+        "video_url": "https://www.youtube.com/watch?v=3UKRv950dVw",
+        "title": "Papidandeando (feat. Vagos y Maleantes)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3Ua5W2uuHh97yTmaVenMoGYkO8_kK7TXUCnWOmV0F8J_JAQjVhNN9VHk16ASho8iXCjfTWE3dE9ovd5f=w120-h120-l90-rj",
+        "artist": "Familia Subterranea",
+        "genre": "venezuelan hip hop",
+        "album": "Venezuela Subterranea",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "LmilmhsAOxY",
+        "video_url": "https://www.youtube.com/watch?v=LmilmhsAOxY",
+        "title": "Rameros",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3Ua5W2uuHh97yTmaVenMoGYkO8_kK7TXUCnWOmV0F8J_JAQjVhNN9VHk16ASho8iXCjfTWE3dE9ovd5f=w120-h120-l90-rj",
+        "artist": "Familia Subterranea",
+        "genre": "venezuelan hip hop",
+        "album": "Venezuela Subterranea",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sQt0se4PRHg",
         "video_url": "https://www.youtube.com/watch?v=sQt0se4PRHg",
         "title": "Passion Whine (feat. Sean Paul)",
@@ -13785,7 +13825,7 @@
         "title": "Canales",
         "thumbnail_url": "https://lh3.googleusercontent.com/bSTERtZZGc0pW9zoGKx403zSp0BLoDnh30DQiMhRhrVfaJMGfrSGJzS8EPx_mOdSr7-LlihWpscksBg=w120-h120-l90-rj",
         "artist": "Laguna Pai",
-        "genre": "reggae peruano",
+        "genre": "peruvian rock",
         "album": "Resiliencia",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -14937,6 +14977,16 @@
         "artist": "Los Amigos Invisibles",
         "genre": "latin afrobeat",
         "album": "The Venezuelan Zinga Son Vol. 1",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "1QjYOEtokfo",
+        "video_url": "https://www.youtube.com/watch?v=1QjYOEtokfo",
+        "title": "Sigo Caminando",
+        "thumbnail_url": "https://lh3.googleusercontent.com/RuL__xnw04_ytx0QdGhcBKGEwzvv9StYw7ewb21ffjIOsQl6az8s5XFdKRxlg-kQu2Tpd0I3SRgfj44=w120-h120-l90-rj",
+        "artist": "Los Cafres",
+        "genre": "argentine reggae",
+        "album": "Alas Canciones",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

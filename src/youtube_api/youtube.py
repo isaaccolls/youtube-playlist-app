@@ -78,9 +78,9 @@ class YoutubeAPI:
                 'title': content['title'],
                 'thumbnail_url': thumbnail_url,
                 'artist': artist,
-                'genre': self.get_genre(artist, content['title']),
             }
             if (content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None) and playlist_id in playlistsForMusic:
+                item['genre'] = self.get_genre(artist, content['title'])
                 if content['album'] is not None:
                     item['album'] = content['album']['name']
                 else:
