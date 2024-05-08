@@ -7,7 +7,7 @@ import time
 from constants import playlistsForMusic
 import pylast
 import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
+from spotipy.oauth2 import SpotifyOAuth
 import requests
 
 
@@ -19,14 +19,17 @@ class YoutubeAPI:
         lastfm_api_secret = os.getenv('LASTFM_API_SECRET')
         spotify_client_id = os.getenv('SPOTIFY_CLIENT_ID')
         spotify_client_secret = os.getenv('SPOTIFY_CLIENT_SECRET')
+        spotify_redirect_uri = os.getenv('SPOTIFY_REDIRECT_URI')
+        spotify_scope = 'user-library-read'
+
         self.ytmusic = YTMusic()
         self.youtube = build('youtube', 'v3', developerKey=api_key)
         self.lastfm_network = pylast.LastFMNetwork(
             api_key=lastfm_api_key, api_secret=lastfm_api_secret)
-        self.spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
-            client_id=spotify_client_id, client_secret=spotify_client_secret))
+        self.spotify = spotipy.Spotify(auth_manager=SpotifyOAuth(
+            client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope))
 
-    def get_genre(self, artist, title, retries=3):
+    def get_genre(self, artist, title, retries=7):
         try:
             results = self.spotify.search(q='artist:' + artist, type='artist')
             if results['artists']['items']:
@@ -43,7 +46,7 @@ class YoutubeAPI:
         except requests.exceptions.ReadTimeout:
             if retries > 0:
                 print("The request to the Spotify API timed out. Retrying...")
-                time.sleep(5)
+                time.sleep(7)
                 return self.get_genre(artist, title, retries-1)
         return 'Unknown'
 
