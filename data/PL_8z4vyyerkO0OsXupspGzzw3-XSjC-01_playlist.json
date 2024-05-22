@@ -1235,7 +1235,7 @@
         "title": "Love The Way You Lie",
         "thumbnail_url": "https://lh3.googleusercontent.com/Hn8AuqZcPBZIxBxCL7fCscTnQpyXHOaEkporTukq1GkyLB3aWjia5Q5Ff5LJWe_FN3EhACT5Bgfefuc4=w120-h120-l90-rj",
         "artist": "A Skylit Drive",
-        "genre": "metalcore",
+        "genre": "melodic metalcore",
         "album": "Punk Goes Pop, Vol. 4",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -1607,6 +1607,26 @@
         "artist": "Alex Mine & Deborah De Luca",
         "genre": "Unknown",
         "album": "Atom",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3QMZuXy8Cus",
+        "video_url": "https://www.youtube.com/watch?v=3QMZuXy8Cus",
+        "title": "La Falda vs NostalgIA (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/O9gs0bY4yfQPs6ab82oeKyh4K1nUS8wsGejDV1-Gi8n2ZuBDDc5TAxEhnJBa9Z7q670c_RwvArWim1s=w120-h120-l90-rj",
+        "artist": "Alex Rico",
+        "genre": "Unknown",
+        "album": "La Falda vs NostalgIA (Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "l2cAsUBzxYw",
+        "video_url": "https://www.youtube.com/watch?v=l2cAsUBzxYw",
+        "title": "Que Va",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Nkt2RWej_xmlIU6kPRVoBe0NPfK3xUnRzdKqrFQk4JzGPdBCnyj7wnO7DL68bSPct9T_x0hkH0gi6sNIow=w120-h120-l90-rj",
+        "artist": "Alex Sensation & Ozuna",
+        "genre": "Unknown",
+        "album": "Que Va",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -4875,7 +4895,7 @@
         "title": "Candyman",
         "thumbnail_url": "https://lh3.googleusercontent.com/eSfGXsTor26lBfW4PbdzoRvZYC2b8jzMuwldw6pVXh6okes7ANhnsA5hRpgIQXrMHP-g7AGrTRnBeptS8g=w120-h120-l90-rj",
         "artist": "Boris S.",
-        "genre": "pop peruano",
+        "genre": "deep hardtechno",
         "album": "Best of 15 years Boris S.",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -4897,6 +4917,16 @@
         "artist": "Bowling For Soup",
         "genre": "neon pop punk",
         "album": "Goes to the Movies (Expanded Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "lGrT-Xkbnc4",
+        "video_url": "https://www.youtube.com/watch?v=lGrT-Xkbnc4",
+        "title": "Ella",
+        "thumbnail_url": "https://lh3.googleusercontent.com/QHJ04d-79UU4Kh2fLyyTRik--Y3TxRiUBAwq2h5kajJ5Rd4jsMU4IaRj0cGxXKkDwAP7MzL-0qNaCoEY=w120-h120-l90-rj",
+        "artist": "Boza",
+        "genre": "panamanian pop",
+        "album": "Ella",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -7435,7 +7465,7 @@
         "title": "Asi",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7445,7 +7475,7 @@
         "title": "Baby Cohete",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7455,7 +7485,7 @@
         "title": "Chewin' Gum",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7465,7 +7495,7 @@
         "title": "Como Serpiente",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7475,7 +7505,7 @@
         "title": "Delineador",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7485,7 +7515,7 @@
         "title": "Electrobotic",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7495,7 +7525,7 @@
         "title": "Flor De Fuego",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7505,7 +7535,7 @@
         "title": "Guerra Lenta",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7515,7 +7545,7 @@
         "title": "No Eres T\u00fa",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7525,7 +7555,7 @@
         "title": "Veneno",
         "thumbnail_url": "https://lh3.googleusercontent.com/qssEU9T_oPc5rU-VZI8JP4HqLH5RK17BAaJh0oVHcBRPsotmuTZUBKvKss1TCkF2mmsHAYiomaV1Z3Z4Fg=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Flor De Fuego",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7535,7 +7565,7 @@
         "title": "Dolor y Pasi\u00f3n",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7545,7 +7575,7 @@
         "title": "El Mar",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7555,7 +7585,7 @@
         "title": "El \u00daltimo Polvo",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7565,7 +7595,7 @@
         "title": "Incertidumbre",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7575,7 +7605,7 @@
         "title": "La Terraza",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7585,7 +7615,7 @@
         "title": "Las Notas",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7595,7 +7625,7 @@
         "title": "Ojos Hal\u00f3genos",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7605,7 +7635,7 @@
         "title": "Retrovisor",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7615,7 +7645,7 @@
         "title": "Sanitarios",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7625,7 +7655,7 @@
         "title": "Surfer Girl",
         "thumbnail_url": "https://lh3.googleusercontent.com/-8sn-5NEyby3tgfPvOCL-slF9nOTKVEzidTSB4QtuG65JBCQDiHQwE1Jnou73-cpctXhbeW5JOCRIht7=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Frisbee",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7635,7 +7665,7 @@
         "title": "Asunto Sexual",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7645,7 +7675,7 @@
         "title": "El Flaco",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7655,7 +7685,7 @@
         "title": "Enfermo",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7665,7 +7695,7 @@
         "title": "La Llama",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7675,7 +7705,7 @@
         "title": "Las Estrellas",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7685,7 +7715,7 @@
         "title": "Las Estrellas (Acoustic)",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7695,7 +7725,7 @@
         "title": "Lava Blanca",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7705,7 +7735,7 @@
         "title": "Misteriosa",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7715,7 +7745,7 @@
         "title": "Veronica",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7725,7 +7755,7 @@
         "title": "Veterana",
         "thumbnail_url": "https://lh3.googleusercontent.com/B57lS60lIy19RfQVzD3phtkUswZiq1ZwKF94VT1hd5Lep0UgHMCXUWdc39K2TYF44F00HgBoSrMAahh-=w120-h120-l90-rj",
         "artist": "Caramelos De Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Miss Mujerzuela",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7735,7 +7765,7 @@
         "title": "Abismo",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7745,7 +7775,7 @@
         "title": "El Instante Pas\u00f3",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7755,7 +7785,7 @@
         "title": "Euforia",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7765,7 +7795,7 @@
         "title": "Jazz",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7775,7 +7805,7 @@
         "title": "Secreto",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7785,7 +7815,7 @@
         "title": "Suerte de Principiante",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7795,7 +7825,7 @@
         "title": "Tocado por un \u00c1ngel",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7805,7 +7835,7 @@
         "title": "T\u00fa Eres de Esas",
         "thumbnail_url": "https://lh3.googleusercontent.com/FWBUfKW2n-hJDgujo_yZLv50aOmSknnp8K-mjFdUTJk9Gt2oDRiCWphvqt245fjQJRx_rvTA_KYdop4x=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "8",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7815,7 +7845,7 @@
         "title": "Canci\u00f3n Suave (Despecho 2)",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7825,7 +7855,7 @@
         "title": "El Mar",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7835,7 +7865,7 @@
         "title": "El \u00daltimo Polvo",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7845,7 +7875,7 @@
         "title": "La Casa (feat. Raquel Sof\u00eda)",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7855,7 +7885,7 @@
         "title": "Las Estrellas",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7865,7 +7895,7 @@
         "title": "Las Notas",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7875,7 +7905,7 @@
         "title": "No Eres T\u00fa",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7885,7 +7915,7 @@
         "title": "Retrovisor",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7895,7 +7925,7 @@
         "title": "Rubia Sol Morena Luna",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7905,7 +7935,7 @@
         "title": "Sanitarios",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7915,7 +7945,7 @@
         "title": "T\u00fa Eres De Esas",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7925,7 +7955,7 @@
         "title": "Ver\u00f3nica",
         "thumbnail_url": "https://lh3.googleusercontent.com/mJRnRs7N2d4i-DiMVNkuh35yKwf-AhMbiZwx530kUt5TjrmpFcp1-fiFjG8YJiKApcO7i-Skyt0_JrdD=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Ac\u00fastico Retrovisor",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7935,7 +7965,7 @@
         "title": "2 Caras 2 Corazones",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7945,7 +7975,7 @@
         "title": "Adi\u00f3s Amor",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7955,7 +7985,7 @@
         "title": "Estr\u00f3geno",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7965,7 +7995,7 @@
         "title": "Infierno VIP",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7975,7 +8005,7 @@
         "title": "La Carretera",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7985,7 +8015,7 @@
         "title": "La Casa",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -7995,7 +8025,7 @@
         "title": "Lobby",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8005,7 +8035,7 @@
         "title": "Rubia Sol Morena Luna",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8015,7 +8045,7 @@
         "title": "Un Poco Solo",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8025,7 +8055,7 @@
         "title": "Verano",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8035,7 +8065,7 @@
         "title": "Yo No Quiero M\u00e1s Calor",
         "thumbnail_url": "https://lh3.googleusercontent.com/GtWdSXKwbu0lB9UXYp8bFrg9SOmEdn82H-Aplj0smod-BRZaESqnafOzqp6JfSDEouULsnxOTuEXGjGu=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Caramelos de Cianuro",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8045,7 +8075,7 @@
         "title": "Booty Call",
         "thumbnail_url": "https://lh3.googleusercontent.com/UcLFQDDM4x6ALTKNHAh9H-yj2EbwXwpXVMen4YiHCH7G6JpCcpcpTAKRERtYoKUw7-s2_HgVi5zFWHVp=w120-h120-s-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Control",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8055,7 +8085,7 @@
         "title": "Escalofr\u00edo",
         "thumbnail_url": "https://lh3.googleusercontent.com/UcLFQDDM4x6ALTKNHAh9H-yj2EbwXwpXVMen4YiHCH7G6JpCcpcpTAKRERtYoKUw7-s2_HgVi5zFWHVp=w120-h120-s-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Control",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8065,7 +8095,7 @@
         "title": "Que El Desayuno Espere",
         "thumbnail_url": "https://lh3.googleusercontent.com/UcLFQDDM4x6ALTKNHAh9H-yj2EbwXwpXVMen4YiHCH7G6JpCcpcpTAKRERtYoKUw7-s2_HgVi5zFWHVp=w120-h120-s-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Control",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8075,7 +8105,7 @@
         "title": "\u00c1tame",
         "thumbnail_url": "https://lh3.googleusercontent.com/UcLFQDDM4x6ALTKNHAh9H-yj2EbwXwpXVMen4YiHCH7G6JpCcpcpTAKRERtYoKUw7-s2_HgVi5zFWHVp=w120-h120-s-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Control",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8085,7 +8115,7 @@
         "title": "Canci\u00f3n Suave (Despecho N\u02da2)",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8095,7 +8125,7 @@
         "title": "Cloroformo",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8105,7 +8135,7 @@
         "title": "El Caracol",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8115,7 +8145,7 @@
         "title": "El Martillo",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8125,7 +8155,7 @@
         "title": "El Pa\u00eds de las Androides Perversas",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8135,7 +8165,7 @@
         "title": "Harakiri City",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8145,7 +8175,7 @@
         "title": "Imaginar",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8155,7 +8185,7 @@
         "title": "Interpol",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8165,7 +8195,7 @@
         "title": "La Santa",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8175,7 +8205,7 @@
         "title": "Sin Avisar",
         "thumbnail_url": "https://lh3.googleusercontent.com/1iuzd3cbYLzFCm_FMEVI0NhYUwrgFq03SU0i0tXiisWNrvfgtoYZbC0Fkooe2JFPXz1BcJCgpAnfw21L=w120-h120-l90-rj",
         "artist": "Caramelos de Cianuro",
-        "genre": "venezuelan rock",
+        "genre": "pop reggaeton",
         "album": "Harakiri City",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -8830,10 +8860,10 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "LwYFfiB6tA8",
-        "video_url": "https://www.youtube.com/watch?v=LwYFfiB6tA8",
+        "video_id": "CC0OMEjzvkA",
+        "video_url": "https://www.youtube.com/watch?v=CC0OMEjzvkA",
         "title": "Efecto Domin\u00f3",
-        "thumbnail_url": "https://lh3.googleusercontent.com/zrvq3ICnfhINB3RusMgD3stAq6plE35td6R0Xsq0_1ou_RU1RRbULeMeRw5tQjcuzpxqeul5q_6bl5U=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bmG7ywfM7RbY4u7SwmmBy0deI83eSeNb5rXTdqKs78Pm9FRx4w_4bwSUi3g-rNPdvVDPC7B-viwhiDc=w120-h120-l90-rj",
         "artist": "Cultura Prof\u00e9tica",
         "genre": "latin alternative",
         "album": "Sobrevolando",
@@ -9500,6 +9530,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "POXJ2BoNnv4",
+        "video_url": "https://www.youtube.com/watch?v=POXJ2BoNnv4",
+        "title": "Perdido En Tus Ojos (feat. Natti Natasha)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DLQh-ptIziCgu4dyrEboNKTLmwKd9_wrtH6C2UkmX5koJGkWQGJXB-e8Ji_42wD8OHA2uUqY8J8m3uY=w120-h120-l90-rj",
+        "artist": "Don Omar",
+        "genre": "latin hip hop",
+        "album": "The Last Don II",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "2CCS2DqAtiQ",
         "video_url": "https://www.youtube.com/watch?v=2CCS2DqAtiQ",
         "title": "SANDUNGA",
@@ -9647,6 +9687,16 @@
         "artist": "Dynoro & Gigi D'Agostino",
         "genre": "electronic",
         "album": "In My Mind",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-KKQQW_HT5Q",
+        "video_url": "https://www.youtube.com/watch?v=-KKQQW_HT5Q",
+        "title": "CARACAS EN EL 2000",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aZT5CFOrZd9Qmd6MsaKAk34JUJN745n1GRwTmEr2GjbDYUdQBt2K7Txy_Sowa8PcsgxGE_neLQf5UlHO=w120-h120-l90-rj",
+        "artist": "ELENA ROSE, Danny Ocean & Jerry Di",
+        "genre": "Unknown",
+        "album": "CARACAS EN EL 2000",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -11007,6 +11057,16 @@
         "artist": "Feid & Justin Quiles",
         "genre": "Unknown",
         "album": "FERXXO (VOL 1: M.O.R)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "p4A1k7ICro8",
+        "video_url": "https://www.youtube.com/watch?v=p4A1k7ICro8",
+        "title": "PORFA",
+        "thumbnail_url": "https://lh3.googleusercontent.com/r9cxP2MYz9kj8I5a2mZnERz2gEwwA5giuhcOKaoWlyd_46VrRCQ9kePUiA9Ct7iZbrj1EcTmPaTMvFzW=w120-h120-l90-rj",
+        "artist": "Feid & Justin Quiles",
+        "genre": "Unknown",
+        "album": "Ponle Ritmo Con Perreo Vol. 1",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -12820,6 +12880,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "r0aQlz7L29Y",
+        "video_url": "https://www.youtube.com/watch?v=r0aQlz7L29Y",
+        "title": "Rojo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hF54YKzhzLmCkloCP5Ev_cnZ9R80OHvKmmrQMAOs1cjsrqxKz7oelEqEgtTiOjJDSUZEvQLAhiNBFEw=w120-h120-l90-rj",
+        "artist": "J Balvin",
+        "genre": "reggaeton",
+        "album": "Colores",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "NDWhkgA7tno",
         "video_url": "https://www.youtube.com/watch?v=NDWhkgA7tno",
         "title": "6 AM (feat. Farruko)",
@@ -13930,33 +14000,33 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "_V_ZbJE5oLs",
-        "video_url": "https://www.youtube.com/watch?v=_V_ZbJE5oLs",
+        "video_id": "-ApbvCr3QDg",
+        "video_url": "https://www.youtube.com/watch?v=-ApbvCr3QDg",
         "title": "Descending",
-        "thumbnail_url": "https://lh3.googleusercontent.com/h68RVnzSQKfVBhUYdZ3rlkd6JxkhZF6yj_M79Ddd1O97ZS3nN1zyPzYkt1AddfHHsG_sAopaTvqg9NyV=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/g5XOJLI6Ak8S7OMx5bakdUPMOzUjGINVp4EMwfNliVtcbpLC4Sv-s8vgr-xDSy7I3UqI7xtKGMqikmY=w120-h120-l90-rj",
         "artist": "Lamb of God",
         "genre": "alternative metal",
-        "album": "Sacrament",
+        "album": "Sacrament (15th Anniversary Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "QPhrucZ-upw",
-        "video_url": "https://www.youtube.com/watch?v=QPhrucZ-upw",
+        "video_id": "w6J8wVYEhfE",
+        "video_url": "https://www.youtube.com/watch?v=w6J8wVYEhfE",
         "title": "Redneck",
-        "thumbnail_url": "https://lh3.googleusercontent.com/s4hMAjYWmINMQDrVE3Q3mQYZ25Fd2IkXMpRpUmj3BxcSn6BrPJxqyOV_1NvijfogBvcI-AWgpibr58BO=w120-h120-s-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/g5XOJLI6Ak8S7OMx5bakdUPMOzUjGINVp4EMwfNliVtcbpLC4Sv-s8vgr-xDSy7I3UqI7xtKGMqikmY=w120-h120-l90-rj",
         "artist": "Lamb of God",
         "genre": "alternative metal",
-        "album": "Sacrament",
+        "album": "Sacrament (15th Anniversary Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "m4QyQk8vOCY",
-        "video_url": "https://www.youtube.com/watch?v=m4QyQk8vOCY",
+        "video_id": "iP6n1LK0NxA",
+        "video_url": "https://www.youtube.com/watch?v=iP6n1LK0NxA",
         "title": "Walk with Me In Hell",
-        "thumbnail_url": "https://lh3.googleusercontent.com/h68RVnzSQKfVBhUYdZ3rlkd6JxkhZF6yj_M79Ddd1O97ZS3nN1zyPzYkt1AddfHHsG_sAopaTvqg9NyV=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/g5XOJLI6Ak8S7OMx5bakdUPMOzUjGINVp4EMwfNliVtcbpLC4Sv-s8vgr-xDSy7I3UqI7xtKGMqikmY=w120-h120-l90-rj",
         "artist": "Lamb of God",
         "genre": "alternative metal",
-        "album": "Sacrament",
+        "album": "Sacrament (15th Anniversary Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -14037,16 +14107,6 @@
         "artist": "Lasso & Sebasti\u00e1n Yatra",
         "genre": "Unknown",
         "album": "Ojos Marrones",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "Bs1t3zddY1M",
-        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
-        "title": "Live The Night (Extended Mix)",
-        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
-        "artist": "Lil Jon, W&W & Hardwell",
-        "genre": "Unknown",
-        "album": "",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -15240,6 +15300,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "8Y7r4iNu2uE",
+        "video_url": "https://www.youtube.com/watch?v=8Y7r4iNu2uE",
+        "title": "Lo Quiero Todo (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/e7OPsoHJ2PQ9R7XA1I09ccNIhRdvV7l1mOcM9d5qwbLk6BEuB5v4FbkO81KX71AHngp-uHHdY_ydxNItBw=w120-h120-l90-rj",
+        "artist": "Macaco & Farruko",
+        "genre": "Unknown",
+        "album": "Lo Quiero Todo (Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "QP_NllbV44o",
         "video_url": "https://www.youtube.com/watch?v=QP_NllbV44o",
         "title": "One Wine (feat. Major Lazer)",
@@ -15317,6 +15387,16 @@
         "artist": "Maduk & Veela",
         "genre": "Liquid",
         "album": "Ghost Assassin EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "5pAKediqUl8",
+        "video_url": "https://www.youtube.com/watch?v=5pAKediqUl8",
+        "title": "Fiesta pagana (2015)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bln2HvzOGVnLm23uzpvBVgJQS-4QqKlQMCZMu4oWlvPS3dgS-x7_3Ws6l6FJICVh2F7KaQTI3U3LS_2U=w120-h120-l90-rj",
+        "artist": "Mago De Oz",
+        "genre": "celtic metal",
+        "album": "Finisterra \u00d3pera Rock",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -18980,6 +19060,26 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "BqZuEJJfCqk",
+        "video_url": "https://www.youtube.com/watch?v=BqZuEJJfCqk",
+        "title": "Whine Up",
+        "thumbnail_url": "https://lh3.googleusercontent.com/x6cOy1K5R9HX33X398mJmiD49Q_rSLUObwU0f75yq_bQFZNe0Zr2k-2D0rOyzRLOpY0AyOm5U16fjvLi=w120-h120-l90-rj",
+        "artist": "Nicky Jam & Anuel AA",
+        "genre": "Unknown",
+        "album": "\u00cdntimo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "RftA_bzANgA",
+        "video_url": "https://www.youtube.com/watch?v=RftA_bzANgA",
+        "title": "Calor",
+        "thumbnail_url": "https://lh3.googleusercontent.com/wyiZSnPDla7ug-EfoLv8CPXhVo7R4EoZqqH0cVe65r6LQnlA0ozD0EPY0okoOcmQ9M2BomiPUwhOxSlf=w120-h120-l90-rj",
+        "artist": "Nicky Jam & Be\u00e9le",
+        "genre": "Unknown",
+        "album": "Calor",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "PWnVC4zEVt8",
         "video_url": "https://www.youtube.com/watch?v=PWnVC4zEVt8",
         "title": "X",
@@ -20460,6 +20560,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "e0OLWD5PX1U",
+        "video_url": "https://www.youtube.com/watch?v=e0OLWD5PX1U",
+        "title": "Bes\u00e1ndote",
+        "thumbnail_url": "https://lh3.googleusercontent.com/kNCMU7o5hx3viSxaAEdDG1wvANMsvJGiCi_W3r3hiRJg8pQ25YwUomwrQpFmjQE6hAz0BLl6wR2Kxkli=w120-h120-l90-rj",
+        "artist": "Piso 21",
+        "genre": "colombian pop",
+        "album": "Bes\u00e1ndote",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "EIqw-bnCu9Y",
         "video_url": "https://www.youtube.com/watch?v=EIqw-bnCu9Y",
         "title": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
@@ -20555,7 +20665,7 @@
         "title": "Bohemian Rhapsody",
         "thumbnail_url": "https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "classic rock",
+        "genre": "latin hip hop",
         "album": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -20565,7 +20675,7 @@
         "title": "Don't Stop Me Now",
         "thumbnail_url": "https://lh3.googleusercontent.com/1OCPTD9Vomtm5Hqt3d0-naampTDQVUix7EgeCWX0rHKRrD4_z70cZ-65Pn3pWWs6ME1F-lxK4ELlfhgy=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "classic rock",
+        "genre": "latin hip hop",
         "album": "Jazz (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -20575,7 +20685,7 @@
         "title": "We Are The Champions",
         "thumbnail_url": "https://lh3.googleusercontent.com/15FhPpdnPT7-lBeiiAaVTRTmUqoQ1WrrH-PGS9qDKgOpvoVzFbXi5pI8vlBjG_k_BAKKQ3aw7qbUf1XV=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "classic rock",
+        "genre": "latin hip hop",
         "album": "News Of The World (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -20585,7 +20695,7 @@
         "title": "We Will Rock You",
         "thumbnail_url": "https://lh3.googleusercontent.com/15FhPpdnPT7-lBeiiAaVTRTmUqoQ1WrrH-PGS9qDKgOpvoVzFbXi5pI8vlBjG_k_BAKKQ3aw7qbUf1XV=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "classic rock",
+        "genre": "latin hip hop",
         "album": "News Of The World (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -20595,7 +20705,7 @@
         "title": "Another One Bites The Dust",
         "thumbnail_url": "https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "classic rock",
+        "genre": "latin hip hop",
         "album": "The Game (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -20605,7 +20715,7 @@
         "title": "Crazy Little Thing Called Love",
         "thumbnail_url": "https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "classic rock",
+        "genre": "latin hip hop",
         "album": "The Game (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -20615,7 +20725,7 @@
         "title": "I Want To Break Free (Single Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/XI7kN3Ic4HmkQWj4M-DnOPttjfLvF4F1C3SUYeSNZ76xgUUe5gafl7KsRdnVY_n3nKzSNEVDOPDfq88=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "classic rock",
+        "genre": "latin hip hop",
         "album": "The Works (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -20887,6 +20997,16 @@
         "artist": "Rauw Alejandro & Bizarrap",
         "genre": "Unknown",
         "album": "PLAYA SATURNO",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "e0bJK82IeBE",
+        "video_url": "https://www.youtube.com/watch?v=e0bJK82IeBE",
+        "title": "Tattoo (Remix with Camilo)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fuaDCEFUqyBAQ7qyXgLP8WtWXzyKDzyEHjdXvLUZRkxSyyB7e7rOxhJpXK0tqJliFdYG9wzKtr1WPzM=w120-h120-l90-rj",
+        "artist": "Rauw Alejandro & Camilo",
+        "genre": "Unknown",
+        "album": "Afrodis\u00edaco",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -21910,6 +22030,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Wdtj0y-PARA",
+        "video_url": "https://www.youtube.com/watch?v=Wdtj0y-PARA",
+        "title": "Cannabis",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mPASyKkmXcUqF2jd3NUCIChe0oyESXtTYHReOdNjN8mlDBSw6eP0c0oF5KJeKfQgAnC5Gc5SrxCDopoQ=w120-h120-l90-rj",
+        "artist": "Ska-P",
+        "genre": "ska",
+        "album": "El Vals Del Obrero",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "6Fx_H4KNKDI",
         "video_url": "https://www.youtube.com/watch?v=6Fx_H4KNKDI",
         "title": "Shot Yourself In the Foot Again",
@@ -22905,7 +23035,7 @@
         "title": "Hera (Radio Edit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/9wGqRZANWpCbWGK810Wcxe3PTwSbXITWGzUmcj5akmGSU5_BjNXBVe3OHHiAx2Ct-K7rAlHXLggKPM7Y=w120-h120-l90-rj",
         "artist": "Space Motion",
-        "genre": "melodic house",
+        "genre": "serbian electronic",
         "album": "Hera",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -24905,7 +25035,7 @@
         "title": "God Is A Dancer",
         "thumbnail_url": "https://lh3.googleusercontent.com/uSx-wzHUiZuIQ8ia919LmGc_3TTJ90Yfd4Jys97K0JdOYaj_arf2YfhyYz43YwuEjxv9MuMIkrhepqci=w120-h120-l90-rj",
         "artist": "Ti\u00ebsto & Mabel",
-        "genre": "Unknown",
+        "genre": "T Artist",
         "album": "High Expectations",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -24915,7 +25045,7 @@
         "title": "God Is A Dancer",
         "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
         "artist": "Ti\u00ebsto & Mabel",
-        "genre": "Unknown",
+        "genre": "T Artist",
         "album": "The London Sessions",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -25395,7 +25525,7 @@
         "title": "SICKO MODE",
         "thumbnail_url": "https://lh3.googleusercontent.com/PSIZ9cf9hpESZwcSz2ylS5I-zIREqCSagxV-X4CJqefrE0sRCktRtFw-a7PlkLygmg7k1nZREKCaSzY=w120-h120-l90-rj",
         "artist": "Travis Scott",
-        "genre": "hip hop",
+        "genre": "rap",
         "album": "ASTROWORLD",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -25427,6 +25557,16 @@
         "artist": "Usher",
         "genre": "atl hip hop",
         "album": "Confessions (Expanded Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "a59ihHFXMKE",
+        "video_url": "https://www.youtube.com/watch?v=a59ihHFXMKE",
+        "title": "Besame",
+        "thumbnail_url": "https://lh3.googleusercontent.com/AiKBGJ2ZJjgM0_g8uuZL0GF3dbFlhq-C761DvxZLhaD0O3Cv5feQsNWK1L8yMWl59PKdoXB2iSSeGHPN=w120-h120-l90-rj",
+        "artist": "Valentino Ft Manuel Turizo",
+        "genre": "Unknown",
+        "album": "Besame Single",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -25517,6 +25657,16 @@
         "artist": "Vlinder Vos & GEWOONRAVES",
         "genre": "Unknown",
         "album": "RAVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Bs1t3zddY1M",
+        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
+        "title": "Live The Night(Extended Mix)",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
+        "artist": "W&W",
+        "genre": "canadian contemporary r&b",
+        "album": "",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -25750,6 +25900,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "NFdu0JVIVJI",
+        "video_url": "https://www.youtube.com/watch?v=NFdu0JVIVJI",
+        "title": "Aullando",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JmeEbBKejObZKRNjaaSZhvkJoCQ2x-wOGIggMdIdiVVQFUaJrAa6fjNnDYuZFIe-PSYxvdY1ed9-uHqB=w120-h120-l90-rj",
+        "artist": "Wisin & Yandel",
+        "genre": "electro latino",
+        "album": "Los Campeones del Pueblo \"The Big Leagues\"",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Vb5hquFJ988",
         "video_url": "https://www.youtube.com/watch?v=Vb5hquFJ988",
         "title": "Algo Me Gusta De Ti",
@@ -25920,6 +26080,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "LU-jrvnnN9g",
+        "video_url": "https://www.youtube.com/watch?v=LU-jrvnnN9g",
+        "title": "Bailame Despacio",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7-021mrLKyptqS--W5ghhcBLNX3cZm60tPjeSeCM9qFxThzX85zC0lsStMuaV0y1ykq6dGTTZQSkz7tN=w120-h120-l90-rj",
+        "artist": "Xantos & Dynell",
+        "genre": "Unknown",
+        "album": "Revolucionario",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "MEWnpUYvznA",
         "video_url": "https://www.youtube.com/watch?v=MEWnpUYvznA",
         "title": "Happier",
@@ -26017,6 +26187,16 @@
         "artist": "Zion & Lennox",
         "genre": "reggaeton",
         "album": "Motivan2",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YOT6Bcw4Suk",
+        "video_url": "https://www.youtube.com/watch?v=YOT6Bcw4Suk",
+        "title": "Otra vez (feat. J Balvin)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9lrEgRUflEdhKjNfTXccdvYxtB4ngaX7OooRO6nE8rQAZZB4oCAWvGh-OfzsigBFqEmXB6rfk0gVIrg=w120-h120-l90-rj",
+        "artist": "Zion & Lennox",
+        "genre": "reggaeton",
+        "album": "Otra Vez",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

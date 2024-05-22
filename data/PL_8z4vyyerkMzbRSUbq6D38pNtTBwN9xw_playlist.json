@@ -665,7 +665,7 @@
         "title": "Candyman",
         "thumbnail_url": "https://lh3.googleusercontent.com/eSfGXsTor26lBfW4PbdzoRvZYC2b8jzMuwldw6pVXh6okes7ANhnsA5hRpgIQXrMHP-g7AGrTRnBeptS8g=w120-h120-l90-rj",
         "artist": "Boris S.",
-        "genre": "pop peruano",
+        "genre": "deep hardtechno",
         "album": "Best of 15 years Boris S.",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -2980,16 +2980,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "Bs1t3zddY1M",
-        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
-        "title": "Live The Night (Extended Mix)",
-        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
-        "artist": "Lil Jon, W&W & Hardwell",
-        "genre": "Unknown",
-        "album": "",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
         "video_id": "aczouaO5L_k",
         "video_url": "https://www.youtube.com/watch?v=aczouaO5L_k",
         "title": "Prayer in C (Robin Schulz Radio Edit)",
@@ -4725,7 +4715,7 @@
         "title": "Hera (Radio Edit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/9wGqRZANWpCbWGK810Wcxe3PTwSbXITWGzUmcj5akmGSU5_BjNXBVe3OHHiAx2Ct-K7rAlHXLggKPM7Y=w120-h120-l90-rj",
         "artist": "Space Motion",
-        "genre": "melodic house",
+        "genre": "serbian electronic",
         "album": "Hera",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -5805,7 +5795,7 @@
         "title": "God Is A Dancer",
         "thumbnail_url": "https://lh3.googleusercontent.com/uSx-wzHUiZuIQ8ia919LmGc_3TTJ90Yfd4Jys97K0JdOYaj_arf2YfhyYz43YwuEjxv9MuMIkrhepqci=w120-h120-l90-rj",
         "artist": "Ti\u00ebsto & Mabel",
-        "genre": "Unknown",
+        "genre": "T Artist",
         "album": "High Expectations",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -5815,7 +5805,7 @@
         "title": "God Is A Dancer",
         "thumbnail_url": "https://lh3.googleusercontent.com/l8agk9xUqHsK7ik2AB1R3JAPT4foi-8-EFPToaXXiDA6ssd37LSzQDlRGyhqg3qDUxb69IA-yL8f-zNQ9Q=w120-h120-l90-rj",
         "artist": "Ti\u00ebsto & Mabel",
-        "genre": "Unknown",
+        "genre": "T Artist",
         "album": "The London Sessions",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -6157,6 +6147,16 @@
         "artist": "Vlinder Vos & GEWOONRAVES",
         "genre": "Unknown",
         "album": "RAVE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Bs1t3zddY1M",
+        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
+        "title": "Live The Night(Extended Mix)",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
+        "artist": "W&W",
+        "genre": "canadian contemporary r&b",
+        "album": "",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

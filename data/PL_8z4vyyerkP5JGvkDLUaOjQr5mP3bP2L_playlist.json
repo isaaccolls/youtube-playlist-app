@@ -970,10 +970,10 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "LwYFfiB6tA8",
-        "video_url": "https://www.youtube.com/watch?v=LwYFfiB6tA8",
+        "video_id": "CC0OMEjzvkA",
+        "video_url": "https://www.youtube.com/watch?v=CC0OMEjzvkA",
         "title": "Efecto Domin\u00f3",
-        "thumbnail_url": "https://lh3.googleusercontent.com/zrvq3ICnfhINB3RusMgD3stAq6plE35td6R0Xsq0_1ou_RU1RRbULeMeRw5tQjcuzpxqeul5q_6bl5U=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bmG7ywfM7RbY4u7SwmmBy0deI83eSeNb5rXTdqKs78Pm9FRx4w_4bwSUi3g-rNPdvVDPC7B-viwhiDc=w120-h120-l90-rj",
         "artist": "Cultura Prof\u00e9tica",
         "genre": "latin alternative",
         "album": "Sobrevolando",
@@ -1187,6 +1187,16 @@
         "artist": "Los Pericos",
         "genre": "argentine reggae",
         "album": "Pampas Reggae",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "8Y7r4iNu2uE",
+        "video_url": "https://www.youtube.com/watch?v=8Y7r4iNu2uE",
+        "title": "Lo Quiero Todo (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/e7OPsoHJ2PQ9R7XA1I09ccNIhRdvV7l1mOcM9d5qwbLk6BEuB5v4FbkO81KX71AHngp-uHHdY_ydxNItBw=w120-h120-l90-rj",
+        "artist": "Macaco & Farruko",
+        "genre": "Unknown",
+        "album": "Lo Quiero Todo (Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

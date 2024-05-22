@@ -32,6 +32,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "0J1ws31Ed5w",
+        "video_url": "https://www.youtube.com/watch?v=0J1ws31Ed5w",
+        "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
+        "thumbnail_url": "https://i.ytimg.com/vi/0J1ws31Ed5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lmDYoCa6U13oqxkqpwBEec5J4rDQ",
+        "artist": "BHMix | Techno In My Head",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "_o1j2T1q4uI",
         "video_url": "https://www.youtube.com/watch?v=_o1j2T1q4uI",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
@@ -168,6 +176,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "I0uzomZ776Q",
+        "video_url": "https://www.youtube.com/watch?v=I0uzomZ776Q",
+        "title": "Tech House Mix 2024 | MAY",
+        "thumbnail_url": "https://i.ytimg.com/vi/I0uzomZ776Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3m-4OQ2-hX3yn0bEX3ZybcVnLCj1g",
+        "artist": "DJD3",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "Gx7Yf4E0dZE",
         "video_url": "https://www.youtube.com/watch?v=Gx7Yf4E0dZE",
         "title": "Summer Mix 2023 #5  | Best Of Deep & Tech House Music Chillout Mix \ud83d\udd25",
@@ -245,7 +261,7 @@
         "title": "Techno Mix 2023 | It's A Fine Day (Morphine Mix)",
         "thumbnail_url": "https://i.ytimg.com/vi/fvFTab3LOZU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lpN3bjSyp8u0JGqKLE8tsIw2-xsw",
         "artist": "MORPHINE - TECHNO",
-        "video_type": null
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "BCBQY66sHZ8",
