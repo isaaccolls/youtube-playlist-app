@@ -148,5 +148,15 @@
         "genre": "Unknown",
         "album": "Beethoven: Piano Sonatas Nos. 13, 14 \"Moonlight\" & 15 \"Pastorale\"",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Nc2gdKnRwg4",
+        "video_url": "https://www.youtube.com/watch?v=Nc2gdKnRwg4",
+        "title": "Eagle Fly Free",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bSteR6zpekG0yNr8sIfePvyZhSd3rexUrzQ-XJh45c_mJXqHOgqWFeh2hNCw9yL0OEGzWIzKh6JmuWUX=w120-h120-l90-rj",
+        "artist": "miyako",
+        "genre": "j-acoustic",
+        "album": "Eagle Fly Free",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]

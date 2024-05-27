@@ -350,6 +350,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "1SN3-qR3Bq0",
+        "video_url": "https://www.youtube.com/watch?v=1SN3-qR3Bq0",
+        "title": "This Is What It Feels Like",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oCI5CNSOxDDW6UEZs35g3hCBCnTKymPlYrESW1PfNsJuLLWR64j2LjG0I8u-TZxmxjw1hCE5g8I5e8PTpQ=w120-h120-l90-rj",
+        "artist": "Armin van Buuren & Trevor Guthrie",
+        "genre": "Unknown",
+        "album": "Intense",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "lLPJNxAttpw",
         "video_url": "https://www.youtube.com/watch?v=lLPJNxAttpw",
         "title": "Great Spirit",
@@ -805,7 +815,7 @@
         "title": "KTM",
         "thumbnail_url": "https://lh3.googleusercontent.com/UMx37U4vxKH6-j9fj6zoz8aeiqU5m7ncODU7uNeQHPKX_AE9jvbeviCJInyiQBj7LfkZ-1-BiIY4PBG3=w120-h120-l90-rj",
         "artist": "Carnage",
-        "genre": "edm",
+        "genre": "dutch house",
         "album": "KTM",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -3530,6 +3540,26 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "GFxekQR9vUA",
+        "video_url": "https://www.youtube.com/watch?v=GFxekQR9vUA",
+        "title": "Elamy (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_RlJqmKFC8ifQSO1_uOxkEp14XaQ_-p05xUoHj3Cm-saPjjGZ6NSRE7zzGChH_g9DESM4Uc0FEbeCRMv=w120-h120-l90-rj",
+        "artist": "Miss Monique",
+        "genre": "ukrainian electronic",
+        "album": "Elamy",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "x7mdceyGJ_k",
+        "video_url": "https://www.youtube.com/watch?v=x7mdceyGJ_k",
+        "title": "Look At You",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vMoKawaTBhL1i8GhlJty1gm-Tg6zUr1GLCsvQUwvt5jLFyDT67jxR99wY5OSLdkdBJllPWvYSt3EZvQ=w120-h120-l90-rj",
+        "artist": "Miss Monique",
+        "genre": "ukrainian electronic",
+        "album": "Look At You",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Ie5VtIHnCno",
         "video_url": "https://www.youtube.com/watch?v=Ie5VtIHnCno",
         "title": "Loona",
@@ -3543,6 +3573,16 @@
         "video_id": "bw1CnSlixa0",
         "video_url": "https://www.youtube.com/watch?v=bw1CnSlixa0",
         "title": "Molfar",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DbeKp20KteUxdOr49NTWY2I9goh2j0fePm_fvE67MiywYznmSmCWyTw4UxgXZFpzuGA9DHuPdh4fk5yf=w120-h120-l90-rj",
+        "artist": "Miss Monique",
+        "genre": "ukrainian electronic",
+        "album": "Molfar",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "fU5gGO4a_XI",
+        "video_url": "https://www.youtube.com/watch?v=fU5gGO4a_XI",
+        "title": "Tiama",
         "thumbnail_url": "https://lh3.googleusercontent.com/DbeKp20KteUxdOr49NTWY2I9goh2j0fePm_fvE67MiywYznmSmCWyTw4UxgXZFpzuGA9DHuPdh4fk5yf=w120-h120-l90-rj",
         "artist": "Miss Monique",
         "genre": "ukrainian electronic",
@@ -6260,6 +6300,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "a909uxd3GWg",
+        "video_url": "https://www.youtube.com/watch?v=a909uxd3GWg",
+        "title": "Stay The Night (feat. Hayley Williams & Hayley Williams Of Paramore)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XtKz0hB_Cv1Xz0ijga0V95FVi6_eRyFtRoBCgCWePGu0Xx8uqf966HOaWjZuhOTpH-1zMXN1zcBRpeAZKA=w120-h120-l90-rj",
+        "artist": "Zedd",
+        "genre": "complextro",
+        "album": "Clarity (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "o5rhyfrqUz8",
         "video_url": "https://www.youtube.com/watch?v=o5rhyfrqUz8",
         "title": "Mwaki (Ti\u00ebsto's VIP Mix)",
@@ -6623,7 +6673,7 @@
         "video_id": "w1Smzzw_w7Q",
         "video_url": "https://www.youtube.com/watch?v=w1Smzzw_w7Q",
         "title": "Ride",
-        "thumbnail_url": "https://lh3.googleusercontent.com/H1px0o3ZVeyqTdLXwqLpJxbFj8wwxGHgAD-sLE8Bmog8l8-ZecP469Q00yHyid4_zcWsGaYpZi9uDThENw=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/sQyDVBycRT6AVY3acA2wU6wjTgC-pHzlkdStvIGlrpTBXqX0pedgY74N0rn2BCscIgeBoC6LqggY--5n=w120-h120-l90-rj",
         "artist": "twenty one pilots",
         "genre": "modern rock",
         "album": "Blurryface",

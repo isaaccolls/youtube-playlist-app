@@ -1115,7 +1115,7 @@
         "title": "Canales",
         "thumbnail_url": "https://lh3.googleusercontent.com/bSTERtZZGc0pW9zoGKx403zSp0BLoDnh30DQiMhRhrVfaJMGfrSGJzS8EPx_mOdSr7-LlihWpscksBg=w120-h120-l90-rj",
         "artist": "Laguna Pai",
-        "genre": "peruvian rock",
+        "genre": "reggae peruano",
         "album": "Resiliencia",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -1487,6 +1487,16 @@
         "artist": "Rawayana, Los Amigos Invisibles & Cheo",
         "genre": "Unknown",
         "album": "Cuando Los Ac\u00e9falos Predominan",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Wdtj0y-PARA",
+        "video_url": "https://www.youtube.com/watch?v=Wdtj0y-PARA",
+        "title": "Cannabis",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mPASyKkmXcUqF2jd3NUCIChe0oyESXtTYHReOdNjN8mlDBSw6eP0c0oF5KJeKfQgAnC5Gc5SrxCDopoQ=w120-h120-l90-rj",
+        "artist": "Ska-P",
+        "genre": "ska",
+        "album": "El Vals Del Obrero",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
