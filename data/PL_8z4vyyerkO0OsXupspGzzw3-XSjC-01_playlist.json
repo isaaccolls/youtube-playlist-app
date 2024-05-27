@@ -1830,6 +1830,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ONogOioS_T0",
+        "video_url": "https://www.youtube.com/watch?v=ONogOioS_T0",
+        "title": "Explore Your Future",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-pgaZIdRXppsYIQsE2Rzjd64eTHRArbH3D1yJfqa5tMHQs2ATmzM0KBe1YbUpX8qg7tNcn-56yrl3NmT=w120-h120-l90-rj",
+        "artist": "Anyma",
+        "genre": "stutter house",
+        "album": "Genesys",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "6RcikTgxEyg",
         "video_url": "https://www.youtube.com/watch?v=6RcikTgxEyg",
         "title": "Consciousness (Eric Prydz Remix)",
@@ -1857,6 +1867,16 @@
         "artist": "Anyma & Reb\u016bke",
         "genre": "Unknown",
         "album": "Genesys",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "LeDQjCyoTTQ",
+        "video_url": "https://www.youtube.com/watch?v=LeDQjCyoTTQ",
+        "title": "Syren (Adam Sellouk Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/d_M4ZJFhSbcnoARa4Rkk2cKHv-QoBWxrT7hOE2ZuUWZTa55lvnYgkItr1gbJfVMEhUFIBDcXPnvUXYnJ=w120-h120-l90-rj",
+        "artist": "Anyma & Reb\u016bke",
+        "genre": "Unknown",
+        "album": "Genesys II",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -4867,6 +4887,16 @@
         "artist": "Bob Marley & The Wailers",
         "genre": "reggae",
         "album": "Survival",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "JDHyL8hO2sk",
+        "video_url": "https://www.youtube.com/watch?v=JDHyL8hO2sk",
+        "title": "Jamming (FISHER Rework)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HKm_trhkWj4mELkIrn-rzEWWRZu5ZQ8sRQkZhIck7U3OA2H5wkWCEbvD2NCEwDG8EFbdOfDoQf-IUCgo=w120-h120-l90-rj",
+        "artist": "Bob Marley & The Wailers & FISHER",
+        "genre": "Unknown",
+        "album": "Jamming (FISHER Rework)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -9610,6 +9640,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "D8YP4mZUv10",
+        "video_url": "https://www.youtube.com/watch?v=D8YP4mZUv10",
+        "title": "Ascend (My Mind Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/53Papa5HbAwpKMg1HAQYL9I9q2lnmHJ8EdKwr7vHDMSJi_vmQ9yCqeqlRRyCup2VRoS5DS9JPUTXRwHa=w120-h120-l90-rj",
+        "artist": "Dezko",
+        "genre": "tech house",
+        "album": "Ascend",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7P-__A32bPY",
         "video_url": "https://www.youtube.com/watch?v=7P-__A32bPY",
         "title": "Unity",
@@ -13492,7 +13532,7 @@
     {
         "video_id": "0DBkXcDU270",
         "video_url": "https://www.youtube.com/watch?v=0DBkXcDU270",
-        "title": "Sobakasu",
+        "title": "\u305d\u3070\u304b\u3059 - Sobakasu",
         "thumbnail_url": "https://lh3.googleusercontent.com/uhUxVi-rSivSl-brVg4DYe0kt3PWYpAJ8H0-27BBoSgquY0qDqHxITHkftwYzwuXg2pDnqW6l4T8mPs=w120-h120-l90-rj",
         "artist": "Judy & Mary",
         "genre": "anime",
@@ -17427,6 +17467,16 @@
         "artist": "Miss Monique",
         "genre": "ukrainian electronic",
         "album": "Molfar",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "YF4DWVB3KPo",
+        "video_url": "https://www.youtube.com/watch?v=YF4DWVB3KPo",
+        "title": "Veselka",
+        "thumbnail_url": "https://lh3.googleusercontent.com/IFUTYqvOejNsqTwfscL8-an-GjnAu-lzdot49-mWoUZ2DzG_ptU-ePV-2Ppc1-7bmmWgiPnimUm_COM=w120-h120-l90-rj",
+        "artist": "Miss Monique",
+        "genre": "ukrainian electronic",
+        "album": "Veselka",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
