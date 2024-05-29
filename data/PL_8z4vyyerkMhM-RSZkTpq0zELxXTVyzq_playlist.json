@@ -160,6 +160,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "Sfhdf3p3fRk",
+        "video_url": "https://www.youtube.com/watch?v=Sfhdf3p3fRk",
+        "title": "INDIRA PAGANOTTO @ Club Space Miami - Dj Set presented by Link Miami Rebels",
+        "thumbnail_url": "https://i.ytimg.com/vi/Sfhdf3p3fRk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lX74Tik7owfBikTLf8uEJrhrBlqA",
+        "artist": "Club Space",
+        "video_type": null
+    },
+    {
         "video_id": "sWnpReBXM2o",
         "video_url": "https://www.youtube.com/watch?v=sWnpReBXM2o",
         "title": "DEBORAH DE LUCA Live From Mauritius Island",
@@ -390,6 +398,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/iqGq1g68v7k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lC-viS11064TtZ1NJmqT42pZBO3g",
         "artist": "Oliver Heldens",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
+        "video_id": "PMaTRXQdMzg",
+        "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
+        "title": "CAMILA GUTI\u00c9RREZ DJ - PINK ECLIPSE \ud83c\udf12 (LIVE SET 4K) (Barranquilla, Colombia) [VOL 16]",
+        "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
+        "artist": "PANTHER DJ SETS",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "Q-tyUdLYnfs",

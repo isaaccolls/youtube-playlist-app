@@ -220,6 +220,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Tpcpl44bIbY",
+        "video_url": "https://www.youtube.com/watch?v=Tpcpl44bIbY",
+        "title": "I Wanna Love You (feat. Snoop Dogg)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8YpOe-KpMwRdIzwm_ZrTPdTgAjlyP_SLYbxllrVbkgrPlSK9AttBdoI-eqShjOxinLMGw-vl5FSJJKlDmQ=w120-h120-l90-rj",
+        "artist": "Akon",
+        "genre": "dance pop",
+        "album": "Konvicted",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "sQcJWibIMAc",
         "video_url": "https://www.youtube.com/watch?v=sQcJWibIMAc",
         "title": "En Defensa Propia",
@@ -517,6 +527,16 @@
         "artist": "Coolio",
         "genre": "g funk",
         "album": "Gangsta's Paradise",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Hlx4O20E-Fg",
+        "video_url": "https://www.youtube.com/watch?v=Hlx4O20E-Fg",
+        "title": "Butterfly",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mYVrZD5FTMPXqGy0Xb1BjZoceX2LNR-90YTcu0ITqCLq1lYROQZIOwUeIH1Z279rMDE1UZ2DZ8QnZ8leDQ=w120-h120-l90-rj",
+        "artist": "Crazy Town",
+        "genre": "alternative metal",
+        "album": "The Gift Of Game",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -850,6 +870,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Y949lQBp5zk",
+        "video_url": "https://www.youtube.com/watch?v=Y949lQBp5zk",
+        "title": "I'm Still in Love with You (feat. Sasha)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KSVwGU4SITBPG4Zb4F-mnDyG0XLEyO2LCy3TsnNjNeM3sAn0s45JfzCqKcYbfopJ6pYhHjs2bAjenUVcyg=w120-h120-l90-rj",
+        "artist": "Sean Paul",
+        "genre": "dance pop",
+        "album": "Dutty Rock (20th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "_APQB2-Um-I",
         "video_url": "https://www.youtube.com/watch?v=_APQB2-Um-I",
         "title": "Angel (feat. Rayvon)",
@@ -910,6 +940,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "RuPr33Jk2A4",
+        "video_url": "https://www.youtube.com/watch?v=RuPr33Jk2A4",
+        "title": "Where Is the Love?",
+        "thumbnail_url": "https://lh3.googleusercontent.com/I-sN5DMyYv-BGa1Icgj0dxnhyf-6mFTH3qFKKws6cWBeryTD9TUvX_3KLbL4X-2btaemtRMFl9XYkXC1=w120-h120-l90-rj",
+        "artist": "The Black Eyed Peas",
+        "genre": "Hip-Hop",
+        "album": "Elephunk",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "TaQwW5eQZeY",
         "video_url": "https://www.youtube.com/watch?v=TaQwW5eQZeY",
         "title": "How We Do (feat. 50 Cent)",
@@ -967,6 +1007,16 @@
         "artist": "Wiz Khalifa",
         "genre": "hip hop",
         "album": "Rolling Papers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "i2xVmkuBdYE",
+        "video_url": "https://www.youtube.com/watch?v=i2xVmkuBdYE",
+        "title": "Black and Yellow [G-Mix] (feat. Juicy J, Snoop Dogg & T-Pain)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/W2kFlexiwB44n4K432m9C9hRxPf0bwyFf8cyOrlg3YX1TWlxXVhBGZrpsUhcgoOgXtbhNvufqIB0qZQ=w120-h120-l90-rj",
+        "artist": "Wiz Khalifa",
+        "genre": "hip hop",
+        "album": "Rolling Papers (Deluxe 10 Year Anniversary Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     }
 ]

@@ -714,7 +714,7 @@
         "video_url": "https://www.youtube.com/watch?v=7wKVc8fo3rw",
         "title": "El Telefono",
         "thumbnail_url": "https://lh3.googleusercontent.com/MeEt3TSEkspRi3zpDidBVMBWMq2r4UC-qDwDvPry5sZzc4I_OSJbcBSE20v1-kXx3VlGaRkTC0fva_j-OA=w120-h120-l90-rj",
-        "artist": "Hector Bambino \"EL Father\" & Wisin & Yandel",
+        "artist": "H\u00e9ctor El Father & Wisin & Yandel",
         "genre": "Unknown",
         "album": "Wisin Y Yandel Presentan: Los Vaqueros",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
@@ -1547,6 +1547,16 @@
         "artist": "Reik, J Balvin & Lalo Ebratt",
         "genre": "Unknown",
         "album": "Indeciso",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Y949lQBp5zk",
+        "video_url": "https://www.youtube.com/watch?v=Y949lQBp5zk",
+        "title": "I'm Still in Love with You (feat. Sasha)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KSVwGU4SITBPG4Zb4F-mnDyG0XLEyO2LCy3TsnNjNeM3sAn0s45JfzCqKcYbfopJ6pYhHjs2bAjenUVcyg=w120-h120-l90-rj",
+        "artist": "Sean Paul",
+        "genre": "dance pop",
+        "album": "Dutty Rock (20th Anniversary)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

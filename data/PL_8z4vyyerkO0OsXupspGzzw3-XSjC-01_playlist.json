@@ -1520,6 +1520,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Tpcpl44bIbY",
+        "video_url": "https://www.youtube.com/watch?v=Tpcpl44bIbY",
+        "title": "I Wanna Love You (feat. Snoop Dogg)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8YpOe-KpMwRdIzwm_ZrTPdTgAjlyP_SLYbxllrVbkgrPlSK9AttBdoI-eqShjOxinLMGw-vl5FSJJKlDmQ=w120-h120-l90-rj",
+        "artist": "Akon",
+        "genre": "dance pop",
+        "album": "Konvicted",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "pIWaVJPl0-c",
         "video_url": "https://www.youtube.com/watch?v=pIWaVJPl0-c",
         "title": "Faded",
@@ -8700,6 +8710,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Hlx4O20E-Fg",
+        "video_url": "https://www.youtube.com/watch?v=Hlx4O20E-Fg",
+        "title": "Butterfly",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mYVrZD5FTMPXqGy0Xb1BjZoceX2LNR-90YTcu0ITqCLq1lYROQZIOwUeIH1Z279rMDE1UZ2DZ8QnZ8leDQ=w120-h120-l90-rj",
+        "artist": "Crazy Town",
+        "genre": "alternative metal",
+        "album": "The Gift Of Game",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "5vDvHoiPgOQ",
         "video_url": "https://www.youtube.com/watch?v=5vDvHoiPgOQ",
         "title": "Push Up (Short Version)",
@@ -13020,16 +13040,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
-        "video_id": "7wKVc8fo3rw",
-        "video_url": "https://www.youtube.com/watch?v=7wKVc8fo3rw",
-        "title": "El Telefono",
-        "thumbnail_url": "https://lh3.googleusercontent.com/MeEt3TSEkspRi3zpDidBVMBWMq2r4UC-qDwDvPry5sZzc4I_OSJbcBSE20v1-kXx3VlGaRkTC0fva_j-OA=w120-h120-l90-rj",
-        "artist": "Hector Bambino \"EL Father\" & Wisin & Yandel",
-        "genre": "Unknown",
-        "album": "Wisin Y Yandel Presentan: Los Vaqueros",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
         "video_id": "sP8YOzk0dX4",
         "video_url": "https://www.youtube.com/watch?v=sP8YOzk0dX4",
         "title": "On My Mind",
@@ -13057,6 +13067,16 @@
         "artist": "Hot Since 82 & Jem Cooke",
         "genre": "Unknown",
         "album": "Buggin'",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7wKVc8fo3rw",
+        "video_url": "https://www.youtube.com/watch?v=7wKVc8fo3rw",
+        "title": "El Telefono",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MeEt3TSEkspRi3zpDidBVMBWMq2r4UC-qDwDvPry5sZzc4I_OSJbcBSE20v1-kXx3VlGaRkTC0fva_j-OA=w120-h120-l90-rj",
+        "artist": "H\u00e9ctor El Father & Wisin & Yandel",
+        "genre": "Unknown",
+        "album": "Wisin Y Yandel Presentan: Los Vaqueros",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -22190,6 +22210,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "Y949lQBp5zk",
+        "video_url": "https://www.youtube.com/watch?v=Y949lQBp5zk",
+        "title": "I'm Still in Love with You (feat. Sasha)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KSVwGU4SITBPG4Zb4F-mnDyG0XLEyO2LCy3TsnNjNeM3sAn0s45JfzCqKcYbfopJ6pYhHjs2bAjenUVcyg=w120-h120-l90-rj",
+        "artist": "Sean Paul",
+        "genre": "dance pop",
+        "album": "Dutty Rock (20th Anniversary)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "fZDBtBuKMaI",
         "video_url": "https://www.youtube.com/watch?v=fZDBtBuKMaI",
         "title": "Tip Pon It",
@@ -26537,6 +26567,16 @@
         "artist": "Wiz Khalifa",
         "genre": "hip hop",
         "album": "Rolling Papers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "i2xVmkuBdYE",
+        "video_url": "https://www.youtube.com/watch?v=i2xVmkuBdYE",
+        "title": "Black and Yellow [G-Mix] (feat. Juicy J, Snoop Dogg & T-Pain)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/W2kFlexiwB44n4K432m9C9hRxPf0bwyFf8cyOrlg3YX1TWlxXVhBGZrpsUhcgoOgXtbhNvufqIB0qZQ=w120-h120-l90-rj",
+        "artist": "Wiz Khalifa",
+        "genre": "hip hop",
+        "album": "Rolling Papers (Deluxe 10 Year Anniversary Edition)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
