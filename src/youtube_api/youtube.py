@@ -29,7 +29,7 @@ class YoutubeAPI:
         self.spotify = spotipy.Spotify(auth_manager=SpotifyOAuth(
             client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope))
 
-    def get_genre(self, artist, title, retries=7):
+    def get_genre(self, artist, title, retries=20):
         try:
             results = self.spotify.search(q='artist:' + artist, type='artist')
             if results['artists']['items']:
@@ -50,7 +50,7 @@ class YoutubeAPI:
                 return self.get_genre(artist, title, retries-1)
         return 'Unknown'
 
-    def get_playlist_info(self, playlist_id, retries=3):
+    def get_playlist_info(self, playlist_id, retries=20):
         print(f'👉 get metadata for: {playlist_id}')
         items = []
         try:
@@ -60,7 +60,7 @@ class YoutubeAPI:
         except KeyError as e:
             if retries > 0:
                 print(f'🥹 Error: {e}. Retry...')
-                time.sleep(2)
+                time.sleep(5)
                 return self.get_playlist_info(playlist_id, retries-1)
             else:
                 print(f'🥺 Error: {e}. No more retry.')
