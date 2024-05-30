@@ -350,6 +350,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "wDKiuDtJNts",
+        "video_url": "https://www.youtube.com/watch?v=wDKiuDtJNts",
+        "title": "On & On (Extended Mix) (feat. Alika)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DtAIFKMlKnN4iUqaUz9NaQ_7lwvfe7wJ-obk0pF8jRwGe2CVEPJ6JOzRXq-mxqGgq4mD0F7sMjY-BAERcQ=w120-h120-l90-rj",
+        "artist": "Armin van Buuren & Punctual",
+        "genre": "Unknown",
+        "album": "Feel Again",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "HLVVM72Z7Zo",
         "video_url": "https://www.youtube.com/watch?v=HLVVM72Z7Zo",
         "title": "On & On (feat. Alika)",
@@ -500,6 +510,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "_7INMcB-dT8",
+        "video_url": "https://www.youtube.com/watch?v=_7INMcB-dT8",
+        "title": "STOP WITH IT (La La La La)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XfKjBJL_EFLpEv8ZF_q1i2OfyV2S-08w-AknoxsDh2tgNXQ4NJsMonOjvPZjEJzJUOidoKTa26obRvh5=w120-h120-l90-rj",
+        "artist": "Axemo",
+        "genre": "Unknown",
+        "album": "STOP WITH IT (La La La La)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7QXDkrkdmc8",
         "video_url": "https://www.youtube.com/watch?v=7QXDkrkdmc8",
         "title": "CAN'T GET YOU OUT OF MY HEAD (TECHNO)",
@@ -557,6 +577,16 @@
         "artist": "Benny Benassi",
         "genre": "dutch house",
         "album": "Electroman",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "txm-6rqCk3U",
+        "video_url": "https://www.youtube.com/watch?v=txm-6rqCk3U",
+        "title": "Feel The Vibe",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uJeugiQaz-yPZmuGoOqA0FV_hEnE4R2Q3FVuCBeQoPE8Uled5epk0fLVhCpdl2pW4WEWRRKSqicoC91B=w120-h120-l90-rj",
+        "artist": "Benny Benassi & Constantin",
+        "genre": "Unknown",
+        "album": "Feel The Vibe",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1040,6 +1070,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "nEbbPM_Xl14",
+        "video_url": "https://www.youtube.com/watch?v=nEbbPM_Xl14",
+        "title": "Blade",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5QJ48baJWQhnyHh-oataiDZ3IF5Gj9km1tLgcq1NCelwCtLMndCArx5mBlksaWg9UtD-L0ZpmH03mW8y=w120-h120-l90-rj",
+        "artist": "DJ Kuba, Neitan, & Bounce Inc.",
+        "genre": "Unknown",
+        "album": "Blade",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "rJ0D1GbDq1Q",
         "video_url": "https://www.youtube.com/watch?v=rJ0D1GbDq1Q",
         "title": "Let Me Love You (feat. Justin Bieber)",
@@ -1505,7 +1545,7 @@
         "title": "Pjanoo (Eric's Intro Edit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/ZlTXsJOWqWveLPGNPmqMjl93kWVMyNmw3mdJKV8aJzImVpxBnNZd5J5bq4_DUxV7-dpIm5ybqsVTd4bR=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "edm",
+        "genre": "dutch house",
         "album": "Eric Prydz Presents Pryda",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -1515,7 +1555,7 @@
         "title": "Every Day",
         "thumbnail_url": "https://lh3.googleusercontent.com/jrtueI09bFVBJSpts6FF3W3OzpcX8jfj9yijiKOB0NUmy2AMOdmxQp8oxr7_EEXANq-MzRxue_sjmsg=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "edm",
+        "genre": "dutch house",
         "album": "Opus",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -1525,7 +1565,7 @@
         "title": "Opus",
         "thumbnail_url": "https://lh3.googleusercontent.com/jrtueI09bFVBJSpts6FF3W3OzpcX8jfj9yijiKOB0NUmy2AMOdmxQp8oxr7_EEXANq-MzRxue_sjmsg=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "edm",
+        "genre": "dutch house",
         "album": "Opus",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -1535,7 +1575,7 @@
         "title": "Pjanoo (Radio Edit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/uU-Qu2cj9WsSWwRtsnwY26OxM7u-wvozwZJ4LF1k0Hjx6ZlKxSPAGltGOfhsxx342PJrCiSbLo_ClVK4=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "edm",
+        "genre": "dutch house",
         "album": "Pjanoo",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -2670,6 +2710,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "NtOy1blv9Bs",
+        "video_url": "https://www.youtube.com/watch?v=NtOy1blv9Bs",
+        "title": "Feeling Good",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Qrgwscwecd51Lf5WOk9tshTbI5Iw1UOk-dyfVY3m0r8adzlmgRpq8b9ZfrRsRLWwmiVUFXR1YjidE78G=w120-h120-l90-rj",
+        "artist": "Hypaton & David Guetta",
+        "genre": "Unknown",
+        "album": "Feeling Good",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "KC0cNk0TXAs",
         "video_url": "https://www.youtube.com/watch?v=KC0cNk0TXAs",
         "title": "Off Of My Mind",
@@ -3057,6 +3107,16 @@
         "artist": "Kygo",
         "genre": "edm",
         "album": "Cloud Nine",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "aQz5OVe1uzg",
+        "video_url": "https://www.youtube.com/watch?v=aQz5OVe1uzg",
+        "title": "SAY IT RIGHT HYPERTECHNO",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SQ-2Kt8mdUGThVfRUyTPLEj2im4Z8uv9h1oknsmzvuPhv8qEnZqEwN4Z7k3IfgLv03EqPHPSgl7TtS0i=w120-h120-l90-rj",
+        "artist": "LET ME GO",
+        "genre": "new wave of screamo",
+        "album": "SAY IT RIGHT HYPERTECHNO",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -3810,6 +3870,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "83xKiqm1mrk",
+        "video_url": "https://www.youtube.com/watch?v=83xKiqm1mrk",
+        "title": "What Is Life",
+        "thumbnail_url": "https://lh3.googleusercontent.com/OUgpfhtPtkBVd9DK77KOFdg9b4iOeCx7HqNiSv71x72zj6q18mdng4uJ_8bhoj7Hb54BuKZDGTulCCz6=w120-h120-l90-rj",
+        "artist": "Mynax",
+        "genre": "Unknown",
+        "album": "Close to You / What Is Life EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "HoqSbJ03zgo",
         "video_url": "https://www.youtube.com/watch?v=HoqSbJ03zgo",
         "title": "The Lost Soul Down (Slowed & Reverb)",
@@ -4157,6 +4227,16 @@
         "artist": "SOFI TUKKER & John Summit",
         "genre": "Unknown",
         "album": "WET TENNIS",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "7zhQzDbXZeU",
+        "video_url": "https://www.youtube.com/watch?v=7zhQzDbXZeU",
+        "title": "Naughty",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xsgyff1QGkOeyuj3mQ2wq8dxzlzrPo7jr99M0gQLbnnHO8UAZErjEcaEpwbrTRMbuizItFZ6G9_jQ8T8=w120-h120-l90-rj",
+        "artist": "SPATTER",
+        "genre": "Unknown",
+        "album": "Naughty",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

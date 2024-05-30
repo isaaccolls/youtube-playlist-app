@@ -180,6 +180,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "PR8Qqg64G4g",
+        "video_url": "https://www.youtube.com/watch?v=PR8Qqg64G4g",
+        "title": "Ret\u00f3rica",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PHPCeERyKp65u9sk64r6M31uJoM0CL5wbP4rNoSc4wlPnUBHFIQqTcTx5sRm3sYaA2SwjE0Ov_6N16fE=w120-h120-l90-rj",
+        "artist": "Akapellah",
+        "genre": "trap venezolano",
+        "album": "Como Nunca",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "DJ9cqJ7aO7w",
         "video_url": "https://www.youtube.com/watch?v=DJ9cqJ7aO7w",
         "title": "R\u00e9plica",
@@ -270,6 +280,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "NPutzPxJs4M",
+        "video_url": "https://www.youtube.com/watch?v=NPutzPxJs4M",
+        "title": "Siguiribiguibaun",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
+        "artist": "Apache",
+        "genre": "rap conciencia",
+        "album": "Original Combination",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "pfEZW-1eDl8",
         "video_url": "https://www.youtube.com/watch?v=pfEZW-1eDl8",
         "title": "Airplanes (feat. Hayley Williams of Paramore)",
@@ -307,6 +327,16 @@
         "artist": "Calle 13",
         "genre": "latin afrobeat",
         "album": "Entren Los Que Quieran",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "kiTEAf22QHs",
+        "video_url": "https://www.youtube.com/watch?v=kiTEAf22QHs",
+        "title": "Interludio",
+        "thumbnail_url": "https://lh3.googleusercontent.com/01PzAn5XzSEbnlebJTlyR3tAk4SUrVbrQB4wWrINE2b917R-VsemuuV-hsMd8Ss3CofzkXwLWhzNEaSHAw=w120-h120-l90-rj",
+        "artist": "Cancerbero & Apache",
+        "genre": "Unknown",
+        "album": "Apa Y Can",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -810,6 +840,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "96L5sV7rqX0",
+        "video_url": "https://www.youtube.com/watch?v=96L5sV7rqX0",
+        "title": "Can't Hold Us (feat. Ray Dalton)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ond7bzyvLRgppE6e31TdY8T3R1JDC5dZOdPZjb1cPoB49HDwhoZknvgkFAFvO2YISdg8UQjcs9bK9UQ5=w120-h120-l90-rj",
+        "artist": "Macklemore & Ryan Lewis",
+        "genre": "pop rap",
+        "album": "The Heist",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "27WDAYaVS-s",
         "video_url": "https://www.youtube.com/watch?v=27WDAYaVS-s",
         "title": "Thrift Shop (feat. Wanz)",
@@ -900,6 +940,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "1TqQvCdGSPk",
+        "video_url": "https://www.youtube.com/watch?v=1TqQvCdGSPk",
+        "title": "Gin and Juice",
+        "thumbnail_url": "https://lh3.googleusercontent.com/sheneTZmxOOxdEKWz3nkL9FfRaeegcDfUeF9cQ7sXyi6WZJIDmYvisQ8830EgK2WWWcYHk52FDsrzKfE=w120-h120-l90-rj",
+        "artist": "Snoop Dogg",
+        "genre": "g funk",
+        "album": "Doggystyle",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "m3VrFX2Zdms",
         "video_url": "https://www.youtube.com/watch?v=m3VrFX2Zdms",
         "title": "Sexual Eruption (Album Version FINAL)",
@@ -907,6 +957,16 @@
         "artist": "Snoop Dogg",
         "genre": "g funk",
         "album": "Ego Trippin'",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "X875_e5J0jc",
+        "video_url": "https://www.youtube.com/watch?v=X875_e5J0jc",
+        "title": "Shake That Ass",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TxPJY3SCtOMpsHZN95XCUA0XOiSpG2j0JP8jeWXfGDXGUFVesdHU1_sBi-zTi_TcnnXQh5WcbTJ9C0_L2w=w120-h120-l90-rj",
+        "artist": "Snoop Dogg",
+        "genre": "g funk",
+        "album": "Radio West (Mixtape)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -937,6 +997,16 @@
         "artist": "Snoop Dogg & Wiz Khalifa",
         "genre": "Hip-Hop",
         "album": "Young, Wild & Free",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bi64chQTPkA",
+        "video_url": "https://www.youtube.com/watch?v=bi64chQTPkA",
+        "title": "Noches De Humo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MKoHLLSYOBt5VmDdhzPhZeuLPYvMLuXh2-BbopsRIJic5c5X1tVVroizfWzK0w1wEpV9fFfeIFqWOzw9=w120-h120-l90-rj",
+        "artist": "Souchi",
+        "genre": "Unknown",
+        "album": "La Esencia",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -997,6 +1067,16 @@
         "artist": "Vico-C",
         "genre": "reggaeton",
         "album": "Desahogo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "O7_hvm34Obo",
+        "video_url": "https://www.youtube.com/watch?v=O7_hvm34Obo",
+        "title": "Black and Yellow",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ZMUqFNjPNdE2eFQNuMGkBc8gIj2nET2QyhP9KhxTXaKHP3YANj8viTQ_SGu6hSmeQr5g6rk2nWy0LK-5bg=w120-h120-l90-rj",
+        "artist": "Wiz Khalifa",
+        "genre": "hip hop",
+        "album": "Rolling Papers",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {

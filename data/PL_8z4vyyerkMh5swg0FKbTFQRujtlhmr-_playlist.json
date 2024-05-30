@@ -5920,6 +5920,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "saKyCRZHepM",
+        "video_url": "https://www.youtube.com/watch?v=saKyCRZHepM",
+        "title": "Tiemble",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FZfTqwaD679hGRG7SFsI16SaZhSwKbR8OZb7h6YSCvTg8hCcsZDIkW1h-RS-bJtuJdWNR9w9BO91Tno=w120-h120-l90-rj",
+        "artist": "Desorden P\u00fablico",
+        "genre": "caracas indie",
+        "album": "Canto Popular de la Vida y la Muerte",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "DZyYapMZSec",
         "video_url": "https://www.youtube.com/watch?v=DZyYapMZSec",
         "title": "Through The Fire And Flames",
@@ -8567,6 +8577,16 @@
         "artist": "Los Amigos Invisibles",
         "genre": "latin afrobeat",
         "album": "Commercial",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "OMc0E9AfWC4",
+        "video_url": "https://www.youtube.com/watch?v=OMc0E9AfWC4",
+        "title": "Coraz\u00f3n Tat\u00fa",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uvyYqRzilqZXEHZpuM2JeYoFmw7j-0qiHQkl0KLr-sS3uNJGbUHhOAlLDHNQgv90GNA6e9O2ELlEBmQ=w120-h120-l90-rj",
+        "artist": "Los Amigos Invisibles",
+        "genre": "latin afrobeat",
+        "album": "Repeat After Me",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -12705,7 +12725,7 @@
         "title": "Bohemian Rhapsody",
         "thumbnail_url": "https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "latin hip hop",
+        "genre": "trinidadian reggae",
         "album": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -12715,7 +12735,7 @@
         "title": "Don't Stop Me Now",
         "thumbnail_url": "https://lh3.googleusercontent.com/1OCPTD9Vomtm5Hqt3d0-naampTDQVUix7EgeCWX0rHKRrD4_z70cZ-65Pn3pWWs6ME1F-lxK4ELlfhgy=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "latin hip hop",
+        "genre": "trinidadian reggae",
         "album": "Jazz (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -12725,7 +12745,7 @@
         "title": "We Are The Champions",
         "thumbnail_url": "https://lh3.googleusercontent.com/15FhPpdnPT7-lBeiiAaVTRTmUqoQ1WrrH-PGS9qDKgOpvoVzFbXi5pI8vlBjG_k_BAKKQ3aw7qbUf1XV=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "latin hip hop",
+        "genre": "trinidadian reggae",
         "album": "News Of The World (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -12735,7 +12755,7 @@
         "title": "We Will Rock You",
         "thumbnail_url": "https://lh3.googleusercontent.com/15FhPpdnPT7-lBeiiAaVTRTmUqoQ1WrrH-PGS9qDKgOpvoVzFbXi5pI8vlBjG_k_BAKKQ3aw7qbUf1XV=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "latin hip hop",
+        "genre": "trinidadian reggae",
         "album": "News Of The World (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -12745,7 +12765,7 @@
         "title": "Another One Bites The Dust",
         "thumbnail_url": "https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "latin hip hop",
+        "genre": "trinidadian reggae",
         "album": "The Game (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -12755,7 +12775,7 @@
         "title": "Crazy Little Thing Called Love",
         "thumbnail_url": "https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "latin hip hop",
+        "genre": "trinidadian reggae",
         "album": "The Game (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -12765,7 +12785,7 @@
         "title": "I Want To Break Free (Single Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/XI7kN3Ic4HmkQWj4M-DnOPttjfLvF4F1C3SUYeSNZ76xgUUe5gafl7KsRdnVY_n3nKzSNEVDOPDfq88=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "latin hip hop",
+        "genre": "trinidadian reggae",
         "album": "The Works (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
