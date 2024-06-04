@@ -5030,6 +5030,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "T_Jqp0mAMzY",
+        "video_url": "https://www.youtube.com/watch?v=T_Jqp0mAMzY",
+        "title": "World, Hold On (Video Edit) (feat. Steve Edwards)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/87zzqokd85T0tbSsKzCTzGrZUuA5zcjMilSE7NiCL8kv1kNq4_4RITR39cHmcjcPhgPkHJ2ijBVWSK0=w120-h120-l90-rj",
+        "artist": "Bob Sinclar",
+        "genre": "disco house",
+        "album": "World, Hold On - EP",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "iN9rqTJbCrk",
         "video_url": "https://www.youtube.com/watch?v=iN9rqTJbCrk",
         "title": "World Hold On (FISHER Rework) (feat. Steve Edwards)",
@@ -7267,6 +7277,16 @@
         "artist": "Bullet For My Valentine",
         "genre": "alternative metal",
         "album": "Venom (Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "cGct_nYKPuQ",
+        "video_url": "https://www.youtube.com/watch?v=cGct_nYKPuQ",
+        "title": "El\u00e9ctrica Salsa",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uPKndzAWMO_8X99VjnTlLOH-u1E91MW5bPRODmWX92hoo-69pCTIFeIzFsvoO96Hsu8xG-gQNEEMx-E4TA=w120-h120-l90-rj",
+        "artist": "CLOTTA",
+        "genre": "Unknown",
+        "album": "Fashion X",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -9690,6 +9710,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "9xRdGAKCKOQ",
+        "video_url": "https://www.youtube.com/watch?v=9xRdGAKCKOQ",
+        "title": "Sax To Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/nO0DVGbjSOviowURZQzIlcOMAqZq0MWYKXdj9TYbCcodtkSzHu1faOiLLKTJjQcKPYR_P4u4eIrayis-=w120-h120-l90-rj",
+        "artist": "Dayvi & Joseph Qas",
+        "genre": "Unknown",
+        "album": "Sax To Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "TTS_6QKH6UA",
         "video_url": "https://www.youtube.com/watch?v=TTS_6QKH6UA",
         "title": "Don't Let Me Go",
@@ -9900,6 +9930,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "XYTe71jeNAk",
+        "video_url": "https://www.youtube.com/watch?v=XYTe71jeNAk",
+        "title": "Prende La Fiesta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_n-gV7FX-WwizI18YtUnHZxJFM-7QDGBtc0ZTpRWu15oaMecgy9hVS8EdqU8YyhQy830MYmwboerVPq3=w120-h120-l90-rj",
+        "artist": "Dj Dasten & Fumaratto",
+        "genre": "Unknown",
+        "album": "Prende La Fiesta",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "0hfW3qSeYSU",
         "video_url": "https://www.youtube.com/watch?v=0hfW3qSeYSU",
         "title": "Ojitos Chiquitos",
@@ -9977,6 +10017,16 @@
         "artist": "Don Omar, Wisin & Yandel",
         "genre": "Unknown",
         "album": "SANDUNGA",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Bhk7PLr5ekU",
+        "video_url": "https://www.youtube.com/watch?v=Bhk7PLr5ekU",
+        "title": "It's My Life (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4fvOyxb5iDqp91Ztmo6uIuzc-aym1m1XfkPkZTcE2p3unsZNDvYHYYc7jqoLnEy_9BHAbWijGEB2YEs=w120-h120-l90-rj",
+        "artist": "Dr. Alban",
+        "genre": "eurodance",
+        "album": "One Love",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -12380,6 +12430,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "KSMCybhA8ho",
+        "video_url": "https://www.youtube.com/watch?v=KSMCybhA8ho",
+        "title": "Infinity 2008 (Klaas Vocal Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mygJogrxneNLJJlwjiJCtein6ndP35u3Mi4d-PPfN1fKn-EZywgdAbhfSmWKXyTf1XPLBw7IiSs1q8r1pA=w120-h120-l90-rj",
+        "artist": "Guru Josh Project",
+        "genre": "acid house",
+        "album": "Infinity 2008",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "86QuZ3ssTEQ",
         "video_url": "https://www.youtube.com/watch?v=86QuZ3ssTEQ",
         "title": "Jet Plane",
@@ -14637,6 +14697,16 @@
         "artist": "Lasso & Sebasti\u00e1n Yatra",
         "genre": "Unknown",
         "album": "Ojos Marrones",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "0juMnfxL9sM",
+        "video_url": "https://www.youtube.com/watch?v=0juMnfxL9sM",
+        "title": "Marakaibo (Radio Version)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/CIjzia4gJ2uWOI4-UNb8dPC8z3mpaCo0kNpIJ9BD00R0xx2ATM7L-b6_CPvrteH6Od-u3vTjg77oyXl0=w120-h120-l90-rj",
+        "artist": "Le Pupe",
+        "genre": "linedance 2023",
+        "album": "Marakaibo",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -20720,6 +20790,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "HR-_BMO7P-k",
+        "video_url": "https://www.youtube.com/watch?v=HR-_BMO7P-k",
+        "title": "Get Get Down",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TUrt-YILcZiUAYbTeNHiT7is9WKCwGBqcjCPcupS8A9Pje-c5zRSFifPbU92w3fEdXYaYEIt5IT2nrKw=w120-h120-l90-rj",
+        "artist": "Paul Johnson",
+        "genre": "chicago house",
+        "album": "Get Get Down",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "nqIZ9j9j4NE",
         "video_url": "https://www.youtube.com/watch?v=nqIZ9j9j4NE",
         "title": "Looking For Me",
@@ -24510,6 +24590,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "y_-SP55sRig",
+        "video_url": "https://www.youtube.com/watch?v=y_-SP55sRig",
+        "title": "Pump Up The Jam",
+        "thumbnail_url": "https://lh3.googleusercontent.com/IL91Wr5enmr_7xPe4Y6x-Lup_mvieIUmwVBbBy974ZyoyrcwZz-X67sWdPIPIbxkp898H5rKAWqzncNR=w120-h120-s-l90-rj",
+        "artist": "Technotronic",
+        "genre": "eurodance",
+        "album": "Pump Up The Jam",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "PnpEOtzb668",
         "video_url": "https://www.youtube.com/watch?v=PnpEOtzb668",
         "title": "Pa' Que Retozen",
@@ -25227,6 +25317,16 @@
         "artist": "Ti\u00ebsto",
         "genre": "big room",
         "album": "A Town Called Paradise (Deluxe)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "4GHUWw2gJ8I",
+        "video_url": "https://www.youtube.com/watch?v=4GHUWw2gJ8I",
+        "title": "Adagio For Strings",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pwFg2ois_61gN40EvYVXj2R9FOaoElCyICXzb8_oTilrcH52oLJxt5SSD2BzVokZ85ND3nQ-wVmTAfQ=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "genre": "big room",
+        "album": "Adagio For Strings",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -26657,6 +26757,16 @@
         "artist": "Warmen",
         "genre": "finnish metal",
         "album": "Unknown Soldier",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "aSC-6J3lPR4",
+        "video_url": "https://www.youtube.com/watch?v=aSC-6J3lPR4",
+        "title": "Shiny Disco Balls (feat. Jessica Eve)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dWfabzHhjrshetT6HidYR0USq0YLZ-ZR18krZiw9iejR9N8Wc3-76WLAQma9ZO6EvklMxfp1M6_QdVo=w120-h120-l90-rj",
+        "artist": "Who Da Funk",
+        "genre": "House",
+        "album": "Shiny Disco Balls",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
