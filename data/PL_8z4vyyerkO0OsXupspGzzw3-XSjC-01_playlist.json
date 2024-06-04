@@ -1920,6 +1920,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "P-weWuizTJY",
+        "video_url": "https://www.youtube.com/watch?v=P-weWuizTJY",
+        "title": "Cantando Voy (feat. Movimiento Original)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9mSAlQ1dY_78z8O8QnaSsGP5jEKtN3Z9FHyIPOlpXJ2rKY4wn924SYo-_hkRJrjjwu-UqrzrghHJ8n-9=w120-h120-l90-rj",
+        "artist": "Apache",
+        "genre": "rap conciencia",
+        "album": "Original Combination",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "PNIw1SIVnWM",
         "video_url": "https://www.youtube.com/watch?v=PNIw1SIVnWM",
         "title": "Como Venga (feat. Gona)",
@@ -3317,6 +3327,16 @@
         "artist": "Armin van Buuren, Vini Vici & Hilight Tribe",
         "genre": "Unknown",
         "album": "Great Spirit",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "53CBrMghVJE",
+        "video_url": "https://www.youtube.com/watch?v=53CBrMghVJE",
+        "title": "Not The American Average",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_uuRNfGgS-6NUG0O4SU5e9nHZIhKJZjzvEWr9nqoqYrq5k1NhTsZvgatbq8uZL1ZQqWFN8cRrbHlME0=w120-h120-l90-rj",
+        "artist": "Asking Alexandria",
+        "genre": "alternative metal",
+        "album": "Stand Up And Scream",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -5105,7 +5125,7 @@
         "title": "Candyman",
         "thumbnail_url": "https://lh3.googleusercontent.com/eSfGXsTor26lBfW4PbdzoRvZYC2b8jzMuwldw6pVXh6okes7ANhnsA5hRpgIQXrMHP-g7AGrTRnBeptS8g=w120-h120-l90-rj",
         "artist": "Boris S.",
-        "genre": "deep hardtechno",
+        "genre": "pop peruano",
         "album": "Best of 15 years Boris S.",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -6940,6 +6960,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "q5eMjRL0S0o",
+        "video_url": "https://www.youtube.com/watch?v=q5eMjRL0S0o",
+        "title": "Waking the Demon",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bkw7zIX41UciUi7dxRMX1zj4y0rE3I_cEYxU2F2kmxceimGDMH11RiIr4PTxRperYed3RbpnXgYl4qAm=w120-h120-s-l90-rj",
+        "artist": "Bullet For My Valentine",
+        "genre": "alternative metal",
+        "album": "Scream Aim Fire",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "8JjeKirLYo8",
         "video_url": "https://www.youtube.com/watch?v=8JjeKirLYo8",
         "title": "Waking the Demon",
@@ -8585,7 +8615,7 @@
         "title": "KTM",
         "thumbnail_url": "https://lh3.googleusercontent.com/UMx37U4vxKH6-j9fj6zoz8aeiqU5m7ncODU7uNeQHPKX_AE9jvbeviCJInyiQBj7LfkZ-1-BiIY4PBG3=w120-h120-l90-rj",
         "artist": "Carnage",
-        "genre": "dutch house",
+        "genre": "edm",
         "album": "KTM",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -10205,7 +10235,7 @@
         "title": "Pjanoo (Eric's Intro Edit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/ZlTXsJOWqWveLPGNPmqMjl93kWVMyNmw3mdJKV8aJzImVpxBnNZd5J5bq4_DUxV7-dpIm5ybqsVTd4bR=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "dutch house",
+        "genre": "edm",
         "album": "Eric Prydz Presents Pryda",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -10215,7 +10245,7 @@
         "title": "Every Day",
         "thumbnail_url": "https://lh3.googleusercontent.com/jrtueI09bFVBJSpts6FF3W3OzpcX8jfj9yijiKOB0NUmy2AMOdmxQp8oxr7_EEXANq-MzRxue_sjmsg=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "dutch house",
+        "genre": "edm",
         "album": "Opus",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -10225,7 +10255,7 @@
         "title": "Opus",
         "thumbnail_url": "https://lh3.googleusercontent.com/jrtueI09bFVBJSpts6FF3W3OzpcX8jfj9yijiKOB0NUmy2AMOdmxQp8oxr7_EEXANq-MzRxue_sjmsg=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "dutch house",
+        "genre": "edm",
         "album": "Opus",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -10235,7 +10265,7 @@
         "title": "Pjanoo (Radio Edit)",
         "thumbnail_url": "https://lh3.googleusercontent.com/uU-Qu2cj9WsSWwRtsnwY26OxM7u-wvozwZJ4LF1k0Hjx6ZlKxSPAGltGOfhsxx342PJrCiSbLo_ClVK4=w120-h120-l90-rj",
         "artist": "Eric Prydz",
-        "genre": "dutch house",
+        "genre": "edm",
         "album": "Pjanoo",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -13530,6 +13560,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "h0m8luU9CJw",
+        "video_url": "https://www.youtube.com/watch?v=h0m8luU9CJw",
+        "title": "Caracas de Noche (feat. Marvin DJ)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/yYO4NTLpnOA7GyhBR26nmGqV0tpOyOy45MC6UTdNK8E0z7EQj1jMRIC36BMSxjy-BhwtXtvZfinlFpGq4Q=w120-h120-l90-rj",
+        "artist": "Javith",
+        "genre": "electronica venezuela",
+        "album": "Caracas de Noche (Remixes)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "5WXs6hzsuZs",
         "video_url": "https://www.youtube.com/watch?v=5WXs6hzsuZs",
         "title": "Pedro",
@@ -15210,6 +15250,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "iw35Pfqf4U8",
+        "video_url": "https://www.youtube.com/watch?v=iw35Pfqf4U8",
+        "title": "Given Up",
+        "thumbnail_url": "https://lh3.googleusercontent.com/BtAKhqmTBoZWEQPlcF9tgpqILWNkQ4vc0tk0nlSrIpdvhW9sf9K-tQDoym1zh9Svl-8PnpFCY_6vNYg7=w120-h120-l90-rj",
+        "artist": "Linkin Park",
+        "genre": "alternative metal",
+        "album": "Minutes to Midnight",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "BstHvsCGmiA",
         "video_url": "https://www.youtube.com/watch?v=BstHvsCGmiA",
         "title": "Given Up",
@@ -15817,6 +15867,16 @@
         "artist": "MEDUZA",
         "genre": "edm",
         "album": "Without Fear (The Complete Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Mp67avl2fOk",
+        "video_url": "https://www.youtube.com/watch?v=Mp67avl2fOk",
+        "title": "Son Son",
+        "thumbnail_url": "https://lh3.googleusercontent.com/jwHHAEPU8z33-fkYqM34YYst80sTqi54SI6vyxMeBWOXQXHMKDUvjqRSkR8vP0M3uvuQAasku6h2O99J=w120-h120-l90-rj",
+        "artist": "Macaco",
+        "genre": "latin alternative",
+        "album": "Ingravitto",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -17767,6 +17827,16 @@
         "artist": "Modestep & Popeska",
         "genre": "Unknown",
         "album": "Evolution Theory (Deluxe Edition)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Fjmet1g58AU",
+        "video_url": "https://www.youtube.com/watch?v=Fjmet1g58AU",
+        "title": "Divina Ciencia (feat. Dahani)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/sNUsEJbA_1hTrrU3aREUmrkJtkdQMUVd4Sl2H8dH6zWViURtFUuxYH2Ks2S2PAk2AAduE_oBAboKhuVV=w120-h120-l90-rj",
+        "artist": "Morodo",
+        "genre": "reggae en espanol",
+        "album": "Cosas Que Contarte",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -21265,7 +21335,7 @@
         "title": "Bohemian Rhapsody",
         "thumbnail_url": "https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "trinidadian reggae",
+        "genre": "latin hip hop",
         "album": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -21275,7 +21345,7 @@
         "title": "Don't Stop Me Now",
         "thumbnail_url": "https://lh3.googleusercontent.com/1OCPTD9Vomtm5Hqt3d0-naampTDQVUix7EgeCWX0rHKRrD4_z70cZ-65Pn3pWWs6ME1F-lxK4ELlfhgy=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "trinidadian reggae",
+        "genre": "latin hip hop",
         "album": "Jazz (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -21285,7 +21355,7 @@
         "title": "We Are The Champions",
         "thumbnail_url": "https://lh3.googleusercontent.com/15FhPpdnPT7-lBeiiAaVTRTmUqoQ1WrrH-PGS9qDKgOpvoVzFbXi5pI8vlBjG_k_BAKKQ3aw7qbUf1XV=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "trinidadian reggae",
+        "genre": "latin hip hop",
         "album": "News Of The World (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -21295,7 +21365,7 @@
         "title": "We Will Rock You",
         "thumbnail_url": "https://lh3.googleusercontent.com/15FhPpdnPT7-lBeiiAaVTRTmUqoQ1WrrH-PGS9qDKgOpvoVzFbXi5pI8vlBjG_k_BAKKQ3aw7qbUf1XV=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "trinidadian reggae",
+        "genre": "latin hip hop",
         "album": "News Of The World (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -21305,7 +21375,7 @@
         "title": "Another One Bites The Dust",
         "thumbnail_url": "https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "trinidadian reggae",
+        "genre": "latin hip hop",
         "album": "The Game (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -21315,7 +21385,7 @@
         "title": "Crazy Little Thing Called Love",
         "thumbnail_url": "https://lh3.googleusercontent.com/b41vQwnO9ifWbnxc9fK_IC18TnZpWe5HONbxQUMpPniAnjfo0UotCMfDUS7LKNTUNQT49u16jX0wm50=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "trinidadian reggae",
+        "genre": "latin hip hop",
         "album": "The Game (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -21325,7 +21395,7 @@
         "title": "I Want To Break Free (Single Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/XI7kN3Ic4HmkQWj4M-DnOPttjfLvF4F1C3SUYeSNZ76xgUUe5gafl7KsRdnVY_n3nKzSNEVDOPDfq88=w120-h120-l90-rj",
         "artist": "Queen",
-        "genre": "trinidadian reggae",
+        "genre": "latin hip hop",
         "album": "The Works (Deluxe Edition 2011 Remaster)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -22367,6 +22437,16 @@
         "artist": "R\u00dcF\u00dcS DU SOL",
         "genre": "australian electropop",
         "album": "Bloom",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "ndeVIZQMn9U",
+        "video_url": "https://www.youtube.com/watch?v=ndeVIZQMn9U",
+        "title": "Blondapetit (feat. Gordo Master)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XkBAM34IpXHLg9TLcaNJopGb67Sv_uVk_KghBhM0c8C7vX6hH2D7t-GNaQydejpHYu6Dqm3wcOjIKauK=w120-h120-l90-rj",
+        "artist": "SFDK, Fyahbwoy & Acci\u00f3n S\u00e1nchez",
+        "genre": "Unknown",
+        "album": "Lista de Invitados",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -23967,6 +24047,16 @@
         "artist": "Sub Zero Project & Vertile",
         "genre": "Unknown",
         "album": "We Ignite",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "hteZP6IFHLQ",
+        "video_url": "https://www.youtube.com/watch?v=hteZP6IFHLQ",
+        "title": "Remember (Na Na Hey Hey)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-vzVGh761tUACQwcNt3L2X8RATIaYL8qb6V3eKeDX5CnWeEwC7_FPrksx8stnMEZc0Q4kQY7cvvtGjRs2A=w120-h120-l90-rj",
+        "artist": "Summer Love",
+        "genre": "Unknown",
+        "album": "Exitos Retro Del Verano (Uno)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -27040,6 +27130,26 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "kKbfoAwVP1U",
+        "video_url": "https://www.youtube.com/watch?v=kKbfoAwVP1U",
+        "title": "De la Tierra Crece",
+        "thumbnail_url": "https://lh3.googleusercontent.com/U0BGlj1DiURBymlvjY8h3ymdXlPdnD9AN9FNqrHK1jVe_fFNIKdijAwjl1nCwWgXuisd0vSMkuZ-_rPrjg=w120-h120-l90-rj",
+        "artist": "Zona Ganjah",
+        "genre": "latin alternative",
+        "album": "Sanazion",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "IAZbz76vAdU",
+        "video_url": "https://www.youtube.com/watch?v=IAZbz76vAdU",
+        "title": "Fumando Vamos a Casa",
+        "thumbnail_url": "https://lh3.googleusercontent.com/U0BGlj1DiURBymlvjY8h3ymdXlPdnD9AN9FNqrHK1jVe_fFNIKdijAwjl1nCwWgXuisd0vSMkuZ-_rPrjg=w120-h120-l90-rj",
+        "artist": "Zona Ganjah",
+        "genre": "latin alternative",
+        "album": "Sanazion",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "CFujntlXMr8",
         "video_url": "https://www.youtube.com/watch?v=CFujntlXMr8",
         "title": "Bored to Death",
@@ -27600,6 +27710,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "hRH_BomQdb0",
+        "video_url": "https://www.youtube.com/watch?v=hRH_BomQdb0",
+        "title": "Please Take Me Home",
+        "thumbnail_url": "https://lh3.googleusercontent.com/x89M7yBNe807OnENr3adTtnICp3A0WUrayxt3b_sThEBER5B7-fm7p3fVe10MOI4Rn1rT8YA9fEWaEf5fg=w120-h120-s-l90-rj",
+        "artist": "blink-182",
+        "genre": "alternative metal",
+        "album": "Take Off Your Pants And Jacket",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "csO9ZNuqiMY",
         "video_url": "https://www.youtube.com/watch?v=csO9ZNuqiMY",
         "title": "Reckless Abandon",
@@ -28017,6 +28137,16 @@
         "artist": "deadmau5, Kaskade & Kx5",
         "genre": "Unknown",
         "album": "Alive (KREAM Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "-RY8DjdNnIs",
+        "video_url": "https://www.youtube.com/watch?v=-RY8DjdNnIs",
+        "title": "Reggae Love",
+        "thumbnail_url": "https://lh3.googleusercontent.com/blAZO3eRPZ8J4C6ncAh3AAoSwgHWOZKIhYnwFO55aqxtabhScacH-D_N_R62xYr7u4xyXwA56cQSWGkgbw=w120-h120-l90-rj",
+        "artist": "jahneration",
+        "genre": "french reggae",
+        "album": "The Foreword",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
