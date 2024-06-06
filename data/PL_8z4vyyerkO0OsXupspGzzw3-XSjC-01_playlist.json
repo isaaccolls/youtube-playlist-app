@@ -1540,6 +1540,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "5HZ7QBnMX34",
+        "video_url": "https://www.youtube.com/watch?v=5HZ7QBnMX34",
+        "title": "Smack That (feat. Eminem)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/8YpOe-KpMwRdIzwm_ZrTPdTgAjlyP_SLYbxllrVbkgrPlSK9AttBdoI-eqShjOxinLMGw-vl5FSJJKlDmQ=w120-h120-l90-rj",
+        "artist": "Akon",
+        "genre": "dance pop",
+        "album": "Konvicted",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "pIWaVJPl0-c",
         "video_url": "https://www.youtube.com/watch?v=pIWaVJPl0-c",
         "title": "Faded",
@@ -1617,6 +1627,16 @@
         "artist": "Alesso & John Newman",
         "genre": "Unknown",
         "album": "Call Your Name",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "dk5592o-xqQ",
+        "video_url": "https://www.youtube.com/watch?v=dk5592o-xqQ",
+        "title": "Destination Calabria [Radio Edit] (feat. Crystal Waters)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WD8qxuA56Ua-3b1bYrrM68edvxONIMelxIR9cQkrPCQnKDyMalf16MDp7-M5zz7BhE2RvCw932Pwh8Q8JQ=w120-h120-l90-rj",
+        "artist": "Alex Gaudino",
+        "genre": "disco house",
+        "album": "Hands Up! (25 EDM Hit Records That Became Reference)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -1817,6 +1837,16 @@
         "artist": "Anitta",
         "genre": "funk pop",
         "album": "Versions of Me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "GjZw-5OZyks",
+        "video_url": "https://www.youtube.com/watch?v=GjZw-5OZyks",
+        "title": "Let's Go Dancing",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vVXtgZzp9WsOkHahHOh6TshfTtJdg2kMDsrCk8IFiiC5K7kqc_fPH_TrjUzQrhUYNOxuID6XBXR1K7bM=w120-h120-l90-rj",
+        "artist": "Anti-Funky",
+        "genre": "Unknown",
+        "album": "Paparazzi Gossip Compilation 2",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -3230,6 +3260,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "COIvdZPzKac",
+        "video_url": "https://www.youtube.com/watch?v=COIvdZPzKac",
+        "title": "Computers Take Over The World (ASOT 1119) (Maddix Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SNY0XBjoDIFOCVvGhfFOyNr2ujhVFDAwtMtS2OkM9ogpznd6aAe94eNtkItWArMRuXzDFTezKplnuHg=w120-h120-l90-rj",
+        "artist": "Armin van Buuren",
+        "genre": "dutch trance",
+        "album": "ASOT 1119 - A State of Trance Episode 1119",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "OPvx_3uR93U",
         "video_url": "https://www.youtube.com/watch?v=OPvx_3uR93U",
         "title": "Blah Blah Blah",
@@ -3267,6 +3307,16 @@
         "artist": "Armin van Buuren",
         "genre": "dutch trance",
         "album": "Blah Blah Blah",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "xNtB03yEbiM",
+        "video_url": "https://www.youtube.com/watch?v=xNtB03yEbiM",
+        "title": "Waiting For The Night (feat. Fiora)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bqNBX5ttPrNaKx1lgRTnSwz0tyQ6Xc0Kn-mWMS0r_fwy86DKAHFiNbRPLZtzpkxmd-x44vGsyzZ9bE_LQA=w120-h120-l90-rj",
+        "artist": "Armin van Buuren",
+        "genre": "dutch trance",
+        "album": "Waiting For The Night",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -5060,6 +5110,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "sobYJY7nHIA",
+        "video_url": "https://www.youtube.com/watch?v=sobYJY7nHIA",
+        "title": "Purple Noise",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vrplJqqDqhl8BVPQwx7jfEyb2eCXOW_3SladAapu2l4kSEyz06TLPBTt6jkR449rYHQanggLHzIUUIY=w120-h120-l90-rj",
+        "artist": "Boris Brejcha",
+        "genre": "german house",
+        "album": "Feuerfalter Part 02",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "rh28hi6er2U",
         "video_url": "https://www.youtube.com/watch?v=rh28hi6er2U",
         "title": "Gravity (Edit) (feat. Laura Korinth)",
@@ -5087,16 +5147,6 @@
         "artist": "Boris Brejcha",
         "genre": "german house",
         "album": "Never Look Back (Edit)",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV"
-    },
-    {
-        "video_id": "eG5tMhTihzI",
-        "video_url": "https://www.youtube.com/watch?v=eG5tMhTihzI",
-        "title": "Purple Noise",
-        "thumbnail_url": "https://lh3.googleusercontent.com/KeeLTL1_KBa0vQHfzud3EmCUQ9SpjqG3nmuGg3HUFpWY4G-Ge67I-usGRTBTpipy4SUaUFte4gij_Z8=w120-h120-l90-rj",
-        "artist": "Boris Brejcha",
-        "genre": "german house",
-        "album": "Non Stop Techno Collection, Vol. 1",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -7280,6 +7330,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "l5Zox5O3jh4",
+        "video_url": "https://www.youtube.com/watch?v=l5Zox5O3jh4",
+        "title": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/gqVEEwgAZk8lZO9wdq1YE1aHMWt4IjcPhAhiJM0Jvqyy2C7-7wjm5IvT8TfiHyizj6oYhz9OhupbiXhN=w120-h120-l90-rj",
+        "artist": "C+C Music Factory",
+        "genre": "diva house",
+        "album": "Gonna Make You Sweat",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "cGct_nYKPuQ",
         "video_url": "https://www.youtube.com/watch?v=cGct_nYKPuQ",
         "title": "El\u00e9ctrica Salsa",
@@ -7427,6 +7487,16 @@
         "artist": "Calle Vapor",
         "genre": "son cubano",
         "album": "La Casa del Son",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "3g5wOH08VM8",
+        "video_url": "https://www.youtube.com/watch?v=3g5wOH08VM8",
+        "title": "San Juan (Band&Dos Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/16xjoJSX9LUjk8e9-TmHr4a5sTG9XpRXWPsnzsULzARKwOvrI_OrM4nrQ61XfGKaF8HnjzEDO3r7WZCP=w120-h120-l90-rj",
+        "artist": "Calussa & Sebastian Rivero",
+        "genre": "Unknown",
+        "album": "San Juan",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -8620,6 +8690,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "jCdWNWlfYvk",
+        "video_url": "https://www.youtube.com/watch?v=jCdWNWlfYvk",
+        "title": "I Want You (Forever) (Josh Butler Remix - Shorter Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Tm2gFf3e5G1ZHame1Z_ub1Ijh6wT_-15g73b7MinUPh8BgNdmoG0dfp9h6KrpRQWusu1n6nqwMGQtks0=w120-h120-l90-rj",
+        "artist": "Carl Cox",
+        "genre": "house",
+        "album": "I Want You (Forever) (Josh Butler Remix - Shorter Edit)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "dlObDivWgx8",
         "video_url": "https://www.youtube.com/watch?v=dlObDivWgx8",
         "title": "Call Me Maybe",
@@ -8667,6 +8747,16 @@
         "artist": "Carnage & Timmy Trumpet",
         "genre": "Unknown",
         "album": "Skitzmix 53",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "_StA3TJ2TH8",
+        "video_url": "https://www.youtube.com/watch?v=_StA3TJ2TH8",
+        "title": "The Killer's Song (The Killer's Song Club Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bvtfOdjtDCl2ggSQYOx-kAXYWbx4nKyqkK6zPxdSmkrYhRfBLBEYp3mpFR6H0kgy2CLgKBvbrfHTgFU=w120-h120-l90-rj",
+        "artist": "Carolina Marquez",
+        "genre": "italo dance",
+        "album": "The Killer's Song Vol.2",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -8737,6 +8827,16 @@
         "artist": "Chris Lorenzo & Vintage Culture",
         "genre": "Unknown",
         "album": "California Dreamin' (Vintage Culture Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Zpo5axcIoz4",
+        "video_url": "https://www.youtube.com/watch?v=Zpo5axcIoz4",
+        "title": "Let the Bass Kick in Miami Girl (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5ILZEkAJmcEvRjB9zVLIFEQI2d0uwGV-rR49W5pFlVkkxoZxWkrMree8j6Z1HflF6VY5k7HG4iECcz0=w120-h120-l90-rj",
+        "artist": "Chuckie & Lmfao",
+        "genre": "Unknown",
+        "album": "Let the Bass Kick in Miami Girl",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -9680,6 +9780,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "YYI5XZAYS_w",
+        "video_url": "https://www.youtube.com/watch?v=YYI5XZAYS_w",
+        "title": "Gettin' Over You (feat. Fergie & LMFAO)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fmOP2tOFBpM9kjaVtgpe9myi-ThcMzpNaB12Tz32eADljDu32hlx3fFv6MXlnYDWSGYX1TXlv4VDImAG=w120-h120-l90-rj",
+        "artist": "David Guetta & Chris Willis",
+        "genre": "dance",
+        "album": "One More Love",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "-Yap2dh2k44",
         "video_url": "https://www.youtube.com/watch?v=-Yap2dh2k44",
         "title": "Love Is Gone (Fred Riester & Joachim Garraud Radio Edit Remix)",
@@ -10210,6 +10320,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "LbiNQdbyeKs",
+        "video_url": "https://www.youtube.com/watch?v=LbiNQdbyeKs",
+        "title": "Tierra Caribe",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zeZ2q-hQkwlcoN7lSJUeVcxYbEdwaoZcLz282FBaBz0AefKJiKfqoQI_A1t34sVNJ8poONcQNXbm6Ro=w120-h120-l90-rj",
+        "artist": "Eduardo Vargas & Yostin Mcgrey",
+        "genre": "Unknown",
+        "album": "Tierra Caribe",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "0Q6L7mwr1q4",
         "video_url": "https://www.youtube.com/watch?v=0Q6L7mwr1q4",
         "title": "Stereo Love (SP3CTRUM Remix)",
@@ -10217,6 +10337,16 @@
         "artist": "Edward Maya & Vika Jigulina",
         "genre": "romanian house",
         "album": "Stereo Love",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "W80rrFI9b_A",
+        "video_url": "https://www.youtube.com/watch?v=W80rrFI9b_A",
+        "title": "Stereo Love",
+        "thumbnail_url": "https://lh3.googleusercontent.com/w2I0YW0mM-o_MfGiEsj2GnCjK2cljQGOM5ORS4Qt6MzDZIt1Y4DR2LWsCtz25FmCwQ_glTC3w6PsFrvIyQ=w120-h120-l90-rj",
+        "artist": "Edward Maya & Vika Jigulina",
+        "genre": "romanian house",
+        "album": "The Stereo Love Show",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -11780,6 +11910,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "vTeaimrTuAU",
+        "video_url": "https://www.youtube.com/watch?v=vTeaimrTuAU",
+        "title": "Me Provocas",
+        "thumbnail_url": "https://lh3.googleusercontent.com/-znFx7UIakJ2pDF8RSvdCcyDMz7vZPKWfcHTJz-2pE1dpcNvX-Oel8q4iAY_hF4K4847KS6cMAqLds6EoA=w120-h120-l90-rj",
+        "artist": "Fumaratto Ferroso",
+        "genre": "Unknown",
+        "album": "Me Provocas",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "1RmZeHGwMqg",
         "video_url": "https://www.youtube.com/watch?v=1RmZeHGwMqg",
         "title": "Solitary Daze",
@@ -11807,6 +11947,16 @@
         "artist": "Gacharic Spin",
         "genre": "idol rock",
         "album": "Delicious - NEXT STAGE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Qvu033SBMYU",
+        "video_url": "https://www.youtube.com/watch?v=Qvu033SBMYU",
+        "title": "Freed From Desire (prod. Molella, Phil Jay)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/e-Nbz3zzsSFBULgaDof_wxxtXprgVETnCw1TeV4qQ6pEcUi-aDhMp30kGkOYNL_Enq-UmNu9YPjnPi1FxQ=w120-h120-l90-rj",
+        "artist": "Gala, Molella & Phil Jay",
+        "genre": "Unknown",
+        "album": "Come Into My Life (The Album)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -12477,6 +12627,16 @@
         "artist": "Habana con kola",
         "genre": "Unknown",
         "album": "Vente Negra",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "EBw9bRqfB2w",
+        "video_url": "https://www.youtube.com/watch?v=EBw9bRqfB2w",
+        "title": "What Is Love (7\" Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/uwht3YEDFFOE3B_fEcGykwdTbBXBpKUwPLKpWUp5E2oPEmdeO1dkkui9r_giHz404oPFfRfgDyDjbT_A=w120-h120-l90-rj",
+        "artist": "Haddaway",
+        "genre": "eurodance",
+        "album": "All the Best - His Greatest Hits",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -13290,6 +13450,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "H7pi6uEVocc",
+        "video_url": "https://www.youtube.com/watch?v=H7pi6uEVocc",
+        "title": "Shake It",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HIMusqkJYC6irj0m-pHJBqAR8A-AyndffTUf2rHu_hQ3QY8LS-Y1HWZ_pvE8OdkY2BgDzpp90geSzpu4=w120-h120-l90-rj",
+        "artist": "INNDRIVE",
+        "genre": "Unknown",
+        "album": "Shake It",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "KC0cNk0TXAs",
         "video_url": "https://www.youtube.com/watch?v=KC0cNk0TXAs",
         "title": "Off Of My Mind",
@@ -13590,6 +13760,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "w1QurtJEeSs",
+        "video_url": "https://www.youtube.com/watch?v=w1QurtJEeSs",
+        "title": "Disconnected",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cS7YOFUfv5cUqqu2rZM04Jj97aiiV2-ck8gL6syXJY9hiIzNWw3DqifNr7vrxM9hReBsDfQa07L_6FI=w120-h120-l90-rj",
+        "artist": "James Hype & Tita Lau",
+        "genre": "Unknown",
+        "album": "Disconnected",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "6ZKCpI49iL4",
         "video_url": "https://www.youtube.com/watch?v=6ZKCpI49iL4",
         "title": "Drums (Ti\u00ebsto Remix) (feat. Kim Petras)",
@@ -13720,6 +13900,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "e-pCu0VOpbs",
+        "video_url": "https://www.youtube.com/watch?v=e-pCu0VOpbs",
+        "title": "The World Is Mine",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rixnDCLsdgAOJvrs7J1j4-3jTCoFXHc_VSE4E6TL0IHlie3kRDS0P5m4F7VM2y6FY84div0Ng6_4JlK7=w120-h120-l90-rj",
+        "artist": "Joachim Garraud, JD Davis & David Guetta",
+        "genre": "Unknown",
+        "album": "Guetta Blaster",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "7AIvED1lXEI",
         "video_url": "https://www.youtube.com/watch?v=7AIvED1lXEI",
         "title": "OUT OUT (feat. Charli XCX & Saweetie)",
@@ -13750,6 +13940,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "WZtDiitNbKM",
+        "video_url": "https://www.youtube.com/watch?v=WZtDiitNbKM",
+        "title": "Caballo Viejo (Trance mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EuNE6OCdsY-8Vx9gNLm6u71yJYz_FVC93ipX9WNrPTOKOCVYRQXVCR-Wxo4OHK6bDKUxyC9mzHpZAp6H=w120-h120-l90-rj",
+        "artist": "Jonathan Sc",
+        "genre": "Unknown",
+        "album": "Caballo Viejo The remixes",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "hl0AtMD9TAQ",
         "video_url": "https://www.youtube.com/watch?v=hl0AtMD9TAQ",
         "title": "Better Off Alone",
@@ -13757,6 +13957,16 @@
         "artist": "Josh Le Tissier",
         "genre": "Unknown",
         "album": "Better Off Alone",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "cwU0gJd3_9g",
+        "video_url": "https://www.youtube.com/watch?v=cwU0gJd3_9g",
+        "title": "Magalenha (Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/CZXOzxx_a5Qs4R7c0FUsGRTzR94Scxaf4RbIgE5KT_ePKPK1IW1cfW5MHUVRlXt_iFt2_jgQXNuQ6iqE2g=w120-h120-l90-rj",
+        "artist": "Joshwa",
+        "genre": "tech house",
+        "album": "Magalenha (Extended Mix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -14460,6 +14670,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "IhTUHKHyF9U",
+        "video_url": "https://www.youtube.com/watch?v=IhTUHKHyF9U",
+        "title": "Guitarrero (Radio Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/DwyS9FDQ_lx21srIn-i86h0JekO-l2XSznCj9HopjOVob4hs3it0rXWnWGeJYhi2Nqx1MLlLjSNls2g=w120-h120-l90-rj",
+        "artist": "La Montse",
+        "genre": "Unknown",
+        "album": "Guitarrero",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "myW8YuosTq4",
         "video_url": "https://www.youtube.com/watch?v=myW8YuosTq4",
         "title": "Para No Verte M\u00e1s",
@@ -14697,6 +14917,16 @@
         "artist": "Lasso & Sebasti\u00e1n Yatra",
         "genre": "Unknown",
         "album": "Ojos Marrones",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "Y5foKhIAAh0",
+        "video_url": "https://www.youtube.com/watch?v=Y5foKhIAAh0",
+        "title": "Dos Gardenias (Para Ti) (Catastro Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/11jQrNm85bdeQ0BRalCYt2fxmphpeGrSBXd3eVmUKYJ5t4m8O2La8GMAeg9kCWrIChD8FQfqTK31yTNz=w120-h120-l90-rj",
+        "artist": "Latin Lovers",
+        "genre": "House",
+        "album": "Dos Gardenias (Para Ti)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -16177,6 +16407,16 @@
         "artist": "Manuel Turizo, Rauw Alejandro & Myke Towers",
         "genre": "Unknown",
         "album": "Dopamina",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "UIsMUtqnH3o",
+        "video_url": "https://www.youtube.com/watch?v=UIsMUtqnH3o",
+        "title": "Caracas Way",
+        "thumbnail_url": "https://lh3.googleusercontent.com/qcdbaskdPMkCj1YU06xHqThHBdaP8rKSvlxOe_gHbycsEeHgn8iGL-OJwOG46khefOw26CrgSph2UYup=w120-h120-l90-rj",
+        "artist": "Manybeat",
+        "genre": "electronica venezuela",
+        "album": "Caracas Way",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -17717,6 +17957,16 @@
         "artist": "Miley Cyrus",
         "genre": "pop",
         "album": "Flowers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "iOzEflRWtX0",
+        "video_url": "https://www.youtube.com/watch?v=iOzEflRWtX0",
+        "title": "To Brasil!",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ewm_8So6lyvcCQ46zjU_a7G66FES20uxMOmqW-7IQwgxuQPe5Neu6979JjQzvq7mWr999A3ajYjAngHq=w120-h120-l90-rj",
+        "artist": "Milton de Souza & Brasil '88",
+        "genre": "Unknown",
+        "album": "Brazil Only",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -20350,6 +20600,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "0JSMcRCbl50",
+        "video_url": "https://www.youtube.com/watch?v=0JSMcRCbl50",
+        "title": "El Carinoso (Gregor Salto Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Vm2MnfN_7SjB0MITqDVDwcBO_z7MJSMiUU5ISdGm2bBbjwbOMg2PysIUxK-thLXCLkoh5ht8H07uqo2U5Q=w120-h120-l90-rj",
+        "artist": "Pablo Fierro",
+        "genre": "afro house",
+        "album": "El Carinoso",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "Mj3RLcfnwKE",
         "video_url": "https://www.youtube.com/watch?v=Mj3RLcfnwKE",
         "title": "Los Malaventurados No Lloran",
@@ -21500,6 +21760,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "qYsVmW1kPkA",
+        "video_url": "https://www.youtube.com/watch?v=qYsVmW1kPkA",
+        "title": "Esta Pegao (Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/vhW7eJWrhLXhjhg3sA94CNgXMWiCh3OO3JS2tob11RV4uQKPjdV8kGmOSCQHKVLyUgpWSOWB7SnpOHgc-g=w120-h120-l90-rj",
+        "artist": "RETRO TEAM",
+        "genre": "Unknown",
+        "album": "Esta Pegao (Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "dN3y8kVNplA",
         "video_url": "https://www.youtube.com/watch?v=dN3y8kVNplA",
         "title": "DESPECH\u00c1",
@@ -22500,6 +22770,26 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "hkL6X3d-6ZY",
+        "video_url": "https://www.youtube.com/watch?v=hkL6X3d-6ZY",
+        "title": "Lick It (20 Fingers Radio Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/muHS66s6I_mgJ_jzw3bIfQ2-e-bhgG8dEImUZp08GNoMU_td4KFiFYDywJVxasYT5M8AO6Oa7811CSoBlw=w120-h120-l90-rj",
+        "artist": "Roula & 20 Fingers",
+        "genre": "Unknown",
+        "album": "Produced By 20 Fingers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "bUtrFpXD1Jo",
+        "video_url": "https://www.youtube.com/watch?v=bUtrFpXD1Jo",
+        "title": "California Dreamin' 2k23 (Tek-House Extended Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/6NN1PejEjkuqFIYTj_QdtPCtsjJGvWKyVYENfwY5_7wZ4F4xnbWAHVKr7o2V2dHjU3SM2-7K832sIkBx=w120-h120-l90-rj",
+        "artist": "Royal Gigolos",
+        "genre": "Unknown",
+        "album": "California Dreamin' 2k23",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "8P0IpmHGYZg",
         "video_url": "https://www.youtube.com/watch?v=8P0IpmHGYZg",
         "title": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
@@ -22527,6 +22817,16 @@
         "artist": "SFDK, Fyahbwoy & Acci\u00f3n S\u00e1nchez",
         "genre": "Unknown",
         "album": "Lista de Invitados",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "yYfzC8cY4j8",
+        "video_url": "https://www.youtube.com/watch?v=yYfzC8cY4j8",
+        "title": "Rhythm Is a Dancer",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lt9ZkztstUrOqGjmRyqQyZ-Q6ZPXC8L5lggJ4-EoQtmtR1YIpUqi_Fjv5wJPJRye6d85AYW23sCyL8D_ug=w120-h120-l90-rj",
+        "artist": "SNAP!",
+        "genre": "diva house",
+        "album": "The Madman's Return",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -24030,6 +24330,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "R-voN_EFtuw",
+        "video_url": "https://www.youtube.com/watch?v=R-voN_EFtuw",
+        "title": "Ininna Tora",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eBmc2TpAJERRMC1KBTDEQQIMPzqh10TUVmRtqekqV1voot5piUb6DZt1FltOFCoFw_OYKWDMFKrMta5y=w120-h120-l90-rj",
+        "artist": "Stylus Robb",
+        "genre": "House",
+        "album": "Ininna Tora",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "JLGngnIhPOs",
         "video_url": "https://www.youtube.com/watch?v=JLGngnIhPOs",
         "title": "Rave Into Space",
@@ -24650,6 +24960,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "z272PWsraRM",
+        "video_url": "https://www.youtube.com/watch?v=z272PWsraRM",
+        "title": "In De Ghetto (Radio Mix) (feat. Crystal Waters)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7QhQaRDL0Jb2RnLA5LflsboyzP8QH1-PwsKZzrXr9a7qSP8FiF8DjBKwH_F6j6j9HmTF_3MuR95dnlAykw=w120-h120-l90-rj",
+        "artist": "The Bad Yard Club",
+        "genre": "Unknown",
+        "album": "The Best Of Crystal Waters",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "RuPr33Jk2A4",
         "video_url": "https://www.youtube.com/watch?v=RuPr33Jk2A4",
         "title": "Where Is the Love?",
@@ -24667,6 +24987,16 @@
         "artist": "The Black Eyed Peas",
         "genre": "Hip-Hop",
         "album": "Let's Get It Started (The Urbz edition EP)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "d77gTBvX0K8",
+        "video_url": "https://www.youtube.com/watch?v=d77gTBvX0K8",
+        "title": "Pump It",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lxe9Z--mbc_4fHe9HhkJWXF-zm8P46GzzBm-sR0G0XgFzhUV3G1ettl_8OFRDLKq0W0-EBVqGgC0Qarj=w120-h120-s-l90-rj",
+        "artist": "The Black Eyed Peas",
+        "genre": "Hip-Hop",
+        "album": "Monkey Business",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -25140,6 +25470,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "BF09MNC2aPw",
+        "video_url": "https://www.youtube.com/watch?v=BF09MNC2aPw",
+        "title": "Fiesta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Z-BMA5A_kDqfOFAgT_hHF3Wp_ybV_O1wF-irsVB727kLnD0WCBWa_WkKTLxY4swssmHYha8upwN-eD8=w120-h120-l90-rj",
+        "artist": "The Sunclub",
+        "genre": "trance",
+        "album": "Fiesta",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "ricvj03PHSU",
         "video_url": "https://www.youtube.com/watch?v=ricvj03PHSU",
         "title": "Can't Feel My Face",
@@ -25457,6 +25797,16 @@
         "artist": "Ti\u00ebsto",
         "genre": "big room",
         "album": "Elements Of Life",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
+        "video_id": "I9uTv0q_kjk",
+        "video_url": "https://www.youtube.com/watch?v=I9uTv0q_kjk",
+        "title": "Flight 643 (KAAZE Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/p9HcYy0o0LrI9Sadp0_N_9X2DvBISKMHAek1-P4QbjazLxsYdKUtum1AjJzg4AP5uYaC897ZA0Gf8QCbbw=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto",
+        "genre": "big room",
+        "album": "Flight 643 (KAAZE Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
@@ -26540,6 +26890,16 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
     {
+        "video_id": "ulfVrhnohrg",
+        "video_url": "https://www.youtube.com/watch?v=ulfVrhnohrg",
+        "title": "To Brazil!",
+        "thumbnail_url": "https://lh3.googleusercontent.com/zHMOqWqY_t2w2H1vwKJt9_jbyeqw95vCUYT6lcsljzEYO03dAnbPY1bJmG4M3fIpcvWK_MZTq7YZGLf4qg=w120-h120-l90-rj",
+        "artist": "Vengaboys",
+        "genre": "bubblegum dance",
+        "album": "The Party Album!",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV"
+    },
+    {
         "video_id": "AmFYw_AOnbM",
         "video_url": "https://www.youtube.com/watch?v=AmFYw_AOnbM",
         "title": "Mi Balcon (feat. Cultura Profetica)",
@@ -26835,7 +27195,7 @@
         "title": "Esc\u00e1pate Conmigo (feat. Ozuna)",
         "thumbnail_url": "https://lh3.googleusercontent.com/nWsQ85KxCAtJbX2V2bt2-QXRzcSqOldCAbPC0Hvl7IOHFe2607iWJV9ZQ57QgqJ3OoNIcVExwyh-E9-X=w120-h120-l90-rj",
         "artist": "Wisin",
-        "genre": "reggaeton",
+        "genre": "electro latino",
         "album": "Victory",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
@@ -28265,7 +28625,7 @@
         "title": "Eagle Fly Free",
         "thumbnail_url": "https://lh3.googleusercontent.com/bSteR6zpekG0yNr8sIfePvyZhSd3rexUrzQ-XJh45c_mJXqHOgqWFeh2hNCw9yL0OEGzWIzKh6JmuWUX=w120-h120-l90-rj",
         "artist": "miyako",
-        "genre": "j-acoustic",
+        "genre": "enka",
         "album": "Eagle Fly Free",
         "video_type": "MUSIC_VIDEO_TYPE_ATV"
     },
