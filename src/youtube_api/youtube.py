@@ -4,7 +4,7 @@ from ytmusicapi import YTMusic
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 import time
-from constants import playlistsForMusic
+from constants import playlistsForMusic, checkInPlaylists
 import pylast
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
@@ -28,6 +28,53 @@ class YoutubeAPI:
             api_key=lastfm_api_key, api_secret=lastfm_api_secret)
         self.spotify = spotipy.Spotify(auth_manager=SpotifyOAuth(
             client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope))
+        self.playlist_names = {}
+        self.playlist_songs = {}
+        self.load_playlist_songs()
+
+    def load_playlist_songs(self, retries=20):
+        for playlist in checkInPlaylists:
+            self.playlist_songs[playlist] = set()
+            playlist_info = self.youtube.playlists().list(
+                part="snippet",
+                id=playlist
+            ).execute()
+            self.playlist_names[playlist] = playlist_info['items'][0]['snippet']['title']
+            page_token = None
+            while True:
+                try:
+                    request = self.youtube.playlistItems().list(
+                        part="snippet",
+                        maxResults=50,
+                        playlistId=playlist,
+                        pageToken=page_token
+                    )
+                    response = request.execute()
+                    for item in response['items']:
+                        self.playlist_songs[playlist].add(
+                            item['snippet']['resourceId']['videoId'])
+                    page_token = response.get('nextPageToken')
+                    if not page_token:
+                        break
+                except Exception as e:
+                    if retries > 0:
+                        print(
+                            f"Error loading playlist songs {playlist}: {str(e)}")
+                        print("Retry")
+                        time.sleep(5)
+                        retries -= 1
+                    else:
+                        print(
+                            f"Error loading playlist songs {playlist}: {str(e)}")
+                        print("No more retries.")
+                        break
+
+    def check_song_in_playlists(self, video_id):
+        playlists = []
+        for playlist in checkInPlaylists:
+            if video_id in self.playlist_songs[playlist]:
+                playlists.append(self.playlist_names[playlist])
+        return playlists
 
     def get_genre(self, artist, title, retries=20):
         try:
@@ -93,6 +140,8 @@ class YoutubeAPI:
             # ATV: High quality song uploaded by original artist with cover image
             # OFFICIAL_SOURCE_MUSIC: Official video content, but not for a single track
             item['video_type'] = content['videoType']
+            if playlist_id in playlistsForMusic:
+                item['playlists'] = self.check_song_in_playlists(video_id)
             items.append(item)
         items = sorted(items, key=lambda x: (
             x['artist'], x.get('album', ''), x['title']))

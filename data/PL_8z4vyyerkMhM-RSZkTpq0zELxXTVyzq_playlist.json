@@ -384,6 +384,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "GPLE1XAIk9Y",
+        "video_url": "https://www.youtube.com/watch?v=GPLE1XAIk9Y",
+        "title": "TOP Tech House DJ Mix \ud83c\udfb5 | Best Tech House Mix 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/GPLE1XAIk9Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lTnG07Vp-4CuueHPpLHiZorahBKQ",
+        "artist": "NazareoMusic",
+        "video_type": null
+    },
+    {
         "video_id": "nbD8JKac1H0",
         "video_url": "https://www.youtube.com/watch?v=nbD8JKac1H0",
         "title": "TROPICAL HOUSE SESSIONS #4 ft. Alberto Perc. (Dos Gardenias,Bailando de Too,El Sueno,Magalenha,Yeke)",
@@ -669,6 +677,14 @@
         "title": "After Life Tulum 2024 (FULL SET MIX) OPEN AIR - ANYMA, MRAK, TALE OF US & ADRIATIQUE - PREMIERE",
         "thumbnail_url": "https://i.ytimg.com/vi/9kpz-EplUdQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n8rRc2yTHnYtzN1Z3JbzUzViq2XQ",
         "artist": "Wind Cosmics ",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "riZAVELEHpk",
+        "video_url": "https://www.youtube.com/watch?v=riZAVELEHpk",
+        "title": "XeniaDiamond - Live @ Ocean Vibes, Koh Phangan / Melodic Techno & Progressive House DJ Mix",
+        "thumbnail_url": "https://i.ytimg.com/vi/riZAVELEHpk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lHTRM6ybtLGLk6DaXIfjkhASIOIw",
+        "artist": "XENIA DIAMOND ",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
