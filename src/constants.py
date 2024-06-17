@@ -24,6 +24,10 @@ checkInPlaylists = [
     'PL_8z4vyyerkMh5swg0FKbTFQRujtlhmr-',
     # 🤷-whatever
     'PL_8z4vyyerkPHIqxrDUgLA3_TQbVdpzYJ',
+    # 🍦-15
+    'PL_8z4vyyerkOBt3Lt5iL2VWx04_19yDiq',
+    # 🪗-quickly
+    'PL_8z4vyyerkPdORFMt2Byu0YWyVGmdZQ_',
 ]
 
 playlistsForVideo = [

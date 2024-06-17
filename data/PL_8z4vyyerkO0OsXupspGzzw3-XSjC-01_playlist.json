@@ -4243,7 +4243,7 @@
         "title": "Computers Take Over The World (ASOT 1119) (Maddix Remix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/SNY0XBjoDIFOCVvGhfFOyNr2ujhVFDAwtMtS2OkM9ogpznd6aAe94eNtkItWArMRuXzDFTezKplnuHg=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
-        "genre": "dutch trance",
+        "genre": "dutch house",
         "album": "ASOT 1119 - A State of Trance Episode 1119",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -4256,7 +4256,7 @@
         "title": "Blah Blah Blah",
         "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
-        "genre": "dutch trance",
+        "genre": "dutch house",
         "album": "Balance",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -4269,7 +4269,7 @@
         "title": "Turn It Up",
         "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
-        "genre": "dutch trance",
+        "genre": "dutch house",
         "album": "Balance",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -4282,7 +4282,7 @@
         "title": "Blah Blah Blah (Extended Mix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/Estfg2FHrJQTgwiQI6Fbrc7-w8A9vlhKb6ceiInvRjyEL9X02pg9kYBM-sF5-TWmu9mD9CaIEKZqTGw=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
-        "genre": "dutch trance",
+        "genre": "dutch house",
         "album": "Balance (Extended Versions)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -4295,7 +4295,7 @@
         "title": "Blah Blah Blah (Extended Mix)",
         "thumbnail_url": "https://lh3.googleusercontent.com/k7ndwH-ON-Pc9b_mXMz_98bvgYnF9dJsV6BU5wumhVyvm7vtL_3t-3GyN2CHmlcFaCr9yOxIVqp-PV8=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
-        "genre": "dutch trance",
+        "genre": "dutch house",
         "album": "Blah Blah Blah",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -4308,7 +4308,7 @@
         "title": "Waiting For The Night (feat. Fiora)",
         "thumbnail_url": "https://lh3.googleusercontent.com/bqNBX5ttPrNaKx1lgRTnSwz0tyQ6Xc0Kn-mWMS0r_fwy86DKAHFiNbRPLZtzpkxmd-x44vGsyzZ9bE_LQA=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
-        "genre": "dutch trance",
+        "genre": "dutch house",
         "album": "Waiting For The Night",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -4394,9 +4394,35 @@
         ]
     },
     {
+        "video_id": "mZxL1DYxo_c",
+        "video_url": "https://www.youtube.com/watch?v=mZxL1DYxo_c",
+        "title": "I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_uuRNfGgS-6NUG0O4SU5e9nHZIhKJZjzvEWr9nqoqYrq5k1NhTsZvgatbq8uZL1ZQqWFN8cRrbHlME0=w120-h120-l90-rj",
+        "artist": "Asking Alexandria",
+        "genre": "alternative metal",
+        "album": "Stand Up And Scream",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
         "video_id": "53CBrMghVJE",
         "video_url": "https://www.youtube.com/watch?v=53CBrMghVJE",
         "title": "Not The American Average",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_uuRNfGgS-6NUG0O4SU5e9nHZIhKJZjzvEWr9nqoqYrq5k1NhTsZvgatbq8uZL1ZQqWFN8cRrbHlME0=w120-h120-l90-rj",
+        "artist": "Asking Alexandria",
+        "genre": "alternative metal",
+        "album": "Stand Up And Scream",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
+        "video_id": "7zNrCkQw0bk",
+        "video_url": "https://www.youtube.com/watch?v=7zNrCkQw0bk",
+        "title": "The Final Episode (Let's Change the Channel)",
         "thumbnail_url": "https://lh3.googleusercontent.com/_uuRNfGgS-6NUG0O4SU5e9nHZIhKJZjzvEWr9nqoqYrq5k1NhTsZvgatbq8uZL1ZQqWFN8cRrbHlME0=w120-h120-l90-rj",
         "artist": "Asking Alexandria",
         "genre": "alternative metal",
@@ -5821,6 +5847,19 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "nu1qzF2sQA0",
+        "video_url": "https://www.youtube.com/watch?v=nu1qzF2sQA0",
+        "title": "Lloraras (Edit)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bspaBAEaNzDDsZYpQ37UxRI64rzhKpMkVoC6IWepm2au323NLXL2-J4GOYAaoxB2OxBVrOuaklg_GB-GZQ=w120-h120-l90-rj",
+        "artist": "Billo's Caracas Boys & Dimension Latina",
+        "genre": "Unknown",
+        "album": "Billo's Caracas Boys vs. Dimension Latina",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83e\udd6b-salsa"
         ]
     },
     {
@@ -9295,6 +9334,19 @@
         ]
     },
     {
+        "video_id": "VvhwftHKgtQ",
+        "video_url": "https://www.youtube.com/watch?v=VvhwftHKgtQ",
+        "title": "Hand Of Blood",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VzSHzhCPJMCvxdfwr_hm5ZMvmQTFi-D8WgGAh7cflAvc6psjZjL3EAU4LEaKUL8jyJXdt3jSt1k5fHY=w120-h120-l90-rj",
+        "artist": "Bullet For My Valentine",
+        "genre": "alternative metal",
+        "album": "The Poison",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
         "video_id": "aG_rPVWrSeg",
         "video_url": "https://www.youtube.com/watch?v=aG_rPVWrSeg",
         "title": "Her Voice Resides",
@@ -9864,6 +9916,7 @@
         "album": "This Is What You Came For",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
+            "\ud83c\udf6d-lolliPop",
             "\u26a1-electro"
         ]
     },
@@ -11539,6 +11592,7 @@
         "album": "Rockabye",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
+            "\ud83c\udf6d-lolliPop",
             "\u26a1-electro"
         ]
     },
@@ -13411,6 +13465,19 @@
         ]
     },
     {
+        "video_id": "hJWSZDJb-W4",
+        "video_url": "https://www.youtube.com/watch?v=hJWSZDJb-W4",
+        "title": "Bad Habits",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3xN5Rqah_iSMqbl3ZMCr9MjnEBVyBLmLng0f-MCvFFdfPNhK619ikGwAD0iOBkzCOXIlucWE0lLLXJA=w120-h120-l90-rj",
+        "artist": "Ed Sheeran",
+        "genre": "pop",
+        "album": "Bad Habits",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
         "video_id": "wqlTrBCNRiY",
         "video_url": "https://www.youtube.com/watch?v=wqlTrBCNRiY",
         "title": "Castle on the Hill",
@@ -13499,6 +13566,19 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "ImGhrDuCPtA",
+        "video_url": "https://www.youtube.com/watch?v=ImGhrDuCPtA",
+        "title": "Tu Sonrisa",
+        "thumbnail_url": "https://lh3.googleusercontent.com/C6hGu2cZodtoPdWB6dcNnASGANPXTYHeYAfUY4QOgpoL64xuisopuHnCb-B8j-lyWmhb2wuSs1aqAEpV=w120-h120-l90-rj",
+        "artist": "Elvis Crespo",
+        "genre": "latin pop",
+        "album": "Pintame",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
         ]
     },
     {
@@ -15496,6 +15576,32 @@
         ]
     },
     {
+        "video_id": "rv6DF7z6qLE",
+        "video_url": "https://www.youtube.com/watch?v=rv6DF7z6qLE",
+        "title": "Guallando",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FZH8fCok4-lei0UQq6SqIPDpFHNNvms4OmO9jgWxdELvjBJ7EsueS2r9UnSBBxxzfaO1pKxUNwgMMwWj=w120-h120-l90-rj",
+        "artist": "Fulanito",
+        "genre": "merengue tipico",
+        "album": "El Hombre Mas Famoso De La Tierra",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "WlQE5HJ_yIQ",
+        "video_url": "https://www.youtube.com/watch?v=WlQE5HJ_yIQ",
+        "title": "El Cepillo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/d_LjVM01H_qUviQBtXmYpCYfWRdYEybh2mSJeTIneSyHqs0F1TIv9bfg-OuUpOB-4o7s5UY-dfHCdx6OwQ=w120-h120-l90-rj",
+        "artist": "Fulanito",
+        "genre": "merengue tipico",
+        "album": "Greatest Hits",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
         "video_id": "vTeaimrTuAU",
         "video_url": "https://www.youtube.com/watch?v=vTeaimrTuAU",
         "title": "Me Provocas",
@@ -16274,6 +16380,19 @@
         ]
     },
     {
+        "video_id": "JSJiyi5W9Vc",
+        "video_url": "https://www.youtube.com/watch?v=JSJiyi5W9Vc",
+        "title": "Vale la Pena",
+        "thumbnail_url": "https://lh3.googleusercontent.com/KXtY4ITQZgIFVVManCVg-H5OA-VSvnWnSZRb9cMhIchSHkgLSsNYT8CT13woRlXR3eMYhf6u3kbDCml0=w120-h120-l90-rj",
+        "artist": "Grupo Merengu\u00edsimo",
+        "genre": "Unknown",
+        "album": "100 % Latino Vol. 1",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
         "video_id": "T0ZmErXkbxE",
         "video_url": "https://www.youtube.com/watch?v=T0ZmErXkbxE",
         "title": "Paradise City",
@@ -16459,6 +16578,19 @@
         "video_id": "CxRDpr4N1J4",
         "video_url": "https://www.youtube.com/watch?v=CxRDpr4N1J4",
         "title": "Apollo (Dr Phunk Extended Remix) (feat. Amba Shepherd & A. Shepherd)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NVAinNCmXZoQwm_A2xSjZXiAKz6Fg2kaFH2HQKCJ2hxemu_ALaN89UzB2v-PxIAHlwjzipZeL4u3THXozg=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "genre": "big room",
+        "album": "Apollo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "1uIE_gdCRAo",
+        "video_url": "https://www.youtube.com/watch?v=1uIE_gdCRAo",
+        "title": "Apollo (feat. Amba Shepherd)",
         "thumbnail_url": "https://lh3.googleusercontent.com/NVAinNCmXZoQwm_A2xSjZXiAKz6Fg2kaFH2HQKCJ2hxemu_ALaN89UzB2v-PxIAHlwjzipZeL4u3THXozg=w120-h120-l90-rj",
         "artist": "Hardwell",
         "genre": "big room",
@@ -16762,6 +16894,19 @@
         "artist": "Hardwell",
         "genre": "big room",
         "album": "The Sound Of Revealed 2012 (Mixed By Dannic & Dyro)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "zJ58c13YGbs",
+        "video_url": "https://www.youtube.com/watch?v=zJ58c13YGbs",
+        "title": "Spaceman",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ql6R-H38Fc0yRD6M6YT5IXiiIDkuPSpLQWZblkgJem99IenHfWzu8YPiFIpBcxFFHp24ojjJGyRUJOZuUQ=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "genre": "big room",
+        "album": "The Story Of Hardwell (Best Of)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
@@ -17519,6 +17664,45 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "4XR_X26blYA",
+        "video_url": "https://www.youtube.com/watch?v=4XR_X26blYA",
+        "title": "Fiesta Caliente",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UKI_4H-AvL-i2VzRF_Wbfkql2ogLpYYlEJsAkSP71lQojOKj28DAIeB8q3ns9zgEsYZ9kij9ggfCxlEV6w=w120-h120-s-l90-rj",
+        "artist": "Ilegales",
+        "genre": "latino",
+        "album": "Ilegales",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "VAxZfCwUxnk",
+        "video_url": "https://www.youtube.com/watch?v=VAxZfCwUxnk",
+        "title": "Como Un Trueno",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lz9u8My16PVP3LKYVBzZGhzNSpDH7EnapUAKBd9269a6to8ES3CQbxmVYISh2u5SjJW0-g9OagE28w8a=w120-h120-s-l90-rj",
+        "artist": "Ilegales",
+        "genre": "Annie",
+        "album": "Rebotando",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "JPU1_MNLZ1Y",
+        "video_url": "https://www.youtube.com/watch?v=JPU1_MNLZ1Y",
+        "title": "El Taqui Taqui",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lz9u8My16PVP3LKYVBzZGhzNSpDH7EnapUAKBd9269a6to8ES3CQbxmVYISh2u5SjJW0-g9OagE28w8a=w120-h120-s-l90-rj",
+        "artist": "Ilegales",
+        "genre": "Unknown",
+        "album": "Rebotando",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
         ]
     },
     {
@@ -18610,6 +18794,19 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "C-jAPrdc3PI",
+        "video_url": "https://www.youtube.com/watch?v=C-jAPrdc3PI",
+        "title": "Hot N Cold",
+        "thumbnail_url": "https://lh3.googleusercontent.com/F3wzVN2nb1Z6zZRLKbkob0qWMUTAMwqltqSoP3ZKHkEBqnnBPtzyRQ8PtxR_IJGSwRFxCRyZN-n0lhlY=w120-h120-l90-rj",
+        "artist": "Katy Perry",
+        "genre": "pop",
+        "album": "Hot N Cold",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
         ]
     },
     {
@@ -20803,6 +21000,32 @@
         ]
     },
     {
+        "video_id": "HN6ACmknaiw",
+        "video_url": "https://www.youtube.com/watch?v=HN6ACmknaiw",
+        "title": "La Due\u00f1a del Swing",
+        "thumbnail_url": "https://lh3.googleusercontent.com/GcTYpEiAv5qdqu63vngxxgv5xW_wMwGZ6dtL-IFJ5dzPxlVpMkHxrT3GZOCnxON-s4ssin0ZXXhaYqY-=w120-h120-l90-rj",
+        "artist": "Los Hermanos Rosario",
+        "genre": "merengue",
+        "album": "Los Due\u00f1os del Swing",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "haICulxAmlQ",
+        "video_url": "https://www.youtube.com/watch?v=haICulxAmlQ",
+        "title": "La Morena",
+        "thumbnail_url": "https://lh3.googleusercontent.com/UKI_4H-AvL-i2VzRF_Wbfkql2ogLpYYlEJsAkSP71lQojOKj28DAIeB8q3ns9zgEsYZ9kij9ggfCxlEV6w=w120-h120-s-l90-rj",
+        "artist": "Los Ilegales",
+        "genre": "musica coahuilense",
+        "album": "Ilegales",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
         "video_id": "hoy9OKAkW6A",
         "video_url": "https://www.youtube.com/watch?v=hoy9OKAkW6A",
         "title": "Fiel",
@@ -20813,6 +21036,19 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\ud83d\udc36-htv"
+        ]
+    },
+    {
+        "video_id": "EjMirgxKF8c",
+        "video_url": "https://www.youtube.com/watch?v=EjMirgxKF8c",
+        "title": "Mi Coraz\u00f3n",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ea9-0N16q5Go2oypTZCd15MA7pM6hK93ilM7PdLWaktFgLg2A1s8B_ZCJaSSxmcXF72I6GReD1ps-_ypSA=w120-h120-l90-rj",
+        "artist": "Los Mel\u00f3dicos",
+        "genre": "classic venezuelan pop",
+        "album": "La Orquesta Que Impone El Ritmo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
         ]
     },
     {
@@ -21966,6 +22202,19 @@
         "artist": "Maverick Sabre",
         "genre": "irish hip hop",
         "album": "Slow Down (Vintage Culture & Slow Motion Remix)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "g8JkLjVam3E",
+        "video_url": "https://www.youtube.com/watch?v=g8JkLjVam3E",
+        "title": "New Blood (Zardonic Remix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eP3bQkRGg1nUlf6i7kiO28p0xd8-c26OfkQgWT-4-FZsF_t1RyxQ6LtG9ulEnQh7dvt2NCAFlESX8l5J=w120-h120-l90-rj",
+        "artist": "Mechanical Vein & Zardonic",
+        "genre": "Unknown",
+        "album": "New Blood (Zardonic Remix)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
@@ -23363,6 +23612,32 @@
         ]
     },
     {
+        "video_id": "iqXxfOnk-Z4",
+        "video_url": "https://www.youtube.com/watch?v=iqXxfOnk-Z4",
+        "title": "Wrecking Ball",
+        "thumbnail_url": "https://lh3.googleusercontent.com/A76sb-FLJxaMfhxyqvuVrZ8bpJ05KcGEwRLEkQXza0oDwPfZ8_nawzlYIl5VqkdjaPQ7xex5hycaIFzy=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "Bangerz (Deluxe Version)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "omd-78TZrLY",
+        "video_url": "https://www.youtube.com/watch?v=omd-78TZrLY",
+        "title": "Used To Be Young",
+        "thumbnail_url": "https://lh3.googleusercontent.com/izcrcXoIY-3Un_WVkvJaYkO2BcSnfORKcaz5TOiL3iCqkIpSlJTmrKeNwVSa57wZIB7YAHToXd0E0zjl=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "Endless Summer Vacation",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
         "video_id": "BkSSOGNeWTM",
         "video_url": "https://www.youtube.com/watch?v=BkSSOGNeWTM",
         "title": "Flowers",
@@ -23370,6 +23645,84 @@
         "artist": "Miley Cyrus",
         "genre": "pop",
         "album": "Flowers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "PhZs2jf5B_w",
+        "video_url": "https://www.youtube.com/watch?v=PhZs2jf5B_w",
+        "title": "Heart Of Glass (Live from the iHeart Festival)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5-ERoZhdQodo2v83lwIXCv5F1gcVS9sHIgBsBy9p4zZ0hqivOasuiKzXlhY3p3y95wm0TTuLdLaQHsAH=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "Plastic Hearts",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "C4NImtoS1WM",
+        "video_url": "https://www.youtube.com/watch?v=C4NImtoS1WM",
+        "title": "Plastic Hearts",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5-ERoZhdQodo2v83lwIXCv5F1gcVS9sHIgBsBy9p4zZ0hqivOasuiKzXlhY3p3y95wm0TTuLdLaQHsAH=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "Plastic Hearts",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "kaNwBY_Nk6k",
+        "video_url": "https://www.youtube.com/watch?v=kaNwBY_Nk6k",
+        "title": "Prisoner (feat. Miley Cyrus)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5-ERoZhdQodo2v83lwIXCv5F1gcVS9sHIgBsBy9p4zZ0hqivOasuiKzXlhY3p3y95wm0TTuLdLaQHsAH=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "Plastic Hearts",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "wcb8u9-vTho",
+        "video_url": "https://www.youtube.com/watch?v=wcb8u9-vTho",
+        "title": "Mother's Daughter",
+        "thumbnail_url": "https://lh3.googleusercontent.com/xjy40MIm-xp6BDK1foJhDrmOdHy22bxUujrSKhxe6QxvyrEzUQOAMeJjV8zR5LBBA3sWZzzcvGp-_l4uqg=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "SHE IS COMING",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "QFAZRLrprhs",
+        "video_url": "https://www.youtube.com/watch?v=QFAZRLrprhs",
+        "title": "The Climb",
+        "thumbnail_url": "https://lh3.googleusercontent.com/CXrltAt9v-Im6nGnCf1mYB3iRchl2gyxql6RhtwdMhcZujEjKNdiTClY09Z6YSJA9-aOJcu6El8wekbB=w120-h120-s-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "The Time Of Our Lives (International Version)",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "_8FmUlp9rm4",
+        "video_url": "https://www.youtube.com/watch?v=_8FmUlp9rm4",
+        "title": "Malibu",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JqVZS2oAJsyXEj5MBtGAR-l_c1DG9j4nYHAdyKscfGHsUg5JzOo3HmXBxDbuyCpSgcz3WhhDKI-GklU=w120-h120-l90-rj",
+        "artist": "Miley Cyrus",
+        "genre": "pop",
+        "album": "Younger Now",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\ud83c\udf6d-lolliPop"
@@ -28163,11 +28516,50 @@
         "title": "NUMBERS",
         "thumbnail_url": "https://lh3.googleusercontent.com/34rk-OCUeuC7nFOI4EmDKFWDjuk1-UgOHVEKbX79zMIO9zRucWahH6h3JNtxcUAxZO_8tGC7REtAm1v9kA=w120-h120-l90-rj",
         "artist": "Prophecy",
-        "genre": "Unknown",
+        "genre": "sega mauricien",
         "album": "NUMBERS",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "QFf7dGUZHAc",
+        "video_url": "https://www.youtube.com/watch?v=QFf7dGUZHAc",
+        "title": "Est\u00e1 Pegao' (Radio Mix)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ywjHRIYLPnVMoW8DbPa0_C7fWMHqjVVkw6bZwfdWhcqKtnWH4sBH8kN6wMwv2_7WzIkVRN7CH-KRL7F8pA=w120-h120-l90-rj",
+        "artist": "Proyecto Uno",
+        "genre": "latin house",
+        "album": "Exitos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "ZfhFvFSPbAA",
+        "video_url": "https://www.youtube.com/watch?v=ZfhFvFSPbAA",
+        "title": "Pumpin'",
+        "thumbnail_url": "https://lh3.googleusercontent.com/CsfD0wkqHp5a3jdHiTbrOtN7WXki94y-TeHvXq7i9OwWHYeRGkePdMikIoSyqFRfXICgBeiz6KKtXFuO=w120-h120-l90-rj",
+        "artist": "Proyecto Uno",
+        "genre": "latin house",
+        "album": "New Era",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "JL14Cxw7r6M",
+        "video_url": "https://www.youtube.com/watch?v=JL14Cxw7r6M",
+        "title": "Tibur\u00f3n",
+        "thumbnail_url": "https://lh3.googleusercontent.com/J7rGov_T2KNbfaisa3BVu0LF0vv2GkuryLBBlh-v7GCJ3Yxp382uFVGkKtQUiNcoB33Udog4kNMTb30=w120-h120-l90-rj",
+        "artist": "Proyecto Uno",
+        "genre": "latin house",
+        "album": "\u00c9xitos",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
         ]
     },
     {
@@ -29745,6 +30137,149 @@
         ]
     },
     {
+        "video_id": "SkDTZaW_t44",
+        "video_url": "https://www.youtube.com/watch?v=SkDTZaW_t44",
+        "title": "Homenaje A Papo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/5Mlsl2FCPDABxV89L_-Fb6D7bTX5hkh8eeI7ZDIXS2wTE9eoiTOxtPYSeyL5iBEvDyRwju96dhzROoI=w120-h120-l90-rj",
+        "artist": "Sandy",
+        "genre": "salsa",
+        "album": "Homenaje a Papo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "gdbDRfu3cPk",
+        "video_url": "https://www.youtube.com/watch?v=gdbDRfu3cPk",
+        "title": "El Alacr\u00e1n",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ozKwgFpDTxgmw0ScNxh_GpBzZjV0D81wZ6_jaP1b3p7tWwEB4-P6p9rNnZKgsWRuuFTPINciaOLwqDk=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Otra Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "fwkDegMzl30",
+        "video_url": "https://www.youtube.com/watch?v=fwkDegMzl30",
+        "title": "Huelepega",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ozKwgFpDTxgmw0ScNxh_GpBzZjV0D81wZ6_jaP1b3p7tWwEB4-P6p9rNnZKgsWRuuFTPINciaOLwqDk=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Otra Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "DXmU_9Yt96A",
+        "video_url": "https://www.youtube.com/watch?v=DXmU_9Yt96A",
+        "title": "La Fiesta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ozKwgFpDTxgmw0ScNxh_GpBzZjV0D81wZ6_jaP1b3p7tWwEB4-P6p9rNnZKgsWRuuFTPINciaOLwqDk=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Otra Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "Oi4EyABHv1U",
+        "video_url": "https://www.youtube.com/watch?v=Oi4EyABHv1U",
+        "title": "La Movida",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ozKwgFpDTxgmw0ScNxh_GpBzZjV0D81wZ6_jaP1b3p7tWwEB4-P6p9rNnZKgsWRuuFTPINciaOLwqDk=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Otra Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "t3EzYib_JXQ",
+        "video_url": "https://www.youtube.com/watch?v=t3EzYib_JXQ",
+        "title": "V\u00e1monos a Bailar",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ozKwgFpDTxgmw0ScNxh_GpBzZjV0D81wZ6_jaP1b3p7tWwEB4-P6p9rNnZKgsWRuuFTPINciaOLwqDk=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Otra Vez",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "MVDtZkAuMbw",
+        "video_url": "https://www.youtube.com/watch?v=MVDtZkAuMbw",
+        "title": "Bueno Pa' Goza",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0m29VNwb3G96-I-Q2EbJ220WdRpk6brC4b5sO8QqTt3VXQRj7gl7QPvumIuDjMH79DCzO8kkDkriPLYG=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Sandy & Papo MC",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "VLVjE-3NbEU",
+        "video_url": "https://www.youtube.com/watch?v=VLVjE-3NbEU",
+        "title": "Candela",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0m29VNwb3G96-I-Q2EbJ220WdRpk6brC4b5sO8QqTt3VXQRj7gl7QPvumIuDjMH79DCzO8kkDkriPLYG=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Sandy & Papo MC",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "Uc5zbIr5cKw",
+        "video_url": "https://www.youtube.com/watch?v=Uc5zbIr5cKw",
+        "title": "La Chica Sexy",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0m29VNwb3G96-I-Q2EbJ220WdRpk6brC4b5sO8QqTt3VXQRj7gl7QPvumIuDjMH79DCzO8kkDkriPLYG=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Sandy & Papo MC",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "y14snpXXW8A",
+        "video_url": "https://www.youtube.com/watch?v=y14snpXXW8A",
+        "title": "La Hora De Bailar",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0m29VNwb3G96-I-Q2EbJ220WdRpk6brC4b5sO8QqTt3VXQRj7gl7QPvumIuDjMH79DCzO8kkDkriPLYG=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Sandy & Papo MC",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
+        "video_id": "AJ_OX-w7G_Q",
+        "video_url": "https://www.youtube.com/watch?v=AJ_OX-w7G_Q",
+        "title": "Mueve Mueve - I Like to Move It",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0m29VNwb3G96-I-Q2EbJ220WdRpk6brC4b5sO8QqTt3VXQRj7gl7QPvumIuDjMH79DCzO8kkDkriPLYG=w120-h120-l90-rj",
+        "artist": "Sandy & Papo",
+        "genre": "salsa",
+        "album": "Sandy & Papo MC",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83c\udf66-15"
+        ]
+    },
+    {
         "video_id": "_Wxfu7Th2S8",
         "video_url": "https://www.youtube.com/watch?v=_Wxfu7Th2S8",
         "title": "Beautiful Girls",
@@ -30011,7 +30546,7 @@
         "title": "Legends",
         "thumbnail_url": "https://lh3.googleusercontent.com/dWJUl3jLcFpBee6_aW4I1RnAYR6lKMqHDbsjM_D-Xg7GIX3HY6ryPq_F88ig5kbLOJnjuhjrRVIIxhOAdg=w120-h120-l90-rj",
         "artist": "Showtek, Sub Zero Project & Doktor",
-        "genre": "Unknown",
+        "genre": "hardstyle",
         "album": "Reverze 2024",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -31806,7 +32341,7 @@
         "title": "Remember (Na Na Hey Hey)",
         "thumbnail_url": "https://lh3.googleusercontent.com/-vzVGh761tUACQwcNt3L2X8RATIaYL8qb6V3eKeDX5CnWeEwC7_FPrksx8stnMEZc0Q4kQY7cvvtGjRs2A=w120-h120-l90-rj",
         "artist": "Summer Love",
-        "genre": "japanese alternative rock",
+        "genre": "Unknown",
         "album": "Exitos Retro Del Verano (Uno)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -32620,6 +33155,19 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\ud83d\udd2b-hiphop"
+        ]
+    },
+    {
+        "video_id": "5Q8RylYtIQs",
+        "video_url": "https://www.youtube.com/watch?v=5Q8RylYtIQs",
+        "title": "Sobre las Olas",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FsGD47EyS0lL2d-NBX56OK3ZXEn0v0cIfXAqZxxjVGJxLjBEogy5tMdzcDvsGh_dxgAR4dkNm-IaI3DU=w120-h120-l90-rj",
+        "artist": "The Latin Brothers",
+        "genre": "salsa",
+        "album": "Discos Fuentes - 80 A\u00f1os: The Latin Brothers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83e\udd6b-salsa"
         ]
     },
     {
@@ -35472,7 +36020,7 @@
         "title": "Esc\u00e1pate Conmigo (feat. Ozuna)",
         "thumbnail_url": "https://lh3.googleusercontent.com/nWsQ85KxCAtJbX2V2bt2-QXRzcSqOldCAbPC0Hvl7IOHFe2607iWJV9ZQ57QgqJ3OoNIcVExwyh-E9-X=w120-h120-l90-rj",
         "artist": "Wisin",
-        "genre": "reggaeton",
+        "genre": "electro latino",
         "album": "Victory",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -37359,7 +37907,7 @@
         "title": "Miss You",
         "thumbnail_url": "https://lh3.googleusercontent.com/U5NBIfsv138ttTzzoL4azbeehL0U1BPRCOqGYrH-it6QTkRkZS7jisM4SDKOY_6UOmSEN-yE-3iyEnvXhg=w120-h120-l90-rj",
         "artist": "southstar",
-        "genre": "House",
+        "genre": "pop dance",
         "album": "Miss You",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
