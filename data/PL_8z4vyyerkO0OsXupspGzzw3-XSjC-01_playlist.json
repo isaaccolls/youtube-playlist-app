@@ -6777,7 +6777,7 @@
         "title": "Candyman",
         "thumbnail_url": "https://lh3.googleusercontent.com/eSfGXsTor26lBfW4PbdzoRvZYC2b8jzMuwldw6pVXh6okes7ANhnsA5hRpgIQXrMHP-g7AGrTRnBeptS8g=w120-h120-l90-rj",
         "artist": "Boris S.",
-        "genre": "deep hardtechno",
+        "genre": "pop peruano",
         "album": "Best of 15 years Boris S.",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -13316,7 +13316,7 @@
         "title": "Hotline Bling",
         "thumbnail_url": "https://lh3.googleusercontent.com/A1TM5fq8-SVso9RdLdcbPVsncxblhUIdZ_ZQH2xviK6-6sh4J4kf_1LrTS9WWnYeXzQYLnptPIt40-u7=w120-h120-l90-rj",
         "artist": "Drake",
-        "genre": "canadian hip hop",
+        "genre": "Hip-Hop",
         "album": "",
         "video_type": null,
         "playlists": [
@@ -13329,7 +13329,7 @@
         "title": "God's Plan",
         "thumbnail_url": "https://lh3.googleusercontent.com/9Oe4acEXgmAlCKgcgI6JlSXi2Tj30u6anzvfGBrunGO-fLhBTgzy-ei1ugPJpZDD5ArKFod9H4RTA5g0=w120-h120-l90-rj",
         "artist": "Drake",
-        "genre": "canadian hip hop",
+        "genre": "Hip-Hop",
         "album": "Scorpion",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -16855,6 +16855,19 @@
         "artist": "Hardwell",
         "genre": "big room",
         "album": "Run Wild",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "0tWXiYpqIWM",
+        "video_url": "https://www.youtube.com/watch?v=0tWXiYpqIWM",
+        "title": "Call Me A Spaceman (feat. Mitch Crown)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/A8kgkp0b-ih8kB2F8MU2x_twFE_IyYtmCUeK4hHUENaBa5FkMg9CntmKd2miZ6udG_xaDlL4zduvgIgh9A=w120-h120-l90-rj",
+        "artist": "Hardwell",
+        "genre": "big room",
+        "album": "Spaceman",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\u26a1-electro"
@@ -28706,6 +28719,19 @@
         ]
     },
     {
+        "video_id": "0UY83maDT5Y",
+        "video_url": "https://www.youtube.com/watch?v=0UY83maDT5Y",
+        "title": "Karate",
+        "thumbnail_url": "https://lh3.googleusercontent.com/g20X_YtNuq7UPUJhGYgNpXREdj8BXF467fL7U1ITTe6cXyTyy1pkeQzKW59iPezTKBSvPbLLK82uhaU=w120-h120-l90-rj",
+        "artist": "R3HAB & KSHMR",
+        "genre": "Unknown",
+        "album": "Karate",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "qYsVmW1kPkA",
         "video_url": "https://www.youtube.com/watch?v=qYsVmW1kPkA",
         "title": "Esta Pegao (Remix)",
@@ -37907,7 +37933,7 @@
         "title": "Miss You",
         "thumbnail_url": "https://lh3.googleusercontent.com/U5NBIfsv138ttTzzoL4azbeehL0U1BPRCOqGYrH-it6QTkRkZS7jisM4SDKOY_6UOmSEN-yE-3iyEnvXhg=w120-h120-l90-rj",
         "artist": "southstar",
-        "genre": "pop dance",
+        "genre": "House",
         "album": "Miss You",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
