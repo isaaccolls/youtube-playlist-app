@@ -10181,19 +10181,6 @@
         ]
     },
     {
-        "video_id": "aLb44_g6bf0",
-        "video_url": "https://www.youtube.com/watch?v=aLb44_g6bf0",
-        "title": "Llov\u00eda",
-        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
-        "artist": "Canserbero",
-        "genre": "boom bap espanol",
-        "album": "Muerte",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "playlists": [
-            "\ud83d\udd2b-hiphop"
-        ]
-    },
-    {
         "video_id": "Q3ymrDlBI3w",
         "video_url": "https://www.youtube.com/watch?v=Q3ymrDlBI3w",
         "title": "Maquiav\u00e9lico",
@@ -10344,6 +10331,19 @@
         "artist": "Canserbero & Apache",
         "genre": "Unknown",
         "album": "Apa y Can",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "playlists": [
+            "\ud83d\udd2b-hiphop"
+        ]
+    },
+    {
+        "video_id": "aLb44_g6bf0",
+        "video_url": "https://www.youtube.com/watch?v=aLb44_g6bf0",
+        "title": "Llov\u00eda",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oP3o7U3c1GYoA0EjJtPoS2Jmt4vTR11OTb4Kc1X5KK5-iP8-t7NLLOZdLS6F0kAwcCZ1jGLUlYtFCsM1=w120-h120-l90-rj",
+        "artist": "Canserbero & Primobeatz",
+        "genre": "Unknown",
+        "album": "Muerte",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
             "\ud83d\udd2b-hiphop"
@@ -11382,7 +11382,7 @@
         "title": "KTM",
         "thumbnail_url": "https://lh3.googleusercontent.com/UMx37U4vxKH6-j9fj6zoz8aeiqU5m7ncODU7uNeQHPKX_AE9jvbeviCJInyiQBj7LfkZ-1-BiIY4PBG3=w120-h120-l90-rj",
         "artist": "Carnage",
-        "genre": "edm",
+        "genre": "dutch house",
         "album": "KTM",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -12304,7 +12304,7 @@
         "title": "Let Me Love You (feat. Justin Bieber)",
         "thumbnail_url": "https://lh3.googleusercontent.com/hChcdJkpKRDaaowWQhFxc4ZK7_jcDqQydpG8NUXbyPQUxMNYzpgLhVdU-csAFhcGhi-mYPiFZGR3cQmK=w120-h120-l90-rj",
         "artist": "DJ Snake",
-        "genre": "edm",
+        "genre": "dance pop",
         "album": "Encore",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -13407,7 +13407,7 @@
         "title": "New Rules",
         "thumbnail_url": "https://lh3.googleusercontent.com/DAMVezymoY4RlzZWQiddgnKVZ-BxHF4_GdHEn7nz4YDUD_dZA2ndqsoAFpjJ9vAccsTYsRNacdzingE=w120-h120-l90-rj",
         "artist": "Dua Lipa",
-        "genre": "dance pop",
+        "genre": "pop",
         "album": "Dua Lipa (Deluxe)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -13420,7 +13420,7 @@
         "title": "Don't Start Now",
         "thumbnail_url": "https://lh3.googleusercontent.com/UpJ_IhBqyhQV9b2UGcDxxWDm14kRQ2eY1o9S96AGsbE7Ol8isbpbPA0Yefvg8S8ZGAX9L1g4xaj21zVJ=w120-h120-l90-rj",
         "artist": "Dua Lipa",
-        "genre": "dance pop",
+        "genre": "pop",
         "album": "Future Nostalgia",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -21122,7 +21122,7 @@
         "title": "Jour Meilleur (Lost Frequencies Edit) (feat. Orelsan)",
         "thumbnail_url": "https://lh3.googleusercontent.com/0Ps0C7o6UrVyj_tumdKdTCNxfthcVXAVruyskoHyo9cBfgfwcXydmhr1h2zLIC0bW-nFgQRiU-MNUkUBpw=w120-h120-l90-rj",
         "artist": "Lost Frequencies",
-        "genre": "belgian edm",
+        "genre": "Unknown",
         "album": "Jour Meilleur (Lost Frequencies Edit)",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -21135,7 +21135,7 @@
         "title": "The Feeling",
         "thumbnail_url": "https://lh3.googleusercontent.com/Ab35DpWwni7Q5fwgpWxblv4U_IzmBfK8bFdmNaYYgkNPJcFOpxIKgV79gIt4PLbCj8Vw_Kbyv0x4Xbs=w120-h120-l90-rj",
         "artist": "Lost Frequencies",
-        "genre": "belgian edm",
+        "genre": "dance",
         "album": "The Feeling",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
@@ -35786,7 +35786,7 @@
         "title": "Live The Night(Extended Mix)",
         "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
         "artist": "W&W",
-        "genre": "electro latino",
+        "genre": "canadian contemporary r&b",
         "album": "",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "playlists": [
