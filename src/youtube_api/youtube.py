@@ -100,52 +100,62 @@ class YoutubeAPI:
     def get_playlist_info(self, playlist_id, retries=20):
         print(f'👉 get metadata for: {playlist_id}')
         items = []
+        playlist_name = ""
         try:
             playlist = self.ytmusic.get_playlist(playlist_id, 5000)
             playlist_name = playlist["title"]
             print(f'☝️ get metadata for: {playlist_name}')
         except KeyError as e:
-            if retries > 0:
-                print(f'🥹 Error: {e}. Retry...')
-                time.sleep(5)
-                return self.get_playlist_info(playlist_id, retries-1)
-            else:
-                print(f'🥺 Error: {e}. No more retry.')
-                return {"playlist_name": playlist_name, "items": items}
+            return self.handle_key_error(e, playlist_id, retries, playlist_name, items)
+
         for content in playlist['tracks']:
-            print(f'👉 get metadata for content: {content["title"]}')
-            video_id = content['videoId']
-            if video_id is None:
-                video_id = self.search(playlist_id, content['title'])
-            thumbnail_url = content['thumbnails'][1]['url'] if len(
-                content['thumbnails']) > 1 else content['thumbnails'][0]['url']
-            artists = [artist['name'] for artist in content['artists']]
-            artist = ', '.join(artists[:-1]) + ' & ' + \
-                artists[-1] if len(artists) > 1 else artists[0]
-            item = {
-                'video_id': video_id,
-                'video_url': f"https://www.youtube.com/watch?v={video_id}",
-                'title': content['title'],
-                'thumbnail_url': thumbnail_url,
-                'artist': artist,
-            }
-            if (content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None) and playlist_id in playlistsForMusic:
-                item['genre'] = self.get_genre(artist, content['title'])
-                if content['album'] is not None:
-                    item['album'] = content['album']['name']
-                else:
-                    item['album'] = ''
-            # OMV: Original Music Video - uploaded by original artist with actual video content
-            # UGC: User Generated Content - uploaded by regular YouTube user
-            # ATV: High quality song uploaded by original artist with cover image
-            # OFFICIAL_SOURCE_MUSIC: Official video content, but not for a single track
-            item['video_type'] = content['videoType']
-            if playlist_id in playlistsForMusic:
-                item['playlists'] = self.check_song_in_playlists(video_id)
+            item = self.create_item(content, playlist_id)
             items.append(item)
+
         items = sorted(items, key=lambda x: (
             x['artist'], x.get('album', ''), x['title']))
         return {"playlist_name": playlist_name, "items": items}
+
+    def handle_key_error(self, e, playlist_id, retries, playlist_name, items):
+        if retries > 0:
+            print(f'🥹 Error: {e}. Retry...')
+            time.sleep(5)
+            return self.get_playlist_info(playlist_id, retries-1)
+        else:
+            print(f'🥺 Error: {e}. No more retry.')
+            return {"playlist_name": playlist_name, "items": items}
+
+    def create_item(self, content, playlist_id):
+        print(f'👉 get metadata for content: {content["title"]}')
+        video_id = content['videoId'] if content['videoId'] is not None else self.search(
+            playlist_id, content['title'])
+        thumbnail_url = self.get_thumbnail_url(content)
+        artist = self.get_artist_string(content['artists'])
+        item = {
+            'video_id': video_id,
+            'video_url': f"https://www.youtube.com/watch?v={video_id}",
+            'title': content['title'],
+            'thumbnail_url': thumbnail_url,
+            'artist': artist,
+            'video_type': content['videoType']
+        }
+        self.enrich_item_with_music_info(item, content, playlist_id)
+        return item
+
+    def get_thumbnail_url(self, content):
+        return content['thumbnails'][1]['url'] if len(content['thumbnails']) > 1 else content['thumbnails'][0]['url']
+
+    def get_artist_string(self, artists):
+        if len(artists) > 1:
+            return ', '.join(artist['name'] for artist in artists[:-1]) + ' & ' + artists[-1]['name']
+        return artists[0]['name']
+
+    def enrich_item_with_music_info(self, item, content, playlist_id):
+        if (content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None) and playlist_id in playlistsForMusic:
+            item['genre'] = self.get_genre(item['artist'], content['title'])
+            item['album'] = content['album']['name'] if content['album'] is not None else ''
+        if playlist_id in playlistsForMusic:
+            item['playlists'] = self.check_song_in_playlists(item['video_id'])
 
     def search(self, playlist_id, title):
         try:
