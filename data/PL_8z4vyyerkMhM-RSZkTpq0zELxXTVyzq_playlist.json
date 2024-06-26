@@ -400,18 +400,18 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
-        "video_id": "PMaTRXQdMzg",
-        "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
-        "title": "CAMILA GUTI\u00c9RREZ - PINK ECLIPSE \ud83c\udf12 (LIVE DJ SET 4K) (Barranquilla, Colombia) [VOL 16]",
-        "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
-        "artist": "PANTHER DJ SETS",
-        "video_type": "MUSIC_VIDEO_TYPE_UGC"
-    },
-    {
         "video_id": "IDouH3rfcvw",
         "video_url": "https://www.youtube.com/watch?v=IDouH3rfcvw",
         "title": "CAMILA GUTI\u00c9RREZ - PINK MOMENTS \u2728(LIVE DJ SET 4K)(Cartagena x Cali, Colombia)[VOL 13]",
         "thumbnail_url": "https://i.ytimg.com/vi/IDouH3rfcvw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1IWAHfM2cz62Jadb_ruxBEG3TQA",
+        "artist": "PANTHER DJ SETS",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "PMaTRXQdMzg",
+        "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
+        "title": "PINK ECLIPSE \ud83c\udf12 CAMILA GUTI\u00c9RREZ (LIVE DJ SET 4K)(Barranquilla, Colombia)[VOL 16]",
+        "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
@@ -478,6 +478,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/a0MiHq-TqZY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lB6tJ7n4L3LDo9W7n9GREf61yTNw",
         "artist": "Sapphire Music",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "_tGnh3EL6S0",
+        "video_url": "https://www.youtube.com/watch?v=_tGnh3EL6S0",
+        "title": "Sara Landry | EDC Las Vegas, 2024 (circuitGROUNDS)",
+        "thumbnail_url": "https://i.ytimg.com/vi/_tGnh3EL6S0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mWEU_CNa0SwfzFsEJzDst_ZhJBhw",
+        "artist": "Sara Landry & Alt8",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "W5V2NxAhPF4",
