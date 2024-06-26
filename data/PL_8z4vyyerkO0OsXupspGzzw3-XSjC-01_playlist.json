@@ -4270,7 +4270,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/SNY0XBjoDIFOCVvGhfFOyNr2ujhVFDAwtMtS2OkM9ogpznd6aAe94eNtkItWArMRuXzDFTezKplnuHg=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "dutch house",
+        "genre": "dutch trance",
         "album": "ASOT 1119 - A State of Trance Episode 1119",
         "playlists": [
             "\u26a1-electro"
@@ -4283,7 +4283,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "dutch house",
+        "genre": "dutch trance",
         "album": "Balance",
         "playlists": [
             "\u26a1-electro"
@@ -4296,7 +4296,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "dutch house",
+        "genre": "dutch trance",
         "album": "Balance",
         "playlists": [
             "\u26a1-electro"
@@ -4309,7 +4309,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/Estfg2FHrJQTgwiQI6Fbrc7-w8A9vlhKb6ceiInvRjyEL9X02pg9kYBM-sF5-TWmu9mD9CaIEKZqTGw=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "dutch house",
+        "genre": "dutch trance",
         "album": "Balance (Extended Versions)",
         "playlists": [
             "\u26a1-electro"
@@ -4322,7 +4322,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/k7ndwH-ON-Pc9b_mXMz_98bvgYnF9dJsV6BU5wumhVyvm7vtL_3t-3GyN2CHmlcFaCr9yOxIVqp-PV8=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "dutch house",
+        "genre": "dutch trance",
         "album": "Blah Blah Blah",
         "playlists": [
             "\u26a1-electro"
@@ -4335,7 +4335,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/bqNBX5ttPrNaKx1lgRTnSwz0tyQ6Xc0Kn-mWMS0r_fwy86DKAHFiNbRPLZtzpkxmd-x44vGsyzZ9bE_LQA=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "dutch house",
+        "genre": "dutch trance",
         "album": "Waiting For The Night",
         "playlists": [
             "\u26a1-electro"
@@ -19451,7 +19451,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/bSTERtZZGc0pW9zoGKx403zSp0BLoDnh30DQiMhRhrVfaJMGfrSGJzS8EPx_mOdSr7-LlihWpscksBg=w120-h120-l90-rj",
         "artist": "Laguna Pai",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "reggae peruano",
+        "genre": "peruvian rock",
         "album": "Resiliencia",
         "playlists": [
             "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
@@ -26317,30 +26317,15 @@
         ]
     },
     {
-        "video_id": "O6taEjZtAqo",
-        "video_url": "https://www.youtube.com/watch?v=O6taEjZtAqo",
-        "title": "Don't Go Away Mad (Just Go Away) (2021- Remaster)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/yqV6Bt9HFIArjoq-SxT0BeiDub9mZGr0iP3tDCgAZf4nNh_RED7i-uVo0nqj3YzaRqvqrmrc-QS9P4E=w120-h120-l90-rj",
+        "video_id": "DnOYT-AQVb0",
+        "video_url": "https://www.youtube.com/watch?v=DnOYT-AQVb0",
+        "title": "Don't Go Away Mad (Just Go Away)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/WPlCP3ctXlfGDNRes96gel-1tofRM8Fp_OscUePm-pShdqvlzPp55DbNqADcfoOrCt7bna7S49Ank6A1ZA=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "album rock",
-        "album": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
-    },
-    {
-        "video_id": "B2Jv_PDZZKM",
-        "video_url": "https://www.youtube.com/watch?v=B2Jv_PDZZKM",
-        "title": "Same Ol' Situation (S.O.S.) (2021- Remaster)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/yqV6Bt9HFIArjoq-SxT0BeiDub9mZGr0iP3tDCgAZf4nNh_RED7i-uVo0nqj3YzaRqvqrmrc-QS9P4E=w120-h120-l90-rj",
-        "artist": "M\u00f6tley Cr\u00fce",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "album rock",
-        "album": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "album": "Dr. Feelgood",
+        "playlists": []
     },
     {
         "video_id": "rPLsxlXWGvQ",
@@ -26369,6 +26354,17 @@
         ]
     },
     {
+        "video_id": "w3lXrrk9eQs",
+        "video_url": "https://www.youtube.com/watch?v=w3lXrrk9eQs",
+        "title": "Same Ol' Situation (S.O.S.)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PmZCADzm5YmVansr37-cfTISy0Ox6fd8kVQ1YbmiignCwlH4fdU4U0Te_PjuJU5o05egukJJxSKoyJbr=w120-h120-l90-rj",
+        "artist": "M\u00f6tley Cr\u00fce",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "genre": "album rock",
+        "album": "Dr. Feelgood (Deluxe Version)",
+        "playlists": []
+    },
+    {
         "video_id": "X8OQgNjwpxg",
         "video_url": "https://www.youtube.com/watch?v=X8OQgNjwpxg",
         "title": "Without You",
@@ -26389,7 +26385,7 @@
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "album rock",
-        "album": "Girls, Girls, Girls",
+        "album": "Girls, Girls, Girls (Deluxe Version)",
         "playlists": [
             "\ud83e\udd18-rock"
         ]
@@ -26402,7 +26398,7 @@
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "album rock",
-        "album": "Girls, Girls, Girls",
+        "album": "Girls, Girls, Girls (Deluxe Version)",
         "playlists": [
             "\ud83e\udd18-rock"
         ]
@@ -26415,7 +26411,7 @@
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "album rock",
-        "album": "Girls, Girls, Girls",
+        "album": "Girls, Girls, Girls (Deluxe Version)",
         "playlists": [
             "\ud83e\udd18-rock"
         ]
@@ -26434,30 +26430,26 @@
         ]
     },
     {
-        "video_id": "2gIVksP0Y9A",
-        "video_url": "https://www.youtube.com/watch?v=2gIVksP0Y9A",
+        "video_id": "rU_4khEFeQw",
+        "video_url": "https://www.youtube.com/watch?v=rU_4khEFeQw",
         "title": "Looks That Kill (2021- Remaster)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/JcBR8SWGP7CF18RQvy9dLOLrghsfC3LFMq9nxUPErWKAelX6DQtkWwm8z2v0YEQ0ZI-hAldTPCWijac=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/LLZ0m_RYrtdSijUscA9-5yXc3ROb91d7T6lEvQ1wM3vO9jmM6Wdqs-uVlXr7jXclwBn8MbamFSyKiF33=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "album rock",
-        "album": "Shout At The Devil (40th Anniversary; 2021 - Remaster)",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "album": "Shout At The Devil (40th Anniversary)",
+        "playlists": []
     },
     {
-        "video_id": "ve6B65JYuRk",
-        "video_url": "https://www.youtube.com/watch?v=ve6B65JYuRk",
-        "title": "Shout At the Devil (2021- Remaster)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/JcBR8SWGP7CF18RQvy9dLOLrghsfC3LFMq9nxUPErWKAelX6DQtkWwm8z2v0YEQ0ZI-hAldTPCWijac=w120-h120-l90-rj",
+        "video_id": "djsaJKNpPYo",
+        "video_url": "https://www.youtube.com/watch?v=djsaJKNpPYo",
+        "title": "Shout at the Devil (2021- Remaster)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/LLZ0m_RYrtdSijUscA9-5yXc3ROb91d7T6lEvQ1wM3vO9jmM6Wdqs-uVlXr7jXclwBn8MbamFSyKiF33=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "album rock",
-        "album": "Shout At The Devil (40th Anniversary; 2021 - Remaster)",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "album": "Shout At The Devil (40th Anniversary)",
+        "playlists": []
     },
     {
         "video_id": "s-l6U8p3BPc",
@@ -26499,17 +26491,15 @@
         ]
     },
     {
-        "video_id": "tM5fOnXTF-U",
-        "video_url": "https://www.youtube.com/watch?v=tM5fOnXTF-U",
-        "title": "Take Me To The Top (2021- Remaster)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/JArVQiAgR4b3lvCuqjzluDfybWQ00JcPSk3sb2qLrH-Ch9bzjIp9QBhGFhuLHvMxJe0Ufk4MH6yTI-um=w120-h120-l90-rj",
+        "video_id": "ki-3H2sqIMI",
+        "video_url": "https://www.youtube.com/watch?v=ki-3H2sqIMI",
+        "title": "Take Me To The Top",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7E7zybKTRc0mxnwcZ_FRwnrj1_ubs9FHyKWQRkLARH7zJ4-lp2a_-20e8929cHWTPwxYzv6zXxDw4oQ=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "album rock",
-        "album": "Too Fast For Love (40th Anniversary; 2021 - Remaster)",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "album": "Too Fast For Love",
+        "playlists": []
     },
     {
         "video_id": "Ca4QDF2jdWo",
@@ -36061,7 +36051,7 @@
         "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
         "artist": "W&W",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "canadian contemporary r&b",
+        "genre": "electro latino",
         "album": "",
         "playlists": [
             "\u26a1-electro"
@@ -36240,11 +36230,11 @@
         "video_id": "ZxaB5ZEdiVc",
         "video_url": "https://www.youtube.com/watch?v=ZxaB5ZEdiVc",
         "title": "HARD (Extended Mix)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/pERne_yHHauLIILT8Smwiu46rmPGRBTHvOCA_tHjFZnTJzc6aSt0FXoRO2oAvytFzX8sHEXVaPHEKHs=w120-h120-l90-rj",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZxaB5ZEdiVc/hq720.jpg",
         "artist": "Will Sparks",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "video_type": null,
         "genre": "big room",
-        "album": "HARD",
+        "album": "",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -38195,7 +38185,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/bSteR6zpekG0yNr8sIfePvyZhSd3rexUrzQ-XJh45c_mJXqHOgqWFeh2hNCw9yL0OEGzWIzKh6JmuWUX=w120-h120-l90-rj",
         "artist": "miyako",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "enka",
+        "genre": "j-acoustic",
         "album": "Eagle Fly Free",
         "playlists": [
             "\ud83c\udfbb-classic"
@@ -38208,7 +38198,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/U5NBIfsv138ttTzzoL4azbeehL0U1BPRCOqGYrH-it6QTkRkZS7jisM4SDKOY_6UOmSEN-yE-3iyEnvXhg=w120-h120-l90-rj",
         "artist": "southstar",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "genre": "hypertechno",
+        "genre": "pop dance",
         "album": "Miss You",
         "playlists": [
             "\u26a1-electro"
