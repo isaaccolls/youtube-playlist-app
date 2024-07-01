@@ -1997,7 +1997,9 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "Unknown",
         "album": "No Me Quiero Ba\u00f1ar",
-        "playlists": []
+        "playlists": [
+            "\ud83d\udd2b-hiphop"
+        ]
     },
     {
         "video_id": "Tpcpl44bIbY",
@@ -6704,7 +6706,9 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "bigroom",
         "album": "Unicorn Zombie Apocalypse",
-        "playlists": []
+        "playlists": [
+            "\u26a1-electro"
+        ]
     },
     {
         "video_id": "sobYJY7nHIA",
@@ -9706,7 +9710,9 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "genre": "latin afrobeat",
         "album": "Calle 13",
-        "playlists": []
+        "playlists": [
+            "\ud83d\udc36-htv"
+        ]
     },
     {
         "video_id": "wY8MW0Thkyw",
@@ -18445,6 +18451,19 @@
         "album": "Caballo Viejo The remixes",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "gq_0E1NoOAU",
+        "video_url": "https://www.youtube.com/watch?v=gq_0E1NoOAU",
+        "title": "Esta Vida",
+        "thumbnail_url": "https://lh3.googleusercontent.com/SnH9iEmH51LaWNMPOvalmVlYFImHewoz8CmvntOCZzKoeMlkC14GJRp5_73v_uI21Y8wAknoPtQKIBCmFg=w120-h120-s-l90-rj",
+        "artist": "Jorge Celedon & Jimmy Zambrano",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "genre": "Esta Vida",
+        "album": "Son Para El Mundo",
+        "playlists": [
+            "\ud83e\ude97-quickly"
         ]
     },
     {
