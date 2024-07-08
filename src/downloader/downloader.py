@@ -23,7 +23,7 @@ class Downloader:
         except Exception as e:
             print(f"🚫🚫 error downloading {video_id}: {str(e)}")
 
-    def download_audio(self, playlist_name, video_id, video_url, title, thumbnail_url, artist, album, genre, retries=20):
+    def download_audio(self, playlist_name, video_id, video_url, title, thumbnail_url, artist, album, retries=20):
         print(f"download_audio: {title} - {artist}")
         audio_download_path = self.download_path + "/mp3/" + playlist_name
         try:
@@ -42,9 +42,6 @@ class Downloader:
             if album != '':
                 audiofile.tag.album = album
             audiofile.tag.title = title
-            if genre.isdigit():
-                genre = "Genre " + genre
-            audiofile.tag.genre = genre
             # Download thumbnail
             response = requests.get(thumbnail_url)
             thumbnail_filename = "thumbnail.jpg"
@@ -63,7 +60,7 @@ class Downloader:
                 print(f"🚫🚫 error downloading audio {video_id}: {str(e)}")
                 print("Retry")
                 time.sleep(5)
-                return self.download_audio(playlist_name, video_id, video_url, title, thumbnail_url, artist, album, genre, retries-1)
+                return self.download_audio(playlist_name, video_id, video_url, title, thumbnail_url, artist, album, retries-1)
             else:
                 print(f"🚫🚫 error downloading audio {video_id}: {str(e)}")
                 print("No more retry.")

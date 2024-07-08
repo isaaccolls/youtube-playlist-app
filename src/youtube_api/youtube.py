@@ -152,7 +152,7 @@ class YoutubeAPI:
 
     def enrich_item_with_music_info(self, item, content, playlist_id):
         if (content['videoType'] == 'MUSIC_VIDEO_TYPE_ATV' or content['videoType'] is None) and playlist_id in playlistsForMusic:
-            item['genre'] = self.get_genre(item['artist'], content['title'])
+            # item['genre'] = self.get_genre(item['artist'], content['title'])
             item['album'] = content['album']['name'] if content['album'] is not None else ''
         if playlist_id in playlistsForMusic:
             item['playlists'] = self.check_song_in_playlists(item['video_id'])
