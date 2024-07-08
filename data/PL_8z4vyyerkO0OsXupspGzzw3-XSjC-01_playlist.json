@@ -180,6 +180,19 @@
         ]
     },
     {
+        "video_id": "Lz8lTk_PLc4",
+        "video_url": "https://www.youtube.com/watch?v=Lz8lTk_PLc4",
+        "title": "Volverte a Ver",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EGI28nmhzyJgLSDfYlWoDyd5bsHoZnriH1yeQBVPZruAAs2LuudvCvxIAWk8x-AqnAlb2VzyFFvcrnFyug=w120-h120-l90-rj",
+        "artist": "3 Due\u00f1os & Caramelos De Cianuro",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Volverte a Ver",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83d\udd2b-hiphop"
+        ]
+    },
+    {
         "video_id": "cZVJmId7qFk",
         "video_url": "https://www.youtube.com/watch?v=cZVJmId7qFk",
         "title": "21 Questions (feat. Nate Dogg)",
@@ -17437,6 +17450,18 @@
         "album": "S91",
         "playlists": [
             "\ud83d\udc36-htv"
+        ]
+    },
+    {
+        "video_id": "u9aCMPBN8Go",
+        "video_url": "https://www.youtube.com/watch?v=u9aCMPBN8Go",
+        "title": "Si Antes Te Hubiera Conocido",
+        "thumbnail_url": "https://lh3.googleusercontent.com/AiGCQxoGJqC-Fku09iZA1Rh33C-xkceGEEof8Jd-zlpDXMDh8BZphvkL6FS2TYd1uDtMHA63o2BUSIHq=w120-h120-l90-rj",
+        "artist": "KAROL G",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Si Antes Te Hubiera Conocido",
+        "playlists": [
+            "\ud83c\udf66-15"
         ]
     },
     {
