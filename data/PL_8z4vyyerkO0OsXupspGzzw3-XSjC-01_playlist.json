@@ -12163,6 +12163,18 @@
         ]
     },
     {
+        "video_id": "KKimLtMvpbs",
+        "video_url": "https://www.youtube.com/watch?v=KKimLtMvpbs",
+        "title": "Shuffle",
+        "thumbnail_url": "https://lh3.googleusercontent.com/9m1Ti5mluzQSqm3TzyprcRCoWZn4NtGkdQprwPiIDZSydlq9oqfZNsoamFt3_0nxCpX7LLxduZCud_gV=w120-h120-l90-rj",
+        "artist": "Deluxo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Shuffle",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "OnC4rXazQrE",
         "video_url": "https://www.youtube.com/watch?v=OnC4rXazQrE",
         "title": "Dualism",
@@ -12223,6 +12235,18 @@
         ]
     },
     {
+        "video_id": "X7UqPXvWUzw",
+        "video_url": "https://www.youtube.com/watch?v=X7UqPXvWUzw",
+        "title": "Panda",
+        "thumbnail_url": "https://lh3.googleusercontent.com/O-whsAoGToeDpcDGWFtuyoYywzIBDfKigVgXYIdzTEuhD0ti36oJkIeOilwLX719eaRJPeBP2Nj56KYt=w120-h120-l90-rj",
+        "artist": "Desiigner",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Panda",
+        "playlists": [
+            "\ud83d\udd2b-hiphop"
+        ]
+    },
+    {
         "video_id": "saKyCRZHepM",
         "video_url": "https://www.youtube.com/watch?v=saKyCRZHepM",
         "title": "Tiemble",
@@ -12259,6 +12283,30 @@
         ]
     },
     {
+        "video_id": "vdam0RRXmU4",
+        "video_url": "https://www.youtube.com/watch?v=vdam0RRXmU4",
+        "title": "Enter The Ninja",
+        "thumbnail_url": "https://lh3.googleusercontent.com/POaTyE6H6M3Jbr5doPEJHAjobTp7Op7_pIOc0J5kJjwhiU2DBMIgrdXkeyVFl33HoTOOr-LrWiHPjgju=w120-h120-l90-rj",
+        "artist": "Die Antwoord",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "$O$",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "QPRomLadQFA",
+        "video_url": "https://www.youtube.com/watch?v=QPRomLadQFA",
+        "title": "Cookie Thumper!",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hZ6HZp9AsxYV7K9i66gOFtZ7uozvNKfpbk8-YLkW2ngbeIPCqc80ZIiT8ddwwIos7I0Xght3ykJKlE-N6A=w120-h120-l90-rj",
+        "artist": "Die Antwoord",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Donker Mag",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "GBj6ZWUGmfw",
         "video_url": "https://www.youtube.com/watch?v=GBj6ZWUGmfw",
         "title": "Ugly Boy",
@@ -12266,6 +12314,55 @@
         "artist": "Die Antwoord",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Donker Mag",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "KVOH4F1mdVc",
+        "video_url": "https://www.youtube.com/watch?v=KVOH4F1mdVc",
+        "title": "Alien",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fcTjLao960P0hs4HPsI1_l4QzrNyjNAApyH7hrbinezHzRoZ4ZRY70NpQSv7Ql4guH6AtKGCwrMhbS8=w120-h120-l90-rj",
+        "artist": "Die Antwoord",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Mount Ninji And Da Nice Time Kid",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "KRhBGrZJcXY",
+        "video_url": "https://www.youtube.com/watch?v=KRhBGrZJcXY",
+        "title": "Banana Brain",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fcTjLao960P0hs4HPsI1_l4QzrNyjNAApyH7hrbinezHzRoZ4ZRY70NpQSv7Ql4guH6AtKGCwrMhbS8=w120-h120-l90-rj",
+        "artist": "Die Antwoord",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Mount Ninji And Da Nice Time Kid",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "5b0_9iwhQZA",
+        "video_url": "https://www.youtube.com/watch?v=5b0_9iwhQZA",
+        "title": "Gucci Coochie (feat. Dita Von Teese)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/fcTjLao960P0hs4HPsI1_l4QzrNyjNAApyH7hrbinezHzRoZ4ZRY70NpQSv7Ql4guH6AtKGCwrMhbS8=w120-h120-l90-rj",
+        "artist": "Die Antwoord",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Mount Ninji And Da Nice Time Kid",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "P89OhpDKHmI",
+        "video_url": "https://www.youtube.com/watch?v=P89OhpDKHmI",
+        "title": "Baby's On Fire",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hksoH5cP4Mv01gZ-UK9RraDYbZS2It_e80rYdfDvhKQ-mfqCCv8q27YzwUs5LRcDimU32sLuIBVxoZk=w120-h120-l90-rj",
+        "artist": "Die Antwoord",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Ten$ion",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -12280,6 +12377,18 @@
         "album": "Ten$ion",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "81S77Vlhxb4",
+        "video_url": "https://www.youtube.com/watch?v=81S77Vlhxb4",
+        "title": "So What?",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hksoH5cP4Mv01gZ-UK9RraDYbZS2It_e80rYdfDvhKQ-mfqCCv8q27YzwUs5LRcDimU32sLuIBVxoZk=w120-h120-l90-rj",
+        "artist": "Die Antwoord",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Ten$ion",
+        "playlists": [
+            "\ud83d\udd2b-hiphop"
         ]
     },
     {
@@ -14398,6 +14507,18 @@
         ]
     },
     {
+        "video_id": "hrbibLHepxY",
+        "video_url": "https://www.youtube.com/watch?v=hrbibLHepxY",
+        "title": "Like A G6 (feat. The Cataracs & DEV)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/P75I6HG38x_--Tv8ZXxbgwd3XCDsWrW4vuvd2FdQhzutulofEM-zBhbEDGzNuegWlpu_qBbPPGoVWNDlHA=w120-h120-l90-rj",
+        "artist": "Far East Movement",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Free Wired",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "sQt0se4PRHg",
         "video_url": "https://www.youtube.com/watch?v=sQt0se4PRHg",
         "title": "Passion Whine (feat. Sean Paul)",
@@ -15218,6 +15339,19 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Cracker Island",
         "playlists": [
+            "\ud83d\udd2b-hiphop"
+        ]
+    },
+    {
+        "video_id": "SZP0NFRKBbs",
+        "video_url": "https://www.youtube.com/watch?v=SZP0NFRKBbs",
+        "title": "DARE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/_3LJKVh0dy-71CwQzWKt0q7JHI7M2rxIMGGAdT0wEhmGEEELRX98ACJFdKK5Fyl226nuNfQ0OAMc-JtP=w120-h120-l90-rj",
+        "artist": "Gorillaz",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Demon Days",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
             "\ud83d\udd2b-hiphop"
         ]
     },
@@ -36228,6 +36362,19 @@
         "album": "Blurryface",
         "playlists": [
             "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "oLeROuCMwj8",
+        "video_url": "https://www.youtube.com/watch?v=oLeROuCMwj8",
+        "title": "Heathens",
+        "thumbnail_url": "https://lh3.googleusercontent.com/h_vJZqh3sSE3k9A0wnzTjeM06SB11N_oDbT1uvxUjBRvuHQ9Czwo-jFT7KqyPvHCfBKSH_3mEKtah-XRtg=w120-h120-l90-rj",
+        "artist": "twenty one pilots",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Heathens",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\u26a1-electro"
         ]
     }
 ]
