@@ -13985,18 +13985,6 @@
         ]
     },
     {
-        "video_id": "5cafWyuWA8E",
-        "video_url": "https://www.youtube.com/watch?v=5cafWyuWA8E",
-        "title": "Yeah The Girls (feat. MERYLL)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/bZaMhJBLKgP_b4kd88DKcHdsrHWAerz7rm41Ez-lgJ-nsboMv3DggcAZpO7ygY5FdUUckegK1pZPvUip=w120-h120-l90-rj",
-        "artist": "FISHER",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Yeah The Girls",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
         "video_id": "Vad5fjgvHrM",
         "video_url": "https://www.youtube.com/watch?v=Vad5fjgvHrM",
         "title": "You Little Beauty",
@@ -14021,16 +14009,24 @@
         ]
     },
     {
-        "video_id": "iBskyPoa6eg",
-        "video_url": "https://www.youtube.com/watch?v=iBskyPoa6eg",
+        "video_id": "pVQKwuPefF0",
+        "video_url": "https://www.youtube.com/watch?v=pVQKwuPefF0",
         "title": "Atmosphere",
-        "thumbnail_url": "https://lh3.googleusercontent.com/kB1iHzRJtPlC_6aO17Uzw_jBIhFkO9emvKjocQlZBMffQsuz0FzjbyTIjjBDfeeLehf7Nh-uoOBdScr1=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/PdClDItQDM6I9z8iHffrarudZ23Ctx1lbq4bv4iCx5z_qnfHI-m3ZOs-zLHoQTrOYGoRjaHn9rjvZ8CiTw=w120-h120-l90-rj",
         "artist": "FISHER & Kita Alexander",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Atmosphere",
-        "playlists": [
-            "\u26a1-electro"
-        ]
+        "playlists": []
+    },
+    {
+        "video_id": "gLEqySNbtug",
+        "video_url": "https://www.youtube.com/watch?v=gLEqySNbtug",
+        "title": "Yeah The Girls",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EL7wbu5qJa_Cddfe3tx4-idc5jeUNYms3DwbIcQv4qpp5M2sIk1j6K8NagquvlsJ_qG-KIjd1oXvuFrv_g=w120-h120-l90-rj",
+        "artist": "FISHER & MERRYL",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Yeah The Girls",
+        "playlists": []
     },
     {
         "video_id": "biuGVxYowIM",

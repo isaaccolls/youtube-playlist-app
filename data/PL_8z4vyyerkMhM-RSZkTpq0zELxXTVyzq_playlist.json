@@ -44,7 +44,7 @@
         "video_url": "https://www.youtube.com/watch?v=0J1ws31Ed5w",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
         "thumbnail_url": "https://i.ytimg.com/vi/0J1ws31Ed5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lmDYoCa6U13oqxkqpwBEec5J4rDQ",
-        "artist": "BHMix ",
+        "artist": "BHMix | Best Techno Bangers",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -52,7 +52,7 @@
         "video_url": "https://www.youtube.com/watch?v=_o1j2T1q4uI",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
         "thumbnail_url": "https://i.ytimg.com/vi/_o1j2T1q4uI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k0lRN2NNKy-Nb40arAB6ukrr83JQ",
-        "artist": "BHMix ",
+        "artist": "BHMix | Best Techno Bangers",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -644,6 +644,14 @@
         "video_url": "https://www.youtube.com/watch?v=aZPmqXWiPLg",
         "title": "Floorplan | Tomorrowland 2023 l CORE",
         "thumbnail_url": "https://i.ytimg.com/vi/aZPmqXWiPLg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ngC6V9--nYY-wSjkru31SDge8pQw",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "uB5e-6jR7YA",
+        "video_url": "https://www.youtube.com/watch?v=uB5e-6jR7YA",
+        "title": "MATTN | Tomorrowland Winter 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/uB5e-6jR7YA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3myU2JDvtnsKAyfMY2R9mP-65O6PQ",
         "artist": "Tomorrowland",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
