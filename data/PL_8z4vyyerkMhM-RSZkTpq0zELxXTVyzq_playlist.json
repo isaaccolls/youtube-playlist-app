@@ -616,6 +616,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "zzyg0m0dn70",
+        "video_url": "https://www.youtube.com/watch?v=zzyg0m0dn70",
+        "title": "TI\u00cbSTO @ KAPPA FUTURFESTIVAL 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/zzyg0m0dn70/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mTcWZ5-OIBrAX92dGsM_sA9rP4sg",
+        "artist": "Ti\u00ebsto",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "nVbB5nmey3U",
         "video_url": "https://www.youtube.com/watch?v=nVbB5nmey3U",
         "title": "Adriatique | Tomorrowland 2022 - WE3",
@@ -646,6 +654,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/aZPmqXWiPLg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ngC6V9--nYY-wSjkru31SDge8pQw",
         "artist": "Tomorrowland",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "ksqBDYwqkHA",
+        "video_url": "https://www.youtube.com/watch?v=ksqBDYwqkHA",
+        "title": "MATTN | Tomorrowland Mainstage 2019",
+        "thumbnail_url": "https://i.ytimg.com/vi/ksqBDYwqkHA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lXMOKVtVlHY7V7N_6vwd9Dndvxtw",
+        "artist": "Tomorrowland",
+        "video_type": null
     },
     {
         "video_id": "uB5e-6jR7YA",
@@ -694,6 +710,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/_fC11NuARvA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kIZwE3eIVb6EzL7V4fnqt1GHZ4gA",
         "artist": "VERKNIPT",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "8wSU-ABAfv8",
+        "video_url": "https://www.youtube.com/watch?v=8wSU-ABAfv8",
+        "title": "Vini Vici @ Tomorrowland Winter 2024  | Official Video",
+        "thumbnail_url": "https://i.ytimg.com/vi/8wSU-ABAfv8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lFN-W8Rag_KE644jjSsw17PNHMTQ",
+        "artist": "Vini Vici",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "9kpz-EplUdQ",
