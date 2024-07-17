@@ -40,9 +40,9 @@ class Playlist:
         for item in playlist_info:
             if item['video_type'] != 'MUSIC_VIDEO_TYPE_ATV':
                 print(f"🚫 not music {item['title']} // {item['artist']}")
-            else:
-                downloader.download_audio(
-                    playlist_name, item['video_id'], item['video_url'], item['title'], item['thumbnail_url'], item['artist'], item['album'], item['genre'])
+            # else:
+            #     downloader.download_audio(
+            #         playlist_name, item['video_id'], item['video_url'], item['title'], item['thumbnail_url'], item['artist'], item['album'], item['genre'])
 
     def process_video(self):
         print(f'go for video 📺 {self.playlist_id}')
@@ -55,6 +55,6 @@ class Playlist:
         for item in playlist_info:
             if item['video_type'] == 'MUSIC_VIDEO_TYPE_ATV':
                 print(f"🚫 not a video {item['video_id']}")
-            else:
-                downloader.download_video(
-                    playlist_name, item['video_id'], item['video_url'])
+            # else:
+            #     downloader.download_video(
+            #         playlist_name, item['video_id'], item['video_url'])
