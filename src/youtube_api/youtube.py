@@ -51,8 +51,13 @@ class YoutubeAPI:
                     )
                     response = request.execute()
                     for item in response['items']:
-                        self.playlist_songs[playlist].add(
-                            item['snippet']['resourceId']['videoId'])
+                        video_id = item['snippet']['resourceId']['videoId']
+                        self.playlist_songs[playlist].add(video_id)
+                        # Verificar si la playlist está en playlistsForMusic y si la canción está en la playlist
+                        if playlist in playlistsForMusic:
+                            if not self.check_song_in_playlists(video_id):
+                                print(
+                                    f"😯 Alerta: La canción {item['snippet']['title']} no se encuentra en la playlist {self.playlist_names[playlist]}")
                     page_token = response.get('nextPageToken')
                     if not page_token:
                         break
