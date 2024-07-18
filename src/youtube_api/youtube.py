@@ -73,6 +73,24 @@ class YoutubeAPI:
                             f"Error loading playlist songs {playlist}: {str(e)}")
                         print("No more retries.")
                         break
+            self.alert_duplicate_songs(playlist)
+
+    def alert_duplicate_songs(self, playlist):
+        video_ids = list(self.playlist_songs[playlist])
+        duplicates = self.find_duplicates(video_ids)
+        if duplicates:
+            print(
+                f"😯 Alerta: Se encontraron elementos repetidos en la playlist '{self.playlist_names[playlist]}': {duplicates}")
+
+    def find_duplicates(self, items):
+        seen = set()
+        duplicates = set()
+        for item in items:
+            if item in seen:
+                duplicates.add(item)
+            else:
+                seen.add(item)
+        return duplicates
 
     def check_song_in_playlists(self, video_id):
         playlists = []
