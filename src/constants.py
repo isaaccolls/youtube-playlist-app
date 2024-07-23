@@ -28,6 +28,8 @@ checkInPlaylists = [
     'PL_8z4vyyerkOBt3Lt5iL2VWx04_19yDiq',
     # 🪗-quickly
     'PL_8z4vyyerkPdORFMt2Byu0YWyVGmdZQ_',
+    # 🎷-lisa
+    'PL_8z4vyyerkP8n-N0abjSVsC5ruSdQbBO',
 ]
 
 playlistsForVideo = [

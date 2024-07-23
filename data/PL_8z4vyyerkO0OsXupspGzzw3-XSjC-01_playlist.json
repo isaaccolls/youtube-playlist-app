@@ -2221,6 +2221,34 @@
         ]
     },
     {
+        "video_id": "bS8-qQojlhA",
+        "video_url": "https://www.youtube.com/watch?v=bS8-qQojlhA",
+        "title": "Wake Up Alone",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HxwKiFSKsNLDA6mV2gXiqtvGldf7rMeNn-3HW3yRm6m6zSWF9qbeawK3fPvqDChyIyzIk2aE6DncTsKsrw=w120-h120-l90-rj",
+        "artist": "Amy Winehouse",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Back To Black",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83e\udd18-rock",
+            "\ud83c\udfb7-lisa"
+        ]
+    },
+    {
+        "video_id": "NhrI8ES-rZI",
+        "video_url": "https://www.youtube.com/watch?v=NhrI8ES-rZI",
+        "title": "Help Yourself",
+        "thumbnail_url": "https://lh3.googleusercontent.com/lSZ-cnJVAKZm0RZ6cyvZ9Up_zf8C89-lKdL_QjjDug-C2S9mgMRGca4CkeB5WFecoQm0Edo85gQWx8g=w120-h120-l90-rj",
+        "artist": "Amy Winehouse",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Frank",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83e\udd18-rock",
+            "\ud83c\udfb7-lisa"
+        ]
+    },
+    {
         "video_id": "XNzptk68Jg8",
         "video_url": "https://www.youtube.com/watch?v=XNzptk68Jg8",
         "title": "Fantasma de la Opera",
@@ -20984,6 +21012,18 @@
         "artist": "Maroon 5",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Red Pill Blues",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "LHBbWBX_azA",
+        "video_url": "https://www.youtube.com/watch?v=LHBbWBX_azA",
+        "title": "She Will Be Loved",
+        "thumbnail_url": "https://lh3.googleusercontent.com/b2Qn9rmBW7jWJ3elYCEdk3zXwrlpdH8wCNyHiuHbwzsVTlt8xA2sQSts-qD9U1mIXFYQGTBWtsCwqdgIDg=w120-h120-l90-rj",
+        "artist": "Maroon 5",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Songs About Jane",
         "playlists": [
             "\ud83c\udf6d-lolliPop"
         ]

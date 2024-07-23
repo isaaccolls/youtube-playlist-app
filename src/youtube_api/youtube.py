@@ -149,7 +149,7 @@ class YoutubeAPI:
             return {"playlist_name": playlist_name, "items": items}
 
     def create_item(self, content, playlist_id):
-        print(f'👉 get metadata for content: {content["title"]}')
+        # print(f'👉 get metadata for content: {content["title"]}')
         video_id = content['videoId'] if content['videoId'] is not None else self.search(
             playlist_id, content['title'])
         thumbnail_url = self.get_thumbnail_url(content)
