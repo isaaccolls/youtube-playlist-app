@@ -2101,6 +2101,18 @@
         ]
     },
     {
+        "video_id": "_qr1ZQxG5w8",
+        "video_url": "https://www.youtube.com/watch?v=_qr1ZQxG5w8",
+        "title": "You and Me",
+        "thumbnail_url": "https://lh3.googleusercontent.com/x-d3lflObCM2dfJVLJgDPCYuQ_82m6wk9xNtHCDdB_yQoJnvqVNwpEa1V8S-5YpWbUml2l4MhRLMJFVi=w120-h120-l90-rj",
+        "artist": "Amelie Lens",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "You and Me",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "23FZL4lBYAo",
         "video_url": "https://www.youtube.com/watch?v=23FZL4lBYAo",
         "title": "Shield Wall",
@@ -2218,6 +2230,19 @@
         "album": "Twilight Of The Thunder God",
         "playlists": [
             "\ud83e\udd18-rock"
+        ]
+    },
+    {
+        "video_id": "whaDlITyGsU",
+        "video_url": "https://www.youtube.com/watch?v=whaDlITyGsU",
+        "title": "Just Friends",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HxwKiFSKsNLDA6mV2gXiqtvGldf7rMeNn-3HW3yRm6m6zSWF9qbeawK3fPvqDChyIyzIk2aE6DncTsKsrw=w120-h120-l90-rj",
+        "artist": "Amy Winehouse",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Back To Black",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83c\udfb7-lisa"
         ]
     },
     {
