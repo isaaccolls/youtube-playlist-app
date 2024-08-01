@@ -6395,11 +6395,11 @@
     {
         "video_id": "T_Jqp0mAMzY",
         "video_url": "https://www.youtube.com/watch?v=T_Jqp0mAMzY",
-        "title": "World, Hold On (Video Edit) (feat. Steve Edwards)",
+        "title": "World, Hold On (Children Of The Sky) (Video Edit) (feat. Steve Edwards)",
         "thumbnail_url": "https://lh3.googleusercontent.com/87zzqokd85T0tbSsKzCTzGrZUuA5zcjMilSE7NiCL8kv1kNq4_4RITR39cHmcjcPhgPkHJ2ijBVWSK0=w120-h120-l90-rj",
         "artist": "Bob Sinclar",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "World, Hold On - EP",
+        "album": "World, Hold On (Children Of The Sky)- EP",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -6407,11 +6407,11 @@
     {
         "video_id": "iN9rqTJbCrk",
         "video_url": "https://www.youtube.com/watch?v=iN9rqTJbCrk",
-        "title": "World Hold On (FISHER Rework) (feat. Steve Edwards)",
+        "title": "World Hold On (Children Of The Sky) (FISHER Rework) (feat. Steve Edwards)",
         "thumbnail_url": "https://lh3.googleusercontent.com/dao5BzY4e_-wJagyc9VCkbVJFoIaj8AhyXeNzK6FqneAVSLM3fPzd96scbJaAIekh3gXaQPeY0OahsI=w120-h120-l90-rj",
         "artist": "Bob Sinclar & FISHER",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "World Hold On (FISHER Rework)",
+        "album": "World Hold On (Children Of The Sky) (FISHER Rework)",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -17419,6 +17419,18 @@
         "album": "Skrillex and Diplo present Jack \u00dc",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "2HrYhBn9JkQ",
+        "video_url": "https://www.youtube.com/watch?v=2HrYhBn9JkQ",
+        "title": "The Hottest",
+        "thumbnail_url": "https://lh3.googleusercontent.com/cWkwT-M9gOe0YlXFIJ3_n_MtDO3rv3ZX7g8EocjVUNdlEorMYpzBie46SFSACqhE1Otur3la4eU_gCxQbg=w120-h120-l90-rj",
+        "artist": "Jaden Smith",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Bad Boys For Life Soundtrack",
+        "playlists": [
+            "\ud83d\udd2b-hiphop"
         ]
     },
     {

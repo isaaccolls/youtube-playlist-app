@@ -44,7 +44,7 @@
         "video_url": "https://www.youtube.com/watch?v=0J1ws31Ed5w",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
         "thumbnail_url": "https://i.ytimg.com/vi/0J1ws31Ed5w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lmDYoCa6U13oqxkqpwBEec5J4rDQ",
-        "artist": "BHMix | Best Techno Bangers",
+        "artist": "BHMix ",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -52,7 +52,7 @@
         "video_url": "https://www.youtube.com/watch?v=_o1j2T1q4uI",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
         "thumbnail_url": "https://i.ytimg.com/vi/_o1j2T1q4uI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k0lRN2NNKy-Nb40arAB6ukrr83JQ",
-        "artist": "BHMix | Best Techno Bangers",
+        "artist": "BHMix ",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -424,18 +424,18 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
-        "video_id": "PMaTRXQdMzg",
-        "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
-        "title": "PINK ECLIPSE \ud83c\udf12 CAMILA GUTI\u00c9RREZ (LIVE DJ SET 4K)(Barranquilla, Colombia)[VOL 16]",
-        "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
+        "video_id": "IDouH3rfcvw",
+        "video_url": "https://www.youtube.com/watch?v=IDouH3rfcvw",
+        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (LIVE DJ SET 4K)(Cartagena x Cali, Colombia)[VOL 13]",
+        "thumbnail_url": "https://i.ytimg.com/vi/IDouH3rfcvw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1IWAHfM2cz62Jadb_ruxBEG3TQA",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
-        "video_id": "IDouH3rfcvw",
-        "video_url": "https://www.youtube.com/watch?v=IDouH3rfcvw",
-        "title": "PINK MOMENTS \u2728CAMILA GUTI\u00c9RREZ (LIVE DJ SET 4K)(Cartagena x Cali, Colombia)[VOL 13]",
-        "thumbnail_url": "https://i.ytimg.com/vi/IDouH3rfcvw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1IWAHfM2cz62Jadb_ruxBEG3TQA",
+        "video_id": "PMaTRXQdMzg",
+        "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
+        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (LIVE DJ SET 4K)(Barranquilla, Colombia)[VOL 16]",
+        "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
@@ -624,6 +624,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "eUWJxDb9mg0",
+        "video_url": "https://www.youtube.com/watch?v=eUWJxDb9mg0",
+        "title": "Adriatique WE1 | Tomorrowland 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/eUWJxDb9mg0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n3dL5DBmVeOVSgI8hybdMyT_j6cg",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "nVbB5nmey3U",
         "video_url": "https://www.youtube.com/watch?v=nVbB5nmey3U",
         "title": "Adriatique | Tomorrowland 2022 - WE3",
@@ -672,6 +680,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "n11iwyHbv2o",
+        "video_url": "https://www.youtube.com/watch?v=n11iwyHbv2o",
+        "title": "Miss Monique WE1 | Tomorrowland 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/n11iwyHbv2o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nnRsMcl_5mJ1CoA0jzrlhsqFiULQ",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "Ep4zUG4wFKc",
         "video_url": "https://www.youtube.com/watch?v=Ep4zUG4wFKc",
         "title": "Nicky Elisabeth | Tomorrowland 2022 - WE 3",
@@ -684,6 +700,14 @@
         "video_url": "https://www.youtube.com/watch?v=ZoWfZVVePww",
         "title": "Paul Kalkbrenner | Tomorrowland Brasil 2023",
         "thumbnail_url": "https://i.ytimg.com/vi/ZoWfZVVePww/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nq1eEbVnUL5fksKoOBp8r_Sa1r7w",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "gUIRY85DVRM",
+        "video_url": "https://www.youtube.com/watch?v=gUIRY85DVRM",
+        "title": "Tale Of Us WE1 | Tomorrowland 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/gUIRY85DVRM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k181UdZB0i1WkQ1ReBC7G5Lhm4Nw",
         "artist": "Tomorrowland",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
