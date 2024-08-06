@@ -4112,6 +4112,18 @@
         ]
     },
     {
+        "video_id": "1SN3-qR3Bq0",
+        "video_url": "https://www.youtube.com/watch?v=1SN3-qR3Bq0",
+        "title": "This Is What It Feels Like (feat. Trevor Guthrie)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oCI5CNSOxDDW6UEZs35g3hCBCnTKymPlYrESW1PfNsJuLLWR64j2LjG0I8u-TZxmxjw1hCE5g8I5e8PTpQ=w120-h120-l90-rj",
+        "artist": "Armin van Buuren",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Intense",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "xNtB03yEbiM",
         "video_url": "https://www.youtube.com/watch?v=xNtB03yEbiM",
         "title": "Waiting For The Night (feat. Fiora)",
@@ -4155,18 +4167,6 @@
         "artist": "Armin van Buuren & The Stickmen Project",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Feel Again, Pt. 1",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
-        "video_id": "1SN3-qR3Bq0",
-        "video_url": "https://www.youtube.com/watch?v=1SN3-qR3Bq0",
-        "title": "This Is What It Feels Like",
-        "thumbnail_url": "https://lh3.googleusercontent.com/oCI5CNSOxDDW6UEZs35g3hCBCnTKymPlYrESW1PfNsJuLLWR64j2LjG0I8u-TZxmxjw1hCE5g8I5e8PTpQ=w120-h120-l90-rj",
-        "artist": "Armin van Buuren & Trevor Guthrie",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Intense",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -9385,7 +9385,7 @@
         "video_id": "70BASPcfWVQ",
         "video_url": "https://www.youtube.com/watch?v=70BASPcfWVQ",
         "title": "Blame (feat. John Newman)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/K4Du4P4k1jnellG3UqVcLGMk_oHffqIpEgXJCZtK6HSbS1xquCLjkbSypVVOK-0gNZbuLhTK4omRnfjU=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VwYs7-vePBLBiGfD9AtWrUIU9LloeDIY9bxly4a7qZIOEkwLwyQ0_KxMMt_4r600Nri7GOf4NSPgsqmGhA=w120-h120-l90-rj",
         "artist": "Calvin Harris",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Motion",
@@ -9397,7 +9397,7 @@
         "video_id": "lMQH_xmx1zE",
         "video_url": "https://www.youtube.com/watch?v=lMQH_xmx1zE",
         "title": "Outside (feat. Ellie Goulding)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/K4Du4P4k1jnellG3UqVcLGMk_oHffqIpEgXJCZtK6HSbS1xquCLjkbSypVVOK-0gNZbuLhTK4omRnfjU=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VwYs7-vePBLBiGfD9AtWrUIU9LloeDIY9bxly4a7qZIOEkwLwyQ0_KxMMt_4r600Nri7GOf4NSPgsqmGhA=w120-h120-l90-rj",
         "artist": "Calvin Harris",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Motion",
@@ -9409,7 +9409,7 @@
         "video_id": "KSgKKSny0Qo",
         "video_url": "https://www.youtube.com/watch?v=KSgKKSny0Qo",
         "title": "Summer",
-        "thumbnail_url": "https://lh3.googleusercontent.com/K4Du4P4k1jnellG3UqVcLGMk_oHffqIpEgXJCZtK6HSbS1xquCLjkbSypVVOK-0gNZbuLhTK4omRnfjU=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VwYs7-vePBLBiGfD9AtWrUIU9LloeDIY9bxly4a7qZIOEkwLwyQ0_KxMMt_4r600Nri7GOf4NSPgsqmGhA=w120-h120-l90-rj",
         "artist": "Calvin Harris",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Motion",
@@ -19003,6 +19003,18 @@
         "artist": "Le Pupe",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Marakaibo",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "Bs1t3zddY1M",
+        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
+        "title": "Live The Night (Extended Mix)",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
+        "artist": "Lil Jon, W&W & Hardwell",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -34648,18 +34660,6 @@
         "artist": "Vlinder Vos & GEWOONRAVES",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "RAVE",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
-        "video_id": "Bs1t3zddY1M",
-        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
-        "title": "Live The Night(Extended Mix)",
-        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
-        "artist": "W&W",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "",
         "playlists": [
             "\u26a1-electro"
         ]

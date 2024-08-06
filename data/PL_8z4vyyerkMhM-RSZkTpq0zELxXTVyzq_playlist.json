@@ -16,6 +16,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "cWSySZIXhgM",
+        "video_url": "https://www.youtube.com/watch?v=cWSySZIXhgM",
+        "title": "Hot Honey",
+        "thumbnail_url": "https://i.ytimg.com/vi/cWSySZIXhgM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mPacfn3if_1haD16FqsfPhtzZytg",
+        "artist": "Alana Springsteen & Ti\u00ebsto",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "Gh9k1zHTjho",
         "video_url": "https://www.youtube.com/watch?v=Gh9k1zHTjho",
         "title": "Mashups Disco Funky House 2022 (Never Dull, Katy Perry, C. Harris, Chic, Swedish House Mafia...)",
@@ -426,7 +434,7 @@
     {
         "video_id": "IDouH3rfcvw",
         "video_url": "https://www.youtube.com/watch?v=IDouH3rfcvw",
-        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (LIVE DJ SET 4K)(Cartagena x Cali, Colombia)[VOL 13]",
+        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (LIVE DJ SET 4K)(Cartagena x Cali, Colombia)",
         "thumbnail_url": "https://i.ytimg.com/vi/IDouH3rfcvw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1IWAHfM2cz62Jadb_ruxBEG3TQA",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
@@ -434,7 +442,7 @@
     {
         "video_id": "PMaTRXQdMzg",
         "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
-        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (LIVE DJ SET 4K)(Barranquilla, Colombia)[VOL 16]",
+        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (LIVE SET 4K)(Barranquilla, Colombia)",
         "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
@@ -493,14 +501,6 @@
         "title": "Hardwell (DJ-set LIVE @ ADE) | SLAM!",
         "thumbnail_url": "https://i.ytimg.com/vi/HKHlAPK4c4M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kmXz5KcnELCoYyR3IDtCRMr573lA",
         "artist": "SLAM! - Music",
-        "video_type": "MUSIC_VIDEO_TYPE_UGC"
-    },
-    {
-        "video_id": "a0MiHq-TqZY",
-        "video_url": "https://www.youtube.com/watch?v=a0MiHq-TqZY",
-        "title": "Lo \u00daltimo en Ritmos Electr\u00f3nicos del Festival 2024 \ud83c\udfa7 TOMORROWLAND - Mejor Mix",
-        "thumbnail_url": "https://i.ytimg.com/vi/a0MiHq-TqZY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lB6tJ7n4L3LDo9W7n9GREf61yTNw",
-        "artist": "Sapphire Music",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -664,6 +664,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "4-Vn7q3C-Bc",
+        "video_url": "https://www.youtube.com/watch?v=4-Vn7q3C-Bc",
+        "title": "Joris Voorn B2B Yotto WE2 | Tomorrowland 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/4-Vn7q3C-Bc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3m0dOjXlZcVHm5TQnqPdhqrdaXnQA",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "ksqBDYwqkHA",
         "video_url": "https://www.youtube.com/watch?v=ksqBDYwqkHA",
         "title": "MATTN | Tomorrowland Mainstage 2019",
@@ -700,6 +708,14 @@
         "video_url": "https://www.youtube.com/watch?v=ZoWfZVVePww",
         "title": "Paul Kalkbrenner | Tomorrowland Brasil 2023",
         "thumbnail_url": "https://i.ytimg.com/vi/ZoWfZVVePww/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nq1eEbVnUL5fksKoOBp8r_Sa1r7w",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "IqkUVGk_z5I",
+        "video_url": "https://www.youtube.com/watch?v=IqkUVGk_z5I",
+        "title": "REZZMAU5 WE1 | Tomorrowland 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/IqkUVGk_z5I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lgrfXTygkCYteeV5feUdZ8--zmYw",
         "artist": "Tomorrowland",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
@@ -797,6 +813,14 @@
         "title": "Acid Techno From The Future",
         "thumbnail_url": "https://i.ytimg.com/vi/OHqdhk6WxMM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n0Sn79HMdazlWXKtcoC6filQaeRg",
         "artist": "donit",
+        "video_type": null
+    },
+    {
+        "video_id": "m6KsEW9h5g8",
+        "video_url": "https://www.youtube.com/watch?v=m6KsEW9h5g8",
+        "title": "Berlin Techno Mix - 4K Visuals | Charlotte De Witte | UMEK | Deborah De Luca | Amelie Lens",
+        "thumbnail_url": "https://i.ytimg.com/vi/m6KsEW9h5g8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lN2SpQu5zfcO7mGZkp7lmu6xFH0Q",
+        "artist": "spoderman techno",
         "video_type": null
     },
     {
