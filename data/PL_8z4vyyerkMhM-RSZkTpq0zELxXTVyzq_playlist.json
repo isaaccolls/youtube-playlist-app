@@ -32,14 +32,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
-        "video_id": "_tGnh3EL6S0",
-        "video_url": "https://www.youtube.com/watch?v=_tGnh3EL6S0",
-        "title": "Sara Landry | EDC Las Vegas, 2024 (circuitGROUNDS)",
-        "thumbnail_url": "https://i.ytimg.com/vi/_tGnh3EL6S0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mWEU_CNa0SwfzFsEJzDst_ZhJBhw",
-        "artist": "Alt8 & Sara Landry",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
-    },
-    {
         "video_id": "g32YD5YQCkg",
         "video_url": "https://www.youtube.com/watch?v=g32YD5YQCkg",
         "title": "Armin van Buuren x UNTOLD Dubai Performance",
@@ -309,7 +301,7 @@
         "title": "KREAM Presents LIQUID : LAB Vol. 10 (Keinemusik/Eric Prydz/Gordo) [Loen Skylift]",
         "thumbnail_url": "https://i.ytimg.com/vi/lVbwXSsJKBM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lMlERUYW-5yzYsvRWasyON9HZW7A",
         "artist": "KREAM",
-        "video_type": null
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "fvFTab3LOZU",
@@ -434,7 +426,7 @@
     {
         "video_id": "IDouH3rfcvw",
         "video_url": "https://www.youtube.com/watch?v=IDouH3rfcvw",
-        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (LIVE DJ SET 4K)(Cartagena x Cali, Colombia)",
+        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (LIVE SET 4K)(CARTAGENA x CALI, COLOMBIA)",
         "thumbnail_url": "https://i.ytimg.com/vi/IDouH3rfcvw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1IWAHfM2cz62Jadb_ruxBEG3TQA",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
@@ -442,7 +434,7 @@
     {
         "video_id": "PMaTRXQdMzg",
         "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
-        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (LIVE SET 4K)(Barranquilla, Colombia)",
+        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (LIVE SET 4K)(BARRANQUILLA, COLOMBIA)",
         "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
@@ -502,6 +494,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/HKHlAPK4c4M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kmXz5KcnELCoYyR3IDtCRMr573lA",
         "artist": "SLAM! - Music",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "_tGnh3EL6S0",
+        "video_url": "https://www.youtube.com/watch?v=_tGnh3EL6S0",
+        "title": "Sara Landry | EDC Las Vegas, 2024 (circuitGROUNDS)",
+        "thumbnail_url": "https://i.ytimg.com/vi/_tGnh3EL6S0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mWEU_CNa0SwfzFsEJzDst_ZhJBhw",
+        "artist": "Sara Landry & Alt8",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "W5V2NxAhPF4",
@@ -813,14 +813,6 @@
         "title": "Acid Techno From The Future",
         "thumbnail_url": "https://i.ytimg.com/vi/OHqdhk6WxMM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n0Sn79HMdazlWXKtcoC6filQaeRg",
         "artist": "donit",
-        "video_type": null
-    },
-    {
-        "video_id": "m6KsEW9h5g8",
-        "video_url": "https://www.youtube.com/watch?v=m6KsEW9h5g8",
-        "title": "Berlin Techno Mix - 4K Visuals | Charlotte De Witte | UMEK | Deborah De Luca | Amelie Lens",
-        "thumbnail_url": "https://i.ytimg.com/vi/m6KsEW9h5g8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lN2SpQu5zfcO7mGZkp7lmu6xFH0Q",
-        "artist": "spoderman techno",
         "video_type": null
     },
     {

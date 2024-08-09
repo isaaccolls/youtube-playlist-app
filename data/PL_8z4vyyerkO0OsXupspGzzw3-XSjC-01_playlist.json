@@ -4112,18 +4112,6 @@
         ]
     },
     {
-        "video_id": "1SN3-qR3Bq0",
-        "video_url": "https://www.youtube.com/watch?v=1SN3-qR3Bq0",
-        "title": "This Is What It Feels Like (feat. Trevor Guthrie)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/oCI5CNSOxDDW6UEZs35g3hCBCnTKymPlYrESW1PfNsJuLLWR64j2LjG0I8u-TZxmxjw1hCE5g8I5e8PTpQ=w120-h120-l90-rj",
-        "artist": "Armin van Buuren",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Intense",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
         "video_id": "xNtB03yEbiM",
         "video_url": "https://www.youtube.com/watch?v=xNtB03yEbiM",
         "title": "Waiting For The Night (feat. Fiora)",
@@ -4167,6 +4155,18 @@
         "artist": "Armin van Buuren & The Stickmen Project",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Feel Again, Pt. 1",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "1SN3-qR3Bq0",
+        "video_url": "https://www.youtube.com/watch?v=1SN3-qR3Bq0",
+        "title": "This Is What It Feels Like",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oCI5CNSOxDDW6UEZs35g3hCBCnTKymPlYrESW1PfNsJuLLWR64j2LjG0I8u-TZxmxjw1hCE5g8I5e8PTpQ=w120-h120-l90-rj",
+        "artist": "Armin van Buuren & Trevor Guthrie",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Intense",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -5781,18 +5781,6 @@
         ]
     },
     {
-        "video_id": "J0mJOsdKv8w",
-        "video_url": "https://www.youtube.com/watch?v=J0mJOsdKv8w",
-        "title": "Burnin' And Lootin' (feat. The Roots & Black Thought)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/maRyEk1HPIHHNtwzYMDyfVPrk_S3DA3NrIztJ49YKTdIOka4I836ke9OjG0HjZmrMv5K56ni1dwY5IUq=w120-h120-s-l90-rj",
-        "artist": "Bob Marley",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Chant Down Babylon",
-        "playlists": [
-            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
-        ]
-    },
-    {
         "video_id": "KGGG-QJzlMU",
         "video_url": "https://www.youtube.com/watch?v=KGGG-QJzlMU",
         "title": "Concrete Jungle (feat. Rakim)",
@@ -6342,54 +6330,6 @@
         "album": "Jamming (FISHER Rework)",
         "playlists": [
             "\u26a1-electro"
-        ]
-    },
-    {
-        "video_id": "vMiNMexnhp8",
-        "video_url": "https://www.youtube.com/watch?v=vMiNMexnhp8",
-        "title": "Burnin' And Lootin'",
-        "thumbnail_url": "https://lh3.googleusercontent.com/oD88VMeKfDx7H-TMMthN0JIR-a119htSuNXkHkFiz28XU2upVjMnhPKNozfIYINalO568y4EKNsZN3Yw=w120-h120-l90-rj",
-        "artist": "Bob Marley and the Wailers",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Burnin'",
-        "playlists": [
-            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
-        ]
-    },
-    {
-        "video_id": "UinqWUzx45M",
-        "video_url": "https://www.youtube.com/watch?v=UinqWUzx45M",
-        "title": "Get Up, Stand Up",
-        "thumbnail_url": "https://lh3.googleusercontent.com/oD88VMeKfDx7H-TMMthN0JIR-a119htSuNXkHkFiz28XU2upVjMnhPKNozfIYINalO568y4EKNsZN3Yw=w120-h120-l90-rj",
-        "artist": "Bob Marley and the Wailers",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Burnin'",
-        "playlists": [
-            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
-        ]
-    },
-    {
-        "video_id": "daDdgLKEvrA",
-        "video_url": "https://www.youtube.com/watch?v=daDdgLKEvrA",
-        "title": "Hallelujah Time",
-        "thumbnail_url": "https://lh3.googleusercontent.com/oD88VMeKfDx7H-TMMthN0JIR-a119htSuNXkHkFiz28XU2upVjMnhPKNozfIYINalO568y4EKNsZN3Yw=w120-h120-l90-rj",
-        "artist": "Bob Marley and the Wailers",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Burnin'",
-        "playlists": [
-            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
-        ]
-    },
-    {
-        "video_id": "JTu1LZj4juE",
-        "video_url": "https://www.youtube.com/watch?v=JTu1LZj4juE",
-        "title": "I Shot The Sheriff",
-        "thumbnail_url": "https://lh3.googleusercontent.com/oD88VMeKfDx7H-TMMthN0JIR-a119htSuNXkHkFiz28XU2upVjMnhPKNozfIYINalO568y4EKNsZN3Yw=w120-h120-l90-rj",
-        "artist": "Bob Marley and the Wailers",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Burnin'",
-        "playlists": [
-            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
         ]
     },
     {
@@ -32694,6 +32634,16 @@
         "playlists": [
             "\u26a1-electro"
         ]
+    },
+    {
+        "video_id": "I6dFeCjkVjk",
+        "video_url": "https://www.youtube.com/watch?v=I6dFeCjkVjk",
+        "title": "Get Up, Stand Up",
+        "thumbnail_url": "https://lh3.googleusercontent.com/v4ZA5hynTzCaBG847T_nEkR8ejtvaGOXFdxceUrmGNprJdV70E9sEB0zTIBt7anhi6VPyemhXNeVrlw=w120-h120-l90-rj",
+        "artist": "The Wailers",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Election 2020",
+        "playlists": []
     },
     {
         "video_id": "ricvj03PHSU",
