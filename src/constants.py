@@ -30,6 +30,10 @@ checkInPlaylists = [
     'PL_8z4vyyerkPdORFMt2Byu0YWyVGmdZQ_',
     # 🎷-lisa
     'PL_8z4vyyerkP8n-N0abjSVsC5ruSdQbBO',
+    # 🪇-llaneritas
+    'PL_8z4vyyerkO1ZeGiarPZXKnO84s6I1mx',
+    # 🎅-gaitas
+    'PL_8z4vyyerkN7ana4SWty5McFf3UxMWek',
 ]
 
 playlistsForVideo = [
