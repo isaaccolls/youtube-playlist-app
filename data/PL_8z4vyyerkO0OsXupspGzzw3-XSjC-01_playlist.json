@@ -1945,6 +1945,19 @@
         ]
     },
     {
+        "video_id": "kRf3cmJrPac",
+        "video_url": "https://www.youtube.com/watch?v=kRf3cmJrPac",
+        "title": "El Alcaravan",
+        "thumbnail_url": "https://lh3.googleusercontent.com/pz933XXiN5j1brWmF_Kw0ZNjIMJ6w1Gz2xORXbr2qMGpDi5rSlGwkc3CU7ihB3pgZssXl26QSTgOjv8xLQ=w120-h120-l90-rj",
+        "artist": "Alberto Slezinger & Sim\u00f3n D\u00edaz",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Gracias Sim\u00f3n",
+        "playlists": [
+            "\u26a1-electro",
+            "\ud83e\ude87-llaneritas"
+        ]
+    },
+    {
         "video_id": "AmbN5CSDn8U",
         "video_url": "https://www.youtube.com/watch?v=AmbN5CSDn8U",
         "title": "Kingston Town",
@@ -15093,16 +15106,14 @@
         ]
     },
     {
-        "video_id": "eSr_jCf9KK8",
-        "video_url": "https://www.youtube.com/watch?v=eSr_jCf9KK8",
+        "video_id": "uDJjMmLr_JQ",
+        "video_url": "https://www.youtube.com/watch?v=uDJjMmLr_JQ",
         "title": "Baby again..",
-        "thumbnail_url": "https://lh3.googleusercontent.com/IQJgNMzlgHwfLmVvXDM2vZgTUns3_Z5EVscGGLCcAY2wtxEqVbmRMYhUtxbR6133VO3O_r_q8y_NlmE=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/JwRFWodiiPFOya1f8I0vQPAm3wgJMrR-n6I5F9dx55bn5fTcMqMxWJwvHx-aUFKysLTAbMtOfXShVBvC=w120-h120-l90-rj",
         "artist": "Fred again.., Skrillex & Four Tet",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "USB",
-        "playlists": [
-            "\u26a1-electro"
-        ]
+        "playlists": []
     },
     {
         "video_id": "KUOpbWfeMSQ",
@@ -18275,6 +18286,18 @@
         ]
     },
     {
+        "video_id": "WzdrWxlVGUA",
+        "video_url": "https://www.youtube.com/watch?v=WzdrWxlVGUA",
+        "title": "Red Gold and Green",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MtTveImlTFYW4SG-ilZ4mvjgt-a7EhfJkUCPDHmi4x2MB5eSZe_MOc3sObK8dw20J_-6PZe0SqhFq38=w120-h120-l90-rj",
+        "artist": "Kabaka Pyramid & Damian \"Jr. Gong\" Marley",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Red Gold and Green",
+        "playlists": [
+            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
+        ]
+    },
+    {
         "video_id": "KFseFXebnx8",
         "video_url": "https://www.youtube.com/watch?v=KFseFXebnx8",
         "title": "Intuicion",
@@ -18872,6 +18895,58 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Mil Siluetas",
         "playlists": [
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
+        "video_id": "tRUhdI3nvRU",
+        "video_url": "https://www.youtube.com/watch?v=tRUhdI3nvRU",
+        "title": "La Vida Mejor",
+        "thumbnail_url": "https://lh3.googleusercontent.com/wM6HmhCoVxI0GIAhQUN98uk_0bOVhbe1MjDyBnvdLcyuMIwzfdEsN363jJNd1IFJ55LPnd2gqD1p-PRk=w120-h120-l90-rj",
+        "artist": "La Vida Boheme",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Ser\u00e1",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
+        "video_id": "EI2BqsQzoss",
+        "video_url": "https://www.youtube.com/watch?v=EI2BqsQzoss",
+        "title": "Flamingo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Q92xbY2GWH9oOBfBxF2ZxHoUom7ryGt1dZ0tFnzd-kvACgrmsmhZ81rM-LkICOorKL7lq-mujTBH_SmU=w120-h120-l90-rj",
+        "artist": "La Vida Boh\u00e8me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Nuestra",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
+        "video_id": "1c8o78tzr60",
+        "video_url": "https://www.youtube.com/watch?v=1c8o78tzr60",
+        "title": "I.P.O.S.T.E.L",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Q92xbY2GWH9oOBfBxF2ZxHoUom7ryGt1dZ0tFnzd-kvACgrmsmhZ81rM-LkICOorKL7lq-mujTBH_SmU=w120-h120-l90-rj",
+        "artist": "La Vida Boh\u00e8me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Nuestra",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
+        "video_id": "68LeJ958-s8",
+        "video_url": "https://www.youtube.com/watch?v=68LeJ958-s8",
+        "title": "Radio Capital",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Q92xbY2GWH9oOBfBxF2ZxHoUom7ryGt1dZ0tFnzd-kvACgrmsmhZ81rM-LkICOorKL7lq-mujTBH_SmU=w120-h120-l90-rj",
+        "artist": "La Vida Boh\u00e8me",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Nuestra",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
             "\ud83e\udd18-rock"
         ]
     },
@@ -25458,64 +25533,54 @@
         ]
     },
     {
-        "video_id": "DnOYT-AQVb0",
-        "video_url": "https://www.youtube.com/watch?v=DnOYT-AQVb0",
+        "video_id": "1d7oZNcGCuc",
+        "video_url": "https://www.youtube.com/watch?v=1d7oZNcGCuc",
         "title": "Don't Go Away Mad (Just Go Away)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XMJlJgIXvvTvltpVekdubiM35EwtGW70Fz0G729PkIQ6TOKWtRlokTbzWEOIUSxkJrPbkLzqvfCEXITM=w120-h120-l90-rj",
+        "artist": "M\u00f6tley Cr\u00fce",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Dr. Feelgood",
+        "playlists": []
+    },
+    {
+        "video_id": "D3aaeGgxC8I",
+        "video_url": "https://www.youtube.com/watch?v=D3aaeGgxC8I",
+        "title": "Dr. Feelgood",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XMJlJgIXvvTvltpVekdubiM35EwtGW70Fz0G729PkIQ6TOKWtRlokTbzWEOIUSxkJrPbkLzqvfCEXITM=w120-h120-l90-rj",
+        "artist": "M\u00f6tley Cr\u00fce",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Dr. Feelgood",
+        "playlists": []
+    },
+    {
+        "video_id": "4RG4PBGvG7k",
+        "video_url": "https://www.youtube.com/watch?v=4RG4PBGvG7k",
+        "title": "Kickstart My Heart",
         "thumbnail_url": "https://lh3.googleusercontent.com/WPlCP3ctXlfGDNRes96gel-1tofRM8Fp_OscUePm-pShdqvlzPp55DbNqADcfoOrCt7bna7S49Ank6A1ZA=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Dr. Feelgood",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "playlists": []
     },
     {
-        "video_id": "rPLsxlXWGvQ",
-        "video_url": "https://www.youtube.com/watch?v=rPLsxlXWGvQ",
-        "title": "Dr. Feelgood",
-        "thumbnail_url": "https://lh3.googleusercontent.com/PmZCADzm5YmVansr37-cfTISy0Ox6fd8kVQ1YbmiignCwlH4fdU4U0Te_PjuJU5o05egukJJxSKoyJbr=w120-h120-l90-rj",
-        "artist": "M\u00f6tley Cr\u00fce",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Dr. Feelgood",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
-    },
-    {
-        "video_id": "WqOlHt--fOI",
-        "video_url": "https://www.youtube.com/watch?v=WqOlHt--fOI",
-        "title": "Kickstart My Heart",
-        "thumbnail_url": "https://lh3.googleusercontent.com/PmZCADzm5YmVansr37-cfTISy0Ox6fd8kVQ1YbmiignCwlH4fdU4U0Te_PjuJU5o05egukJJxSKoyJbr=w120-h120-l90-rj",
-        "artist": "M\u00f6tley Cr\u00fce",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Dr. Feelgood",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
-    },
-    {
-        "video_id": "w3lXrrk9eQs",
-        "video_url": "https://www.youtube.com/watch?v=w3lXrrk9eQs",
+        "video_id": "3dh8k2Dnscg",
+        "video_url": "https://www.youtube.com/watch?v=3dh8k2Dnscg",
         "title": "Same Ol' Situation (S.O.S.)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/PmZCADzm5YmVansr37-cfTISy0Ox6fd8kVQ1YbmiignCwlH4fdU4U0Te_PjuJU5o05egukJJxSKoyJbr=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XMJlJgIXvvTvltpVekdubiM35EwtGW70Fz0G729PkIQ6TOKWtRlokTbzWEOIUSxkJrPbkLzqvfCEXITM=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Dr. Feelgood",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "playlists": []
     },
     {
-        "video_id": "X8OQgNjwpxg",
-        "video_url": "https://www.youtube.com/watch?v=X8OQgNjwpxg",
+        "video_id": "DQkv_-Vag98",
+        "video_url": "https://www.youtube.com/watch?v=DQkv_-Vag98",
         "title": "Without You",
-        "thumbnail_url": "https://lh3.googleusercontent.com/PmZCADzm5YmVansr37-cfTISy0Ox6fd8kVQ1YbmiignCwlH4fdU4U0Te_PjuJU5o05egukJJxSKoyJbr=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XMJlJgIXvvTvltpVekdubiM35EwtGW70Fz0G729PkIQ6TOKWtRlokTbzWEOIUSxkJrPbkLzqvfCEXITM=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Dr. Feelgood",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "playlists": []
     },
     {
         "video_id": "XZU5XyqnuyM",
@@ -25572,7 +25637,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/LLZ0m_RYrtdSijUscA9-5yXc3ROb91d7T6lEvQ1wM3vO9jmM6Wdqs-uVlXr7jXclwBn8MbamFSyKiF33=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Shout At The Devil (40th Anniversary)",
+        "album": "Shout At The Devil (40th Anniversary; Deluxe Version)",
         "playlists": [
             "\ud83e\udd18-rock"
         ]
@@ -25584,7 +25649,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/LLZ0m_RYrtdSijUscA9-5yXc3ROb91d7T6lEvQ1wM3vO9jmM6Wdqs-uVlXr7jXclwBn8MbamFSyKiF33=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Shout At The Devil (40th Anniversary)",
+        "album": "Shout At The Devil (40th Anniversary; Deluxe Version)",
         "playlists": [
             "\ud83e\udd18-rock"
         ]
@@ -25608,19 +25673,7 @@
         "thumbnail_url": "https://lh3.googleusercontent.com/OjOBfduB_oKBsSSN0YwkG68iZ-1Pvd34YgkP15n2A9ySs8di4-30EmM0qOzBuM5ErVyoBG207uMxE9Hw=w120-h120-l90-rj",
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Theatre Of Pain",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
-    },
-    {
-        "video_id": "KkbGgmREHuk",
-        "video_url": "https://www.youtube.com/watch?v=KkbGgmREHuk",
-        "title": "Live Wire",
-        "thumbnail_url": "https://lh3.googleusercontent.com/7-LncTw8mn5_l836c0OJHeon8iJ-I9lfZnDRXiTYUvhyFC11-nQihWsyBLv_7vYdm36rnkqKX3tAJFrz=w120-h120-l90-rj",
-        "artist": "M\u00f6tley Cr\u00fce",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Too Fast For Love",
+        "album": "Theatre of Pain (Deluxe Version)",
         "playlists": [
             "\ud83e\udd18-rock"
         ]
@@ -25633,6 +25686,18 @@
         "artist": "M\u00f6tley Cr\u00fce",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Too Fast For Love",
+        "playlists": [
+            "\ud83e\udd18-rock"
+        ]
+    },
+    {
+        "video_id": "KkbGgmREHuk",
+        "video_url": "https://www.youtube.com/watch?v=KkbGgmREHuk",
+        "title": "Live Wire",
+        "thumbnail_url": "https://lh3.googleusercontent.com/7-LncTw8mn5_l836c0OJHeon8iJ-I9lfZnDRXiTYUvhyFC11-nQihWsyBLv_7vYdm36rnkqKX3tAJFrz=w120-h120-l90-rj",
+        "artist": "M\u00f6tley Cr\u00fce",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Too Fast For Love (Deluxe Version)",
         "playlists": [
             "\ud83e\udd18-rock"
         ]

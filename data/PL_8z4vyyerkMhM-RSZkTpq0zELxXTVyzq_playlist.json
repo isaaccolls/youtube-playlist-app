@@ -32,6 +32,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "_tGnh3EL6S0",
+        "video_url": "https://www.youtube.com/watch?v=_tGnh3EL6S0",
+        "title": "Sara Landry | EDC Las Vegas, 2024 (circuitGROUNDS)",
+        "thumbnail_url": "https://i.ytimg.com/vi/_tGnh3EL6S0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mWEU_CNa0SwfzFsEJzDst_ZhJBhw",
+        "artist": "Alt8 & Sara Landry",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "g32YD5YQCkg",
         "video_url": "https://www.youtube.com/watch?v=g32YD5YQCkg",
         "title": "Armin van Buuren x UNTOLD Dubai Performance",
@@ -496,14 +504,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
-        "video_id": "_tGnh3EL6S0",
-        "video_url": "https://www.youtube.com/watch?v=_tGnh3EL6S0",
-        "title": "Sara Landry | EDC Las Vegas, 2024 (circuitGROUNDS)",
-        "thumbnail_url": "https://i.ytimg.com/vi/_tGnh3EL6S0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mWEU_CNa0SwfzFsEJzDst_ZhJBhw",
-        "artist": "Sara Landry & Alt8",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
-    },
-    {
         "video_id": "W5V2NxAhPF4",
         "video_url": "https://www.youtube.com/watch?v=W5V2NxAhPF4",
         "title": "Bob Marley MIX Deep Reggae House Session",
@@ -717,7 +717,7 @@
         "title": "REZZMAU5 WE1 | Tomorrowland 2024",
         "thumbnail_url": "https://i.ytimg.com/vi/IqkUVGk_z5I/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lgrfXTygkCYteeV5feUdZ8--zmYw",
         "artist": "Tomorrowland",
-        "video_type": null
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "gUIRY85DVRM",
