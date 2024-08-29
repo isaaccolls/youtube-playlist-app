@@ -32,6 +32,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "_KWuiCtWyNA",
+        "video_url": "https://www.youtube.com/watch?v=_KWuiCtWyNA",
+        "title": "Weekend",
+        "thumbnail_url": "https://i.ytimg.com/vi/_KWuiCtWyNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kdVhZZxcXEWKe3M7JmTEgEruHOwg",
+        "artist": "Alesso",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "_tGnh3EL6S0",
         "video_url": "https://www.youtube.com/watch?v=_tGnh3EL6S0",
         "title": "Sara Landry | EDC Las Vegas, 2024 (circuitGROUNDS)",
