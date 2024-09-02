@@ -192,6 +192,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "WFBDsHMMN_w",
+        "video_url": "https://www.youtube.com/watch?v=WFBDsHMMN_w",
+        "title": "Charlotte de Witte at AMF Festival 2023",
+        "thumbnail_url": "https://i.ytimg.com/vi/WFBDsHMMN_w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nhAaxHMqSJ9WPkeyReyyVzdujoMA",
+        "artist": "Charlotte de Witte",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "IDp8e3rDaQA",
         "video_url": "https://www.youtube.com/watch?v=IDp8e3rDaQA",
         "title": "Charlotte de Witte at Ultra 2023 (Main Stage)",
@@ -317,6 +325,14 @@
         "title": "KREAM Presents LIQUID : LAB Vol. 10 (Keinemusik/Eric Prydz/Gordo) [Loen Skylift]",
         "thumbnail_url": "https://i.ytimg.com/vi/lVbwXSsJKBM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lMlERUYW-5yzYsvRWasyON9HZW7A",
         "artist": "KREAM",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
+        "video_id": "z16Yq4X87Hs",
+        "video_url": "https://www.youtube.com/watch?v=z16Yq4X87Hs",
+        "title": "Klangkuenstler @ Outworld Secret Rave, Berlin (live set)",
+        "thumbnail_url": "https://i.ytimg.com/vi/z16Yq4X87Hs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lig-0nfV4bP0W7n-HuCR-07kMNXQ",
+        "artist": "KlangKuenstler",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
@@ -762,10 +778,26 @@
     {
         "video_id": "8wSU-ABAfv8",
         "video_url": "https://www.youtube.com/watch?v=8wSU-ABAfv8",
-        "title": "Vini Vici @ Tomorrowland Winter 2024  | Official Video",
+        "title": "Vini Vici @ Tomorrowland Winter 2024 | Official Video",
         "thumbnail_url": "https://i.ytimg.com/vi/8wSU-ABAfv8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lFN-W8Rag_KE644jjSsw17PNHMTQ",
         "artist": "Vini Vici",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
+        "video_id": "dCqflvOkbX8",
+        "video_url": "https://www.youtube.com/watch?v=dCqflvOkbX8",
+        "title": "ANYMA at AFTER LIFE 2024 BEST | FULL SET MIX | ANYMA, RUFUS DU SOL, CASSIAN, TALE OF US | CONCEPTUAL",
+        "thumbnail_url": "https://i.ytimg.com/vi/dCqflvOkbX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l_R5wsyc3oZjL4Yo5_jGmkDLssHg",
+        "artist": "Wind Cosmics ",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "sNrVpwri5lM",
+        "video_url": "https://www.youtube.com/watch?v=sNrVpwri5lM",
+        "title": "ANYMA, GENESYS 2024 (FULL SET MIX CONCEPTUAL) After Life - Miss Monique, Argy & Artbat | PREMIERE",
+        "thumbnail_url": "https://i.ytimg.com/vi/sNrVpwri5lM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nXPhqjcCYvwHS4fLkoDBCxmRhseQ",
+        "artist": "Wind Cosmics ",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "9kpz-EplUdQ",
@@ -798,6 +830,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/zVmYhm1yVtw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3loowdOfRIPOlGCA0SAUxDoPvxICw",
         "artist": "YOLO OFFICIAL ",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "k3mFca9fVnk",
+        "video_url": "https://www.youtube.com/watch?v=k3mFca9fVnk",
+        "title": "BEAUZ - PSY POP / HARD TECHNO DJ SET 2024 (feat. Darla Jade)",
+        "thumbnail_url": "https://i.ytimg.com/vi/k3mFca9fVnk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nBz9KV36AMi2SBfHsWIWsptpu3dg",
+        "artist": "Yola Recoba & BEAUZ",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "HAx2kv-vEV0",

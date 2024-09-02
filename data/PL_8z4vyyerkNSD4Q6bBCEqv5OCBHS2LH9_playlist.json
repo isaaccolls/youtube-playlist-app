@@ -80,6 +80,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "dJUtaEe24NM",
+        "video_url": "https://www.youtube.com/watch?v=dJUtaEe24NM",
+        "title": "La Vida Boheme, Live In Concert: NPR Music at SXSW 2012",
+        "thumbnail_url": "https://i.ytimg.com/vi/dJUtaEe24NM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1jDYv3VUX7-MjYdYRY1LBacKwTA",
+        "artist": "NPR Music",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "atao1JmNlsw",
         "video_url": "https://www.youtube.com/watch?v=atao1JmNlsw",
         "title": "Pierce The Veil Live at Reading Full 2015 Vic Smashes Guitar",
