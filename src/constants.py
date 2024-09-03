@@ -22,7 +22,7 @@ checkInPlaylists = [
     'PL_8z4vyyerkOU9rlgZheQg22yAPu5qHHp',
     # 🤘-rock
     'PL_8z4vyyerkMh5swg0FKbTFQRujtlhmr-',
-    # 🤷-whatever
+    # 🥷-cumbia
     'PL_8z4vyyerkPHIqxrDUgLA3_TQbVdpzYJ',
     # 🍦-15
     'PL_8z4vyyerkOBt3Lt5iL2VWx04_19yDiq',

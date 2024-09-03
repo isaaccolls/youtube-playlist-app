@@ -2122,7 +2122,7 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "El Campe\u00f3n",
         "playlists": [
-            "\ud83e\udd37-whatever"
+            "\ud83e\udd77-cumbia"
         ]
     },
     {
@@ -18849,6 +18849,18 @@
         ]
     },
     {
+        "video_id": "MBLATO2iTXE",
+        "video_url": "https://www.youtube.com/watch?v=MBLATO2iTXE",
+        "title": "Soy Feo Pero Rico",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ii4CnJyWoIRMK1bdcKDBfnk0llztFVhBZOuNlCwiSIcEp9EdLhJZUmRO44j4yXyOh1FvPwqZylcBOjwSGw=w120-h120-l90-rj",
+        "artist": "La Combo Tortuga",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "De Amor y Vacil\u00f3n",
+        "playlists": [
+            "\ud83e\udd77-cumbia"
+        ]
+    },
+    {
         "video_id": "IhTUHKHyF9U",
         "video_url": "https://www.youtube.com/watch?v=IhTUHKHyF9U",
         "title": "Guitarrero (Radio Mix)",
@@ -29305,6 +29317,18 @@
         ]
     },
     {
+        "video_id": "2NeZ8Z1ubj4",
+        "video_url": "https://www.youtube.com/watch?v=2NeZ8Z1ubj4",
+        "title": "Una Cerveza (Versi\u00f3n 2018)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/dpSVhxJaZdc2a-4Sldpzv6pMh1e1pTsP9xyNxoVmIZi7sNTSMGYlaKU-qM1r6LaWo4iqrXbpK6dODZWzQg=w120-h120-l90-rj",
+        "artist": "R\u00e1faga",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Una Cerveza (Versi\u00f3n 2018)",
+        "playlists": [
+            "\ud83e\udd77-cumbia"
+        ]
+    },
+    {
         "video_id": "ndeVIZQMn9U",
         "video_url": "https://www.youtube.com/watch?v=ndeVIZQMn9U",
         "title": "Blondapetit (feat. Gordo Master)",
@@ -30231,6 +30255,18 @@
         "album": "Vinilo Series: Caballo Viejo / Golpe y Pasaje",
         "playlists": [
             "\ud83e\udecf-llaneritas"
+        ]
+    },
+    {
+        "video_id": "_Q-BFVseQQc",
+        "video_url": "https://www.youtube.com/watch?v=_Q-BFVseQQc",
+        "title": "Te Enojai por Todo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/0a8iZytkZA8YNYvSGcOzMeE66xWaloBqoQK2yC_L1h0PNsy7o7M_J1qXr54SVYixMIFEDqE6qwCxGH8=w120-h120-l90-rj",
+        "artist": "Sinergia",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "22 Exitos Pajarones",
+        "playlists": [
+            "\ud83e\udd18-rock"
         ]
     },
     {
@@ -31541,6 +31577,18 @@
         "album": "Asking (Ti\u00ebsto Remix)",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "WGGYmDGoFWE",
+        "video_url": "https://www.youtube.com/watch?v=WGGYmDGoFWE",
+        "title": "Supermandoneao",
+        "thumbnail_url": "https://lh3.googleusercontent.com/L9WWKuR3g6slsfVb5L5ebq63c1jpPmhhfIfB4JKuJZ36iRl0ZYu2-4dQ69CtQ4D_wUmkIZJ0IfRx0xk=w120-h120-l90-rj",
+        "artist": "Sonora 5 Estrellas",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Cumbia E' Plaza",
+        "playlists": [
+            "\ud83e\udd77-cumbia"
         ]
     },
     {
@@ -35000,7 +35048,7 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Hermanos Poggi",
         "playlists": [
-            "\ud83e\udd37-whatever"
+            "\ud83c\udf6d-lolliPop"
         ]
     },
     {
