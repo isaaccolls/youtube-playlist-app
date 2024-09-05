@@ -47,4 +47,6 @@ playlistsForVideo = [
     'PL_8z4vyyerkOoUnuG_8tPiJGcqKSDeko9',
     # 📺🤘-videoRock
     'PL_8z4vyyerkNSD4Q6bBCEqv5OCBHS2LH9',
+    # 📺🔫-videoHiphop
+    'PL_8z4vyyerkNuVi_SfPch16lyqJFl6xn_'
 ]
