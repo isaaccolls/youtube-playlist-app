@@ -158,5 +158,13 @@
         "thumbnail_url": "https://i.ytimg.com/vi/Ul7sWoGaKIs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mAiAa8z-i-Khe2sMXml5B5z3yXOA",
         "artist": "sgtpaminta",
         "video_type": null
+    },
+    {
+        "video_id": "I2V7QZJp-Oo",
+        "video_url": "https://www.youtube.com/watch?v=I2V7QZJp-Oo",
+        "title": "Bring Me The Horizon - Live From Leeds 02/04/2013 (Full Set)",
+        "thumbnail_url": "https://i.ytimg.com/vi/I2V7QZJp-Oo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nMw5e7zAKLerMSwdU4MaiBp0HEiA",
+        "artist": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0411\u043e\u043b\u044c\u0448\u0430\u043a\u043e\u0432",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     }
 ]
