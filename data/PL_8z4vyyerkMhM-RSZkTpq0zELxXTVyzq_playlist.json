@@ -624,6 +624,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "rk6GA6WkrOE",
+        "video_url": "https://www.youtube.com/watch?v=rk6GA6WkrOE",
+        "title": "Carl Cox  - Live at Lost Paradise [2023] \u00b0\u00b04K\u00b0\u00b0",
+        "thumbnail_url": "https://i.ytimg.com/vi/rk6GA6WkrOE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nEv6ZTZw2WqxZNBgh8XvwvdFB5kQ",
+        "artist": "The Millebean_Official",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "jnslLAOKdI0",
         "video_url": "https://www.youtube.com/watch?v=jnslLAOKdI0",
         "title": "TECHNO MIX 2023 CHARLOTTE DE WITTE DEBORAH DE LUCA REMIXES OF POPULAR SONGS OCTOBER 31th 2023",
@@ -773,7 +781,7 @@
         "title": "Tale Of Us WE1 | Tomorrowland 2024",
         "thumbnail_url": "https://i.ytimg.com/vi/gUIRY85DVRM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k181UdZB0i1WkQ1ReBC7G5Lhm4Nw",
         "artist": "Tomorrowland",
-        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+        "video_type": null
     },
     {
         "video_id": "BlfXyFt5Kk4",

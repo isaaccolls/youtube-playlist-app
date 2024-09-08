@@ -6012,7 +6012,7 @@
     {
         "video_id": "JDcMI2D2Uac",
         "video_url": "https://www.youtube.com/watch?v=JDcMI2D2Uac",
-        "title": "Could You Be Loved (Errol Brown and Alex Sadkin Remix)",
+        "title": "Could You Be Loved (Errol Brown and Alex Sadkin Remix / Bonus Track)",
         "thumbnail_url": "https://lh3.googleusercontent.com/cI1uks8vDlKA5yF1KIPNIzOjwyZAbJFFxSN_WuvTCxjPcIu6nll8DuZ-KMqCA97cOz5t96T38AVDDcI=w120-h120-l90-rj",
         "artist": "Bob Marley",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
@@ -6132,7 +6132,7 @@
     {
         "video_id": "ZIdoujhAvj8",
         "video_url": "https://www.youtube.com/watch?v=ZIdoujhAvj8",
-        "title": "Buffalo Soldier (12\" Mix)",
+        "title": "Buffalo Soldier (12\" Mix / Bonus Track)",
         "thumbnail_url": "https://lh3.googleusercontent.com/coupHfd3C3ENZseKv0_ecUaa1GoE7ACa5w1BV4PvqfNrhHQKpxlVqPGeDVzAvhWCrEm10LKZ9sMO_h57=w120-h120-l90-rj",
         "artist": "Bob Marley & The Wailers",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
@@ -13087,6 +13087,18 @@
         ]
     },
     {
+        "video_id": "frDNtqMLAaI",
+        "video_url": "https://www.youtube.com/watch?v=frDNtqMLAaI",
+        "title": "Me Lo Merezco",
+        "thumbnail_url": "https://lh3.googleusercontent.com/EG-JFQW3-a8iCe-u5QaPnAQB1iv2sz3irDBlTpME8kMGZh4DP5ib4WHlRgVd5O90djdKJc7r_UR4C64=w120-h120-l90-rj",
+        "artist": "ELENA ROSE",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Me Lo Merezco",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
         "video_id": "-KKQQW_HT5Q",
         "video_url": "https://www.youtube.com/watch?v=-KKQQW_HT5Q",
         "title": "CARACAS EN EL 2000",
@@ -18361,6 +18373,18 @@
         ]
     },
     {
+        "video_id": "lzekTUaodFg",
+        "video_url": "https://www.youtube.com/watch?v=lzekTUaodFg",
+        "title": "UWAIE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/MBFfcA5FPQuAX8x4ae480bcUWS1uKiFk1GmhK27IR24BWavdlNlynChCbRlW8jwQGytsgneD0njb2zVpMA=w120-h120-l90-rj",
+        "artist": "Kapo",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "UWAIE",
+        "playlists": [
+            "\ud83d\udc36-htv"
+        ]
+    },
+    {
         "video_id": "tFqTGzaoRsM",
         "video_url": "https://www.youtube.com/watch?v=tFqTGzaoRsM",
         "title": "Softly (Ti\u00ebsto Remix)",
@@ -20701,18 +20725,6 @@
         ]
     },
     {
-        "video_id": "UTwjOg6K_hA",
-        "video_url": "https://www.youtube.com/watch?v=UTwjOg6K_hA",
-        "title": "The Feeling",
-        "thumbnail_url": "https://lh3.googleusercontent.com/Ab35DpWwni7Q5fwgpWxblv4U_IzmBfK8bFdmNaYYgkNPJcFOpxIKgV79gIt4PLbCj8Vw_Kbyv0x4Xbs=w120-h120-l90-rj",
-        "artist": "Lost Frequencies",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "The Feeling",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
         "video_id": "w5ez7nBEVek",
         "video_url": "https://www.youtube.com/watch?v=w5ez7nBEVek",
         "title": "Head Down",
@@ -20720,6 +20732,18 @@
         "artist": "Lost Frequencies & Bastille",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Head Down",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "UTwjOg6K_hA",
+        "video_url": "https://www.youtube.com/watch?v=UTwjOg6K_hA",
+        "title": "The Feeling",
+        "thumbnail_url": "https://lh3.googleusercontent.com/Ab35DpWwni7Q5fwgpWxblv4U_IzmBfK8bFdmNaYYgkNPJcFOpxIKgV79gIt4PLbCj8Vw_Kbyv0x4Xbs=w120-h120-l90-rj",
+        "artist": "Lost Frequencies & Bonn",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "The Feeling",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -21681,6 +21705,18 @@
         "artist": "Martin Garrix",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Animals",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "_BAr64ZPsoE",
+        "video_url": "https://www.youtube.com/watch?v=_BAr64ZPsoE",
+        "title": "Don't Look Down (feat. Usher)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/1RRoMWMXfbaDq3UdlPpSIfweeMHMhQkRLIjhe-l0q4VVMhmL8bRUrhOwCJwo21sOVcgIcmlHYzl4pwuvWA=w120-h120-l90-rj",
+        "artist": "Martin Garrix",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Don't Look Down",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -23543,6 +23579,19 @@
         "album": "Evolution Theory (Deluxe Edition)",
         "playlists": [
             "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "HeWJX2-esPE",
+        "video_url": "https://www.youtube.com/watch?v=HeWJX2-esPE",
+        "title": "Bailar Contigo",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aOkKCV18wrynBxGj2MYG5OQnFd_j4tDYHw3uTrlv0jv4jRiodPqKvB0OpkcXJHgmvMcqQJqzSDcYQkFuHQ=w120-h120-l90-rj",
+        "artist": "Monsieur Perin\u00e9",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Encanto Tropical",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop",
+            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
         ]
     },
     {
@@ -26282,28 +26331,24 @@
         ]
     },
     {
-        "video_id": "UtNsaNlBNx4",
-        "video_url": "https://www.youtube.com/watch?v=UtNsaNlBNx4",
+        "video_id": "4FmcqMSk-xA",
+        "video_url": "https://www.youtube.com/watch?v=4FmcqMSk-xA",
         "title": "All Around the World",
-        "thumbnail_url": "https://lh3.googleusercontent.com/n7GTAZj0nfaGlJkE9OCYZnC_lmojUTDDXB2Z40vUGUPC8A6MmsupvFZM12950Q5ftgI3n6DR6mmQbxM=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aHW93p0k-mxcZZmI_OruwzL_nqiNriHOiwhmS30a_Wlq1qd97Y3yb6pgyOCvO26mzFrdgUHL3zYz6EUaeA=w120-h120-l90-rj",
         "artist": "Oasis",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Be Here Now",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "album": "Be Here Now ()",
+        "playlists": []
     },
     {
-        "video_id": "sFsfIUTW2pA",
-        "video_url": "https://www.youtube.com/watch?v=sFsfIUTW2pA",
+        "video_id": "A0qODt-_eS4",
+        "video_url": "https://www.youtube.com/watch?v=A0qODt-_eS4",
         "title": "Don't Go Away",
-        "thumbnail_url": "https://lh3.googleusercontent.com/n7GTAZj0nfaGlJkE9OCYZnC_lmojUTDDXB2Z40vUGUPC8A6MmsupvFZM12950Q5ftgI3n6DR6mmQbxM=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/aHW93p0k-mxcZZmI_OruwzL_nqiNriHOiwhmS30a_Wlq1qd97Y3yb6pgyOCvO26mzFrdgUHL3zYz6EUaeA=w120-h120-l90-rj",
         "artist": "Oasis",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Be Here Now",
-        "playlists": [
-            "\ud83e\udd18-rock"
-        ]
+        "album": "Be Here Now ()",
+        "playlists": []
     },
     {
         "video_id": "JPdhUQOHyes",
@@ -34517,6 +34562,18 @@
         ]
     },
     {
+        "video_id": "DRLDNhdKQuE",
+        "video_url": "https://www.youtube.com/watch?v=DRLDNhdKQuE",
+        "title": "VHS RAVE",
+        "thumbnail_url": "https://lh3.googleusercontent.com/4v0EXapsxtsCAPFLKPitic2hNqar-sym-7RuUdMCTkWHytJ6uGBSgBBC21M3OSTTfEFsy495TD_Al2MU=w120-h120-l90-rj",
+        "artist": "Ti\u00ebsto & Swimming Paul",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "VHS RAVE",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "TG2AtaWuikA",
         "video_url": "https://www.youtube.com/watch?v=TG2AtaWuikA",
         "title": "10:35",
@@ -35064,6 +35121,18 @@
         "artist": "Tujamo & Norii",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "4x4 BANGERS",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "kL_jNmkdxc8",
+        "video_url": "https://www.youtube.com/watch?v=kL_jNmkdxc8",
+        "title": "Looking At You (feat. Sam Vesso)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/LeQeqt2jTJwgLOGowZgbtEVrm4HQ2SbEtM2Hd2N0H3E11BmJOGa9cIE9GX1tIru4e7-4NiOWRvLA4mMb=w120-h120-l90-rj",
+        "artist": "Two Friends",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Looking At You (feat. Sam Vesso)",
         "playlists": [
             "\u26a1-electro"
         ]
