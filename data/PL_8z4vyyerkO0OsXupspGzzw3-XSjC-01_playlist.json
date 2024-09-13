@@ -4089,6 +4089,30 @@
         ]
     },
     {
+        "video_id": "OPvx_3uR93U",
+        "video_url": "https://www.youtube.com/watch?v=OPvx_3uR93U",
+        "title": "Blah Blah Blah",
+        "thumbnail_url": "https://i.ytimg.com/vi/OPvx_3uR93U/hq720.jpg",
+        "artist": "Armin van Buuren",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "13sxGWY7SwQ",
+        "video_url": "https://www.youtube.com/watch?v=13sxGWY7SwQ",
+        "title": "Turn It Up",
+        "thumbnail_url": "https://i.ytimg.com/vi/13sxGWY7SwQ/hq720.jpg",
+        "artist": "Armin van Buuren",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "COIvdZPzKac",
         "video_url": "https://www.youtube.com/watch?v=COIvdZPzKac",
         "title": "Computers Take Over The World (ASOT 1119) (Maddix Remix)",
@@ -4101,34 +4125,10 @@
         ]
     },
     {
-        "video_id": "OPvx_3uR93U",
-        "video_url": "https://www.youtube.com/watch?v=OPvx_3uR93U",
-        "title": "Blah Blah Blah",
-        "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
-        "artist": "Armin van Buuren",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Balance",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
-        "video_id": "13sxGWY7SwQ",
-        "video_url": "https://www.youtube.com/watch?v=13sxGWY7SwQ",
-        "title": "Turn It Up",
-        "thumbnail_url": "https://lh3.googleusercontent.com/F6S0KVDaitaDKDAInARGaJpa0Amoa_CFxRBedkDPASCwXLZL26WTwvcAlAePp5peJGInd-8GYNShRog=w120-h120-l90-rj",
-        "artist": "Armin van Buuren",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Balance",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
         "video_id": "5OevhFuc2fA",
         "video_url": "https://www.youtube.com/watch?v=5OevhFuc2fA",
         "title": "Blah Blah Blah (Extended Mix)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/Estfg2FHrJQTgwiQI6Fbrc7-w8A9vlhKb6ceiInvRjyEL9X02pg9kYBM-sF5-TWmu9mD9CaIEKZqTGw=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/wF9QydemsjF-nhFAeDZy_LChv9U3CRyBuK_m7r8nzogM4ft46IbgR8-q3PrUrsbxBxcpoq8z8aHXLrVF=w120-h120-l90-rj",
         "artist": "Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Balance (Extended Versions)",
@@ -9937,16 +9937,14 @@
         ]
     },
     {
-        "video_id": "m-xQDClRZSk",
-        "video_url": "https://www.youtube.com/watch?v=m-xQDClRZSk",
+        "video_id": "xRVCk8N9wLA",
+        "video_url": "https://www.youtube.com/watch?v=xRVCk8N9wLA",
         "title": "Desaf\u00edo XX",
-        "thumbnail_url": "https://lh3.googleusercontent.com/zO3T5CjtnvFb-IXbQt9FrcOSfG3XAqrIJFpesGMAj1CBQq_-OYRdIs-ckJE5y7DHICFAc7hRB3qgtpy5=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/oofkEl5gmJRm75EzNFwEhfxgv1QC1fxeCdO3OovILIFeWL1T4Cl5fQAhQMg52hkynRlyjI8OJAmua_CO=w120-h120-l90-rj",
         "artist": "Caracol Televisi\u00f3n",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Desaf\u00edo XX",
-        "playlists": [
-            "\ud83c\udf6d-lolliPop"
-        ]
+        "playlists": []
     },
     {
         "video_id": "GEZgpjgguzQ",
@@ -19104,16 +19102,6 @@
         "playlists": []
     },
     {
-        "video_id": "jR3ao0XyVjg",
-        "video_url": "https://www.youtube.com/watch?v=jR3ao0XyVjg",
-        "title": "Omerta",
-        "thumbnail_url": "https://lh3.googleusercontent.com/sHfo2Y_0oaDVMglvCxr6IFr1HL8ljy4DxQPVvRGBc3yObrxBwinmiVabpnOHgfawuPKDy31_eJPZmG2-=w120-h120-l90-rj",
-        "artist": "Lamb of God",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Ashes of the Wake (20th Anniversary Edition)",
-        "playlists": []
-    },
-    {
         "video_id": "mcEzNXe2lTg",
         "video_url": "https://www.youtube.com/watch?v=mcEzNXe2lTg",
         "title": "The Faded Line",
@@ -19121,6 +19109,16 @@
         "artist": "Lamb of God",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Ashes of the Wake (20th Anniversary Edition)",
+        "playlists": []
+    },
+    {
+        "video_id": "l6upgzTfAro",
+        "video_url": "https://www.youtube.com/watch?v=l6upgzTfAro",
+        "title": "Omerta",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mvq30nwjZsCt8Ww1puIBbyS3Mm7diHcQJRKR0QvOW2QxN1gKqwr5XZoXzDnrRkkvH-FJEhF0cvF_gwc=w120-h120-l90-rj",
+        "artist": "Lamb of God",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Music from the film As the Palaces Burn",
         "playlists": []
     },
     {
@@ -20901,7 +20899,8 @@
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Don't Kill the Magic",
         "playlists": [
-            "\ud83c\udf6d-lolliPop"
+            "\ud83c\udf6d-lolliPop",
+            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
         ]
     },
     {
