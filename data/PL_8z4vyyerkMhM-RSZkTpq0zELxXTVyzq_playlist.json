@@ -248,11 +248,27 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "KO7cYLLFbLw",
+        "video_url": "https://www.youtube.com/watch?v=KO7cYLLFbLw",
+        "title": "TI\u00cbSTO - Live @ Ultra Music Festival 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/KO7cYLLFbLw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n5ENtM0drPOVxKZG-Hpe_MU9s3kQ",
+        "artist": "Da Hool & Ti\u00ebsto",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "Gx7Yf4E0dZE",
         "video_url": "https://www.youtube.com/watch?v=Gx7Yf4E0dZE",
         "title": "Summer Mix 2023 #5  | Best Of Deep & Tech House Music Chillout Mix \ud83d\udd25",
         "thumbnail_url": "https://i.ytimg.com/vi/Gx7Yf4E0dZE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kDR0tMcS8RnppV_lceVBVVxQLe5g",
         "artist": "Darley Jefferson",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "TNCwu_O8VHs",
+        "video_url": "https://www.youtube.com/watch?v=TNCwu_O8VHs",
+        "title": "Anyma - R\u00dcF\u00dcS DU SOL - David Guetta - John Summit - PARISI \u2022 Shiver (Melodic Techno Dj Mix 2024)",
+        "thumbnail_url": "https://i.ytimg.com/vi/TNCwu_O8VHs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mctgkiVJtKbFSjTs5Vnk7xoECZyw",
+        "artist": "David Di Sabato",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
@@ -294,6 +310,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/lLZBpTHxxpw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kbt34R_7pOCFwlyk2kp6KZH7U1Eg",
         "artist": "Frank Spector & Nifra",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
+        "video_id": "jzX1Z6O1W5U",
+        "video_url": "https://www.youtube.com/watch?v=jzX1Z6O1W5U",
+        "title": "GORDO @ The Brooklyn Mirage (New York, NY)",
+        "thumbnail_url": "https://i.ytimg.com/vi/jzX1Z6O1W5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kZYW6bzVt_wj0LGOSkLYBVwwTkZQ",
+        "artist": "GORDO",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "taSEw9tExgI",
@@ -382,14 +406,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/BCBQY66sHZ8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3m7qf79cnUgx3tFDQ0TLXwIYW8ZkQ",
         "artist": "MakeTiestoGreatAgain",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
-    },
-    {
-        "video_id": "jzX1Z6O1W5U",
-        "video_url": "https://www.youtube.com/watch?v=jzX1Z6O1W5U",
-        "title": "GORDO @ The Brooklyn Mirage (New York, NY)",
-        "thumbnail_url": "https://i.ytimg.com/vi/jzX1Z6O1W5U/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kZYW6bzVt_wj0LGOSkLYBVwwTkZQ",
-        "artist": "Maluma &  Gordo",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "MykrqqKJUJ4",
@@ -672,14 +688,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_OMV"
     },
     {
-        "video_id": "KO7cYLLFbLw",
-        "video_url": "https://www.youtube.com/watch?v=KO7cYLLFbLw",
-        "title": "TI\u00cbSTO - Live @ Ultra Music Festival 2024",
-        "thumbnail_url": "https://i.ytimg.com/vi/KO7cYLLFbLw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n5ENtM0drPOVxKZG-Hpe_MU9s3kQ",
-        "artist": "Ti\u00ebsto",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
-    },
-    {
         "video_id": "zzyg0m0dn70",
         "video_url": "https://www.youtube.com/watch?v=zzyg0m0dn70",
         "title": "TI\u00cbSTO @ KAPPA FUTURFESTIVAL 2024",
@@ -826,7 +834,7 @@
     {
         "video_id": "dCqflvOkbX8",
         "video_url": "https://www.youtube.com/watch?v=dCqflvOkbX8",
-        "title": "ANYMA at AFTER LIFE 2024 BEST | FULL SET MIX | ANYMA, RUFUS DU SOL, CASSIAN, TALE OF US | CONCEPTUAL",
+        "title": "ANYMA, GENESYS 2024 (FULL SET MIX CONCEPTUAL) After Life - Miss Monique & RUFUS DU SOL | PREMIERE",
         "thumbnail_url": "https://i.ytimg.com/vi/dCqflvOkbX8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l_R5wsyc3oZjL4Yo5_jGmkDLssHg",
         "artist": "Wind Cosmics ",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
