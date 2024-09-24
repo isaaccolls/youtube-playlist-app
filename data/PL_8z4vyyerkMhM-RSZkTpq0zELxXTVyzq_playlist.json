@@ -1,5 +1,13 @@
 [
     {
+        "video_id": "lL33GmldDcs",
+        "video_url": "https://www.youtube.com/watch?v=lL33GmldDcs",
+        "title": "Best of Anyma LIVE Afterlife 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/lL33GmldDcs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kAWdwvWdadNcCtd_wPazQdTI0kxA",
+        "artist": "A2A Arena",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "Dn5XQ3Ig4pg",
         "video_url": "https://www.youtube.com/watch?v=Dn5XQ3Ig4pg",
         "title": "Afterlife Mix 2023 | Tale Of Us",
@@ -34,7 +42,7 @@
     {
         "video_id": "_KWuiCtWyNA",
         "video_url": "https://www.youtube.com/watch?v=_KWuiCtWyNA",
-        "title": "Weekend",
+        "title": "Alesso | Tomorrowland 2024 (Freedom Stage Weekend 2) [Full DJ Live Set] (feat. Tove Lo)",
         "thumbnail_url": "https://i.ytimg.com/vi/_KWuiCtWyNA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kdVhZZxcXEWKe3M7JmTEgEruHOwg",
         "artist": "Alesso",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
@@ -320,6 +328,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "c9HdM22bpFI",
+        "video_url": "https://www.youtube.com/watch?v=c9HdM22bpFI",
+        "title": "Mix para no dormir (en d\u00edas) - Hard, Happy Techno",
+        "thumbnail_url": "https://i.ytimg.com/vi/c9HdM22bpFI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kFYn-OWytGyvBghtbY0YyWEDDaQw",
+        "artist": "Gatitomiau",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "taSEw9tExgI",
         "video_url": "https://www.youtube.com/watch?v=taSEw9tExgI",
         "title": "Armin van Buuren live at Tomorrowland Winter 2024 (Crystal Garden)",
@@ -506,7 +522,7 @@
     {
         "video_id": "IDouH3rfcvw",
         "video_url": "https://www.youtube.com/watch?v=IDouH3rfcvw",
-        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (LIVE SET 4K)(CARTAGENA x CALI, COLOMBIA)",
+        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (CARTAGENA x CALI, COLOMBIA)",
         "thumbnail_url": "https://i.ytimg.com/vi/IDouH3rfcvw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1IWAHfM2cz62Jadb_ruxBEG3TQA",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
@@ -629,7 +645,7 @@
         "title": "TECHNO MIX 2024 \ud83d\udc7d\ud83c\udfa7\ud83d\udc7dPopular techno songs | Episode 15",
         "thumbnail_url": "https://i.ytimg.com/vi/geufuNuwIfA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k7C7OBjg-QkfDE4nLRJgpAOUZhuw",
         "artist": "Sven Malvik",
-        "video_type": null
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "n-WpxmQGCl4",
@@ -800,6 +816,14 @@
         "video_type": null
     },
     {
+        "video_id": "Cxae-9JRYik",
+        "video_url": "https://www.youtube.com/watch?v=Cxae-9JRYik",
+        "title": "Two Friends - Room Service Festival (Full Set)",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cxae-9JRYik/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mO5jFDRy1J95iFzrBRD7FDikfFeQ",
+        "artist": "Two Friends",
+        "video_type": null
+    },
+    {
         "video_id": "BlfXyFt5Kk4",
         "video_url": "https://www.youtube.com/watch?v=BlfXyFt5Kk4",
         "title": "Hardwell Video Mix 2023 - Rebels Never Die Album Mix | Mainstage Bigroom Techno",
@@ -896,6 +920,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "jmt0ej-DS5o",
+        "video_url": "https://www.youtube.com/watch?v=jmt0ej-DS5o",
+        "title": "Melodic Techno Vol. 2 | 2024 | Tale Of Us \u2022 KAS:ST \u2022 Massano \u2022 Citizen Kain",
+        "thumbnail_url": "https://i.ytimg.com/vi/jmt0ej-DS5o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mbsbniwGesOjSutMQ-NtIC-b8Bng",
+        "artist": "blqckout",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "liOAbkQtIkc",
         "video_url": "https://www.youtube.com/watch?v=liOAbkQtIkc",
         "title": "Psychadelic Drum and Bass Mix 2017 | Atmospheric, Deep and Minimal Rollers",
@@ -910,6 +942,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/OHqdhk6WxMM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n0Sn79HMdazlWXKtcoC6filQaeRg",
         "artist": "donit",
         "video_type": null
+    },
+    {
+        "video_id": "FtI5VR-aLac",
+        "video_url": "https://www.youtube.com/watch?v=FtI5VR-aLac",
+        "title": "Melodic House Mix 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/FtI5VR-aLac/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mWXld6zPkD6eXXHymwr0i4Xoz5Gg",
+        "artist": "stanchore",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "U7nhGv_zyN0",

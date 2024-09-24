@@ -2307,6 +2307,30 @@
         ]
     },
     {
+        "video_id": "NhHsjZZpF7s",
+        "video_url": "https://www.youtube.com/watch?v=NhHsjZZpF7s",
+        "title": "Love Is A Losing Game",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HxwKiFSKsNLDA6mV2gXiqtvGldf7rMeNn-3HW3yRm6m6zSWF9qbeawK3fPvqDChyIyzIk2aE6DncTsKsrw=w120-h120-l90-rj",
+        "artist": "Amy Winehouse",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Back To Black",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "d1QltB3m0Hs",
+        "video_url": "https://www.youtube.com/watch?v=d1QltB3m0Hs",
+        "title": "Tears Dry On Their Own",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HxwKiFSKsNLDA6mV2gXiqtvGldf7rMeNn-3HW3yRm6m6zSWF9qbeawK3fPvqDChyIyzIk2aE6DncTsKsrw=w120-h120-l90-rj",
+        "artist": "Amy Winehouse",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Back To Black",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
         "video_id": "bS8-qQojlhA",
         "video_url": "https://www.youtube.com/watch?v=bS8-qQojlhA",
         "title": "Wake Up Alone",
@@ -6490,6 +6514,18 @@
         ]
     },
     {
+        "video_id": "T9mV3Yf22q8",
+        "video_url": "https://www.youtube.com/watch?v=T9mV3Yf22q8",
+        "title": "Decisions (feat. Miley Cyrus)",
+        "thumbnail_url": "https://lh3.googleusercontent.com/hUN2OpkqSon41fyjfuCgmeXJuPSt90QQWZ_1sLyIIPnlV0H1HzVGqO-wkZeh75tZHTciyMiDjRUYzeRR=w120-h120-l90-rj",
+        "artist": "Borgore & Miley Cyrus",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "#NEWGOREORDER",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "tAAeeNAqlLY",
         "video_url": "https://www.youtube.com/watch?v=tAAeeNAqlLY",
         "title": "Unicorn Zombie Apocalypse",
@@ -10020,17 +10056,14 @@
         ]
     },
     {
-        "video_id": "-8jhWDSyqKM",
-        "video_url": "https://www.youtube.com/watch?v=-8jhWDSyqKM",
+        "video_id": "-AzTyAdOkP0",
+        "video_url": "https://www.youtube.com/watch?v=-AzTyAdOkP0",
         "title": "Safe And Sound",
-        "thumbnail_url": "https://lh3.googleusercontent.com/QeRyuXMhH9fqI-pn2Namd7oA3zCyunAWCIgWYM7ncUwxmD06HIWbU1h0fugkoLjyuUkqmiItkJ-vYQo=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/S3tnhMWcx_XsrGFGRzx3oiRivanq0wny5rtGTkFrJfqc6GKyzHuH2ipV1Bf1DRvWK-glPGeLC_-xmebD=w120-h120-l90-rj",
         "artist": "Capital Cities",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "\u65b0\u5e74\u3042\u3051\u307e\u3057\u3066\u304a\u3081\u3067\u3068\u3046\uff01\uff12\uff10\uff12\uff14",
-        "playlists": [
-            "\ud83c\udf6d-lolliPop",
-            "\u26a1-electro"
-        ]
+        "album": "Toddler and Children Singalong: Pop Hits",
+        "playlists": []
     },
     {
         "video_id": "xRVCk8N9wLA",
@@ -11030,7 +11063,7 @@
         "video_id": "_StA3TJ2TH8",
         "video_url": "https://www.youtube.com/watch?v=_StA3TJ2TH8",
         "title": "The Killer's Song (The Killer's Song Club Mix)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/bvtfOdjtDCl2ggSQYOx-kAXYWbx4nKyqkK6zPxdSmkrYhRfBLBEYp3mpFR6H0kgy2CLgKBvbrfHTgFU=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/tGYokehgC1EuqlAKQmhlfgoWiWUFsGN1h30UBx_Q4KjOknBIXWp2QRpeERNGOpXHPZZIDs35iEYQEJ1U=w120-h120-l90-rj",
         "artist": "Carolina Marquez",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "The Killer's Song Vol.2",
@@ -11873,6 +11906,18 @@
         "video_id": "iB8yPrJmT7U",
         "video_url": "https://www.youtube.com/watch?v=iB8yPrJmT7U",
         "title": "Llevarte All\u00ed",
+        "thumbnail_url": "https://lh3.googleusercontent.com/bmG7ywfM7RbY4u7SwmmBy0deI83eSeNb5rXTdqKs78Pm9FRx4w_4bwSUi3g-rNPdvVDPC7B-viwhiDc=w120-h120-l90-rj",
+        "artist": "Cultura Prof\u00e9tica",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Sobrevolando",
+        "playlists": [
+            "\ud83d\udc9a\ud83d\udc9b\u2764\ufe0f-reggae"
+        ]
+    },
+    {
+        "video_id": "mLRHV8uZJ7Q",
+        "video_url": "https://www.youtube.com/watch?v=mLRHV8uZJ7Q",
+        "title": "\u00a1Qu\u00e9 Va!",
         "thumbnail_url": "https://lh3.googleusercontent.com/bmG7ywfM7RbY4u7SwmmBy0deI83eSeNb5rXTdqKs78Pm9FRx4w_4bwSUi3g-rNPdvVDPC7B-viwhiDc=w120-h120-l90-rj",
         "artist": "Cultura Prof\u00e9tica",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
@@ -16709,18 +16754,6 @@
         "artist": "Hardwell & Armin van Buuren",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Off The Hook",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
-        "video_id": "P8imVhzgH5U",
-        "video_url": "https://www.youtube.com/watch?v=P8imVhzgH5U",
-        "title": "Creatures Of The Night",
-        "thumbnail_url": "https://lh3.googleusercontent.com/HczflGZb0eg8s1W2Vxgujx7EQbkk6YznitRoYKoWoN7dBAbG7jFOce9YoVrqP5yUCY1hL1YpoqklpBHShw=w120-h120-l90-rj",
-        "artist": "Hardwell & Austin Mahone",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Future Trance - Best of All Time",
         "playlists": [
             "\u26a1-electro"
         ]
