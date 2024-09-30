@@ -64,6 +64,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "k3mFca9fVnk",
+        "video_url": "https://www.youtube.com/watch?v=k3mFca9fVnk",
+        "title": "BEAUZ - PSY POP / HARD TECHNO DJ SET 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/k3mFca9fVnk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nBz9KV36AMi2SBfHsWIWsptpu3dg",
+        "artist": "BEAUZ & JKRS",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "0J1ws31Ed5w",
         "video_url": "https://www.youtube.com/watch?v=0J1ws31Ed5w",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
@@ -530,7 +538,7 @@
     {
         "video_id": "PMaTRXQdMzg",
         "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
-        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (LIVE SET 4K)(BARRANQUILLA, COLOMBIA)",
+        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (BARRANQUILLA, COLOMBIA)",
         "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
@@ -902,14 +910,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/zVmYhm1yVtw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3loowdOfRIPOlGCA0SAUxDoPvxICw",
         "artist": "YOLO OFFICIAL ",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
-    },
-    {
-        "video_id": "k3mFca9fVnk",
-        "video_url": "https://www.youtube.com/watch?v=k3mFca9fVnk",
-        "title": "BEAUZ - PSY POP / HARD TECHNO DJ SET 2024 (feat. Darla Jade)",
-        "thumbnail_url": "https://i.ytimg.com/vi/k3mFca9fVnk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nBz9KV36AMi2SBfHsWIWsptpu3dg",
-        "artist": "Yola Recoba & BEAUZ",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "HAx2kv-vEV0",
