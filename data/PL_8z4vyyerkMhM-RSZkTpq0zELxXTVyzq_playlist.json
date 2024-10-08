@@ -64,14 +64,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
-        "video_id": "k3mFca9fVnk",
-        "video_url": "https://www.youtube.com/watch?v=k3mFca9fVnk",
-        "title": "BEAUZ - PSY POP / HARD TECHNO DJ SET 2024",
-        "thumbnail_url": "https://i.ytimg.com/vi/k3mFca9fVnk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nBz9KV36AMi2SBfHsWIWsptpu3dg",
-        "artist": "BEAUZ & JKRS",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
-    },
-    {
         "video_id": "0J1ws31Ed5w",
         "video_url": "https://www.youtube.com/watch?v=0J1ws31Ed5w",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
@@ -94,6 +86,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/q0JyYJGy2PA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l3e5QeVUCa4CtflEyH2otNF1BkoQ",
         "artist": "Beatport",
         "video_type": null
+    },
+    {
+        "video_id": "nbh7HouhSdI",
+        "video_url": "https://www.youtube.com/watch?v=nbh7HouhSdI",
+        "title": "Eric Prydz LIVE @ Rockstar Energy presents Creamfields 2024 | @beatport live",
+        "thumbnail_url": "https://i.ytimg.com/vi/nbh7HouhSdI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kGsvs0s8k3FW20lZsyUZbDURe47g",
+        "artist": "Beatport",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "eacs5ouEhlc",
@@ -382,6 +382,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/AKvlOLP46vw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lLLCxlEK10iwsF9BuJsMsMP8amtA",
         "artist": "HeavySquadMusic",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "k3mFca9fVnk",
+        "video_url": "https://www.youtube.com/watch?v=k3mFca9fVnk",
+        "title": "BEAUZ - PSY POP / HARD TECHNO DJ SET 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/k3mFca9fVnk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nBz9KV36AMi2SBfHsWIWsptpu3dg",
+        "artist": "JKRS & BEAUZ",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "lVbwXSsJKBM",
@@ -822,6 +830,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/gUIRY85DVRM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k181UdZB0i1WkQ1ReBC7G5Lhm4Nw",
         "artist": "Tomorrowland",
         "video_type": null
+    },
+    {
+        "video_id": "Rc7pJq-uJ4o",
+        "video_url": "https://www.youtube.com/watch?v=Rc7pJq-uJ4o",
+        "title": "Timmy Trumpet WE1 | Tomorrowland 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/Rc7pJq-uJ4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nWS6ASqFXNPlfPPmOQNRT4a8uw_g",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "Cxae-9JRYik",

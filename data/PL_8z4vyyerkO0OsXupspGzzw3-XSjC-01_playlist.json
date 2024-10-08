@@ -9807,7 +9807,7 @@
         "video_id": "xXKhm0bzTEQ",
         "video_url": "https://www.youtube.com/watch?v=xXKhm0bzTEQ",
         "title": "\u00cdndigo",
-        "thumbnail_url": "https://lh3.googleusercontent.com/YWI7T4uvAIcmCV-fNFNFLgE1pBPaGrNVbCGsGD3D3_xTt7gyPvA7qZa5vNgQrBRspLi4D7-MnqSb2Ao_=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VjVV6Gl6kPAC4km47bxM3A3MiR1jo8S7W9J34r4ZC8fFac30DtvG3gi9O7th_5e1rv1mHQI7L9z9vvZXDQ=w120-h120-l90-rj",
         "artist": "Camilo & Evaluna Montaner",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "\u00cdndigo",
@@ -10114,16 +10114,6 @@
         "playlists": [
             "\ud83d\udd2b-hiphop"
         ]
-    },
-    {
-        "video_id": "-AzTyAdOkP0",
-        "video_url": "https://www.youtube.com/watch?v=-AzTyAdOkP0",
-        "title": "Safe And Sound",
-        "thumbnail_url": "https://lh3.googleusercontent.com/S3tnhMWcx_XsrGFGRzx3oiRivanq0wny5rtGTkFrJfqc6GKyzHuH2ipV1Bf1DRvWK-glPGeLC_-xmebD=w120-h120-l90-rj",
-        "artist": "Capital Cities",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Toddler and Children Singalong: Pop Hits",
-        "playlists": []
     },
     {
         "video_id": "xRVCk8N9wLA",
@@ -12194,7 +12184,7 @@
         "video_id": "JhulBGMA7G4",
         "video_url": "https://www.youtube.com/watch?v=JhulBGMA7G4",
         "title": "Harder, Better, Faster, Stronger",
-        "thumbnail_url": "https://lh3.googleusercontent.com/6Qy_3-Unlf67FwRfF75ghzWw__5wmbJjAg7x6p8qQqMdRxvvFCEmyFlEedmbunivDbF-yUEXbb3AVI0=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/NTbQ4vaqVbSDhQvHnQ-Lrjk_FKuLX9r3WqrpZ-W7MZxkxogYHdvsMxr7OLelk-vhWOxdrmpiNVrozOSI=w120-h120-l90-rj",
         "artist": "Daft Punk",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Discovery",
@@ -14070,7 +14060,7 @@
     {
         "video_id": "eRhg7qPLeN8",
         "video_url": "https://www.youtube.com/watch?v=eRhg7qPLeN8",
-        "title": "Sweet Dreams (Are Made of This)",
+        "title": "Sweet Dreams (Are Made of This) (2005 Remaster)",
         "thumbnail_url": "https://lh3.googleusercontent.com/GMZieM-K9mfnJa2Uk5ZOi6TofLEC4w31AcACKKp3eT6A0Soqg7-Qkfx3FNIxSkyAM0KmW4_MrwIeHss3=w120-h120-s-l90-rj",
         "artist": "Eurythmics",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
@@ -17132,18 +17122,6 @@
         ]
     },
     {
-        "video_id": "g4H5wUSi4V0",
-        "video_url": "https://www.youtube.com/watch?v=g4H5wUSi4V0",
-        "title": "The Abyss",
-        "thumbnail_url": "https://lh3.googleusercontent.com/SZgg7DGg-LPJ6AIR5EcWkIeEUJB_OYB2cy6DhxFjs2SL1gVy0m7k1en3cFVzHvqU_vTWjcLc-wpPAE0=w120-h120-l90-rj",
-        "artist": "Hardwell & Space 92",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "The Abyss",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
         "video_id": "gY1XIvLQKX0",
         "video_url": "https://www.youtube.com/watch?v=gY1XIvLQKX0",
         "title": "Judgement Day",
@@ -17358,6 +17336,16 @@
         "playlists": [
             "\u26a1-electro"
         ]
+    },
+    {
+        "video_id": "QyDzJwOLwtg",
+        "video_url": "https://www.youtube.com/watch?v=QyDzJwOLwtg",
+        "title": "The Abyss",
+        "thumbnail_url": "https://lh3.googleusercontent.com/TV6jT8ozYXNeA5q6Z9EYfg2ACrveh2MsqO-oft0TN0pIUbniebWgti15X8r3US_Sm2S7VgLXk2B7BiBW6w=w120-h120-l90-rj",
+        "artist": "Hardwell/Space92",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "The Abyss",
+        "playlists": []
     },
     {
         "video_id": "XjO_HIslM0M",
@@ -32112,7 +32100,7 @@
         "video_id": "Z3L5M7GHAkw",
         "video_url": "https://www.youtube.com/watch?v=Z3L5M7GHAkw",
         "title": "Persiana Americana",
-        "thumbnail_url": "https://lh3.googleusercontent.com/RPAyT2ud85AwNS_3VT8tyOO_w43pAm05t4090MYmJZLv83R5qvQ7Hq0SIoSng1Hhwny2t-7JY2FJNgA=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/psHs2R3zb15HHEBTUj7eTkQreMkT_JBlEfAkUTu1pm3Myko2KXDtR918-wC00KTzRDXPqomtW9OdqvEE=w120-h120-l90-rj",
         "artist": "Soda Stereo",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Obras Cumbres",
@@ -32217,18 +32205,6 @@
         ]
     },
     {
-        "video_id": "YXR-rJYr2AU",
-        "video_url": "https://www.youtube.com/watch?v=YXR-rJYr2AU",
-        "title": "ORION",
-        "thumbnail_url": "https://lh3.googleusercontent.com/8_gmVGpyuVctnUAF-GNxx7NEylsNgjV1aX9W8zyEbyg-52tjSxid-ZfexFhtLyfD7eoaDt7SFU5RZx6xeg=w120-h120-l90-rj",
-        "artist": "Space 92 & HI-LO",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "ORION",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
         "video_id": "o7wAnvVexEQ",
         "video_url": "https://www.youtube.com/watch?v=o7wAnvVexEQ",
         "title": "Insomnia",
@@ -32239,6 +32215,16 @@
         "playlists": [
             "\u26a1-electro"
         ]
+    },
+    {
+        "video_id": "YCtU89Cqhh0",
+        "video_url": "https://www.youtube.com/watch?v=YCtU89Cqhh0",
+        "title": "ORION",
+        "thumbnail_url": "https://lh3.googleusercontent.com/VLWLyblj5cJrQPwAq-ZpgagAaDmPbFgZyAuzrPLo9ybANpF7HS1oPiYaskCcNOqeU80sqqYrFYzIIANa=w120-h120-l90-rj",
+        "artist": "Space 92, HI-LO",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "ORION",
+        "playlists": []
     },
     {
         "video_id": "1EPVJW7rGxU",
