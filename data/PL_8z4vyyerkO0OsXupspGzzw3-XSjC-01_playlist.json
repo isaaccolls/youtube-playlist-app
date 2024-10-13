@@ -19638,18 +19638,6 @@
         ]
     },
     {
-        "video_id": "Bs1t3zddY1M",
-        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
-        "title": "Live The Night (Extended Mix)",
-        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
-        "artist": "Lil Jon, W&W & Hardwell",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
         "video_id": "6I2y_UbVz4U",
         "video_url": "https://www.youtube.com/watch?v=6I2y_UbVz4U",
         "title": "Sucker for Pain (feat. Logic, Ty Dolla $ign & X Ambassadors)",
@@ -35935,6 +35923,18 @@
         "artist": "W&W, Hardwell & Lil Jon",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Live the Night",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
+        "video_id": "Bs1t3zddY1M",
+        "video_url": "https://www.youtube.com/watch?v=Bs1t3zddY1M",
+        "title": "Live The Night (Extended Mix)",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bs1t3zddY1M/hq720.jpg",
+        "artist": "W&W, Lil Jon, & Hardwell",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "",
         "playlists": [
             "\u26a1-electro"
         ]
