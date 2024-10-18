@@ -56,6 +56,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "EOXLFpK2VL0",
+        "video_url": "https://www.youtube.com/watch?v=EOXLFpK2VL0",
+        "title": "Armin van Buuren live at Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/EOXLFpK2VL0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l4NimHUUFlgH9nxWHNxgTE4LIpAQ",
+        "artist": "Armin van Buuren",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "g32YD5YQCkg",
         "video_url": "https://www.youtube.com/watch?v=g32YD5YQCkg",
         "title": "Armin van Buuren x UNTOLD Dubai Performance",
@@ -768,12 +776,36 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "ikgw-0ZMh-M",
+        "video_url": "https://www.youtube.com/watch?v=ikgw-0ZMh-M",
+        "title": "Afrojack | Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/ikgw-0ZMh-M/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mahrlA7zkwg2YZubX9ILiaMNPUnw",
+        "artist": "Tomorrowland",
+        "video_type": null
+    },
+    {
         "video_id": "qH0tot10GQM",
         "video_url": "https://www.youtube.com/watch?v=qH0tot10GQM",
         "title": "Alok | Tomorrowland Brasil 2023",
         "thumbnail_url": "https://i.ytimg.com/vi/qH0tot10GQM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kkHkBE4T40UCyQMqeWobBqujzcZg",
         "artist": "Tomorrowland",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "lMT6bk6rR4Q",
+        "video_url": "https://www.youtube.com/watch?v=lMT6bk6rR4Q",
+        "title": "B Jones | Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/lMT6bk6rR4Q/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mxxLjCC-HSsrxPie7J-0qX7_gLdg",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "kLD0dYuyWSI",
+        "video_url": "https://www.youtube.com/watch?v=kLD0dYuyWSI",
+        "title": "Carola | Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/kLD0dYuyWSI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lICyKuLYLjaPFNm9e9QEnnAhESPQ",
+        "artist": "Tomorrowland",
+        "video_type": null
     },
     {
         "video_id": "Lif2UKzlfcQ",
@@ -788,6 +820,14 @@
         "video_url": "https://www.youtube.com/watch?v=aZPmqXWiPLg",
         "title": "Floorplan | Tomorrowland 2023 l CORE",
         "thumbnail_url": "https://i.ytimg.com/vi/aZPmqXWiPLg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ngC6V9--nYY-wSjkru31SDge8pQw",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "YJtNUdCHLP8",
+        "video_url": "https://www.youtube.com/watch?v=YJtNUdCHLP8",
+        "title": "Hardwell | Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/YJtNUdCHLP8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mUiXAt0ZhSLMoyX2tIUBeG_UNEvA",
         "artist": "Tomorrowland",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
@@ -824,6 +864,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "tRM27LDaJ_0",
+        "video_url": "https://www.youtube.com/watch?v=tRM27LDaJ_0",
+        "title": "Nervo | Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/tRM27LDaJ_0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ka8CPMzCFWvEy_q0EBuwi5KsN5iA",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "Ep4zUG4wFKc",
         "video_url": "https://www.youtube.com/watch?v=Ep4zUG4wFKc",
         "title": "Nicky Elisabeth | Tomorrowland 2022 - WE 3",
@@ -848,6 +896,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "OQM5JYc8_68",
+        "video_url": "https://www.youtube.com/watch?v=OQM5JYc8_68",
+        "title": "Sunnery James & Ryan Marciano | Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/OQM5JYc8_68/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nxhLsbdH6-YuwimOwbkamgLpFGww",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "gUIRY85DVRM",
         "video_url": "https://www.youtube.com/watch?v=gUIRY85DVRM",
         "title": "Tale Of Us WE1 | Tomorrowland 2024",
@@ -860,6 +916,14 @@
         "video_url": "https://www.youtube.com/watch?v=Rc7pJq-uJ4o",
         "title": "Timmy Trumpet WE1 | Tomorrowland 2024",
         "thumbnail_url": "https://i.ytimg.com/vi/Rc7pJq-uJ4o/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nWS6ASqFXNPlfPPmOQNRT4a8uw_g",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "JxngW1EUpOs",
+        "video_url": "https://www.youtube.com/watch?v=JxngW1EUpOs",
+        "title": "\u00d6wnboss | Tomorrowland Brasil 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/JxngW1EUpOs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nwFIqqn7hKkX0-li-2_BKpS6gYbw",
         "artist": "Tomorrowland",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },

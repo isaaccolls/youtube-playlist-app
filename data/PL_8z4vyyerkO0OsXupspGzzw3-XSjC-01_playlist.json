@@ -4149,6 +4149,18 @@
         ]
     },
     {
+        "video_id": "13sxGWY7SwQ",
+        "video_url": "https://www.youtube.com/watch?v=13sxGWY7SwQ",
+        "title": "Turn It Up",
+        "thumbnail_url": "https://i.ytimg.com/vi/13sxGWY7SwQ/hq720.jpg",
+        "artist": "Armin van Buuren",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "",
+        "playlists": [
+            "\u26a1-electro"
+        ]
+    },
+    {
         "video_id": "COIvdZPzKac",
         "video_url": "https://www.youtube.com/watch?v=COIvdZPzKac",
         "title": "Computers Take Over The World (ASOT 1119) (Maddix Remix)",
@@ -4240,18 +4252,6 @@
         "artist": "Armin van Buuren & Trevor Guthrie",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Intense",
-        "playlists": [
-            "\u26a1-electro"
-        ]
-    },
-    {
-        "video_id": "13sxGWY7SwQ",
-        "video_url": "https://www.youtube.com/watch?v=13sxGWY7SwQ",
-        "title": "Turn It Up",
-        "thumbnail_url": "https://i.ytimg.com/vi/13sxGWY7SwQ/hq720.jpg",
-        "artist": "Armin van Buuren - Topic",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "",
         "playlists": [
             "\u26a1-electro"
         ]
@@ -8523,7 +8523,7 @@
         "video_id": "wsHbHR3Os6U",
         "video_url": "https://www.youtube.com/watch?v=wsHbHR3Os6U",
         "title": "Oops!...I Did It Again",
-        "thumbnail_url": "https://lh3.googleusercontent.com/bK2UAEhZ35AawBD5FDROyl_Qnw_F91Lw7PvDB878dj5ts3g3LZuux1W6jKKhvM7A65RLIrmZwVmLUgJ7fA=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/u-TJxj37KrshR4InZ4kqb_hcEDT-TNJ9evd5qPyVAxxw_khOWMMBuCHJ3zqNdP6vg3IniIan64yHWxM=w120-h120-l90-rj",
         "artist": "Britney Spears",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Oops!... I Did It Again",
@@ -14567,16 +14567,14 @@
         ]
     },
     {
-        "video_id": "WLb-rSlo0lU",
-        "video_url": "https://www.youtube.com/watch?v=WLb-rSlo0lU",
+        "video_id": "xlZ-ou2K_Vg",
+        "video_url": "https://www.youtube.com/watch?v=xlZ-ou2K_Vg",
         "title": "Changed the Way You Kiss Me (Radio Edit)",
-        "thumbnail_url": "https://lh3.googleusercontent.com/7qfCjpSvqsBG7Y2ZSTYb3LfZXejmiNHEAMu6Yj4UJnCRRoIMvuOgD8-hBPyKUaj51A6AEc6dgB-1jjo8QQ=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/ibr3kIq-mOUKn6xdagTi3BtNTQsyF4REHL4qbba7Z8TJNXj9OwFwnSMThqx4TvDqhts4E3MXtWCXeMVs=w120-h120-l90-rj",
         "artist": "Example",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Playing In The Shadows",
-        "playlists": [
-            "\u26a1-electro"
-        ]
+        "album": "Playing In the Shadows (Bonus Track Version)",
+        "playlists": []
     },
     {
         "video_id": "o69jWxZe5yA",
