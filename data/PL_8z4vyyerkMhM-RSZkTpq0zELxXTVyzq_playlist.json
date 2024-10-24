@@ -58,10 +58,10 @@
     {
         "video_id": "EOXLFpK2VL0",
         "video_url": "https://www.youtube.com/watch?v=EOXLFpK2VL0",
-        "title": "Armin van Buuren live at Tomorrowland Brasil 2024",
+        "title": "Armin van Buuren live at Tomorrowland Brasil 2024 (feat. Louis III)",
         "thumbnail_url": "https://i.ytimg.com/vi/EOXLFpK2VL0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l4NimHUUFlgH9nxWHNxgTE4LIpAQ",
         "artist": "Armin van Buuren",
-        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "g32YD5YQCkg",
@@ -704,6 +704,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "GgCFyYDh1Z8",
+        "video_url": "https://www.youtube.com/watch?v=GgCFyYDh1Z8",
+        "title": "Best Hardstyle Remixes Of Popular Songs 2024 | Legends Of Hardstyle | Best Hardstyle Mashups! #2",
+        "thumbnail_url": "https://i.ytimg.com/vi/GgCFyYDh1Z8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l-4DUZea5jg72qECMgkgwUfvwEqw",
+        "artist": "Tezpa In The Mix!",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "3tXHFBlUqKg",
         "video_url": "https://www.youtube.com/watch?v=3tXHFBlUqKg",
         "title": "The M - House of Latino #1 [4K LATINO TECH-HOUSE LIVESET]",
@@ -866,10 +874,10 @@
     {
         "video_id": "tRM27LDaJ_0",
         "video_url": "https://www.youtube.com/watch?v=tRM27LDaJ_0",
-        "title": "Nervo | Tomorrowland Brasil 2024",
+        "title": "NERVO | Tomorrowland Brasil 2024",
         "thumbnail_url": "https://i.ytimg.com/vi/tRM27LDaJ_0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ka8CPMzCFWvEy_q0EBuwi5KsN5iA",
         "artist": "Tomorrowland",
-        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+        "video_type": null
     },
     {
         "video_id": "Ep4zUG4wFKc",
@@ -928,6 +936,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
+        "video_id": "iJk6jBNoTnA",
+        "video_url": "https://www.youtube.com/watch?v=iJk6jBNoTnA",
+        "title": "BIG BOOTIE MIX, VOL. 23: Big Bootie Land Chicago Concert Premiere - Two Friends",
+        "thumbnail_url": "https://i.ytimg.com/vi/iJk6jBNoTnA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mz_WWWN9PundJ13h9TKO7x30fp0Q",
+        "artist": "Two Friends",
+        "video_type": null
+    },
+    {
         "video_id": "Cxae-9JRYik",
         "video_url": "https://www.youtube.com/watch?v=Cxae-9JRYik",
         "title": "Two Friends - Room Service Festival (Full Set)",
@@ -965,6 +981,14 @@
         "title": "Vini Vici @ Tomorrowland Winter 2024 | Official Video",
         "thumbnail_url": "https://i.ytimg.com/vi/8wSU-ABAfv8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lFN-W8Rag_KE644jjSsw17PNHMTQ",
         "artist": "Vini Vici",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
+        "video_id": "rru-SMFerew",
+        "video_url": "https://www.youtube.com/watch?v=rru-SMFerew",
+        "title": "Vintage Culture @ Tomorrowland, CORE 2024, Brasil (Audio)",
+        "thumbnail_url": "https://i.ytimg.com/vi/rru-SMFerew/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lN15s2s4RRtNIKCv3Go2XeLuK_Pw",
+        "artist": "Vintage Culture",
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
