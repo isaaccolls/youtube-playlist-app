@@ -64,6 +64,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "taSEw9tExgI",
+        "video_url": "https://www.youtube.com/watch?v=taSEw9tExgI",
+        "title": "Armin van Buuren live at Tomorrowland Winter 2024 (Crystal Garden)",
+        "thumbnail_url": "https://i.ytimg.com/vi/taSEw9tExgI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mXTdK_YV9Qq2hn6HmcgFizJWZ2_A",
+        "artist": "Armin van Buuren",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "g32YD5YQCkg",
         "video_url": "https://www.youtube.com/watch?v=g32YD5YQCkg",
         "title": "Armin van Buuren x UNTOLD Dubai Performance",
@@ -350,14 +358,6 @@
         "thumbnail_url": "https://i.ytimg.com/vi/c9HdM22bpFI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kFYn-OWytGyvBghtbY0YyWEDDaQw",
         "artist": "Gatitomiau",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
-    },
-    {
-        "video_id": "taSEw9tExgI",
-        "video_url": "https://www.youtube.com/watch?v=taSEw9tExgI",
-        "title": "Armin van Buuren live at Tomorrowland Winter 2024 (Crystal Garden)",
-        "thumbnail_url": "https://i.ytimg.com/vi/taSEw9tExgI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mXTdK_YV9Qq2hn6HmcgFizJWZ2_A",
-        "artist": "Gryffin & Armin van Buuren",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
         "video_id": "p1k00xobH-Y",
