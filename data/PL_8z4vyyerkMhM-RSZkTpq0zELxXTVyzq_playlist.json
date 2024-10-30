@@ -80,6 +80,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "k3mFca9fVnk",
+        "video_url": "https://www.youtube.com/watch?v=k3mFca9fVnk",
+        "title": "BEAUZ - PSY POP / HARD TECHNO DJ SET 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/k3mFca9fVnk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nBz9KV36AMi2SBfHsWIWsptpu3dg",
+        "artist": "BEAUZ & JKRS",
+        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
+    },
+    {
         "video_id": "0J1ws31Ed5w",
         "video_url": "https://www.youtube.com/watch?v=0J1ws31Ed5w",
         "title": "TECHNO MIX 2024 \ud83c\udfa7 Remixes Of Popular Songs \ud83c\udfa7 Techno In My Head",
@@ -392,14 +400,6 @@
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
-        "video_id": "k3mFca9fVnk",
-        "video_url": "https://www.youtube.com/watch?v=k3mFca9fVnk",
-        "title": "BEAUZ - PSY POP / HARD TECHNO DJ SET 2024",
-        "thumbnail_url": "https://i.ytimg.com/vi/k3mFca9fVnk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nBz9KV36AMi2SBfHsWIWsptpu3dg",
-        "artist": "JKRS & BEAUZ",
-        "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
-    },
-    {
         "video_id": "lVbwXSsJKBM",
         "video_url": "https://www.youtube.com/watch?v=lVbwXSsJKBM",
         "title": "KREAM Presents LIQUID : LAB Vol. 10 (Keinemusik/Eric Prydz/Gordo) [Loen Skylift]",
@@ -517,6 +517,14 @@
         "title": "Miss Monique @  Bali, Indonesia 2024 [Melodic Techno/ Progressive House DJ Mix]",
         "thumbnail_url": "https://i.ytimg.com/vi/kLeYYK0rnxI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n37LoURcOtQe8xM-ICb4xjKX_ugw",
         "artist": "Miss Monique",
+        "video_type": null
+    },
+    {
+        "video_id": "j6U2f5BJueg",
+        "video_url": "https://www.youtube.com/watch?v=j6U2f5BJueg",
+        "title": "NERVO Live | Cataract Pools, Victoria Falls, Zimbabwe",
+        "thumbnail_url": "https://i.ytimg.com/vi/j6U2f5BJueg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lGUueLSMWWZOmt9mU_rBHcnWaT-A",
+        "artist": "NERVO",
         "video_type": null
     },
     {
@@ -878,6 +886,14 @@
         "thumbnail_url": "https://i.ytimg.com/vi/tRM27LDaJ_0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ka8CPMzCFWvEy_q0EBuwi5KsN5iA",
         "artist": "Tomorrowland",
         "video_type": null
+    },
+    {
+        "video_id": "iFwjs9wqL2Y",
+        "video_url": "https://www.youtube.com/watch?v=iFwjs9wqL2Y",
+        "title": "NERVO | Tomorrowland Winter 2024",
+        "thumbnail_url": "https://i.ytimg.com/vi/iFwjs9wqL2Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nbRwSxCVxzw2e3ZgLgvo11490Waw",
+        "artist": "Tomorrowland",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
         "video_id": "Ep4zUG4wFKc",
