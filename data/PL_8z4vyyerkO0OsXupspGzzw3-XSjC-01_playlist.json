@@ -26483,47 +26483,23 @@
         ]
     },
     {
-        "video_id": "IznT9z0fhHI",
-        "video_url": "https://www.youtube.com/watch?v=IznT9z0fhHI",
+        "video_id": "g5xNbjib9DM",
+        "video_url": "https://www.youtube.com/watch?v=g5xNbjib9DM",
         "title": "Hasta el Amanecer",
-        "thumbnail_url": "https://lh3.googleusercontent.com/8POMXd2RXCGV7hz8j0PGdWODPhA52RBuJ1mrDgvvOUdrKHEwc5xAL-obaU8uoMprqccYHZt6c0ptBpKd=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/eh6ArIXLkjFbkuz1WyzF2RMLBfKKLk9KxMEFiTuA2BFEQYQkLPgexy6WONy3Xw1SRjFXlke9Zv-J_1Y=w120-h120-l90-rj",
         "artist": "Nicky Jam",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Fenix",
-        "playlists": [
-            "\ud83d\udc36-htv"
-        ]
-    },
-    {
-        "video_id": "BqZuEJJfCqk",
-        "video_url": "https://www.youtube.com/watch?v=BqZuEJJfCqk",
-        "title": "Whine Up",
-        "thumbnail_url": "https://lh3.googleusercontent.com/x6cOy1K5R9HX33X398mJmiD49Q_rSLUObwU0f75yq_bQFZNe0Zr2k-2D0rOyzRLOpY0AyOm5U16fjvLi=w120-h120-l90-rj",
-        "artist": "Nicky Jam & Anuel AA",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "\u00cdntimo",
-        "playlists": [
-            "\ud83d\udc36-htv"
-        ]
-    },
-    {
-        "video_id": "EdneHEWjPkY",
-        "video_url": "https://www.youtube.com/watch?v=EdneHEWjPkY",
-        "title": "Calor",
-        "thumbnail_url": "https://lh3.googleusercontent.com/XEFrHhEote7-cN4FM45lDu7Jo8zA7Vt2o_DlC1mtCT1xAMM7zudsqPDv0D-aptVENUSFLQcUyExtTpo=w120-h120-l90-rj",
-        "artist": "Nicky Jam & Be\u00e9le",
-        "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Insomnio",
+        "album": "Verano Hits",
         "playlists": []
     },
     {
-        "video_id": "PWnVC4zEVt8",
-        "video_url": "https://www.youtube.com/watch?v=PWnVC4zEVt8",
+        "video_id": "7LWWxf6pW8s",
+        "video_url": "https://www.youtube.com/watch?v=7LWWxf6pW8s",
         "title": "X",
-        "thumbnail_url": "https://lh3.googleusercontent.com/x6cOy1K5R9HX33X398mJmiD49Q_rSLUObwU0f75yq_bQFZNe0Zr2k-2D0rOyzRLOpY0AyOm5U16fjvLi=w120-h120-l90-rj",
-        "artist": "Nicky Jam & J Balvin",
+        "thumbnail_url": "https://lh3.googleusercontent.com/3cnp3eFYxPUKccb8xI3oFqjfoMFNRHGEjhDWZCkZmJEi9xxLUEtq6OmrW0NKtcxrl87smu75X7mKeJgLCw=w120-h120-l90-rj",
+        "artist": "Nicky Jam Ft J. Balvin",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "\u00cdntimo",
+        "album": "X Single",
         "playlists": [
             "\ud83d\udc36-htv"
         ]
@@ -27220,7 +27196,9 @@
         "artist": "PXNDX",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "La Revancha Del Principe Charro",
-        "playlists": []
+        "playlists": [
+            "\ud83e\udd18-rock"
+        ]
     },
     {
         "video_id": "0JSMcRCbl50",

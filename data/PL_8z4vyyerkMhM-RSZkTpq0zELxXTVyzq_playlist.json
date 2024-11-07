@@ -576,9 +576,17 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "bykyraasPiE",
+        "video_url": "https://www.youtube.com/watch?v=bykyraasPiE",
+        "title": "Vintage Culture, Live at Opulent Temple, Burning Man 2024 (Full Set)",
+        "thumbnail_url": "https://i.ytimg.com/vi/bykyraasPiE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kgw1qrS8pnvKBmotm5KWGFvnfk4g",
+        "artist": "Opulent Temple",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
         "video_id": "IDouH3rfcvw",
         "video_url": "https://www.youtube.com/watch?v=IDouH3rfcvw",
-        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS",
+        "title": "CAMILA GUTI\u00c9RREZ \u2728 PINK MOMENTS (LIVE SET)",
         "thumbnail_url": "https://i.ytimg.com/vi/IDouH3rfcvw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n1IWAHfM2cz62Jadb_ruxBEG3TQA",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
@@ -586,7 +594,7 @@
     {
         "video_id": "PMaTRXQdMzg",
         "video_url": "https://www.youtube.com/watch?v=PMaTRXQdMzg",
-        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE",
+        "title": "CAMILA GUTI\u00c9RREZ \ud83c\udf12 PINK ECLIPSE (LIVE SET)",
         "thumbnail_url": "https://i.ytimg.com/vi/PMaTRXQdMzg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ni1uGop-ToF_OYnPQaLzj08MAu5g",
         "artist": "PANTHER DJ SETS",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
