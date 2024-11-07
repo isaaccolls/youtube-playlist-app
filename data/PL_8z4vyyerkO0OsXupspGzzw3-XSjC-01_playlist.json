@@ -1885,6 +1885,18 @@
         ]
     },
     {
+        "video_id": "6iZfvs3Zn44",
+        "video_url": "https://www.youtube.com/watch?v=6iZfvs3Zn44",
+        "title": "PODCAST",
+        "thumbnail_url": "https://lh3.googleusercontent.com/rsq5hs1r_IegbDom6XxZA3-SFsh89DZVZZmuowUGUKEe84HRqgKAIboj58YJBaM39q691LJ3fWuo3lAt=w120-h120-l90-rj",
+        "artist": "Akapellah & Oldtape",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Pedro El\u00edas",
+        "playlists": [
+            "\ud83d\udd2b-hiphop"
+        ]
+    },
+    {
         "video_id": "Vs_SYvUKmLk",
         "video_url": "https://www.youtube.com/watch?v=Vs_SYvUKmLk",
         "title": "No Me Quiero Ba\u00f1ar",
@@ -13118,7 +13130,7 @@
         "video_url": "https://www.youtube.com/watch?v=4d_vkvE3Iys",
         "title": "You & Me (Rivo Remix) (feat. Eliza Doolittle)",
         "thumbnail_url": "https://lh3.googleusercontent.com/NDZR8_sDQB50qCnfMplOqb8gPxEckRwKeFqeNBUEUJcSfnuMzRu5FHyNAHeHoMNspzicu08CPJB-naE5DA=w120-h120-l90-rj",
-        "artist": "Disclosure & Rivo",
+        "artist": "Disclosure",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "You & Me (Rivo Remix)",
         "playlists": [
@@ -13481,6 +13493,18 @@
         "artist": "ELENA ROSE",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
         "album": "Me Lo Merezco",
+        "playlists": [
+            "\ud83c\udf6d-lolliPop"
+        ]
+    },
+    {
+        "video_id": "lv4SSox9W94",
+        "video_url": "https://www.youtube.com/watch?v=lv4SSox9W94",
+        "title": "Catira",
+        "thumbnail_url": "https://lh3.googleusercontent.com/mb5ioECLXHV979xojNCHPQqJwZSm_7tdA-CevJLt0uaI-oGkPVxHh6Z6-9KcJeHB6lWRgZpJNVTYdRBd=w120-h120-l90-rj",
+        "artist": "ELENA ROSE & Neutro Shorty",
+        "video_type": "MUSIC_VIDEO_TYPE_ATV",
+        "album": "Catira",
         "playlists": [
             "\ud83c\udf6d-lolliPop"
         ]
@@ -26483,16 +26507,14 @@
         ]
     },
     {
-        "video_id": "RftA_bzANgA",
-        "video_url": "https://www.youtube.com/watch?v=RftA_bzANgA",
+        "video_id": "EdneHEWjPkY",
+        "video_url": "https://www.youtube.com/watch?v=EdneHEWjPkY",
         "title": "Calor",
-        "thumbnail_url": "https://lh3.googleusercontent.com/wyiZSnPDla7ug-EfoLv8CPXhVo7R4EoZqqH0cVe65r6LQnlA0ozD0EPY0okoOcmQ9M2BomiPUwhOxSlf=w120-h120-l90-rj",
+        "thumbnail_url": "https://lh3.googleusercontent.com/XEFrHhEote7-cN4FM45lDu7Jo8zA7Vt2o_DlC1mtCT1xAMM7zudsqPDv0D-aptVENUSFLQcUyExtTpo=w120-h120-l90-rj",
         "artist": "Nicky Jam & Be\u00e9le",
         "video_type": "MUSIC_VIDEO_TYPE_ATV",
-        "album": "Calor",
-        "playlists": [
-            "\ud83d\udc36-htv"
-        ]
+        "album": "Insomnio",
+        "playlists": []
     },
     {
         "video_id": "PWnVC4zEVt8",

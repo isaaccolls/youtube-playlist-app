@@ -40,6 +40,14 @@
         "video_type": "MUSIC_VIDEO_TYPE_OFFICIAL_SOURCE_MUSIC"
     },
     {
+        "video_id": "1Qc371-h00w",
+        "video_url": "https://www.youtube.com/watch?v=1Qc371-h00w",
+        "title": "Guns N' Roses, Bon Jovi, Metallica, ACDC, U2, Queen, Aerosmith \ud83d\udd25 Classic Rock 70s 80s 90s Full Album",
+        "thumbnail_url": "https://i.ytimg.com/vi/1Qc371-h00w/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mDHnrFXivfMGrZok5J49sHQ8xlUg",
+        "artist": "Classic Rock Music",
+        "video_type": null
+    },
+    {
         "video_id": "mGKZbXvTT0o",
         "video_url": "https://www.youtube.com/watch?v=mGKZbXvTT0o",
         "title": "Nirvana - MTV Live And Loud 1993 (Full Concert) [60 fps] [HD]",
@@ -141,6 +149,14 @@
         "title": "Bullet For My Valentine - Live @ Rock am Ring 2023 #RAR2023",
         "thumbnail_url": "https://i.ytimg.com/vi/zeZYREfp720/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l5dgDPgXfCY7mJczx4IgE32qrnHA",
         "artist": "Rock am Ring",
+        "video_type": "MUSIC_VIDEO_TYPE_UGC"
+    },
+    {
+        "video_id": "0LY_ybMiMv4",
+        "video_url": "https://www.youtube.com/watch?v=0LY_ybMiMv4",
+        "title": "@BringMeTheHorizon  - Live At Wacken Open Air 2009.",
+        "thumbnail_url": "https://i.ytimg.com/vi/0LY_ybMiMv4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ngXK8cuHHP6QtmYalZZJS3Sw8NiQ",
+        "artist": "Sand #",
         "video_type": "MUSIC_VIDEO_TYPE_UGC"
     },
     {
