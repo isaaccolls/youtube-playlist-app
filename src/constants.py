@@ -1,0 +1,5 @@
+playlistIdForMusic = 'PL_8z4vyyerkO0OsXupspGzzw3-XSjC-01'
+playlistUrlForMusic = f'https://www.youtube.com/playlist?list={playlistIdForMusic}'
+playlistUrlForVideo = 'PL_8z4vyyerkMhM-RSZkTpq0zELxXTVyzq'
+pathForMusic = 'download/mp3'
+pathForVideo = 'download/mp4'
