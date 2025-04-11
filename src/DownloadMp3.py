@@ -92,7 +92,7 @@ class DownloadMp3:
             with open(self.path, 'r') as f:
                 playlist_json = json.load(f)
                 print(f"👉 found {len(playlist_json)} items in local json")
-
+                matched_items = 0
                 for item in items:
                     if not self.is_item_in_playlist_json(item, playlist_json):
                         print(f"👉 new song found: {item['title']}")
@@ -104,7 +104,8 @@ class DownloadMp3:
                         })
                     else:
                         # print(f"✅ song already exists: {item['title']}")
-                        pass
+                        matched_items += 1
+                print(f"👉 {matched_items} songs already exist in local json")
                 with open(self.path, 'w') as f:
                     json.dump(playlist_json, f, indent=2)
 
