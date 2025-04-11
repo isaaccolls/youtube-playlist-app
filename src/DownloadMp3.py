@@ -46,6 +46,15 @@ class DownloadMp3:
         }
         return item
 
+    def is_item_in_playlist_json(self, item, playlist_json):
+        return any(
+            existing_item['title'] == item['title'] and
+            existing_item['thumbnail_url'] == item['thumbnail_url'] and
+            existing_item['artist'] == item['artist'] and
+            existing_item['album'] == item['album']
+            for existing_item in playlist_json
+        )
+
     def download_audio(self, url):
         yt = YouTube(url, on_progress_callback=on_progress)
         print(f"👉 start download {yt.title}")
@@ -82,9 +91,10 @@ class DownloadMp3:
         if os.path.exists(self.path):
             with open(self.path, 'r') as f:
                 playlist_json = json.load(f)
-                # print(f"👉 found {len(playlist_json)} items in local json")
+                print(f"👉 found {len(playlist_json)} items in local json")
+
                 for item in items:
-                    if item not in playlist_json:
+                    if not self.is_item_in_playlist_json(item, playlist_json):
                         print(f"👉 new song found: {item['title']}")
                         playlist_json.append({
                             'title': item['title'],
@@ -93,7 +103,8 @@ class DownloadMp3:
                             'album': item['album'],
                         })
                     else:
-                        print(f"✅ song already exists: {item['title']}")
+                        # print(f"✅ song already exists: {item['title']}")
+                        pass
                 with open(self.path, 'w') as f:
                     json.dump(playlist_json, f, indent=2)
 
