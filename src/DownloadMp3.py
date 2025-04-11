@@ -47,11 +47,13 @@ class DownloadMp3:
         return item
 
     def is_item_in_playlist_json(self, item, playlist_json):
+        def normalize(value):
+            return value.strip().lower() if isinstance(value, str) else ''
         return any(
-            existing_item['title'] == item['title'] and
-            existing_item['thumbnail_url'] == item['thumbnail_url'] and
-            existing_item['artist'] == item['artist'] and
-            existing_item['album'] == item['album']
+            normalize(existing_item['title']) == normalize(item['title']) and
+            normalize(existing_item['thumbnail_url']) == normalize(item['thumbnail_url']) and
+            normalize(existing_item['artist']) == normalize(item['artist']) and
+            normalize(existing_item['album']) == normalize(item['album'])
             for existing_item in playlist_json
         )
 
@@ -86,6 +88,7 @@ class DownloadMp3:
                 print(f"❌ no videoId: {content['title']} {content['artists']}")
                 continue
             items.append(self.create_item_to_download(content))
+        # print(json.dumps(items, indent=4))
         print(f"👉 found {len(items)} items")
         # check local json file
         if os.path.exists(self.path):
@@ -108,7 +111,14 @@ class DownloadMp3:
                 print(f"👉 {matched_items} songs already exist in local json")
                 with open(self.path, 'w') as f:
                     json.dump(playlist_json, f, indent=2)
-
-        # video_url = f"https://www.youtube.com/watch?v={video_id}"
-        # print(f"👉 start download {video_url}")
-        # self.download_audio(video_url)
+        # download all items
+        # print(f"👉 start download {len(items)} items")
+        # for item in items:
+        #     video_id = item['video_id']
+        #     video_url = item['video_url']
+        #     title = item['title']
+        #     thumbnail_url = item['thumbnail_url']
+        #     artist = item['artist']
+        #     album = item['album']
+        #     print(f"👉 start download {title} - {artist}")
+        #     self.download_audio(video_url)
