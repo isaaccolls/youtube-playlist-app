@@ -53,7 +53,11 @@ class DownloadMp3:
     def run(self):
         print('going for mp3 🔥🚀')
         # get playlist info
-        playlist = self.check_playlist(self.playlist_id)
+        try:
+            playlist = self.check_playlist(self.playlist_id)
+        except Exception as e:
+            print(f"🚫 error getting playlist info: {e}")
+            return
         # print(json.dumps(playlist, indent=4))
         # loop through all items in the playlist
         items = []
