@@ -3,16 +3,18 @@ from ytmusicapi import YTMusic
 # download mp3 from youtube
 from pytubefix import YouTube, Playlist
 from pytubefix.cli import on_progress
+# file operations
+import os
+import json
 # internal project imports
 from constants import playlistIdForMusic, playlistUrlForMusic, pathForMusic
-# import json
 
 
 class DownloadMp3:
     def __init__(self):
         self.playlist_url = playlistUrlForMusic
         self.playlist_id = str(playlistIdForMusic)
-        self.path = pathForMusic
+        self.path = pathForMusic + 'playlist.json'
 
     def check_playlist(self, playlist_id):
         print(f"👉 Checking playlist {playlist_id}")
@@ -39,6 +41,7 @@ class DownloadMp3:
             'title': content['title'],
             'thumbnail_url': thumbnail_url,
             'artist': artist,
+            'album': content['album']['name'] if content['album'] is not None else '',
             'video_type': content['videoType']
         }
         return item
@@ -55,6 +58,7 @@ class DownloadMp3:
         # get playlist info
         try:
             playlist = self.check_playlist(self.playlist_id)
+            # playlist = {'tracks': []}
         except Exception as e:
             print(f"🚫 error getting playlist info: {e}")
             return
@@ -74,6 +78,25 @@ class DownloadMp3:
                 continue
             items.append(self.create_item_to_download(content))
         print(f"👉 found {len(items)} items")
+        # check local json file
+        if os.path.exists(self.path):
+            with open(self.path, 'r') as f:
+                playlist_json = json.load(f)
+                # print(f"👉 found {len(playlist_json)} items in local json")
+                for item in items:
+                    if item not in playlist_json:
+                        print(f"👉 new song found: {item['title']}")
+                        playlist_json.append({
+                            'title': item['title'],
+                            'thumbnail_url': item['thumbnail_url'],
+                            'artist': item['artist'],
+                            'album': item['album'],
+                        })
+                    else:
+                        print(f"✅ song already exists: {item['title']}")
+                with open(self.path, 'w') as f:
+                    json.dump(playlist_json, f, indent=2)
+
         # video_url = f"https://www.youtube.com/watch?v={video_id}"
         # print(f"👉 start download {video_url}")
         # self.download_audio(video_url)
