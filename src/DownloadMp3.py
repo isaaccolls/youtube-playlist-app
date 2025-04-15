@@ -14,7 +14,8 @@ class DownloadMp3:
     def __init__(self):
         self.playlist_url = playlistUrlForMusic
         self.playlist_id = str(playlistIdForMusic)
-        self.path = pathForMusic + 'playlist.json'
+        self.path_playlist = pathForMusic + 'playlist.json'
+        self.path_file = pathForMusic
 
     def check_playlist(self, playlist_id):
         print(f"👉 Checking playlist {playlist_id}")
@@ -57,12 +58,47 @@ class DownloadMp3:
             for existing_item in playlist_json
         )
 
-    def download_audio(self, url):
-        yt = YouTube(url, on_progress_callback=on_progress)
-        print(f"👉 start download {yt.title}")
+    def download_audio(self, file_name, video_url, title, album, artist, thumbnail_url):
+        yt = YouTube(video_url, on_progress_callback=on_progress)
+        print(f"👉 start download {title}")
+
+        # Define the file name
+        file_path = os.path.join(self.path_file, file_name)
+
+        # Download the audio
         ys = yt.streams.get_audio_only()
-        ys.download(self.path)
-        print(f"✅ download completed {yt.title}")
+        temp_file_path = os.path.join(self.path_file, f"{title}.mp4")
+        ys.download(output_path=self.path_file,
+                    filename=f"{title}.mp4")
+
+        # Convert to mp3 and set ID3 tags
+        audioclip = AudioFileClip(temp_file_path)
+        audioclip.write_audiofile(file_path)
+        audioclip.close()
+
+        # Set ID3 tags
+        audiofile = eyed3.load(file_path)
+        if audiofile.tag is None:
+            audiofile.initTag()
+        audiofile.tag.title = title
+        audiofile.tag.artist = artist
+        audiofile.tag.album = album
+
+        # Download and set thumbnail as album cover
+        response = requests.get(thumbnail_url)
+        if response.status_code == 200:
+            with open("thumbnail.jpg", "wb") as img_file:
+                img_file.write(response.content)
+            with open("thumbnail.jpg", "rb") as img_file:
+                img_data = img_file.read()
+            audiofile.tag.images.set(3, img_data, "image/jpeg")
+            os.remove("thumbnail.jpg")
+
+        audiofile.tag.save()
+
+        # Remove temporary mp4 file
+        os.remove(temp_file_path)
+        print(f"✅ download completed and saved as {file_name}")
 
     def run(self):
         print('going for mp3 🔥🚀')
@@ -91,14 +127,14 @@ class DownloadMp3:
         # print(json.dumps(items, indent=4))
         print(f"👉 found {len(items)} items")
         # check local json file
-        if os.path.exists(self.path):
-            with open(self.path, 'r') as f:
+        if os.path.exists(self.path_playlist):
+            with open(self.path_playlist, 'r') as f:
                 playlist_json = json.load(f)
                 print(f"👉 found {len(playlist_json)} items in local json")
                 matched_items = 0
-                for item in items:
+                for item in items[:]:
                     if not self.is_item_in_playlist_json(item, playlist_json):
-                        print(f"👉 new song found: {item['title']}")
+                        # print(f"👉 new song found: {item['title']}")
                         playlist_json.append({
                             'title': item['title'],
                             'thumbnail_url': item['thumbnail_url'],
@@ -107,18 +143,20 @@ class DownloadMp3:
                         })
                     else:
                         # print(f"✅ song already exists: {item['title']}")
+                        items.remove(item)
                         matched_items += 1
                 print(f"👉 {matched_items} songs already exist in local json")
-                with open(self.path, 'w') as f:
+                with open(self.path_playlist, 'w') as f:
                     json.dump(playlist_json, f, indent=2)
         # download all items
-        # print(f"👉 start download {len(items)} items")
-        # for item in items:
-        #     video_id = item['video_id']
-        #     video_url = item['video_url']
-        #     title = item['title']
-        #     thumbnail_url = item['thumbnail_url']
-        #     artist = item['artist']
-        #     album = item['album']
-        #     print(f"👉 start download {title} - {artist}")
-        #     self.download_audio(video_url)
+        print(f"👉 start download {len(items)} items 🔥")
+        for item in items:
+            album_part_for_file_name = f" - {item['album']}" if item['album'] else ''
+            file_name = f"{item['title']} - {item['artist']}{album_part_for_file_name}.mp3"
+            file_path = os.path.join(self.path_playlist, file_name)
+            if os.path.exists(file_path):
+                print(f"✅ {file_name} already exists locally, skipping download.")
+                continue
+            print(f"👉 {file_name} not found locally, downloading...")
+            self.download_audio(file_name, item['video_url'], item['title'],
+                                item['album'], item['artist'], item['thumbnail_url'])
