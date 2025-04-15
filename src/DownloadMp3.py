@@ -8,6 +8,10 @@ import os
 import json
 # internal project imports
 from constants import playlistIdForMusic, playlistUrlForMusic, pathForMusic
+# asd
+import eyed3
+import requests
+from moviepy import *
 
 
 class DownloadMp3:
