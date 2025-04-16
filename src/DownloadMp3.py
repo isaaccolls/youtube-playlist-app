@@ -13,6 +13,8 @@ import eyed3
 import requests
 from moviepy import *
 
+from mutagen.mp4 import MP4, MP4Cover
+
 
 class DownloadMp3:
     def __init__(self):
@@ -66,43 +68,35 @@ class DownloadMp3:
         yt = YouTube(video_url, on_progress_callback=on_progress)
         print(f"👉 start download {title}")
 
-        # Define the file name
-        file_path = os.path.join(self.path_file, file_name)
+        # Define the file name with .m4a extension
+        m4a_file_name = f"{file_name}.m4a"
+        m4a_file_path = os.path.join(self.path_file, m4a_file_name)
 
-        # Download the audio
+        # Download the audio as .m4a
         ys = yt.streams.get_audio_only()
-        temp_file_path = os.path.join(self.path_file, f"{title}.mp4")
-        ys.download(output_path=self.path_file,
-                    filename=f"{title}.mp4")
+        ys.download(output_path=self.path_file, filename=m4a_file_name)
 
-        # Convert to mp3 and set ID3 tags
-        audioclip = AudioFileClip(temp_file_path)
-        audioclip.write_audiofile(file_path)
-        audioclip.close()
+        # Set metadata for .m4a file
+        try:
+            audiofile = MP4(m4a_file_path)
+            audiofile["\xa9nam"] = title  # Title
+            audiofile["\xa9ART"] = artist  # Artist
+            audiofile["\xa9alb"] = album  # Album
 
-        # Set ID3 tags
-        audiofile = eyed3.load(file_path)
-        if audiofile.tag is None:
-            audiofile.initTag()
-        audiofile.tag.title = title
-        audiofile.tag.artist = artist
-        audiofile.tag.album = album
+            # Download and set thumbnail as album cover
+            response = requests.get(thumbnail_url)
+            if response.status_code == 200:
+                audiofile["covr"] = [
+                    MP4Cover(response.content,
+                             imageformat=MP4Cover.FORMAT_JPEG)
+                ]
 
-        # Download and set thumbnail as album cover
-        response = requests.get(thumbnail_url)
-        if response.status_code == 200:
-            with open("thumbnail.jpg", "wb") as img_file:
-                img_file.write(response.content)
-            with open("thumbnail.jpg", "rb") as img_file:
-                img_data = img_file.read()
-            audiofile.tag.images.set(3, img_data, "image/jpeg")
-            os.remove("thumbnail.jpg")
+            audiofile.save()
+        except Exception as e:
+            print(f"🚫 Error setting metadata for .m4a: {e}")
+            return
 
-        audiofile.tag.save()
-
-        # Remove temporary mp4 file
-        os.remove(temp_file_path)
-        print(f"✅ download completed and saved as {file_name}")
+        print(f"✅ download completed and saved as {m4a_file_name}")
 
     def run(self):
         print('going for mp3 🔥🚀')
@@ -156,8 +150,8 @@ class DownloadMp3:
         print(f"👉 start download {len(items)} items 🔥")
         for item in items:
             album_part_for_file_name = f" - {item['album']}" if item['album'] else ''
-            file_name = f"{item['title']} - {item['artist']}{album_part_for_file_name}.mp3"
-            file_path = os.path.join(self.path_playlist, file_name)
+            file_name = f"{item['title']} - {item['artist']}{album_part_for_file_name}"
+            file_path = os.path.join(self.path_file, file_name)
             if os.path.exists(file_path):
                 print(f"✅ {file_name} already exists locally, skipping download.")
                 continue
