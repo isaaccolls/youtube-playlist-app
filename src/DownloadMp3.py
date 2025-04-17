@@ -14,6 +14,9 @@ import requests
 from moviepy import *
 
 from mutagen.mp4 import MP4, MP4Cover
+from mutagen.mp3 import MP3
+
+from yt_dlp import YoutubeDL
 
 
 class DownloadMp3:
@@ -65,45 +68,62 @@ class DownloadMp3:
         )
 
     def download_audio(self, file_name, video_url, title, album, artist, thumbnail_url):
-        yt = YouTube(video_url, on_progress_callback=on_progress)
         print(f"👉 start download {title}")
 
-        # Define the file name with .m4a extension
-        m4a_file_name = f"{file_name}.m4a"
-        m4a_file_path = os.path.join(self.path_file, m4a_file_name)
+        # Define the file name with .mp3 extension
+        file_path = os.path.join(self.path_file, file_name)
+        mp3_file_name = f"{file_name}.mp3"
+        mp3_file_path = os.path.join(self.path_file, mp3_file_name)
 
-        # Download the audio as .m4a
-        ys = yt.streams.get_audio_only()
-        ys.download(output_path=self.path_file, filename=m4a_file_name)
-
-        # Set metadata for .m4a file
+        # Use yt-dlp to download the audio and convert to MP3
+        ydl_opts = {
+            'format': 'bestaudio/best',
+            'outtmpl': file_path,
+            'postprocessors': [{
+                'key': 'FFmpegExtractAudio',
+                'preferredcodec': 'mp3',
+                'preferredquality': '192',
+            }],
+        }
         try:
-            audiofile = MP4(m4a_file_path)
-            audiofile["\xa9nam"] = title  # Title
-            audiofile["\xa9ART"] = artist  # Artist
-            audiofile["\xa9alb"] = album  # Album
+            with YoutubeDL(ydl_opts) as ydl:
+                ydl.download([video_url])
+        except Exception as e:
+            print(f"🚫 Error downloading {title}: {e}")
+            return
+
+        # Set metadata for .mp3 file
+        try:
+            audiofile = eyed3.load(mp3_file_path)
+            if audiofile.tag is None:
+                audiofile.initTag()
+            # Set ID3 tags
+            audiofile.tag.title = title
+            audiofile.tag.artist = artist
+            audiofile.tag.album = album
 
             # Download and set thumbnail as album cover
             response = requests.get(thumbnail_url)
             if response.status_code == 200:
-                audiofile["covr"] = [
-                    MP4Cover(response.content,
-                             imageformat=MP4Cover.FORMAT_JPEG)
-                ]
+                with open("thumbnail.jpg", "wb") as img_file:
+                    img_file.write(response.content)
+                with open("thumbnail.jpg", "rb") as img_file:
+                    img_data = img_file.read()
+                audiofile.tag.images.set(3, img_data, "image/jpeg")
+                os.remove("thumbnail.jpg")
 
-            audiofile.save()
+            audiofile.tag.save()
         except Exception as e:
-            print(f"🚫 Error setting metadata for .m4a: {e}")
+            print(f"🚫 Error setting metadata for .mp3: {e}")
             return
 
-        print(f"✅ download completed and saved as {m4a_file_name}")
+        print(f"✅ download completed and saved as {mp3_file_name}")
 
     def run(self):
         print('going for mp3 🔥🚀')
         # get playlist info
         try:
             playlist = self.check_playlist(self.playlist_id)
-            # playlist = {'tracks': []}
         except Exception as e:
             print(f"🚫 error getting playlist info: {e}")
             return
@@ -150,9 +170,13 @@ class DownloadMp3:
         print(f"👉 start download {len(items)} items 🔥")
         for item in items:
             album_part_for_file_name = f" - {item['album']}" if item['album'] else ''
+            #
             file_name = f"{item['title']} - {item['artist']}{album_part_for_file_name}"
-            file_path = os.path.join(self.path_file, file_name)
-            if os.path.exists(file_path):
+            # file_path = os.path.join(self.path_file, file_name)
+            #
+            mp3_file_name = f"{file_name}.mp3"
+            mp3_file_path = os.path.join(self.path_file, mp3_file_name)
+            if os.path.exists(mp3_file_path):
                 print(f"✅ {file_name} already exists locally, skipping download.")
                 continue
             print(f"👉 {file_name} not found locally, downloading...")
