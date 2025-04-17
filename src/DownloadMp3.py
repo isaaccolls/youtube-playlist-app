@@ -17,6 +17,7 @@ from mutagen.mp4 import MP4, MP4Cover
 from mutagen.mp3 import MP3
 
 from yt_dlp import YoutubeDL
+import re
 
 
 class DownloadMp3:
@@ -67,18 +68,19 @@ class DownloadMp3:
             for existing_item in playlist_json
         )
 
+    def sanitize_filename(self, name):
+        return re.sub(r'[\/\\\:\*\?\"\<\>\|]', '_', name)
+
     def download_audio(self, file_name, video_url, title, album, artist, thumbnail_url):
         print(f"👉 start download {title}")
-
-        # Define the file name with .mp3 extension
-        file_path = os.path.join(self.path_file, file_name)
         mp3_file_name = f"{file_name}.mp3"
         mp3_file_path = os.path.join(self.path_file, mp3_file_name)
+        aux_file_path = os.path.join(self.path_file, file_name)
 
         # Use yt-dlp to download the audio and convert to MP3
         ydl_opts = {
             'format': 'bestaudio/best',
-            'outtmpl': file_path,
+            'outtmpl': aux_file_path,
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
                 'preferredcodec': 'mp3',
@@ -90,7 +92,7 @@ class DownloadMp3:
                 ydl.download([video_url])
         except Exception as e:
             print(f"🚫 Error downloading {title}: {e}")
-            return
+            return False
 
         # Set metadata for .mp3 file
         try:
@@ -115,9 +117,10 @@ class DownloadMp3:
             audiofile.tag.save()
         except Exception as e:
             print(f"🚫 Error setting metadata for .mp3: {e}")
-            return
+            return False
 
-        print(f"✅ download completed and saved as {mp3_file_name}")
+        print(f"✅ download completed and saved as {file_name}")
+        return True
 
     def run(self):
         print('going for mp3 🔥🚀')
@@ -145,40 +148,35 @@ class DownloadMp3:
         # print(json.dumps(items, indent=4))
         print(f"👉 found {len(items)} items")
         # check local json file
+        playlist_json = []
         if os.path.exists(self.path_playlist):
             with open(self.path_playlist, 'r') as f:
                 playlist_json = json.load(f)
-                print(f"👉 found {len(playlist_json)} items in local json")
-                matched_items = 0
-                for item in items[:]:
-                    if not self.is_item_in_playlist_json(item, playlist_json):
-                        # print(f"👉 new song found: {item['title']}")
-                        playlist_json.append({
-                            'title': item['title'],
-                            'thumbnail_url': item['thumbnail_url'],
-                            'artist': item['artist'],
-                            'album': item['album'],
-                        })
-                    else:
-                        # print(f"✅ song already exists: {item['title']}")
-                        items.remove(item)
-                        matched_items += 1
-                print(f"👉 {matched_items} songs already exist in local json")
-                with open(self.path_playlist, 'w') as f:
-                    json.dump(playlist_json, f, indent=2)
-        # download all items
+
         print(f"👉 start download {len(items)} items 🔥")
         for item in items:
-            album_part_for_file_name = f" - {item['album']}" if item['album'] else ''
-            #
-            file_name = f"{item['title']} - {item['artist']}{album_part_for_file_name}"
-            # file_path = os.path.join(self.path_file, file_name)
-            #
-            mp3_file_name = f"{file_name}.mp3"
+            # Sanitize file name components
+            sanitized_title = self.sanitize_filename(item['title'])
+            sanitized_artist = self.sanitize_filename(item['artist'])
+            sanitized_album = self.sanitize_filename(item['album'])
+            album_part_for_file_name = f" - {sanitized_album}" if sanitized_album else ''
+            sanitized_file_name = f"{sanitized_artist}{album_part_for_file_name} - {sanitized_title}"
+            mp3_file_name = f"{sanitized_file_name}.mp3"
             mp3_file_path = os.path.join(self.path_file, mp3_file_name)
             if os.path.exists(mp3_file_path):
-                print(f"✅ {file_name} already exists locally, skipping download.")
+                print(
+                    f"✅ {mp3_file_name} already exists locally, skipping download.")
                 continue
-            print(f"👉 {file_name} not found locally, downloading...")
-            self.download_audio(file_name, item['video_url'], item['title'],
-                                item['album'], item['artist'], item['thumbnail_url'])
+            print(f"👉 {mp3_file_name} not found locally, downloading...")
+            success = self.download_audio(sanitized_file_name, item['video_url'], item['title'],
+                                          item['album'], item['artist'], item['thumbnail_url'])
+            if success:
+                # Add to playlist.json only if download was successful
+                playlist_json.append({
+                    'title': item['title'],
+                    'thumbnail_url': item['thumbnail_url'],
+                    'artist': item['artist'],
+                    'album': item['album'],
+                })
+                with open(self.path_playlist, 'w') as f:
+                    json.dump(playlist_json, f, indent=2)
