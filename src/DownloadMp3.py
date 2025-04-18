@@ -18,6 +18,7 @@ from mutagen.mp3 import MP3
 
 from yt_dlp import YoutubeDL
 import re
+import time
 
 
 class DownloadMp3:
@@ -104,19 +105,33 @@ class DownloadMp3:
             audiofile.tag.artist = artist
             audiofile.tag.album = album
 
-            # Download and set thumbnail as album cover
-            response = requests.get(thumbnail_url)
-            if response.status_code == 200:
-                with open("thumbnail.jpg", "wb") as img_file:
-                    img_file.write(response.content)
-                with open("thumbnail.jpg", "rb") as img_file:
-                    img_data = img_file.read()
-                audiofile.tag.images.set(3, img_data, "image/jpeg")
-                os.remove("thumbnail.jpg")
+            # Download and set thumbnail as album cover with retries
+            max_retries = 100
+            retry_delay = 5
+            for attempt in range(max_retries):
+                try:
+                    response = requests.get(thumbnail_url, timeout=10)
+                    if response.status_code == 200:
+                        with open("thumbnail.jpg", "wb") as img_file:
+                            img_file.write(response.content)
+                        with open("thumbnail.jpg", "rb") as img_file:
+                            img_data = img_file.read()
+                        audiofile.tag.images.set(3, img_data, "image/jpeg")
+                        os.remove("thumbnail.jpg")
+                        break
+                except Exception as e:
+                    print(f"⚠️ Attempt {attempt + 1} failed: {e}")
+                    if attempt < max_retries - 1:
+                        time.sleep(retry_delay)
+                    else:
+                        raise
 
             audiofile.tag.save()
         except Exception as e:
             print(f"🚫 Error setting metadata for .mp3: {e}")
+            # Delete the incomplete file
+            if os.path.exists(mp3_file_path):
+                os.remove(mp3_file_path)
             return False
 
         print(f"✅ download completed and saved as {file_name}")
@@ -180,3 +195,4 @@ class DownloadMp3:
                 })
                 with open(self.path_playlist, 'w') as f:
                     json.dump(playlist_json, f, indent=2)
+            time.sleep(1)
