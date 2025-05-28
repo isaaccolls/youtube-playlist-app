@@ -27,6 +27,7 @@ class DownloadMp3:
         self.playlist_id = str(playlistIdForMusic)
         self.path_playlist = pathForMusic + 'playlist.json'
         self.path_file = pathForMusic
+        self.cookies_file = "cookies.txt"
 
     def check_playlist(self, playlist_id):
         print(f"👉 Checking playlist {playlist_id}")
@@ -87,6 +88,7 @@ class DownloadMp3:
                 'preferredcodec': 'mp3',
                 'preferredquality': '192',
             }],
+            'cookiefile': self.cookies_file,
         }
         try:
             with YoutubeDL(ydl_opts) as ydl:
@@ -139,6 +141,14 @@ class DownloadMp3:
 
     def run(self):
         print('going for mp3 🔥🚀')
+        # check cookies file
+        if not os.path.exists(self.cookies_file):
+            print(
+                f"🚫 Error: El archivo de cookies '{self.cookies_file}' no existe.")
+            return False
+        else:
+            print(f"✅ Archivo de cookies encontrado: {self.cookies_file}")
+        # end check cookies file
         # get playlist info
         try:
             playlist = self.check_playlist(self.playlist_id)
@@ -170,6 +180,11 @@ class DownloadMp3:
 
         print(f"👉 start download {len(items)} items 🔥")
         for item in items:
+            # Check if item is already in the playlist JSON
+            if self.is_item_in_playlist_json(item, playlist_json):
+                print(
+                    f"✅ {item['title']} already exists in playlist.json, skipping...")
+                continue
             # Sanitize file name components
             sanitized_title = self.sanitize_filename(item['title'])
             sanitized_artist = self.sanitize_filename(item['artist'])
@@ -195,4 +210,7 @@ class DownloadMp3:
                 })
                 with open(self.path_playlist, 'w') as f:
                     json.dump(playlist_json, f, indent=2)
-            time.sleep(1)
+                print("success sleep 😴")
+                time.sleep(30)
+            print("global sleep 😴")
+            time.sleep(15)
