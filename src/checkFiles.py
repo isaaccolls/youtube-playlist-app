@@ -44,7 +44,8 @@ def main():
 
         mp3_file_path = os.path.join(path_file, mp3_file_name)
         if mp3_file_name in mp3_files:
-            print(f"✅ {mp3_file_name} existe.")
+            # print(f"✅ {mp3_file_name} existe.")
+            pass
         else:
             print(f"❌ {mp3_file_name} NO existe.")
 

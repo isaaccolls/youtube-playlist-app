@@ -1,4 +1,4 @@
-playlistIdForMusic = 'PL_8z4vyyerkO0OsXupspGzzw3-XSjC-01'
+playlistIdForMusic = 'VLPL_8z4vyyerkP05KQnFfYCyC2NkWWBq0y0'
 playlistUrlForMusic = f'https://www.youtube.com/playlist?list={playlistIdForMusic}'
 playlistUrlForVideo = 'PL_8z4vyyerkMhM-RSZkTpq0zELxXTVyzq'
 pathForMusic = 'data/mp3/'
