@@ -110,9 +110,11 @@ class DownloadMp3:
             # Download and set thumbnail as album cover with retries
             max_retries = 100
             retry_delay = 5
+            thumbnail_success = False
             for attempt in range(max_retries):
                 try:
                     response = requests.get(thumbnail_url, timeout=10)
+                    print(f"response status code: {response.status_code}")
                     if response.status_code == 200:
                         with open("thumbnail.jpg", "wb") as img_file:
                             img_file.write(response.content)
@@ -120,13 +122,21 @@ class DownloadMp3:
                             img_data = img_file.read()
                         audiofile.tag.images.set(3, img_data, "image/jpeg")
                         os.remove("thumbnail.jpg")
+                        thumbnail_success = True
                         break
+                    else:
+                        error_message = f"⚠️ Attempt {attempt + 1} failed: status code {response.status_code}"
+                        print(error_message)
                 except Exception as e:
                     print(f"⚠️ Attempt {attempt + 1} failed: {e}")
-                    if attempt < max_retries - 1:
-                        time.sleep(retry_delay)
-                    else:
-                        raise
+                if attempt < max_retries - 1:
+                    time.sleep(retry_delay)
+            if not thumbnail_success:
+                print(
+                    f"🚫 Error: No se pudo descargar la miniatura tras {max_retries} intentos. Eliminando {mp3_file_path}")
+                if os.path.exists(mp3_file_path):
+                    os.remove(mp3_file_path)
+                return False
 
             audiofile.tag.save()
         except Exception as e:
