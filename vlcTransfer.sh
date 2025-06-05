@@ -12,8 +12,11 @@ TOTAL_FILES=$(find "$MP3_DIR" -maxdepth 1 -type f -name '*.mp3' | wc -l)
 echo "🎵 Archivos mp3 detectados para copiar: $TOTAL_FILES"
 
 COPIED=0
+CURRENT=1
 
 find "$MP3_DIR" -maxdepth 1 -type f -name '*.mp3' -print0 | while IFS= read -r -d '' file; do
+  echo "🔢 Copiando canción $CURRENT de $TOTAL_FILES"
+  echo "exitosamente copiados: $COPIED de $TOTAL_FILES"
   if [[ -r "$file" ]]; then
     # Crear archivo temporal seguro
     temp_file=$(mktemp "$TEMP_DIR/upload_XXXXXX.mp3")
@@ -40,6 +43,7 @@ find "$MP3_DIR" -maxdepth 1 -type f -name '*.mp3' -print0 | while IFS= read -r -
     echo "❌ No se puede leer el archivo: $file"
   fi
   echo "----------------------------------------"
+  ((CURRENT++))
 done
 
 # Mostrar resumen al finalizar
