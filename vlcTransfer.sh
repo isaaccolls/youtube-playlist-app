@@ -18,7 +18,6 @@ find "$MP3_DIR" -maxdepth 1 -type f -name '*.mp3' -print0 | while IFS= read -r -
   echo "🔢 Copiando canción $CURRENT de $TOTAL_FILES"
   echo "exitosamente copiados: $COPIED de $TOTAL_FILES"
   if [[ -r "$file" ]]; then
-    # Crear archivo temporal seguro
     temp_file=$(mktemp "$TEMP_DIR/upload_XXXXXX.mp3")
     cp "$file" "$temp_file"
     echo "🚀 Upload: $temp_file (original: $(basename "$file"))"
@@ -26,15 +25,21 @@ find "$MP3_DIR" -maxdepth 1 -type f -name '*.mp3' -print0 | while IFS= read -r -
     echo -n "$temp_file" | xxd
     ls -l "$temp_file"
     if [[ -r "$temp_file" ]]; then
-      LC_ALL=en_US.UTF-8 curl -F "files[]=@${temp_file}" -- "$UPLOAD_URL"
-      CURL_EXIT=$?
+      RETRY=1
+      while true; do
+        LC_ALL=en_US.UTF-8 curl -F "files[]=@${temp_file}" -- "$UPLOAD_URL"
+        CURL_EXIT=$?
+        if [[ $CURL_EXIT -eq 0 ]]; then
+          echo "✅ Uploaded: $file"
+          ((COPIED++))
+          break
+        else
+          echo "❌ Error al subir: $file (curl exit code: $CURL_EXIT) - Reintento #$RETRY"
+          sleep 2
+          ((RETRY++))
+        fi
+      done
       rm -f "$temp_file"
-      if [[ $CURL_EXIT -eq 0 ]]; then
-        echo "✅ Uploaded: $file"
-        ((COPIED++))
-      else
-        echo "❌ Error al subir: $file (curl exit code: $CURL_EXIT)"
-      fi
     else
       echo "❌ Archivo temporal no legible: $temp_file"
       rm -f "$temp_file"
