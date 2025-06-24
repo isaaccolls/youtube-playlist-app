@@ -5,7 +5,7 @@ export LC_ALL=en_US.UTF-8
 
 MP3_DIR="/home/isaac/Projects/youtube-playlist-app/data/mp3"
 TEMP_DIR="/home/isaac/Projects/youtube-playlist-app/data/temporal"
-UPLOAD_URL="http://192.168.7.140/upload.json"
+UPLOAD_URL="http://192.168.7.247:53497/upload.json"
 
 # Contar archivos mp3 detectados
 TOTAL_FILES=$(find "$MP3_DIR" -maxdepth 1 -type f -name '*.mp3' | wc -l)
