@@ -21700,5 +21700,629 @@
     "thumbnail_url": "https://lh3.googleusercontent.com/98snKi1IDqTdel7azt61qKGzHqscsdLY0tddZ0wQqvDqP9-dWgPnsLp4qtotNWUD02MeJzJbce_Kzv-K=w120-h120-l90-rj",
     "artist": "Myke Towers",
     "album": "LA PANTERA NEGRA (DELUXE)"
+  },
+  {
+    "title": "Girl",
+    "thumbnail_url": "https://lh3.googleusercontent.com/KsiUchIbD5iX1rXiZevwRlLSa2P95_yb6hqwLhdcAkT5gUFDm527mUuBCUVAGS0RuvJWRynnBqOy9Pb5=w120-h120-l90-rj",
+    "artist": "Myke Towers",
+    "album": "Easy Money Baby"
+  },
+  {
+    "title": "Scene Seven: I. The Dance of Eternity",
+    "thumbnail_url": "https://lh3.googleusercontent.com/AGR3xR55KeAI3bg_NI13UmMEFCVEPTX4eCs01ZuJwhfFRshgWxSquuT4RCyIyM97rRYjXiYaZIhgcw8=w120-h120-l90-rj",
+    "artist": "Dream Theater",
+    "album": "Metropolis, Pt. 2: Scenes from a Memory"
+  },
+  {
+    "title": "Answering the Call",
+    "thumbnail_url": "https://lh3.googleusercontent.com/Uo-52tmjg__t0OeGNSuXPdKv6bk7sennl_7mIFUlOh5Yh-U_5eaJGL-86n039Q1NlouTse4y_gtG5-bn=w120-h120-l90-rj",
+    "artist": "Dream Theater",
+    "album": "A View from the Top of the World"
+  },
+  {
+    "title": "Endless Sacrifice",
+    "thumbnail_url": "https://lh3.googleusercontent.com/KhdMsAYh7aGyjho0gLLOmPKilHUy4Y6kVjNvvwzHwl3mx-AC9SwXn68zUUDhqg7lgqlkksAyHhkGJ94=w120-h120-l90-rj",
+    "artist": "Dream Theater",
+    "album": "Train of Thought"
+  },
+  {
+    "title": "Scene Two: I. Overture 1928",
+    "thumbnail_url": "https://lh3.googleusercontent.com/AGR3xR55KeAI3bg_NI13UmMEFCVEPTX4eCs01ZuJwhfFRshgWxSquuT4RCyIyM97rRYjXiYaZIhgcw8=w120-h120-l90-rj",
+    "artist": "Dream Theater",
+    "album": "Metropolis, Pt. 2: Scenes from a Memory"
+  },
+  {
+    "title": "Abayarde",
+    "thumbnail_url": "https://lh3.googleusercontent.com/7oO30SQlZL84pzcIJff-g5VwtZjQMp7HA-Qds2Y9viRCudYvXtTsVnZjOO1GdZ8YDE_75DAD2lQ7PmPHcQ=w120-h120-l90-rj",
+    "artist": "Tego Calderon",
+    "album": "El Abayarde"
+  },
+  {
+    "title": "Burda \u00b4E Malandro",
+    "thumbnail_url": "https://lh3.googleusercontent.com/vPPxvJrkVXd5jr1_4oqIEWGmolSR0j9L90-X5oBZkogQ0A-qSC554jTqcIq2eZn9cksh1YtWIi5jKEo=w120-h120-l90-rj",
+    "artist": "3 Due\u00f1os",
+    "album": "Lujos y Detalles"
+  },
+  {
+    "title": "4 Ninjas",
+    "thumbnail_url": "https://lh3.googleusercontent.com/fROWxPwjsX3GsTmow6lFM6-XtC4gNj-S1sfOdcJV_Lf6kRwyFV3eIdIYa90OpMpzLU3nNSE85MttunU=w120-h120-l90-rj",
+    "artist": "Reke, Apache, Nasty Killah & Shotman",
+    "album": "4 Ninjas"
+  },
+  {
+    "title": "5 Am (feat. Tayko)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/PTt9BVAHgVCPfYgi3SaVxfgxtu_EryMjku5PtxEQJcwVt3SEb7pJTdRtbemMSlBqxi_FcmPHASiD2dmrHA=w120-h120-l90-rj",
+    "artist": "Motherflowers",
+    "album": "Motherflowers"
+  },
+  {
+    "title": "Prende el Blond",
+    "thumbnail_url": "https://lh3.googleusercontent.com/IO-fb2avpSOJGbL3xUXNHlDas5A97R6Iwe8Za1tAECj-5_u56cqxy2n4duvjA13-f_hKyyAQRgdVWxCE=w120-h120-l90-rj",
+    "artist": "Rasta MC",
+    "album": "Face to Face With The Life"
+  },
+  {
+    "title": "Como Mario",
+    "thumbnail_url": "https://lh3.googleusercontent.com/EHGA0FuIuyZkn4eSALqNzMfEmQGSEeMhJughjeheq7Ts5Gei2z6AAGfup9azWPWGxRTioLFLUTQ244ZXlQ=w120-h120-l90-rj",
+    "artist": "Akapellah",
+    "album": "Como Mario"
+  },
+  {
+    "title": "Marooned",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BIaB524Ix4c6mUgRy6PRPxZB80RdUXesmgNnqMI4oDOlLqvUOr-B4Ur5wP5uMn6-ImtPsQ7ppubf1OocsQ=w120-h120-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "The Division Bell"
+  },
+  {
+    "title": "Another Brick In The Wall (Part 2)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/QzNl1QDss7d8vpvjiK7w8ZEHw1rhGQCMux0_S2WHv3eRrIb7wxIyZX0g2BB6zlaF1ZYF0JcJbNcA2r0=w120-h120-s-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "The Wall"
+  },
+  {
+    "title": "Have You Ever Seen The Rain",
+    "thumbnail_url": "https://lh3.googleusercontent.com/8idZ5vqqC-UO_uSN9VZch3q2sNTEsWkP9JPYEbAPLuIO26Iv2fEXfwK5Ls9x8Cu7ntwSeHqo0JS_hsWe=w120-h120-l90-rj",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Pendulum (Expanded Edition)"
+  },
+  {
+    "title": "Any Colour You Like (2023 Remaster)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/vNWczwBTlT_z8MrL1lqn2IumPr1jjbUCdOLGOEWEWJMefZ-LYozxiIP9dgGpuMUzY3grRNpa07ytyvYq=w120-h120-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]"
+  },
+  {
+    "title": "Wish You Were Here (Live, Delicate Sound Of Thunder) [2019 Remix]",
+    "thumbnail_url": "https://lh3.googleusercontent.com/A39rAoKH1tmu0gQ4JMw_oSTAtUEFLaW6huW3kcFMumb1Gz3ry_RcCcRzm-igPY7x5V9Nb8PcLwt3nfD2BA=w120-h120-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "The Later Years"
+  },
+  {
+    "title": "The Great Gig In The Sky",
+    "thumbnail_url": "https://lh3.googleusercontent.com/_paRRN5EbhFVQfQIxRa7tmHXiX_aPu4Xbz_HD3M87GO5HCLD6Tj4Va7otQWsSWxxoXg6ByWX0HYGFnwi=w120-h120-s-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon"
+  },
+  {
+    "title": "Breathe (In The Air) [2023 Remaster]",
+    "thumbnail_url": "https://lh3.googleusercontent.com/vNWczwBTlT_z8MrL1lqn2IumPr1jjbUCdOLGOEWEWJMefZ-LYozxiIP9dgGpuMUzY3grRNpa07ytyvYq=w120-h120-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]"
+  },
+  {
+    "title": "Comfortably Numb",
+    "thumbnail_url": "https://lh3.googleusercontent.com/B4mJUDAE5Lc_H0foaB2WQbHteADpsMPZpXaJ83G7IM3wFZI0LEXeOXCIm7gb6RTk86fkfAazyzncQYFR=w120-h120-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "Echoes: The Best of Pink Floyd"
+  },
+  {
+    "title": "Don't Let Me Down (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/74ZlD_ClwO8pdKlooxk3BWjGe1NNGU2euQepXyaWilfxceXZj2Uxn4Uk4fOk2btprCSx1lFKH-QlvrbW=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "The Beatles 1967 - 1970"
+  },
+  {
+    "title": "California Dreamin' (Single Version)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/lWZhG2XZzdtXywMzfDgF-bN3Y-eGm6iCbeTxnc77VodJntk2XndO-WU3JNLRPRgtBYRj10mGxpNnDxDL=w120-h120-s-l90-rj",
+    "artist": "The Mamas & The Papas",
+    "album": "If You Can Believe Your Eyes & Ears"
+  },
+  {
+    "title": "Let It Be",
+    "thumbnail_url": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "1"
+  },
+  {
+    "title": "Happy Together",
+    "thumbnail_url": "https://lh3.googleusercontent.com/NWAaaGbX8F7YYpqmxqPI1QnFlAfqxb6fXCBxr9upzqIth3WjTN1ccg7r2nFLsmQSw3pXTrPygGTkli6r=w120-h120-l90-rj",
+    "artist": "The Turtles",
+    "album": "Happy Together"
+  },
+  {
+    "title": "What Is Life (2020 Mix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/FRcpyG9wsHjJ6qTYwxN0jsXknzrWWUpytaBnjo5eaBKbagYNNZGnPgEA0e5ePUizBDltpYENTPPoB4P0=w120-h120-l90-rj",
+    "artist": "George Harrison",
+    "album": "All Things Must Pass (50th Anniversary;Super Deluxe)"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "thumbnail_url": "https://lh3.googleusercontent.com/9CrMB2k2WFBUGXQXlaFfwP8e5_Q8FiUqQ8ljMGWm22VyLmvLZEqBMPUNjf6FNZrmMDUBTlEsFxk88_kOCQ=w120-h120-l90-rj",
+    "artist": "Queen",
+    "album": "A Night At The Opera"
+  },
+  {
+    "title": "Come Together (2019 Mix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/g8bzAg2zxvdnm7ismLMYLA9-9azb4y6VP2uOF56A2G2rpsqLHT6mrJWXRKq_VttXQZ-o-jmVgTFIVgdj=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Abbey Road (Super Deluxe Edition)"
+  },
+  {
+    "title": "Fortunate Son",
+    "thumbnail_url": "https://lh3.googleusercontent.com/pg6n6vM3BbQ6126KGEPbcGp8IT841yQqgom-T9_EtmwznXSa0vXHOhTM8pQAvV9Fuh-Pj3hPh0_DbeaCog=w120-h120-l90-rj",
+    "artist": "Creedence Clearwater Revival",
+    "album": "Willy And The Poor Boys (Expanded Edition)"
+  },
+  {
+    "title": "Imagine (Ultimate Mix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/PM0GAJWGVc70TZcqX0vMZ-Ufhq3mKSGRbU_5gfXCjcBHFOd1X1GLSgj-HXgYtKvCQzu22IdrGunRufQ=w120-h120-l90-rj",
+    "artist": "John Lennon",
+    "album": "GIMME SOME TRUTH. (Deluxe)"
+  },
+  {
+    "title": "And I Love Her (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/EO81br_-ABNZsAoWN24yJnsNfxHoo0KGB_XEXkW-PFFT74JlNDPZlO48yONoQiQ2bbXxtn184eez2zk=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "A Hard Day's Night"
+  },
+  {
+    "title": "I Don't Want to Miss a Thing (From \"Armageddon\" Soundtrack)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/kWrgAWlosaW3C_4XAZlNnWUNVGOBmD8f4z1W30HbNEWk7xRq6LZT884at6lHZNuqGucJ5r5oUaYCMxNK=w120-h120-l90-rj",
+    "artist": "Aerosmith",
+    "album": "Armageddon - The Album"
+  },
+  {
+    "title": "Summertime",
+    "thumbnail_url": "https://lh3.googleusercontent.com/HwnLc25r-Yq0y_7XqLRnFRVGGFrqWNB8_vyB7bzTfU9MkH2WnNbMdoR5CsXIu_gwyUIsq8DRASXOeEk=w120-h120-l90-rj",
+    "artist": "Big Brother & The Holding Company & Janis Joplin",
+    "album": "Cheap Thrills"
+  },
+  {
+    "title": "The Man Who Sold The World (Live)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/DNIZYDYJrEhWE9ENvFkbDEF9Xr4-dLJ7QRqq80l7UM_ngleypDFLOUBaMxMGguI3KTDTDz5F_PRQeOA=w120-h120-s-l90-rj",
+    "artist": "Nirvana",
+    "album": "MTV Unplugged In New York"
+  },
+  {
+    "title": "Breathe (In The Air)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/_paRRN5EbhFVQfQIxRa7tmHXiX_aPu4Xbz_HD3M87GO5HCLD6Tj4Va7otQWsSWxxoXg6ByWX0HYGFnwi=w120-h120-s-l90-rj",
+    "artist": "Pink Floyd",
+    "album": "The Dark Side of the Moon"
+  },
+  {
+    "title": "Love Me Two Times (Take 3)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/3WTCa56DtXLSQUrEEv20y4cGwRyH_rqLiNatrFIDVxTLMKtAvAJl_HuMdcEQUdxPM8w29fM5_bYpZUI=w120-h120-l90-rj",
+    "artist": "The Doors",
+    "album": "Strange Days"
+  },
+  {
+    "title": "While My Guitar Gently Weeps",
+    "thumbnail_url": "https://lh3.googleusercontent.com/RvX-sRBt7B1CPW2z0vIw7kGhq8xXf7FTFZIbOQscCYadjjErfZ4H0eM62m53ExzQTe1oMDma420HejwlVA=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Love"
+  },
+  {
+    "title": "Because (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/bmG1q9eu3ub2CtYcgArvzpiehqUpZGuLsOa_B0Bxkwxdfsk9r7nRzAQy1P5dTjqerODLxq3LycWGWW5m=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Abbey Road"
+  },
+  {
+    "title": "Funeral de los 3 Sapos",
+    "thumbnail_url": "https://lh3.googleusercontent.com/EQU4HTThO42m-Xw_vAU7ThYaUyUSC2MW_fSC--rtRa1rK_1tMpSidoBRxJIckPlghW3z2nIIDSatM9ux=w120-h120-l90-rj",
+    "artist": "Prieto Gang",
+    "album": "El Pap\u00e1 del Hip Hop Venezolano"
+  },
+  {
+    "title": "Mantequilla",
+    "thumbnail_url": "https://lh3.googleusercontent.com/PkLEUB2yahXFHwKpYOtNsXddcis93PyJRu2oTHtjwy1vST-RX-Xwv2uDzj_xnQr4E7bOGywaX3v1K1bl=w120-h120-l90-rj",
+    "artist": "La Corte",
+    "album": "Imperia"
+  },
+  {
+    "title": "Leche",
+    "thumbnail_url": "https://lh3.googleusercontent.com/PkLEUB2yahXFHwKpYOtNsXddcis93PyJRu2oTHtjwy1vST-RX-Xwv2uDzj_xnQr4E7bOGywaX3v1K1bl=w120-h120-l90-rj",
+    "artist": "La Corte",
+    "album": "Imperia"
+  },
+  {
+    "title": "Fiesta de Tribu",
+    "thumbnail_url": "https://lh3.googleusercontent.com/05oaejrU1xQDeBHujXfQvirlUcVspOaQdWWQKecV6N4MdJZ7DdIoCjSbgwHD6vqB7ZsTgba46W93-zbI=w120-h120-l90-rj",
+    "artist": "El Chombo",
+    "album": "Fiesta de Tribu"
+  },
+  {
+    "title": "Chacarron (Radio Edit)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/iklDQZlDTtOv3BI9AYGSy1YaqoRBPyV0A7eIRQ7no3Rnz2G7dVyqBuz9puOHCl7yDSDlCkvamfks8F7r=w120-h120-l90-rj",
+    "artist": "El Chombo",
+    "album": "Chacarron"
+  },
+  {
+    "title": "Dame Tu Cosita (feat. Cutty Ranks)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/e39fMPo94eJlOGL9yNMn25xItESk6eiyNEmgo7yA4p2INQL19_xHLA9Z9kyEgpKXE2ILcU92zN65KrD66A=w120-h120-l90-rj",
+    "artist": "El Chombo",
+    "album": "Dame Tu Cosita"
+  },
+  {
+    "title": "Papi Chulo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/I0sI72h3TQ6C5fv7laPQlVEhLQ6KhfoN7RwgHguJVMuTSPNhwtUFnKoMb_Ih8u8rlUkjvLvsaLI6sESE=w120-h120-l90-rj",
+    "artist": "El Chombo",
+    "album": "A Mover el Culo Con el Chombo"
+  },
+  {
+    "title": "Chacarr\u00f3n",
+    "thumbnail_url": "https://lh3.googleusercontent.com/I0sI72h3TQ6C5fv7laPQlVEhLQ6KhfoN7RwgHguJVMuTSPNhwtUFnKoMb_Ih8u8rlUkjvLvsaLI6sESE=w120-h120-l90-rj",
+    "artist": "El Chombo",
+    "album": "A Mover el Culo Con el Chombo"
+  },
+  {
+    "title": "Quieren Chorizo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/I0sI72h3TQ6C5fv7laPQlVEhLQ6KhfoN7RwgHguJVMuTSPNhwtUFnKoMb_Ih8u8rlUkjvLvsaLI6sESE=w120-h120-l90-rj",
+    "artist": "El Chombo",
+    "album": "A Mover el Culo Con el Chombo"
+  },
+  {
+    "title": "A Tite Lo Entierran... (Remix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Te Meto la Ver...Dad (Remix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Kung fu & Robert\u00a0Dance",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Speedy Gonzalez al Baile Llego",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Papa Crack",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "La Papa Rusa",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & El Camarada",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "A Que Te Lo Meten...",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Danger Man",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "El Conde (La Cazavampiros)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Baby Jarros",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Me Pasa la Corriente",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Dangerous",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "A Tite Lo Entierran...",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Danger Man",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Un Volvo",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Junior Ranks",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Te Meto la Ver...Dad",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Kung fu & Robert\u00a0Dance",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Bien Mama!",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Vissi",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Como Culebra",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Papa Chan",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "La Pi\u00f1a Pelaa",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Jam & Suppose",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "Lleg\u00f3 la Cripta",
+    "thumbnail_url": "https://lh3.googleusercontent.com/BuuxQl7fGH2qYiRcoixVKsYskvJl-swY5XtXZze9jBm3GmV1u6u7tlF3M-6kjWe4v3wvH8bw9Qs54Kja=w120-h120-l90-rj",
+    "artist": "El Chombo & Aldo Ranks",
+    "album": "Cuentos de la Cripta 3"
+  },
+  {
+    "title": "El Cubo de Leche",
+    "thumbnail_url": "https://lh3.googleusercontent.com/f3My10mu7Vph2GiU_BGKjCxRoP49Rx-o4BKCK6eN0HAepKn95tEEzpcmITFb6N8V1dlX7I4psYmZ2GRo=w120-h120-l90-rj",
+    "artist": "El Chombo & Jam & Suppose",
+    "album": "Cuentos de la Cripta: Remixes"
+  },
+  {
+    "title": "Cosita (New Mix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/f3My10mu7Vph2GiU_BGKjCxRoP49Rx-o4BKCK6eN0HAepKn95tEEzpcmITFb6N8V1dlX7I4psYmZ2GRo=w120-h120-l90-rj",
+    "artist": "El Chombo & Cutty Ranks",
+    "album": "Cuentos de la Cripta: Remixes"
+  },
+  {
+    "title": "Michelle (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/IjEb5kMRk7qimcH3BCJaK85pf79X383z5KNrAxJSNOHVWC41_e66Id233ZGj1AQhH1H5AiKxQMEbHPn0=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Rubber Soul (Remastered 2009)"
+  },
+  {
+    "title": "I Want To Hold Your Hand",
+    "thumbnail_url": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "1"
+  },
+  {
+    "title": "Anna (Go To Him) (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/N5RD4QtjBE8N8F-MjvETLJMFyGVJ8y8mNKXOWurFECyv9wJfMCHq5gm6riNXCkpvhUJ9NfDqb6h6vUUGcg=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Please Please Me"
+  },
+  {
+    "title": "Do You Want To Know A Secret (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/N5RD4QtjBE8N8F-MjvETLJMFyGVJ8y8mNKXOWurFECyv9wJfMCHq5gm6riNXCkpvhUJ9NfDqb6h6vUUGcg=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Please Please Me"
+  },
+  {
+    "title": "I Should Have Known Better (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/EO81br_-ABNZsAoWN24yJnsNfxHoo0KGB_XEXkW-PFFT74JlNDPZlO48yONoQiQ2bbXxtn184eez2zk=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "A Hard Day's Night"
+  },
+  {
+    "title": "Here, There And Everywhere (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/r8_4I_rvh2kHa9Y-mSTH72Z84ncYx0SzPVLXXqaLEPYQrWqB03dizqePdZXBtAUa_La2woSY6czcx1U=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Revolver"
+  },
+  {
+    "title": "A Day In The Life",
+    "thumbnail_url": "https://lh3.googleusercontent.com/r7FUIs4CwI2tr7vFGnvIo8-EgGLBC7LOh5V3OJOIKEneTOAIhgEbUwHeAPizEa2roidqNYaAK-Su48fP1A=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)"
+  },
+  {
+    "title": "Eleanor Rigby (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/r8_4I_rvh2kHa9Y-mSTH72Z84ncYx0SzPVLXXqaLEPYQrWqB03dizqePdZXBtAUa_La2woSY6czcx1U=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Revolver"
+  },
+  {
+    "title": "We Can Work It Out (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/5XPHXKkSftFuEa_46Adoq4Iz7rc2DnlJuai-gk-iH_nVw54knyP-4wratRCL0jCYEq8adQVaYR2X0Dz8vA=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "The Beatles 1962 - 1966"
+  },
+  {
+    "title": "Love Me Do (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/N5RD4QtjBE8N8F-MjvETLJMFyGVJ8y8mNKXOWurFECyv9wJfMCHq5gm6riNXCkpvhUJ9NfDqb6h6vUUGcg=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Please Please Me"
+  },
+  {
+    "title": "Penny Lane (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/GaK6Cr-K_u3zTfIP15u9oRzopw3LQ2vm0y7AckxxuwfwZH9e4nI66aisTD1T7DHL8Ow1zMiUrg1Wqjw6=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Magical Mystery Tour"
+  },
+  {
+    "title": "Yesterday (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/cHaRyci2upQidmt3iHYeAzbkFJ_c1vXEJbpVh-RZpAnbyMNOtOAeZdNMoJnUrRMZnjipmxfxvuvBeFzhWw=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Help!"
+  },
+  {
+    "title": "Strawberry Fields Forever (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/GaK6Cr-K_u3zTfIP15u9oRzopw3LQ2vm0y7AckxxuwfwZH9e4nI66aisTD1T7DHL8Ow1zMiUrg1Wqjw6=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Magical Mystery Tour"
+  },
+  {
+    "title": "Hello, Goodbye (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/GaK6Cr-K_u3zTfIP15u9oRzopw3LQ2vm0y7AckxxuwfwZH9e4nI66aisTD1T7DHL8Ow1zMiUrg1Wqjw6=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Magical Mystery Tour"
+  },
+  {
+    "title": "Yellow Submarine (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/r8_4I_rvh2kHa9Y-mSTH72Z84ncYx0SzPVLXXqaLEPYQrWqB03dizqePdZXBtAUa_La2woSY6czcx1U=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Revolver"
+  },
+  {
+    "title": "Twist And Shout (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/N5RD4QtjBE8N8F-MjvETLJMFyGVJ8y8mNKXOWurFECyv9wJfMCHq5gm6riNXCkpvhUJ9NfDqb6h6vUUGcg=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Please Please Me"
+  },
+  {
+    "title": "Now And Then",
+    "thumbnail_url": "https://lh3.googleusercontent.com/lNd64sU8cAboiAZ0HVcYg-TWc5wS8TTKpqQUR3w0z3_r0nZ9uqEfJRxdJ0y1SdDdoVKXCO2arS3SuBLvng=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Now And Then"
+  },
+  {
+    "title": "In My Life (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/IjEb5kMRk7qimcH3BCJaK85pf79X383z5KNrAxJSNOHVWC41_e66Id233ZGj1AQhH1H5AiKxQMEbHPn0=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Rubber Soul (Remastered 2009)"
+  },
+  {
+    "title": "Help! (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/cHaRyci2upQidmt3iHYeAzbkFJ_c1vXEJbpVh-RZpAnbyMNOtOAeZdNMoJnUrRMZnjipmxfxvuvBeFzhWw=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Help!"
+  },
+  {
+    "title": "Something (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/bmG1q9eu3ub2CtYcgArvzpiehqUpZGuLsOa_B0Bxkwxdfsk9r7nRzAQy1P5dTjqerODLxq3LycWGWW5m=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Abbey Road"
+  },
+  {
+    "title": "Don\u2019t Let Me Down (First Rooftop Performance)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/0uSK3j19kosq8SmrnZZ_mlw3kL6ZWFcLRgt0cqhACJcA6cEfLgCscIllVfF-LjkuV3zhuYG6MSFih6PdMw=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Let It Be (Super Deluxe)"
+  },
+  {
+    "title": "Hey Jude",
+    "thumbnail_url": "https://lh3.googleusercontent.com/O0BM0qveWB40423x8L9AdJxuMcBhFg0x_UtCbFQ_pRwbF412bmnlKj420gEPx1wwwAVpyXHpHp35cAU=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "1"
+  },
+  {
+    "title": "Come Together (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/bmG1q9eu3ub2CtYcgArvzpiehqUpZGuLsOa_B0Bxkwxdfsk9r7nRzAQy1P5dTjqerODLxq3LycWGWW5m=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Abbey Road"
+  },
+  {
+    "title": "Here Comes The Sun (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/bmG1q9eu3ub2CtYcgArvzpiehqUpZGuLsOa_B0Bxkwxdfsk9r7nRzAQy1P5dTjqerODLxq3LycWGWW5m=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Abbey Road"
+  },
+  {
+    "title": "Let It Be (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/octdAIhLRBSYd5JKOeTsF5zNhQ4C0L3JtOnjUYPvHLtJaxXr68NVW8gUfsE05aarfaDmZe_ibrVMxo-y4g=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "Let It Be"
+  },
+  {
+    "title": "Your Mother",
+    "thumbnail_url": "https://lh3.googleusercontent.com/MjWJ6-dj3fcI_i3lO0HiFJazChP6EEGzQZHkvS-O-camIPRIARmp8dPF9_Nakafk0PF53D-HLN8IHKE=w120-h120-l90-rj",
+    "artist": "Salvatore Ganacci",
+    "album": "Your Mother"
+  },
+  {
+    "title": "Baiana (Club Mix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/iUh1JvSprWICXwzLUsQ5xId57ntGZ6fuCcb9yGXNIZF-TM4YO70ENiocMP5w9-2iteWge70RKn_LUaGyGw=w120-h120-l90-rj",
+    "artist": "Matt Sassari, CHRSTPHR & Barbatuques",
+    "album": "Baiana (Club Mix)"
+  },
+  {
+    "title": "The Sound Of San Francisco (Progressive Album Mix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/DGz81DRfjeQV0gC9C4RyG6BhwkSupP9DiMa-Prng5E9l7VAVJH2HyElzB-09Lmt9jNQycvya8oFX7o9c=w120-h120-l90-rj",
+    "artist": "Global Deejays",
+    "album": "Network - taken from Superstar"
+  },
+  {
+    "title": "98 Sunset",
+    "thumbnail_url": "https://lh3.googleusercontent.com/OAtOmRq5xbYzJh8X2MTji1SshLFhZ_SKCmmtam2wDo9ymTWJ1ERkfYFvzQtIaFhaObFQxyoRy6X--jA=w120-h120-l90-rj",
+    "artist": "Montee",
+    "album": "98 Sunset"
+  },
+  {
+    "title": "Omen",
+    "thumbnail_url": "https://lh3.googleusercontent.com/mDVPA8E4uFUuzabaWJhmJCL0JoNXT8BzQu5TpYeqyn19POLdWjtoMYKDb1-I2YeQNMXNsJWHd5niyyA=w120-h120-l90-rj",
+    "artist": "The Prodigy",
+    "album": "Invaders Must Die"
+  },
+  {
+    "title": "Dreams (2004 Remaster)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/04-WDyeMjvBMA83dVvOcYNtY1PRRYTyjfVIKcbPAFW-VyArddajFZu8WQDIVAwJiR2EnpaC21Xz8_Ybt4g=w120-h120-l90-rj",
+    "artist": "Fleetwood Mac",
+    "album": "Rumours (Deluxe Edition)"
+  },
+  {
+    "title": "While My Guitar Gently Weeps (Remastered 2009)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/8MFj-k2DNUXPKOw8BawKI291ty1Wh8V4M3J6fiq4itWkjw34ncAem60h80eMzsD2XjczahdZEF69CQ8=w120-h120-l90-rj",
+    "artist": "The Beatles",
+    "album": "The Beatles"
+  },
+  {
+    "title": "So Strung Out",
+    "thumbnail_url": "https://lh3.googleusercontent.com/URC9TUH09wT2R69i_bzXlgk_d7FIu-Qj_im0j6dzOqJtCT5eNG0aE4CIID0jNSND-SMRBsPGOEOHB32C=w120-h120-l90-rj",
+    "artist": "Aesthetic",
+    "album": "So Strung Out"
+  },
+  {
+    "title": "Another Way (Radio Mix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/HQrfp3QLQY4Kza9uxjNI42Ex8-QfrCsqbxqo9hnDH-VNsuhStYQj6k-sLdnmsECULzwPHlaM7IGlH1B7bA=w120-h120-l90-rj",
+    "artist": "Paul van Dyk",
+    "album": "Another Way / Avenue"
+  },
+  {
+    "title": "Touched by Heaven",
+    "thumbnail_url": "https://lh3.googleusercontent.com/Tw1mmTvCKba2ZJd5BN8kfyg7yOrx9QqHC3Ff2UAGfGLsRBkw0i522WPXSaJ-_4SldUNYob-CzNS_ul8Q=w120-h120-l90-rj",
+    "artist": "Paul van Dyk",
+    "album": "Touched by Heaven"
+  },
+  {
+    "title": "Surge",
+    "thumbnail_url": "https://lh3.googleusercontent.com/xNAOox57qr0R5Z_5F--ENKkGBep3WOrfr00SObsEOI_XWNCPvyL1W2infviKf1LNqByvAiQHaYvzG6jHWQ=w120-h120-l90-rj",
+    "artist": "R3DN1K",
+    "album": "Surge"
+  },
+  {
+    "title": "Crush (feat. Second Sun)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/tzqKjSKSiMA8SbhLdczzwxjPtrPhdwI7LBRIxOy8QNbnyE7Gu3kVQ_sk6FAWpmBfrlPSZvoXva-48NFM8A=w120-h120-l90-rj",
+    "artist": "Paul van Dyk",
+    "album": "Reflections"
+  },
+  {
+    "title": "What Took You So Long",
+    "thumbnail_url": "https://lh3.googleusercontent.com/vTkSIgAVBawMkdCshge26HJuiSXJkulaEi3Aeg3xF1XIgBo5mlf64K-6xLIjcYpYSt0tk8ROUBj1H1CR=w120-h120-l90-rj",
+    "artist": "Armin van Buuren & Gryffin",
+    "album": "What Took You So Long"
+  },
+  {
+    "title": "Duality",
+    "thumbnail_url": "https://lh3.googleusercontent.com/DXOf55VbgixOofvtVuAUVxOBZXXsiT_1jtrlTKnt64oVIllrOacnumNaAMyUUkoWf4rckP7V6aIKeww=w120-h120-l90-rj",
+    "artist": "Paul van Dyk",
+    "album": "Guiding Light"
+  },
+  {
+    "title": "Silence (John Summit Remix)",
+    "thumbnail_url": "https://lh3.googleusercontent.com/CHKmZ4fjWf6HcB_55z1UyZFxA1QKPmVKuxDpf6xH1w-uLdaT31bbNRqcsqxmmY3hjS0Uz3Sr4MsP7V7p3Q=w120-h120-l90-rj",
+    "artist": "Delerium, Sarah McLachlan & John Summit",
+    "album": "Silence (John Summit Remix)"
+  },
+  {
+    "title": "ACID TRAXXX",
+    "thumbnail_url": "https://lh3.googleusercontent.com/a2WDGe3jS68mpUp-SRSttt5eYEehH44bNFyatpIxW1-zCXb7nSwTl5thcgA2WTKZwhkZu13bPkvOxfrrvw=w120-h120-l90-rj",
+    "artist": "Paul van Dyk, Phuture & DJ Pierre",
+    "album": "ACID TRAXXX"
+  },
+  {
+    "title": "Need To Feel Loved",
+    "thumbnail_url": "https://lh3.googleusercontent.com/s1tApIuxi4PvzEvZMt03wy4rHJon_emnXXkwdGdwEFNBILn68NkhNdK4p54_RRUD4PSfTic9tbyjmQi5=w120-h120-l90-rj",
+    "artist": "Adam K & Soha",
+    "album": "Need to Feel Loved"
+  },
+  {
+    "title": "We Are Alive (Radio Mix (Full On Vocal))",
+    "thumbnail_url": "https://lh3.googleusercontent.com/zL5mjMfALh1Ezwzv1GxYaOtVTbV11Gn5tBR9X2-kBSOmHBtt3TF8skD8oCVJzwY1t0OCGWxBLrOA4hY=w120-h120-l90-rj",
+    "artist": "Paul van Dyk",
+    "album": "We Are Alive"
   }
 ]
