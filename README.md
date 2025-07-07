@@ -50,3 +50,7 @@ La aplicación realiza las siguientes tareas:
 ## Contribuciones
 
 Las contribuciones a este proyecto son bienvenidas. Por favor, abre un issue o un pull request para sugerir cambios o mejoras.
+
+# Actualizar lib
+
+run `pip3 install -U yt-dlp`
