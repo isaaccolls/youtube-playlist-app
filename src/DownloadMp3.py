@@ -221,6 +221,6 @@ class DownloadMp3:
                 with open(self.path_playlist, 'w') as f:
                     json.dump(playlist_json, f, indent=2)
                 print("success sleep 😴")
-                time.sleep(30)
+                time.sleep(10)
             print("global sleep 😴")
-            time.sleep(15)
+            time.sleep(5)
