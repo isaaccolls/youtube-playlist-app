@@ -64,7 +64,6 @@ class DownloadMp3:
             return value.strip().lower() if isinstance(value, str) else ''
         return any(
             normalize(existing_item['title']) == normalize(item['title']) and
-            normalize(existing_item['thumbnail_url']) == normalize(item['thumbnail_url']) and
             normalize(existing_item['artist']) == normalize(item['artist']) and
             normalize(existing_item['album']) == normalize(item['album'])
             for existing_item in playlist_json
@@ -214,7 +213,6 @@ class DownloadMp3:
                 # Add to playlist.json only if download was successful
                 playlist_json.append({
                     'title': item['title'],
-                    'thumbnail_url': item['thumbnail_url'],
                     'artist': item['artist'],
                     'album': item['album'],
                 })
