@@ -4,7 +4,13 @@ import time
 
 # Array de URLs de YouTube para descargar
 urls = [
-    "https://www.youtube.com/watch?v=G9T_8DEXFxU",
+    "https://www.youtube.com/watch?v=UqqgzoDYA88",
+    "https://www.youtube.com/watch?v=a5r7Vf7S0Mg",
+    "https://www.youtube.com/watch?v=5wkDoWjZK-A",
+    "https://www.youtube.com/watch?v=rO8bPlxREEA",
+    "https://www.youtube.com/watch?v=w8LK_HCrE-U",
+    "https://www.youtube.com/watch?v=Vj6eVynF4xY",
+    "https://www.youtube.com/watch?v=bXO-O__8YAI"
 ]
 
 def download_video(url, video_number, total_videos):
