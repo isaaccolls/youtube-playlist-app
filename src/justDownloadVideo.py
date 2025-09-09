@@ -4,13 +4,16 @@ import time
 
 # Array de URLs de YouTube para descargar
 urls = [
-    "https://www.youtube.com/watch?v=UqqgzoDYA88",
-    "https://www.youtube.com/watch?v=a5r7Vf7S0Mg",
-    "https://www.youtube.com/watch?v=5wkDoWjZK-A",
-    "https://www.youtube.com/watch?v=rO8bPlxREEA",
-    "https://www.youtube.com/watch?v=w8LK_HCrE-U",
-    "https://www.youtube.com/watch?v=Vj6eVynF4xY",
-    "https://www.youtube.com/watch?v=bXO-O__8YAI"
+    "https://www.youtube.com/watch?v=B5fEVQ60RyQ",
+    "https://www.youtube.com/watch?v=jzVGnBb23rU",
+    "https://www.youtube.com/watch?v=027o0EshENI&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=1",
+    "https://www.youtube.com/watch?v=hGcvP1agDNc&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=2",
+    "https://www.youtube.com/watch?v=d-LhID_V6LA&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=3",
+    "https://www.youtube.com/watch?v=hp0TWVGvPyM&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=4",
+    "https://www.youtube.com/watch?v=RBv91u7Msig&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=5",
+    "https://www.youtube.com/watch?v=gHVnA6p3zS0&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=6",
+    "https://www.youtube.com/watch?v=aVODOlxWwbM&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=7",
+    "https://www.youtube.com/watch?v=JarupwcMcmM&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=8"
 ]
 
 def download_video(url, video_number, total_videos):
@@ -21,8 +24,18 @@ def download_video(url, video_number, total_videos):
         yt = YouTube(url, on_progress_callback=on_progress)
         print(f"Título: {yt.title}")
         
-        # Obtener la mejor resolución disponible
-        ys = yt.streams.get_highest_resolution()
+        # Intentar obtener 1080p específicamente
+        ys = yt.streams.filter(res="1080p", file_extension="mp4").first()
+        
+        # Si no hay 1080p, intentar 720p
+        if not ys:
+            print("⚠️  1080p no disponible, intentando 720p...")
+            ys = yt.streams.filter(res="720p", file_extension="mp4").first()
+        
+        # Si no hay 720p, intentar con la mejor resolución disponible
+        if not ys:
+            print("⚠️  720p no disponible, buscando la mejor resolución...")
+            ys = yt.streams.get_highest_resolution()
         
         if ys:
             print(f"Descargando en resolución: {ys.resolution}")
