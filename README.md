@@ -54,3 +54,9 @@ Las contribuciones a este proyecto son bienvenidas. Por favor, abre un issue o u
 # Actualizar lib
 
 run `pip3 install -U yt-dlp`
+
+# cookies
+
+1. Open a new private browsing/incognito window and log into YouTube
+1. In same window and same tab from step 1, navigate to https://www.youtube.com/robots.txt (this should be the only private/incognito browsing tab open)
+1. Export youtube.com cookies from the browser, then close the private browsing/incognito window so that the session is never opened in the browser again.
