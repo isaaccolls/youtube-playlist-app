@@ -78,7 +78,8 @@ class DownloadMp3:
         mp3_file_path = os.path.join(self.path_file, mp3_file_name)
         aux_file_path = os.path.join(self.path_file, file_name)
 
-        # Use yt-dlp to download the audio and convert to MP3
+        # Use yt-dlp to download the audio and convert to MP3.
+        # YouTube 2026+ needs EJS (yt-dlp-ejs) + a JS runtime (Deno/Node/Bun). See README.
         ydl_opts = {
             'format': 'bestaudio/best',
             'outtmpl': aux_file_path,
@@ -88,6 +89,7 @@ class DownloadMp3:
                 'preferredquality': '192',
             }],
             'cookiefile': self.cookies_file,
+            'js_runtimes': {'node': {}},  # Usar Node.js para EJS (firmas / n-challenge de YouTube)
         }
         try:
             with YoutubeDL(ydl_opts) as ydl:

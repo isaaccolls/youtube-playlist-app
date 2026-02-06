@@ -51,9 +51,24 @@ La aplicación realiza las siguientes tareas:
 
 Las contribuciones a este proyecto son bienvenidas. Por favor, abre un issue o un pull request para sugerir cambios o mejoras.
 
-# Actualizar lib
+# Actualizar yt-dlp (YouTube requiere EJS + runtime JS)
 
-run `pip3 install -U yt-dlp`
+```bash
+pip3 install -U "yt-dlp[default]"
+```
+
+Desde 2026, YouTube exige **EJS** (scripts JS) y un **runtime de JavaScript**. Sin esto verás "Signature solving failed" / "n challenge solving failed" y solo se ofrecerán imágenes.
+
+1. **Instalar yt-dlp con extras** (ya incluye `yt-dlp-ejs`):
+   ```bash
+   pip3 install -U "yt-dlp[default]"
+   ```
+
+2. **Instalar un runtime de JavaScript** (solo uno):
+   - **Deno** (recomendado): https://docs.deno.com/runtime/getting_started/installation/  
+     Linux: `curl -fsSL https://deno.land/install.sh | sh`
+   - **Node.js** (v20+): https://nodejs.org/  
+     Luego en `~/.config/yt-dlp/config` o en las opciones del script añadir: `--js-runtimes node`
 
 # cookies
 
