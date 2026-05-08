@@ -1,26 +1,37 @@
-from pytubefix import YouTube
+from pytubefix import YouTube, Playlist
 from pytubefix.cli import on_progress
 import time
 import os
+from urllib.parse import parse_qs, urlparse
+
+DOWNLOAD_PATH = "/media/isaac/Pioneer/videos"
 
 # Array de URLs de YouTube para descargar
 urls = [
-    "https://www.youtube.com/watch?v=B5fEVQ60RyQ",
-    "https://www.youtube.com/watch?v=jzVGnBb23rU",
-    "https://www.youtube.com/watch?v=027o0EshENI&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=1",
-    "https://www.youtube.com/watch?v=hGcvP1agDNc&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=2",
-    "https://www.youtube.com/watch?v=d-LhID_V6LA&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=3",
-    "https://www.youtube.com/watch?v=hp0TWVGvPyM&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=4",
-    "https://www.youtube.com/watch?v=RBv91u7Msig&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=5",
-    "https://www.youtube.com/watch?v=gHVnA6p3zS0&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=6",
-    "https://www.youtube.com/watch?v=aVODOlxWwbM&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=7",
-    "https://www.youtube.com/watch?v=JarupwcMcmM&list=PLqaxRcHTgYrNYFs0O9LUrf4vJBHnP1y1s&index=8"
+    "https://www.youtube.com/playlist?list=PL_8z4vyyerkNOgsNi67YVJrfMxaMHiL2u"
 ]
+
+def is_playlist_url(url):
+    """Indica si la URL contiene un parámetro de playlist."""
+    query_params = parse_qs(urlparse(url).query)
+    return "list" in query_params
+
+def get_video_urls(url):
+    """Devuelve las URLs de video para una URL individual o una playlist."""
+    if not is_playlist_url(url):
+        return [url]
+
+    print(f"📋 Detectada playlist: {url}")
+    playlist = Playlist(url)
+    video_urls = list(playlist.video_urls)
+    print(f"✅ Playlist cargada con {len(video_urls)} video(s)")
+    return video_urls
 
 def download_video(url, video_number, total_videos):
     """Descarga un video individual de YouTube con autenticación por cookies"""
     try:
         print(f"\n[{video_number}/{total_videos}] Procesando: {url}")
+        os.makedirs(DOWNLOAD_PATH, exist_ok=True)
         
         # Configurar cookies si el archivo existe
         cookies_path = "cookies.txt"
@@ -76,9 +87,9 @@ def download_video(url, video_number, total_videos):
             if video_stream and audio_stream:
                 print(f"📥 Descargando video en {video_stream.resolution} y audio por separado...")
                 # Descargar video
-                video_filename = video_stream.download(filename_prefix="video_")
+                video_filename = video_stream.download(output_path=DOWNLOAD_PATH, filename_prefix="video_")
                 # Descargar audio
-                audio_filename = audio_stream.download(filename_prefix="audio_")
+                audio_filename = audio_stream.download(output_path=DOWNLOAD_PATH, filename_prefix="audio_")
                 print(f"✅ Descarga completada: {yt.title}")
                 print("ℹ️  Nota: Los archivos de video y audio están separados. Usa ffmpeg para combinarlos si es necesario.")
                 return True
@@ -90,7 +101,7 @@ def download_video(url, video_number, total_videos):
         # Solo descargar si tenemos un stream con audio garantizado
         if ys:
             print(f"📥 Descargando en resolución: {ys.resolution}")
-            ys.download()
+            ys.download(output_path=DOWNLOAD_PATH)
             print(f"✅ Descarga completada: {yt.title}")
             return True
         else:
@@ -106,8 +117,21 @@ def main():
     if not urls:
         print("❌ No hay URLs para procesar. Agrega URLs al array 'urls'.")
         return
+
+    os.makedirs(DOWNLOAD_PATH, exist_ok=True)
+
+    download_urls = []
+    for url in urls:
+        try:
+            download_urls.extend(get_video_urls(url))
+        except Exception as e:
+            print(f"❌ Error al cargar la playlist o URL {url}: {str(e)}")
     
-    total_videos = len(urls)
+    total_videos = len(download_urls)
+    if total_videos == 0:
+        print("❌ No se encontraron videos para descargar.")
+        return
+
     successful_downloads = 0
     failed_downloads = 0
     
@@ -116,7 +140,7 @@ def main():
     
     start_time = time.time()
     
-    for i, url in enumerate(urls, 1):
+    for i, url in enumerate(download_urls, 1):
         if download_video(url, i, total_videos):
             successful_downloads += 1
         else:
