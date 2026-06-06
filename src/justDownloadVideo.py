@@ -4,11 +4,59 @@ import time
 import os
 from urllib.parse import parse_qs, urlparse
 
-DOWNLOAD_PATH = "/media/isaac/Pioneer/videos"
+DOWNLOAD_PATH = "/home/isaac/Downloads/videos/podcast"
 
 # Array de URLs de YouTube para descargar
 urls = [
-    "https://www.youtube.com/playlist?list=PL_8z4vyyerkNOgsNi67YVJrfMxaMHiL2u"
+    # music
+    # "https://www.youtube.com/playlist?list=PL_8z4vyyerkNOgsNi67YVJrfMxaMHiL2u",
+    # "https://www.youtube.com/playlist?list=PL_8z4vyyerkNQ7feaSGqFpSw99_Iks-09",
+    # "https://www.youtube.com/playlist?list=PL_8z4vyyerkNuVi_SfPch16lyqJFl6xn_",
+    # "https://www.youtube.com/playlist?list=PL_8z4vyyerkPaPo2QUvvJSwNpxg-XC4CN"
+    # podcast
+    # 284 | ¿Quién es Alex Saab?
+    "https://www.youtube.com/live/q3M9Af9NbbU",
+    # 283 | Lo que se sabe del Hantavirus
+    "https://www.youtube.com/live/mv-KLPgC1HY",
+    # 282 | Llenamos el álbum del mundial
+    "https://www.youtube.com/live/YsD9-8cI5RI",
+    # 281 | Daniel lee sus DMs
+    "https://www.youtube.com/live/1up-M2Y2QTw",
+    # 280 | ¿Cómo va la transición en Venezuela?
+    "https://www.youtube.com/live/--yfMGR3R3M",
+    # 279 | Jugamos con la pantalla verde
+    "https://www.youtube.com/live/6y7dPRH-UnQ",
+    # 278 | ¿Qué son las fruti-novelas?
+    "https://www.youtube.com/live/U1EoGhGSXMw",
+    # 277 | ¿Cuál es el fenómeno de las rifas?
+    "https://www.youtube.com/live/u8LIb_aEteY",
+    # 276 | Venezuela campeón
+    "https://www.youtube.com/live/R1iJXlWJexk",
+    # 275 | ¿Cómo ha sido el Clásico Mundial de Béisbol?
+    "https://www.youtube.com/live/jo7YWF9m9K4",
+    # 274 | ¿Qué pasa en Irán?
+    "https://www.youtube.com/live/TfRRd4ZZPW0",
+    # 273 | ¿Qué está pasando en México?
+    "https://www.youtube.com/live/shfDSLA8-Ag",
+    # 272 | ¿Por qué se habla tanto de los Therians?
+    "https://www.youtube.com/live/ZoijntOm6dk",
+    # 271 | ¿Qué es ser latino?
+    "https://www.youtube.com/live/SHgMn_0bj-k",
+    # 270 | ¿Quiénes son el ICE?
+    "https://www.youtube.com/live/yQXDdS_EXmE",
+    # 269 | Grandes hazañas de la historia
+    "https://www.youtube.com/live/g6R7IvuETfQ",
+    # 268 | ¿En qué andábamos en el 2016?
+    "https://www.youtube.com/live/8PiV8I_wp8c",
+    # 267 | Mundo en llamas - vol. 2
+    "https://www.youtube.com/live/ePPmTHedSd8",
+    # 266 | Bigote Político - Más bigote, más político que nunca
+    "https://www.youtube.com/live/Yhz9PuWtqIs",
+    "https://www.youtube.com/live/plvky1G5jtM",
+    # 265 | ¡Vision Board 2026!
+    "https://www.youtube.com/live/oaXadMghFV4",
+    # 264 | La cena navideña en El Cuartico
+    "https://www.youtube.com/live/SCqpQZDbK7A",
 ]
 
 def is_playlist_url(url):
