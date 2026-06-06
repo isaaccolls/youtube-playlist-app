@@ -72,6 +72,15 @@ class DownloadMp3:
     def sanitize_filename(self, name):
         return re.sub(r'[\/\\\:\*\?\"\<\>\|]', '_', name)
 
+    def build_filename(self, artist, album, title, max_len=240):
+        full = f"{artist} - {album} - {title}" if album else f"{artist} - {title}"
+        if len(full) <= max_len:
+            return full
+        without_album = f"{artist} - {title}"
+        if len(without_album) <= max_len:
+            return without_album
+        return without_album[:max_len]
+
     def download_audio(self, file_name, video_url, title, album, artist, thumbnail_url):
         print(f"👉 start download {title}")
         mp3_file_name = f"{file_name}.mp3"
@@ -200,8 +209,7 @@ class DownloadMp3:
             sanitized_title = self.sanitize_filename(item['title'])
             sanitized_artist = self.sanitize_filename(item['artist'])
             sanitized_album = self.sanitize_filename(item['album'])
-            album_part_for_file_name = f" - {sanitized_album}" if sanitized_album else ''
-            sanitized_file_name = f"{sanitized_artist}{album_part_for_file_name} - {sanitized_title}"
+            sanitized_file_name = self.build_filename(sanitized_artist, sanitized_album, sanitized_title)
             mp3_file_name = f"{sanitized_file_name}.mp3"
             mp3_file_path = os.path.join(self.path_file, mp3_file_name)
             if os.path.exists(mp3_file_path):

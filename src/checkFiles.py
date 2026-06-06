@@ -9,6 +9,16 @@ def sanitize_filename(name):
     return re.sub(r'[\/\\\:\*\?\"\<\>\|]', '_', name)
 
 
+def build_filename(artist, album, title, max_len=240):
+    full = f"{artist} - {album} - {title}" if album else f"{artist} - {title}"
+    if len(full) <= max_len:
+        return full
+    without_album = f"{artist} - {title}"
+    if len(without_album) <= max_len:
+        return without_album
+    return without_album[:max_len]
+
+
 def main():
     # Carga el archivo playlist.json
     path_playlist = os.path.join(pathForMusic, 'playlist.json')
@@ -37,8 +47,7 @@ def main():
         sanitized_title = sanitize_filename(title)
         sanitized_artist = sanitize_filename(artist)
         sanitized_album = sanitize_filename(album)
-        album_part_for_file_name = f" - {sanitized_album}" if sanitized_album else ''
-        sanitized_file_name = f"{sanitized_artist}{album_part_for_file_name} - {sanitized_title}"
+        sanitized_file_name = build_filename(sanitized_artist, sanitized_album, sanitized_title)
         mp3_file_name = f"{sanitized_file_name}.mp3"
         expected_mp3_files.add(mp3_file_name)
 
