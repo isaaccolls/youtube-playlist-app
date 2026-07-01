@@ -70,6 +70,32 @@ Desde 2026, YouTube exige **EJS** (scripts JS) y un **runtime de JavaScript**. S
    - **Node.js** (v20+): https://nodejs.org/  
      Luego en `~/.config/yt-dlp/config` o en las opciones del script añadir: `--js-runtimes node`
 
+# Detectar mp3 corruptos
+
+`src/checkCorruptedFiles.py` revisa todos los mp3 de `data/mp3/` y detecta archivos
+**realmente corruptos**: truncados (descarga/conversión incompleta) o ilegibles. No
+detecta artefactos de calidad de audio (por ejemplo, el "crepitar" que puede oírse en
+canciones con transitorios fuertes de viento/percusión), ya que eso no es corrupción
+del archivo sino una característica de la codificación original.
+
+Por defecto solo lista los archivos corruptos encontrados, sin borrar nada:
+
+```bash
+python3 src/checkCorruptedFiles.py
+```
+
+Para borrar los mp3 corruptos y su entrada correspondiente en `playlist.json`, añade `--delete`:
+
+```bash
+python3 src/checkCorruptedFiles.py --delete
+```
+
+Opcionalmente se puede ajustar la cantidad de archivos analizados en paralelo (por defecto 8):
+
+```bash
+python3 src/checkCorruptedFiles.py --workers 12
+```
+
 # cookies
 
 1. Open a new private browsing/incognito window and log into YouTube
