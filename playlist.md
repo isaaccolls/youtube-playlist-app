@@ -1,0 +1,22 @@
+script para administrar playlist `m3u` considerando
+
+- las playlist se ubican en: `data/mp3`
+- se consideran:
+  - `all.m3u`
+  - `bailoteo.m3u`
+  - `classical.m3u`
+  - `cumbia.m3u`
+  - `electro.m3u`
+  - `jazz.m3u`
+  - `llanera.m3u`
+  - `lollipop.m3u`
+  - `merengue.m3u`
+  - `rap.m3u`
+  - `reggae.m3u`
+  - `rock.m3u`
+  - `salsa.m3u`
+- todas las canciones en formato `.mp3` se deben encontrar en la playlist `all.m3u` una sola vez y sin repetirse, en caso de que alguna cancion no se encuentre se debe agregar automaticamente
+- luego el script debe ir examinando una a una los archivos mp3 que no se encuentren en alguna de las otras playlist
+  - se debe reproducir el archivo actual
+  - mientras se reproduce debe permitir al usario agregarlo a las playlists que asi le parezca
+  - una vez agregada la cancion (que puede estar en multiples playlist y se debe evitar a toda costa duplicados) se procede a evaluar la siguiente cancion
