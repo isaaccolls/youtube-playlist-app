@@ -25,6 +25,7 @@ GENRE_KEYS = {
     'g': 'reggae',
     'k': 'rock',
     's': 'salsa',
+    'v': 'vallenato',
 }
 
 FFPROBE_WORKERS = 8
