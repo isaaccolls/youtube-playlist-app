@@ -21,6 +21,7 @@ El script requiere un terminal interactivo (no funciona redirigido o en backgrou
 ```
 data/mp3/
 ├── all.m3u
+├── bachata.m3u
 ├── bailoteo.m3u
 ├── classical.m3u
 ├── cumbia.m3u
@@ -77,6 +78,7 @@ Por cada canción:
 | ------------------- | ----------------------------- |
 | `a`                 | toggle classical              |
 | `b`                 | toggle bailoteo               |
+| `h`                 | toggle bachata                |
 | `c`                 | toggle cumbia                 |
 | `e`                 | toggle electro                |
 | `g`                 | toggle reggae                 |

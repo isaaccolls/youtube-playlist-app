@@ -15,6 +15,7 @@ DATA_DIR = Path(__file__).parent / "data" / "mp3"
 GENRE_KEYS = {
     'a': 'classical',
     'b': 'bailoteo',
+    'h': 'bachata',
     'c': 'cumbia',
     'e': 'electro',
     'j': 'jazz',
