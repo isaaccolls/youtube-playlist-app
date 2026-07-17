@@ -29,6 +29,7 @@ data/mp3/
 ├── electro.m3u
 ├── jazz.m3u
 ├── llanera.m3u
+├── lofi.m3u
 ├── lollipop.m3u
 ├── merengue.m3u
 ├── rap.m3u
@@ -65,7 +66,7 @@ Los metadatos existentes (`#EXTINF`) se preservan; solo se modifican las entrada
 
 ## Fase 2 — Clasificación interactiva
 
-Una canción se considera **sin categorizar** si no aparece en ninguna de las 14 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
+Una canción se considera **sin categorizar** si no aparece en ninguna de las 16 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
 
 Por cada canción:
 
@@ -85,6 +86,7 @@ Por cada canción:
 | `e`                 | toggle electro                |
 | `g`                 | toggle reggae                 |
 | `j`                 | toggle jazz                   |
+| `f`                 | toggle lofi                   |
 | `k`                 | toggle rock                   |
 | `l`                 | toggle llanera                |
 | `m`                 | toggle merengue               |
