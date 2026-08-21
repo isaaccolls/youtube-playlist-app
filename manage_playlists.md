@@ -28,6 +28,7 @@ data/mp3/
 ├── classical.m3u
 ├── cumbia.m3u
 ├── electro.m3u
+├── gaita.m3u
 ├── jazz.m3u
 ├── llanera.m3u
 ├── lofi.m3u
@@ -67,7 +68,7 @@ Los metadatos existentes (`#EXTINF`) se preservan; solo se modifican las entrada
 
 ## Fase 2 — Clasificación interactiva
 
-Una canción se considera **sin categorizar** si no aparece en ninguna de las 17 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
+Una canción se considera **sin categorizar** si no aparece en ninguna de las 18 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
 
 Por cada canción:
 
@@ -87,6 +88,7 @@ Por cada canción:
 | `d`                 | toggle bolero                 |
 | `e`                 | toggle electro                |
 | `g`                 | toggle reggae                 |
+| `i`                 | toggle gaita                  |
 | `j`                 | toggle jazz                   |
 | `f`                 | toggle lofi                   |
 | `k`                 | toggle rock                   |

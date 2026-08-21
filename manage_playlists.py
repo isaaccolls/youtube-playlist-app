@@ -19,6 +19,7 @@ GENRE_KEYS = {
     'c': 'cumbia',
     'd': 'bolero',
     'e': 'electro',
+    'i': 'gaita',
     'j': 'jazz',
     'f': 'lofi',
     'l': 'llanera',
