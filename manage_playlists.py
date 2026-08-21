@@ -17,6 +17,7 @@ GENRE_KEYS = {
     'b': 'bailoteo',
     'h': 'bachata',
     'c': 'cumbia',
+    'd': 'bolero',
     'e': 'electro',
     'j': 'jazz',
     'f': 'lofi',

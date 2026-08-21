@@ -23,6 +23,7 @@ data/mp3/
 ├── all.m3u
 ├── bachata.m3u
 ├── bailoteo.m3u
+├── bolero.m3u
 ├── bossanova.m3u
 ├── classical.m3u
 ├── cumbia.m3u
@@ -66,7 +67,7 @@ Los metadatos existentes (`#EXTINF`) se preservan; solo se modifican las entrada
 
 ## Fase 2 — Clasificación interactiva
 
-Una canción se considera **sin categorizar** si no aparece en ninguna de las 16 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
+Una canción se considera **sin categorizar** si no aparece en ninguna de las 17 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
 
 Por cada canción:
 
@@ -83,6 +84,7 @@ Por cada canción:
 | `o`                 | toggle bossanova              |
 | `h`                 | toggle bachata                |
 | `c`                 | toggle cumbia                 |
+| `d`                 | toggle bolero                 |
 | `e`                 | toggle electro                |
 | `g`                 | toggle reggae                 |
 | `j`                 | toggle jazz                   |
