@@ -143,6 +143,53 @@ def sync_all() -> None:
     write_m3u(all_path, sorted_entries)
     print(f"  {GREEN}all.m3u actualizado:{RESET} {len(sorted_entries)} canciones")
 
+# --- Phase 1b: Verify genre playlists against disk ---
+
+# Caracteres reservados en URI/MRL: algunos reproductores (notablemente VLC
+# iOS) resuelven las rutas de un m3u como Media Resource Locators en vez de
+# rutas de texto planas. Un '#' sin escapar se interpreta como delimitador
+# de fragmento y un '%' como inicio de un escape porcentual — ambos cortan
+# o corrompen la resolución de esa entrada en adelante, y a diferencia de
+# VLC desktop (que se recupera), VLC iOS aborta el resto del import.
+RISKY_CHARS = '#%?'
+
+
+def verify_playlists() -> None:
+    """Detecta entradas de playlists de género que ya no existen en disco,
+    y archivos con caracteres riesgosos para un import de m3u como URI.
+
+    sync_all() sólo reconcilia all.m3u; si un mp3 se renombra o se
+    reemplaza después de haber sido clasificado, la entrada queda huérfana
+    en su playlist de género (invisible para os.path.exists) y reproductores
+    estrictos (p. ej. VLC iOS) pueden abortar la carga del resto de la
+    playlist al toparse con ella en vez de saltarla.
+    """
+    disk = {f.name for f in DATA_DIR.glob('*.mp3')}
+    problems: list[tuple[str, str]] = []
+
+    for name in GENRE_KEYS.values():
+        path = playlist_path(name)
+        for filename, _dur, _title in parse_m3u(path):
+            if filename not in disk:
+                problems.append((name, filename))
+
+    if problems:
+        print(f"  {RED}{len(problems)} entrada(s) huérfana(s){RESET} (archivo ya no existe en disco):")
+        for name, filename in problems:
+            print(f"    {YELLOW}{name}.m3u{RESET}: {filename}")
+        print(f"  {DIM}Revisa si el mp3 fue renombrado/eliminado y corrige la entrada o el archivo.{RESET}")
+    else:
+        print(f"  {GREEN}Playlists de género OK{RESET} (todas las entradas existen en disco)")
+
+    risky = sorted(f for f in disk if any(c in f for c in RISKY_CHARS))
+    if risky:
+        print(f"  {RED}{len(risky)} archivo(s) con carácter riesgoso para import de m3u{RESET} ({RISKY_CHARS}):")
+        for f in risky:
+            print(f"    {YELLOW}{f}{RESET}")
+        print(f"  {DIM}Renombra el archivo (quitando {RISKY_CHARS}) y vuelve a correr este script para propagar el cambio.{RESET}")
+    else:
+        print(f"  {GREEN}Sin caracteres riesgosos ({RISKY_CHARS}) en nombres de archivo{RESET}")
+
 # --- Phase 2: Interactive classification ---
 
 def get_char() -> str:
@@ -290,6 +337,9 @@ def main() -> None:
 
     print(f"{BOLD}Fase 1:{RESET} Sincronizando all.m3u...")
     sync_all()
+
+    print(f"\n{BOLD}Fase 1b:{RESET} Verificando integridad de playlists de género...")
+    verify_playlists()
 
     print(f"\n{BOLD}Fase 2:{RESET} Clasificación interactiva")
     classify_songs()
