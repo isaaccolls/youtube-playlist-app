@@ -97,6 +97,24 @@ Opcionalmente se puede ajustar la cantidad de archivos analizados en paralelo (p
 python3 src/checkCorruptedFiles.py --workers 12
 ```
 
+# Importar mp3 descargados manualmente
+
+`src/importManualMp3.py` normaliza tags ID3 y nombre de archivo (mismas reglas
+que `DownloadMp3`/`checkFiles`) de los mp3 en `data/mp3-manual/`, y los mueve
+a `data/mp3/` agregándolos a `playlist.json`. Por cada archivo pide confirmar/
+corregir title, artist y album (`Enter` mantiene el valor actual, `-` lo deja
+vacío, `skip` omite el archivo).
+
+```bash
+python3 src/importManualMp3.py
+```
+
+Para ver qué haría sin mover archivos ni escribir nada, añade `--dry-run`:
+
+```bash
+python3 src/importManualMp3.py --dry-run
+```
+
 # cookies
 
 1. Open a new private browsing/incognito window and log into YouTube
