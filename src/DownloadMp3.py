@@ -101,10 +101,11 @@ class DownloadMp3:
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
                 'preferredcodec': 'mp3',
-                'preferredquality': '320',
+                'preferredquality': '0',
             }],
             'cookiefile': self.cookies_file,
-            'js_runtimes': {'node': {}},  # Usar Node.js para EJS (firmas / n-challenge de YouTube)
+            # Usar Node.js para EJS (firmas / n-challenge de YouTube)
+            'js_runtimes': {'node': {}},
         }
         try:
             with YoutubeDL(ydl_opts) as ydl:
@@ -215,7 +216,8 @@ class DownloadMp3:
             sanitized_title = self.sanitize_filename(item['title'])
             sanitized_artist = self.sanitize_filename(item['artist'])
             sanitized_album = self.sanitize_filename(item['album'])
-            sanitized_file_name = self.build_filename(sanitized_artist, sanitized_album, sanitized_title)
+            sanitized_file_name = self.build_filename(
+                sanitized_artist, sanitized_album, sanitized_title)
             mp3_file_name = f"{sanitized_file_name}.mp3"
             mp3_file_path = os.path.join(self.path_file, mp3_file_name)
             if os.path.exists(mp3_file_path):
