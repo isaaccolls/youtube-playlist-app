@@ -101,7 +101,7 @@ class DownloadMp3:
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
                 'preferredcodec': 'mp3',
-                'preferredquality': '192',
+                'preferredquality': '320',
             }],
             'cookiefile': self.cookies_file,
             'js_runtimes': {'node': {}},  # Usar Node.js para EJS (firmas / n-challenge de YouTube)
