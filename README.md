@@ -60,6 +60,7 @@ pip3 install -U "yt-dlp[default]"
 Desde 2026, YouTube exige **EJS** (scripts JS) y un **runtime de JavaScript**. Sin esto verás "Signature solving failed" / "n challenge solving failed" y solo se ofrecerán imágenes.
 
 1. **Instalar yt-dlp con extras** (ya incluye `yt-dlp-ejs`):
+
    ```bash
    pip3 install -U "yt-dlp[default]"
    ```
@@ -101,3 +102,7 @@ python3 src/checkCorruptedFiles.py --workers 12
 1. Open a new private browsing/incognito window and log into YouTube
 1. In same window and same tab from step 1, navigate to https://www.youtube.com/robots.txt (this should be the only private/incognito browsing tab open)
 1. Export youtube.com cookies from the browser, then close the private browsing/incognito window so that the session is never opened in the browser again.
+
+# display tecnical information
+
+run: `ffprobe A\ Day\ To\ Remember\ -\ For\ Those\ Who\ Have\ Heart\ -\ Monument.mp3`
