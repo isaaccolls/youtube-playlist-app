@@ -70,7 +70,13 @@ class DownloadMp3:
         )
 
     def sanitize_filename(self, name):
-        return re.sub(r'[\/\\\:\*\?\"\<\>\|]', '_', name)
+        # Además de los caracteres inválidos en el sistema de archivos, se
+        # reemplazan '#' y '%' porque algunos reproductores (p. ej. VLC iOS)
+        # resuelven las rutas de un m3u como URI/MRL: un '#' se interpreta
+        # como delimitador de fragmento y un '%' como inicio de un escape
+        # porcentual, rompiendo la resolución de esa entrada (y de las
+        # siguientes) al importar la playlist.
+        return re.sub(r'[\/\\\:\*\?\"\<\>\|#%]', '_', name)
 
     def build_filename(self, artist, album, title, max_len=240):
         full = f"{artist} - {album} - {title}" if album else f"{artist} - {title}"
