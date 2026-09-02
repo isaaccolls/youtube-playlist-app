@@ -88,6 +88,13 @@ def song_title(filename: str) -> str:
     return f"{parts[0]} - {parts[2]}" if len(parts) >= 3 else name
 
 
+def song_title_with_album(filename: str) -> str:
+    """'Artist - Album - Title.mp3' → 'Artist - Album - Title' (para mostrar en pantalla)."""
+    name = Path(filename).stem
+    parts = name.split(' - ', 2)
+    return f"{parts[0]} - {parts[1]} - {parts[2]}" if len(parts) >= 3 else name
+
+
 def get_duration(filepath: Path) -> int:
     try:
         r = subprocess.run(
@@ -269,7 +276,7 @@ def classify_songs() -> None:
             title    = song_title(filename)
             selection: set[str] = set()
 
-            print(f"\n{BOLD}[{idx}/{total}]{RESET}  {title}")
+            print(f"\n{BOLD}[{idx}/{total}]{RESET}  {song_title_with_album(filename)}")
             print(f"  {DIM}{filename}{RESET}")
 
             player.play(DATA_DIR / filename)
