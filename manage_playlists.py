@@ -29,6 +29,7 @@ GENRE_KEYS = {
     'g': 'reggae',
     'k': 'rock',
     's': 'salsa',
+    't': 'tambor',
     'v': 'vallenato',
     'o': 'bossanova',
 }

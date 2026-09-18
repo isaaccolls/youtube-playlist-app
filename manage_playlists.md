@@ -38,6 +38,7 @@ data/mp3/
 ├── reggae.m3u
 ├── rock.m3u
 ├── salsa.m3u
+├── tambor.m3u
 ├── vallenato.m3u
 └── *.mp3   (archivos de audio)
 ```
@@ -68,7 +69,7 @@ Los metadatos existentes (`#EXTINF`) se preservan; solo se modifican las entrada
 
 ## Fase 2 — Clasificación interactiva
 
-Una canción se considera **sin categorizar** si no aparece en ninguna de las 18 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
+Una canción se considera **sin categorizar** si no aparece en ninguna de las 19 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
 
 Por cada canción:
 
@@ -97,6 +98,7 @@ Por cada canción:
 | `p`                 | toggle lollipop               |
 | `r`                 | toggle rap                    |
 | `s`                 | toggle salsa                  |
+| `t`                 | toggle tambor                 |
 | `v`                 | toggle vallenato              |
 | `Enter` / `Espacio` | confirmar selección y avanzar |
 | `q`                 | guardar todo y salir          |
