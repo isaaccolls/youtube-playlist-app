@@ -32,6 +32,7 @@ GENRE_KEYS = {
     't': 'tambor',
     'v': 'vallenato',
     'o': 'bossanova',
+    'x': 'mariachi',
 }
 
 FFPROBE_WORKERS = 8

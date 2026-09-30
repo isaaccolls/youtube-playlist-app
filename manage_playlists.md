@@ -33,6 +33,7 @@ data/mp3/
 ├── llanera.m3u
 ├── lofi.m3u
 ├── lollipop.m3u
+├── mariachi.m3u
 ├── merengue.m3u
 ├── rap.m3u
 ├── reggae.m3u
@@ -69,7 +70,7 @@ Los metadatos existentes (`#EXTINF`) se preservan; solo se modifican las entrada
 
 ## Fase 2 — Clasificación interactiva
 
-Una canción se considera **sin categorizar** si no aparece en ninguna de las 19 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
+Una canción se considera **sin categorizar** si no aparece en ninguna de las 20 playlists de género. El script procesa todas las canciones sin categorizar en orden alfabético.
 
 Por cada canción:
 
@@ -100,6 +101,7 @@ Por cada canción:
 | `s`                 | toggle salsa                  |
 | `t`                 | toggle tambor                 |
 | `v`                 | toggle vallenato              |
+| `x`                 | toggle mariachi               |
 | `Enter` / `Espacio` | confirmar selección y avanzar |
 | `q`                 | guardar todo y salir          |
 | `Ctrl+C`            | guardar todo y salir          |
