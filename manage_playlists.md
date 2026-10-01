@@ -58,15 +58,61 @@ Taylor Swift - 1989 (Deluxe) - Shake It Off.mp3
 
 Los nombres de archivo en las playlists son relativos (sin ruta), ya que las playlists y los MP3 están en el mismo directorio. El título en `#EXTINF` se deriva del nombre de archivo con el formato `Artista - Título` (omitiendo el álbum).
 
+## Al iniciar — Canciones por playlist
+
+Lo primero que muestra el script es la cantidad de canciones que contiene cada playlist (`all` y luego los géneros en orden alfabético), tal como están en disco antes de cualquier cambio:
+
+```
+Canciones por playlist:
+  all        5843    bachata       9    bailoteo    486
+  bolero        9    bossanova     3    classical    85
+  ...
+```
+
+Si existe algún otro `.m3u` en el directorio, también se lista.
+
 ## Fase 1 — Sincronización de `all.m3u`
 
-Al iniciar, el script compara los archivos `.mp3` presentes en disco con las entradas de `all.m3u`:
+Luego, el script compara los archivos `.mp3` presentes en disco con las entradas de `all.m3u`:
 
 - **Entradas faltantes**: canciones en disco que no están en `all.m3u`. Se agregan automáticamente. La duración se obtiene con `ffprobe` usando 8 hilos en paralelo; se muestra una barra de progreso.
 - **Entradas obsoletas**: entradas en `all.m3u` cuyo archivo ya no existe en disco. Se eliminan.
 - **Sin cambios**: si todo está al día, se informa y se continúa.
 
 Los metadatos existentes (`#EXTINF`) se preservan; solo se modifican las entradas afectadas.
+
+## Fase 1b — Verificación de integridad
+
+Después de sincronizar, se valida cada playlist `.m3u` del directorio (incluida `all.m3u`) línea a línea contra el formato descrito arriba. La verificación es de sólo lectura: no corrige ni modifica ningún archivo.
+
+Por cada playlist con problemas se listan el número de línea y el detalle (hasta 20 por playlist, los errores primero), seguido de un total general.
+
+**Errores** (la playlist está dañada):
+
+- no se puede leer el archivo, o está vacío
+- falta la cabecera `#EXTM3U`
+- línea con codificación UTF-8 inválida
+- `#EXTINF` malformado: sin coma, duración no numérica o título vacío
+- `#EXTINF` sin archivo a continuación
+- entrada sin `#EXTINF` previo
+- entrada duplicada
+- entrada con ruta (se espera sólo el nombre del archivo)
+- el archivo no existe en disco (mp3 renombrado o eliminado)
+- el mp3 existe pero está vacío (0 bytes)
+
+**Avisos** (la playlist funciona, pero no está en el formato que escribe el script):
+
+- BOM UTF-8, saltos de línea CRLF o falta el salto de línea final
+- líneas en blanco, o con espacios al inicio o al final
+- comentarios o directivas no reconocidas (se perderían al guardar)
+- duración `0` o negativa en `#EXTINF`
+- el título del `#EXTINF` no corresponde al nombre del archivo
+- la playlist de un género no existe en disco
+- `.m3u` sin tecla asignada (el script no lo administra)
+
+Si hay al menos un error, el script se detiene antes de la fase 2 y pide confirmación: `Enter` / `Espacio` continúa de todos modos, `q` sale con código `1`. Los avisos no detienen la ejecución.
+
+Además se reportan los archivos mp3 cuyo nombre contiene `#`, `%` o `?`, que rompen el import de playlists en reproductores que resuelven las rutas como URI (p. ej. VLC iOS).
 
 ## Fase 2 — Clasificación interactiva
 

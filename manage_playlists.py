@@ -36,6 +36,8 @@ GENRE_KEYS = {
 }
 
 FFPROBE_WORKERS = 8
+COUNT_COLUMNS = 3       # columnas del resumen de canciones por playlist
+MAX_ISSUES_SHOWN = 20   # problemas listados por playlist antes de resumir
 
 # --- ANSI ---
 
@@ -51,6 +53,13 @@ RED    = '\033[31m'
 
 def playlist_path(name: str) -> Path:
     return DATA_DIR / f"{name}.m3u"
+
+
+def playlist_names() -> list[str]:
+    """'all' primero; luego los géneros y cualquier otro .m3u presente en disco."""
+    names = set(GENRE_KEYS.values()) | {p.stem for p in DATA_DIR.glob('*.m3u')}
+    names.discard('all')
+    return ['all', *sorted(names)]
 
 
 def parse_m3u(path: Path) -> list[tuple[str, int, str]]:
@@ -108,6 +117,21 @@ def get_duration(filepath: Path) -> int:
     except Exception:
         return 0
 
+# --- Startup: Song counts ---
+
+def show_counts() -> None:
+    names = playlist_names()
+    width = max(len(n) for n in names)
+    cells = []
+    for name in names:
+        try:
+            count = str(len(parse_m3u(playlist_path(name))))
+        except OSError:
+            count = '?'
+        cells.append(f"{CYAN}{name:<{width}}{RESET} {count:>5}")
+    for i in range(0, len(cells), COUNT_COLUMNS):
+        print('  ' + '    '.join(cells[i:i + COUNT_COLUMNS]))
+
 # --- Phase 1: Sync all.m3u ---
 
 def sync_all() -> None:
@@ -152,7 +176,7 @@ def sync_all() -> None:
     write_m3u(all_path, sorted_entries)
     print(f"  {GREEN}all.m3u actualizado:{RESET} {len(sorted_entries)} canciones")
 
-# --- Phase 1b: Verify genre playlists against disk ---
+# --- Phase 1b: Verify playlist integrity ---
 
 # Caracteres reservados en URI/MRL: algunos reproductores (notablemente VLC
 # iOS) resuelven las rutas de un m3u como Media Resource Locators en vez de
@@ -163,9 +187,118 @@ def sync_all() -> None:
 RISKY_CHARS = '#%?'
 
 
-def verify_playlists() -> None:
-    """Detecta entradas de playlists de género que ya no existen en disco,
-    y archivos con caracteres riesgosos para un import de m3u como URI.
+# (línea, es_error, mensaje); línea 0 = problema del archivo completo
+Issue = tuple[int, bool, str]
+
+
+def check_m3u(path: Path, disk: dict[str, int]) -> list[Issue]:
+    """Valida un m3u línea a línea contra el formato que escribe write_m3u().
+
+    Lee los bytes crudos en vez de usar parse_m3u(), que es tolerante a
+    propósito (ignora lo que no entiende y reemplaza bytes inválidos) y por
+    lo tanto oculta justo los daños que aquí se quieren detectar.
+
+    `disk` mapea nombre de mp3 → tamaño en bytes.
+    """
+    issues: list[Issue] = []
+
+    def error(num: int, msg: str) -> None:
+        issues.append((num, True, msg))
+
+    def warn(num: int, msg: str) -> None:
+        issues.append((num, False, msg))
+
+    try:
+        raw = path.read_bytes()
+    except OSError as e:
+        error(0, f"no se pudo leer el archivo: {e.strerror}")
+        return issues
+
+    if raw.startswith(b'\xef\xbb\xbf'):
+        warn(0, "BOM UTF-8 al inicio del archivo")
+        raw = raw[3:]
+    if b'\r' in raw:
+        warn(0, "saltos de línea CRLF (se esperan LF)")
+    if raw and not raw.endswith(b'\n'):
+        warn(0, "falta el salto de línea final")
+
+    lines = raw.split(b'\n')
+    if lines[-1] == b'':
+        lines.pop()
+    if not lines:
+        error(0, "archivo vacío, falta la cabecera #EXTM3U")
+    elif lines[0].strip() != b'#EXTM3U':
+        error(1, "falta la cabecera #EXTM3U")
+
+    # #EXTINF a la espera de su archivo: (línea, título o None si es inválido)
+    pending: tuple[int, str | None] | None = None
+    seen: dict[str, int] = {}
+
+    for num, raw_line in enumerate(lines, 1):
+        try:
+            text = raw_line.decode('utf-8')
+        except UnicodeDecodeError:
+            error(num, "codificación UTF-8 inválida")
+            text = raw_line.decode('utf-8', errors='replace')
+        line = text.strip()
+
+        if num == 1 and line == '#EXTM3U':
+            continue
+        if not line:
+            warn(num, "línea en blanco")
+            continue
+        if line != text.rstrip('\r'):
+            warn(num, "espacios al inicio o al final de la línea")
+
+        if line.startswith('#EXTINF:'):
+            if pending is not None:
+                error(pending[0], "#EXTINF sin archivo a continuación")
+            dur_str, sep, title = line[8:].partition(',')
+            if not sep:
+                error(num, f"#EXTINF malformado (se espera '#EXTINF:<segundos>,<título>'): {line}")
+            else:
+                try:
+                    if int(dur_str) <= 0:
+                        warn(num, f"duración {dur_str} en #EXTINF (¿ffprobe no pudo leer el mp3?)")
+                except ValueError:
+                    error(num, f"#EXTINF con duración no numérica: {line}")
+                if not title:
+                    error(num, "#EXTINF con título vacío")
+            pending = (num, title or None)
+
+        elif line.startswith('#'):
+            # write_m3u() la descartaría al guardar
+            warn(num, f"línea de comentario/directiva no reconocida: {line}")
+
+        else:
+            if pending is None:
+                error(num, f"entrada sin #EXTINF previo: {line}")
+            if line in seen:
+                error(num, f"entrada duplicada (ya está en la línea {seen[line]}): {line}")
+            else:
+                seen[line] = num
+            if '/' in line:
+                error(num, f"entrada con ruta, se espera sólo el nombre del archivo: {line}")
+            elif line not in disk:
+                error(num, f"el archivo no existe en disco: {line}")
+            elif disk[line] == 0:
+                error(num, f"el archivo mp3 está vacío (0 bytes): {line}")
+            elif pending is not None and pending[1] not in (None, song_title(line)):
+                # Típico de un par #EXTINF/archivo desalineado tras una edición manual
+                warn(pending[0], f"el título del #EXTINF no corresponde al archivo «{line}»: {pending[1]}")
+            pending = None
+
+    if pending is not None:
+        error(pending[0], "#EXTINF sin archivo a continuación")
+
+    return issues
+
+
+def verify_playlists() -> bool:
+    """Verifica la integridad de todas las playlists y reporta lo que encuentre,
+    además de los archivos con caracteres riesgosos para un import de m3u como URI.
+
+    Devuelve False si alguna playlist tiene errores (los avisos no cuentan).
 
     sync_all() sólo reconcilia all.m3u; si un mp3 se renombra o se
     reemplaza después de haber sido clasificado, la entrada queda huérfana
@@ -173,22 +306,46 @@ def verify_playlists() -> None:
     estrictos (p. ej. VLC iOS) pueden abortar la carga del resto de la
     playlist al toparse con ella en vez de saltarla.
     """
-    disk = {f.name for f in DATA_DIR.glob('*.mp3')}
-    problems: list[tuple[str, str]] = []
+    disk = {f.name: f.stat().st_size for f in DATA_DIR.glob('*.mp3')}
+    names = playlist_names()
+    total_errors = total_warnings = affected = 0
 
-    for name in GENRE_KEYS.values():
+    for name in names:
         path = playlist_path(name)
-        for filename, _dur, _title in parse_m3u(path):
-            if filename not in disk:
-                problems.append((name, filename))
+        if not path.exists():
+            issues: list[Issue] = [(0, False, "la playlist no existe en disco")]
+        else:
+            issues = check_m3u(path, disk)
+            if name != 'all' and name not in GENRE_KEYS.values():
+                issues.append((0, False, "playlist sin tecla en GENRE_KEYS (el script no la administra)"))
+        if not issues:
+            continue
 
-    if problems:
-        print(f"  {RED}{len(problems)} entrada(s) huérfana(s){RESET} (archivo ya no existe en disco):")
-        for name, filename in problems:
-            print(f"    {YELLOW}{name}.m3u{RESET}: {filename}")
-        print(f"  {DIM}Revisa si el mp3 fue renombrado/eliminado y corrige la entrada o el archivo.{RESET}")
+        # Errores primero, para que el recorte de MAX_ISSUES_SHOWN nunca los oculte tras avisos
+        issues.sort(key=lambda issue: (not issue[1], issue[0]))
+        errors = sum(1 for _, is_error, _ in issues if is_error)
+        warnings = len(issues) - errors
+        total_errors += errors
+        total_warnings += warnings
+        affected += 1
+
+        print(f"  {RED if errors else YELLOW}{name}.m3u{RESET}: {errors} error(es), {warnings} aviso(s)")
+        for num, is_error, msg in issues[:MAX_ISSUES_SHOWN]:
+            tag = f"{RED}error{RESET}" if is_error else f"{YELLOW}aviso{RESET}"
+            where = f"línea {num}" if num else "archivo"
+            print(f"    {tag} {DIM}{where}:{RESET} {msg}")
+        if len(issues) > MAX_ISSUES_SHOWN:
+            print(f"    {DIM}… y {len(issues) - MAX_ISSUES_SHOWN} más{RESET}")
+
+    if total_errors:
+        print(f"  {RED}{total_errors} error(es){RESET} y {total_warnings} aviso(s) "
+              f"en {affected} de {len(names)} playlists")
+        print(f"  {DIM}Corrige las entradas indicadas (o el mp3 renombrado/eliminado) y vuelve a correr este script.{RESET}")
+    elif total_warnings:
+        print(f"  {GREEN}Playlists sin errores{RESET} ({len(names)} verificadas), "
+              f"{YELLOW}{total_warnings} aviso(s){RESET} en {affected}")
     else:
-        print(f"  {GREEN}Playlists de género OK{RESET} (todas las entradas existen en disco)")
+        print(f"  {GREEN}Playlists OK{RESET} ({len(names)} verificadas, sin errores ni avisos)")
 
     risky = sorted(f for f in disk if any(c in f for c in RISKY_CHARS))
     if risky:
@@ -198,6 +355,8 @@ def verify_playlists() -> None:
         print(f"  {DIM}Renombra el archivo (quitando {RISKY_CHARS}) y vuelve a correr este script para propagar el cambio.{RESET}")
     else:
         print(f"  {GREEN}Sin caracteres riesgosos ({RISKY_CHARS}) en nombres de archivo{RESET}")
+
+    return total_errors == 0
 
 # --- Phase 2: Interactive classification ---
 
@@ -344,11 +503,21 @@ def main() -> None:
     print(f"\n{BOLD}=== Administrador de Playlists M3U ==={RESET}")
     print(f"  Directorio: {DATA_DIR}\n")
 
-    print(f"{BOLD}Fase 1:{RESET} Sincronizando all.m3u...")
+    print(f"{BOLD}Canciones por playlist:{RESET}")
+    show_counts()
+
+    print(f"\n{BOLD}Fase 1:{RESET} Sincronizando all.m3u...")
     sync_all()
 
-    print(f"\n{BOLD}Fase 1b:{RESET} Verificando integridad de playlists de género...")
-    verify_playlists()
+    print(f"\n{BOLD}Fase 1b:{RESET} Verificando integridad de playlists...")
+    if not verify_playlists():
+        # La fase 2 reescribe las playlists de género al guardar; se pide
+        # confirmación para que el reporte no pase desapercibido antes de eso.
+        print(f"\n  {RED}Se detectaron errores de integridad.{RESET} "
+              f"{DIM}[Enter/Espacio] continuar de todos modos  [q] salir{RESET}")
+        while (ch := get_char()) not in ('\r', '\n', ' '):
+            if ch in ('q', '\x03'):
+                sys.exit(1)
 
     print(f"\n{BOLD}Fase 2:{RESET} Clasificación interactiva")
     classify_songs()
