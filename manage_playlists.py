@@ -117,6 +117,29 @@ def get_duration(filepath: Path) -> int:
     except Exception:
         return 0
 
+
+def probe_durations(filenames: list[str]) -> dict[str, int]:
+    """Duración de cada mp3 según ffprobe (0 si no pudo leerlo), en paralelo y con barra de progreso."""
+    durations: dict[str, int] = {}
+    if not filenames:
+        return durations
+
+    def fetch(fname: str) -> tuple[str, int]:
+        return fname, get_duration(DATA_DIR / fname)
+
+    total = len(filenames)
+    with ThreadPoolExecutor(max_workers=FFPROBE_WORKERS) as pool:
+        for future in as_completed(pool.submit(fetch, f) for f in filenames):
+            fname, dur = future.result()
+            durations[fname] = dur
+            done = len(durations)
+            if done % 200 == 0 or done == total:
+                pct = done * 100 // total
+                bar = '█' * (pct // 5) + '░' * (20 - pct // 5)
+                print(f"  [{bar}] {done}/{total} ({pct}%)   ", end='\r', flush=True)
+    print()
+    return durations
+
 # --- Startup: Song counts ---
 
 def show_counts() -> None:
@@ -157,20 +180,8 @@ def sync_all() -> None:
     if missing:
         print(f"  Agregando {len(missing)} canciones (obteniendo duraciones en paralelo)...")
 
-        def fetch(fname: str) -> tuple[str, int, str]:
-            return fname, get_duration(DATA_DIR / fname), song_title(fname)
-
-        done = 0
-        with ThreadPoolExecutor(max_workers=FFPROBE_WORKERS) as pool:
-            for future in as_completed(pool.submit(fetch, f) for f in missing):
-                fname, dur, title = future.result()
-                entries[fname] = (dur, title)
-                done += 1
-                if done % 200 == 0 or done == len(missing):
-                    pct = done * 100 // len(missing)
-                    bar = '█' * (pct // 5) + '░' * (20 - pct // 5)
-                    print(f"  [{bar}] {done}/{len(missing)} ({pct}%)   ", end='\r', flush=True)
-        print()
+        for fname, dur in probe_durations(missing).items():
+            entries[fname] = (dur, song_title(fname))
 
     sorted_entries = [(f, entries[f][0], entries[f][1]) for f in sorted(entries)]
     write_m3u(all_path, sorted_entries)
@@ -191,14 +202,17 @@ RISKY_CHARS = '#%?'
 Issue = tuple[int, bool, str]
 
 
-def check_m3u(path: Path, disk: dict[str, int]) -> list[Issue]:
+def check_m3u(path: Path, disk: dict[str, int], durations: dict[str, int] | None = None) -> list[Issue]:
     """Valida un m3u línea a línea contra el formato que escribe write_m3u().
 
     Lee los bytes crudos en vez de usar parse_m3u(), que es tolerante a
     propósito (ignora lo que no entiende y reemplaza bytes inválidos) y por
     lo tanto oculta justo los daños que aquí se quieren detectar.
 
-    `disk` mapea nombre de mp3 → tamaño en bytes.
+    `disk` mapea nombre de mp3 → tamaño en bytes. `durations` mapea nombre de
+    mp3 → duración real según ffprobe (0 si no pudo leerlo); si se pasa, se
+    comprueba además que cada mp3 sea legible y que su #EXTINF no haya
+    quedado desfasado (p. ej. tras reemplazar el mp3 por otra descarga).
     """
     issues: list[Issue] = []
 
@@ -230,8 +244,9 @@ def check_m3u(path: Path, disk: dict[str, int]) -> list[Issue]:
     elif lines[0].strip() != b'#EXTM3U':
         error(1, "falta la cabecera #EXTM3U")
 
-    # #EXTINF a la espera de su archivo: (línea, título o None si es inválido)
-    pending: tuple[int, str | None] | None = None
+    # #EXTINF a la espera de su archivo:
+    # (línea, título o None si es inválido, duración o None si es inválida o <= 0)
+    pending: tuple[int, str | None, int | None] | None = None
     seen: dict[str, int] = {}
 
     for num, raw_line in enumerate(lines, 1):
@@ -254,17 +269,20 @@ def check_m3u(path: Path, disk: dict[str, int]) -> list[Issue]:
             if pending is not None:
                 error(pending[0], "#EXTINF sin archivo a continuación")
             dur_str, sep, title = line[8:].partition(',')
+            extinf_dur: int | None = None
             if not sep:
                 error(num, f"#EXTINF malformado (se espera '#EXTINF:<segundos>,<título>'): {line}")
             else:
                 try:
                     if int(dur_str) <= 0:
                         warn(num, f"duración {dur_str} en #EXTINF (¿ffprobe no pudo leer el mp3?)")
+                    else:
+                        extinf_dur = int(dur_str)
                 except ValueError:
                     error(num, f"#EXTINF con duración no numérica: {line}")
                 if not title:
                     error(num, "#EXTINF con título vacío")
-            pending = (num, title or None)
+            pending = (num, title or None, extinf_dur)
 
         elif line.startswith('#'):
             # write_m3u() la descartaría al guardar
@@ -283,9 +301,16 @@ def check_m3u(path: Path, disk: dict[str, int]) -> list[Issue]:
                 error(num, f"el archivo no existe en disco: {line}")
             elif disk[line] == 0:
                 error(num, f"el archivo mp3 está vacío (0 bytes): {line}")
-            elif pending is not None and pending[1] not in (None, song_title(line)):
-                # Típico de un par #EXTINF/archivo desalineado tras una edición manual
-                warn(pending[0], f"el título del #EXTINF no corresponde al archivo «{line}»: {pending[1]}")
+            elif durations is not None and durations.get(line, 0) <= 0:
+                error(num, f"ffprobe no pudo leer el mp3 (¿archivo corrupto?): {line}")
+            elif pending is not None:
+                if pending[1] not in (None, song_title(line)):
+                    # Típico de un par #EXTINF/archivo desalineado tras una edición manual
+                    warn(pending[0], f"el título del #EXTINF no corresponde al archivo «{line}»: {pending[1]}")
+                if durations is not None and pending[2] not in (None, durations[line]):
+                    # Típico de un mp3 reemplazado (o truncado) después de haber sido agregado
+                    warn(pending[0], f"duración {pending[2]} en #EXTINF, pero ffprobe reporta "
+                                     f"{durations[line]} para «{line}»")
             pending = None
 
     if pending is not None:
@@ -307,6 +332,8 @@ def verify_playlists() -> bool:
     playlist al toparse con ella en vez de saltarla.
     """
     disk = {f.name: f.stat().st_size for f in DATA_DIR.glob('*.mp3')}
+    print(f"  Leyendo {len(disk)} mp3 con ffprobe...")
+    durations = probe_durations(sorted(f for f, size in disk.items() if size > 0))
     names = playlist_names()
     total_errors = total_warnings = affected = 0
 
@@ -315,7 +342,7 @@ def verify_playlists() -> bool:
         if not path.exists():
             issues: list[Issue] = [(0, False, "la playlist no existe en disco")]
         else:
-            issues = check_m3u(path, disk)
+            issues = check_m3u(path, disk, durations)
             if name != 'all' and name not in GENRE_KEYS.values():
                 issues.append((0, False, "playlist sin tecla en GENRE_KEYS (el script no la administra)"))
         if not issues:

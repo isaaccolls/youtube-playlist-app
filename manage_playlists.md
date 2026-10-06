@@ -6,7 +6,7 @@ Script interactivo para administrar playlists M3U. Mantiene `all.m3u` sincroniza
 
 - Python 3.10+
 - `mpv` — reproducción de audio
-- `ffprobe` (parte de FFmpeg) — lectura de duración de archivos MP3
+- `ffprobe` (parte de FFmpeg) — lectura de duración de archivos MP3 y verificación de que son legibles
 
 ## Uso
 
@@ -85,6 +85,8 @@ Los metadatos existentes (`#EXTINF`) se preservan; solo se modifican las entrada
 
 Después de sincronizar, se valida cada playlist `.m3u` del directorio (incluida `all.m3u`) línea a línea contra el formato descrito arriba. La verificación es de sólo lectura: no corrige ni modifica ningún archivo.
 
+Antes de validar, se lee con `ffprobe` la duración real de todos los mp3 del directorio (8 hilos en paralelo, con barra de progreso; alrededor de un minuto para ~6000 archivos). Con ese dato se comprueba que cada mp3 referenciado sea legible y que la duración de su `#EXTINF` siga siendo la del archivo.
+
 Por cada playlist con problemas se listan el número de línea y el detalle (hasta 20 por playlist, los errores primero), seguido de un total general.
 
 **Errores** (la playlist está dañada):
@@ -99,6 +101,7 @@ Por cada playlist con problemas se listan el número de línea y el detalle (has
 - entrada con ruta (se espera sólo el nombre del archivo)
 - el archivo no existe en disco (mp3 renombrado o eliminado)
 - el mp3 existe pero está vacío (0 bytes)
+- `ffprobe` no puede leer el mp3 (archivo corrupto)
 
 **Avisos** (la playlist funciona, pero no está en el formato que escribe el script):
 
@@ -106,6 +109,7 @@ Por cada playlist con problemas se listan el número de línea y el detalle (has
 - líneas en blanco, o con espacios al inicio o al final
 - comentarios o directivas no reconocidas (se perderían al guardar)
 - duración `0` o negativa en `#EXTINF`
+- la duración del `#EXTINF` no coincide con la que reporta `ffprobe` (mp3 reemplazado o truncado después de agregarlo)
 - el título del `#EXTINF` no corresponde al nombre del archivo
 - la playlist de un género no existe en disco
 - `.m3u` sin tecla asignada (el script no lo administra)
