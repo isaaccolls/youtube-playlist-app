@@ -124,3 +124,8 @@ python3 src/importManualMp3.py --dry-run
 # display tecnical information
 
 run: `ffprobe A\ Day\ To\ Remember\ -\ For\ Those\ Who\ Have\ Heart\ -\ Monument.mp3`
+
+# commands
+
+- show full mp3 size: `find . -maxdepth 1 -type f -name '*.mp3' -print0 | du -ch --files0-from=- | tail -1`
+- mp3 files total: `find . -maxdepth 1 -type f -name '*.mp3' | wc -l`
